@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-947.000000, -449.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-8" x="943" y="445" width="32" height="32"></rect>
+            <g id="icons/dark/down" transform="translate(947.000000, 449.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Fill-1" fill="#000000" points="22.5 4.5 11.811 16.5255 1.12125 4.5 0 5.49675 11.811 18.78375 23.622 5.49675"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/arrow-left-light</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-1044.000000, -513.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-22" x="1040" y="509" width="32" height="32"></rect>
+            <g id="icons/dark/arrow-left-light" transform="translate(1044.000000, 513.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Fill-1" fill="#000000" points="9.88875 3 0 11.78925 9.88875 20.5785 10.386 20.01825 1.551 12.1635 23.964 12.1635 23.964 11.41425 1.551 11.41425 10.386 3.56025"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

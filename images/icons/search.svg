@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-660.000000, -449.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-5" x="656" y="445" width="32" height="32"></rect>
+            <g id="icons/dark/search" transform="translate(660.000000, 449.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M4.22535,17.3775 C2.4681,15.62025 1.49985,13.284 1.49985,10.7985 C1.49985,8.31375 2.4681,5.9775 4.22535,4.22025 C6.03885,2.406 8.4216,1.49925 10.80435,1.49925 C13.18635,1.49925 15.5691,2.406 17.3826,4.22025 C21.01035,7.84725 21.01035,13.74975 17.3826,17.3775 C13.7556,21.00525 7.8531,21.00525 4.22535,17.3775 Z M23.8926,22.82625 L18.9471,17.88075 C22.63785,13.64175 22.4766,7.1925 18.44385,3.159 C14.2311,-1.053 7.37685,-1.05375 3.16485,3.159 C1.1241,5.19975 -0.00015,7.9125 -0.00015,10.7985 C-0.00015,13.6845 1.1241,16.39725 3.16485,18.438 C5.27085,20.544 8.0376,21.597 10.8036,21.597 C13.3356,21.597 15.86085,20.70525 17.8866,18.94125 L22.8321,23.88675 L23.8926,22.82625 Z" id="Search" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

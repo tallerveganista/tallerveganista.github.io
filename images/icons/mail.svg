@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-372.000000, -705.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-49" x="368" y="701" width="32" height="32"></rect>
+            <g id="icons/dark/mail" transform="translate(372.000000, 705.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M0,21 L24,21 L24,3 L0,3 L0,21 Z M3.04125,4.5 L20.95875,4.5 L12,11.07 L3.04125,4.5 Z M22.5,5.22975 L22.5,19.5 L1.5,19.5 L1.5,5.22975 L12,12.93 L22.5,5.22975 Z" id="mail" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

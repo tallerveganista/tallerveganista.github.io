@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/credit-card</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-468.000000, -642.000000)">
+            <rect id="Rectangle-4-Copy-39" fill-rule="nonzero" x="464" y="637" width="32" height="32"></rect>
+            <g id="icons/dark/credit-card" transform="translate(468.000000, 641.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="credit-card" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 3.750000)" fill="#000000">
+                    <polygon id="Fill-4" fill-rule="nonzero" points="4.1085 13.367775 9.2325 13.367775 9.2325 11.867775 4.1085 11.867775"></polygon>
+                    <path d="M21.85035,16.336275 L2.1501,16.336275 C1.7916,16.336275 1.49985,16.044525 1.49985,15.686775 L1.49985,8.648025 L22.49985,8.648025 L22.49985,15.686775 C22.49985,16.044525 22.20885,16.336275 21.85035,16.336275 M2.1501,1.499775 L21.85035,1.499775 C22.20885,1.499775 22.49985,1.791525 22.49985,2.150025 L22.49985,4.898025 L1.49985,4.898025 L1.49985,2.150025 C1.49985,1.791525 1.7916,1.499775 2.1501,1.499775 M21.85035,-0.000225 L2.1501,-0.000225 C0.96435,-0.000225 -0.00015,0.964275 -0.00015,2.150025 L-0.00015,15.686775 C-0.00015,16.871775 0.96435,17.836275 2.1501,17.836275 L21.85035,17.836275 C23.03535,17.836275 23.99985,16.871775 23.99985,15.686775 L23.99985,2.150025 C23.99985,0.964275 23.03535,-0.000225 21.85035,-0.000225" id="Fill-1" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

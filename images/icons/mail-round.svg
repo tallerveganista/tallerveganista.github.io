@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/mail-round</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-468.000000, -705.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-51" x="464" y="701" width="32" height="32"></rect>
+            <g id="icons/dark/mail-round" transform="translate(468.000000, 705.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M1.5,19.5 L1.5,5.2305 L10.95225,12.16125 C11.25075,12.38025 11.625,12.48975 12,12.48975 C12.375,12.48975 12.75,12.38025 13.0485,12.16125 L22.5,5.2305 L22.5,19.5 L1.5,19.5 Z M20.95875,4.5 L12.162,10.9515 C12.09225,11.0025 11.90775,11.0025 11.83875,10.9515 L3.04125,4.5 L20.95875,4.5 Z M22.5,3 L1.5,3 C0.67275,3 0,3.67275 0,4.5 L0,19.5 C0,20.32725 0.67275,21 1.5,21 L22.5,21 C23.32725,21 24,20.32725 24,19.5 L24,4.5 C24,3.67275 23.32725,3 22.5,3 Z" id="mail-round" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

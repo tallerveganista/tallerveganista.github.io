@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-852.000000, -641.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-43" x="848" y="637" width="32" height="32"></rect>
+            <g id="icons/dark/download" transform="translate(852.000000, 641.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M22.4451,10.718625 L22.4451,20.837625 C22.4451,21.664875 21.77235,22.337625 20.9451,22.337625 L2.99985,22.337625 C2.17335,22.337625 1.49985,21.664875 1.49985,20.837625 L1.49985,10.718625 L-0.00015,10.718625 L-0.00015,20.837625 C-0.00015,22.492125 1.34535,23.837625 2.99985,23.837625 L20.9451,23.837625 C22.5996,23.837625 23.9451,22.492125 23.9451,20.837625 L23.9451,10.718625 L22.4451,10.718625 Z" id="Fill-1" fill="#000000"></path>
+                <polygon id="Fill-4" fill="#000000" points="17.3577 8.519925 16.2372 7.522425 12.7227 11.468175 12.7227 -7.5e-05 11.2227 -7.5e-05 11.2227 11.468925 7.7082 7.522425 6.5877 8.519925 11.9727 14.565675"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

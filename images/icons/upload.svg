@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-948.000000, -641.000000)">
+            <rect id="Rectangle-4-Copy-44" fill-rule="nonzero" x="944" y="637" width="32" height="32"></rect>
+            <g id="icons/dark/upload" transform="translate(948.000000, 641.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-5" stroke-width="1" fill-rule="evenodd" fill="#000000">
+                    <path d="M22.4451,10.7523 L22.4451,20.8713 C22.4451,21.69855 21.77235,22.3713 20.9451,22.3713 L2.99985,22.3713 C2.17335,22.3713 1.49985,21.69855 1.49985,20.8713 L1.49985,10.7523 L-0.00015,10.7523 L-0.00015,20.8713 C-0.00015,22.5258 1.34535,23.8713 2.99985,23.8713 L20.9451,23.8713 C22.5996,23.8713 23.9451,22.5258 23.9451,20.8713 L23.9451,10.7523 L22.4451,10.7523 Z" id="Fill-2" fill-rule="nonzero"></path>
+                    <polygon id="Fill-1" fill-rule="nonzero" points="11.97315 7.5e-05 6.5874 6.045075 7.7079 7.043325 11.22315 3.096825 11.22315 14.565075 12.72315 14.565075 12.72315 3.097575 16.2369 7.043325 17.3574 6.045075"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

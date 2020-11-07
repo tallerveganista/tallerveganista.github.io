@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-660.000000, -577.000000)">
+            <rect id="Rectangle-4-Copy-29" fill-rule="nonzero" x="656" y="573" width="32" height="32"></rect>
+            <g id="icons/dark/warning" transform="translate(660.000000, 577.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="warning" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 1.500000)" fill="#000000">
+                    <path d="M2.049525,19.4586 L12.000525,2.2236 L21.950775,19.4586 L2.049525,19.4586 Z M23.900025,19.8336 L12.650025,0.3486 C12.381525,-0.1164 11.618775,-0.1164 11.350275,0.3486 L0.100275,19.8336 C-0.033225,20.0661 -0.033225,20.3511 0.100275,20.5836 C0.234525,20.8161 0.482025,20.9586 0.750525,20.9586 L23.250525,20.9586 C23.518275,20.9586 23.765775,20.8161 23.900025,20.5836 C24.033525,20.3511 24.033525,20.0661 23.900025,19.8336 Z" id="Fill-1" fill-rule="nonzero"></path>
+                    <polygon id="Fill-4" fill-rule="nonzero" points="11.21925 13.76685 12.71925 13.76685 12.71925 8.43885 11.21925 8.43885"></polygon>
+                    <path d="M10.980675,15.973725 C10.980675,16.536975 11.436675,16.992975 11.999925,16.992975 C12.563175,16.992975 13.019925,16.536975 13.019925,15.973725 C13.019925,15.411225 12.563175,14.954475 11.999925,14.954475 C11.436675,14.954475 10.980675,15.411225 10.980675,15.973725" id="Fill-6" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

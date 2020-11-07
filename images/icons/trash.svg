@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-756.000000, -641.000000)">
+            <rect id="Rectangle-4-Copy-42" fill-rule="nonzero" x="752" y="637" width="32" height="32"></rect>
+            <g id="icons/dark/trash" transform="translate(756.000000, 641.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="trash" stroke-width="1" fill-rule="evenodd" transform="translate(0.750000, 0.000000)" fill="#000000">
+                    <polygon id="Fill-1" fill-rule="nonzero" points="5.427 18.50775 6.927 18.50775 6.927 9.84825 5.427 9.84825"></polygon>
+                    <polygon id="Fill-2" fill-rule="nonzero" points="10.497 18.50775 11.997 18.50775 11.997 9.84825 10.497 9.84825"></polygon>
+                    <polygon id="Fill-3" fill-rule="nonzero" points="15.567 18.50775 17.067 18.50775 17.067 9.84825 15.567 9.84825"></polygon>
+                    <path d="M19.5945,21.5043 C19.5945,22.0533 19.1475,22.5003 18.5985,22.5003 L3.8955,22.5003 C3.3465,22.5003 2.8995,22.0533 2.8995,21.5043 L2.8995,7.24905 L19.5945,7.24905 L19.5945,21.5043 Z M1.5,1.5003 L20.994,1.5003 L20.994,5.74905 L20.3445,5.74905 L2.1495,5.74905 L1.5,5.74905 L1.5,1.5003 Z M21.28125,0.0003 L1.21275,0.0003 C0.5445,0.0003 0,0.54405 0,1.2123 L0,6.0363 C0,6.7053 0.5445,7.24905 1.21275,7.24905 L1.3995,7.24905 L1.3995,21.5043 C1.3995,22.88055 2.51925,24.0003 3.8955,24.0003 L18.5985,24.0003 C19.97475,24.0003 21.0945,22.88055 21.0945,21.5043 L21.0945,7.24905 L21.28125,7.24905 C21.95025,7.24905 22.494,6.7053 22.494,6.0363 L22.494,1.2123 C22.494,0.54405 21.95025,0.0003 21.28125,0.0003 Z" id="Fill-4" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

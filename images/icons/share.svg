@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/share</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-1234.000000, -640.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-47" x="1230" y="636" width="32" height="32"></rect>
+            <g id="icons/dark/share" transform="translate(1234.000000, 640.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M22.50825,14.20275 L22.50825,21.65625 C22.50825,22.0695 22.17225,22.40625 21.75825,22.40625 L2.25,22.40625 C1.83675,22.40625 1.5,22.0695 1.5,21.65625 L1.5,2.24925 C1.5,1.836 1.83675,1.5 2.25,1.5 L11.961,1.5 L11.961,0 L2.25,0 C1.0095,0 0,1.00875 0,2.24925 L0,21.65625 C0,22.89675 1.0095,23.90625 2.25,23.90625 L21.75825,23.90625 C22.99875,23.90625 24.00825,22.89675 24.00825,21.65625 L24.00825,14.20275 L22.50825,14.20275 Z" id="Fill-1" fill="#000000"></path>
+                <path d="M18.46875,5.18925 C12.834,5.18925 8.25,9.77325 8.25,15.408 L9.75,15.408 C9.75,10.6005 13.66125,6.68925 18.46875,6.68925 L20.0205,6.68925 L17.8815,8.59575 L18.879,9.7155 L23.07,5.98275 L18.879,2.25 L17.8815,3.36975 L19.923,5.18925 L18.46875,5.18925 Z" id="Fill-4" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

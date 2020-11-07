@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/up-light</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-1140.000000, -450.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-10" x="1136" y="445" width="32" height="32"></rect>
+            <g id="icons/dark/up-light" transform="translate(1140.000000, 449.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="Fill-1" fill="#000000" points="11.97975 5.25 0 18.7275 0.56025 19.22625 11.97975 6.37875 23.4 19.22625 23.96025 18.7275"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?9sawqo');
+  src:  url('fonts/icomoon.eot?9sawqo#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9sawqo') format('truetype'),
+    url('fonts/icomoon.woff?9sawqo') format('woff'),
+    url('fonts/icomoon.svg?9sawqo#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hamburger:before {
+  content: "\e900";
+}
+.icon-hamburger-bite:before {
+  content: "\e901";
+}
+.icon-hamburger-two:before {
+  content: "\e902";
+}
+.icon-close:before {
+  content: "\e903";
+}
+.icon-close-light:before {
+  content: "\e904";
+}
+.icon-search:before {
+  content: "\e905";
+}
+.icon-up:before {
+  content: "\e906";
+}
+.icon-right:before {
+  content: "\e907";
+}
+.icon-down:before {
+  content: "\e908";
+}
+.icon-left:before {
+  content: "\e909";
+}
+.icon-up-light:before {
+  content: "\e90a";
+}
+.icon-right-light:before {
+  content: "\e90b";
+}
+.icon-down-light:before {
+  content: "\e90c";
+}
+.icon-left-light:before {
+  content: "\e90d";
+}
+.icon-arrow-up:before {
+  content: "\e90e";
+}
+.icon-arrow-right:before {
+  content: "\e90f";
+}
+.icon-arrow-down:before {
+  content: "\e910";
+}
+.icon-arrow-left:before {
+  content: "\e911";
+}
+.icon-arrow-up-light:before {
+  content: "\e912";
+}
+.icon-arrow-right-light:before {
+  content: "\e913";
+}
+.icon-arrow-down-light:before {
+  content: "\e914";
+}
+.icon-arrow-left-light:before {
+  content: "\e915";
+}
+.icon-long-arrow-right-light:before {
+  content: "\e91a";
+}
+.icon-long-arrow-left-light:before {
+  content: "\e91b";
+}
+.icon-triangle-up:before {
+  content: "\e916";
+}
+.icon-triangle-right:before {
+  content: "\e917";
+}
+.icon-triangle-down:before {
+  content: "\e918";
+}
+.icon-triangle-left:before {
+  content: "\e919";
+}
+.icon-checkbox-check:before {
+  content: "\e91c";
+}
+.icon-warning:before {
+  content: "\e91d";
+}
+.icon-calendar:before {
+  content: "\e91e";
+}
+.icon-chat:before {
+  content: "\e91f";
+}
+.icon-check:before {
+  content: "\e920";
+}
+.icon-smile:before {
+  content: "\e921";
+}
+.icon-clock:before {
+  content: "\e923";
+}
+.icon-user:before {
+  content: "\e922";
+}
+.icon-bell:before {
+  content: "\e924";
+}
+.icon-shopping-bag:before {
+  content: "\e925";
+}
+.icon-delivery:before {
+  content: "\e926";
+}
+.icon-credit-card:before {
+  content: "\e927";
+}
+.icon-secure-pay:before {
+  content: "\e928";
+}
+.icon-edit:before {
+  content: "\e929";
+}
+.icon-trash:before {
+  content: "\e92a";
+}
+.icon-download:before {
+  content: "\e92b";
+}
+.icon-upload:before {
+  content: "\e92c";
+}
+.icon-expand:before {
+  content: "\e92d";
+}
+.icon-full-screen:before {
+  content: "\e92e";
+}
+.icon-share:before {
+  content: "\e92f";
+}
+.icon-plus:before {
+  content: "\e930";
+}
+.icon-minus:before {
+  content: "\e949";
+}
+.icon-mail-round:before {
+  content: "\e931";
+}
+.icon-mail:before {
+  content: "\e932";
+}
+.icon-load:before {
+  content: "\e933";
+}
+.icon-heart:before {
+  content: "\e934";
+}
+.icon-heart-fill:before {
+  content: "\e935";
+}
+.icon-star:before {
+  content: "\e936";
+}
+.icon-star-fill:before {
+  content: "\e937";
+}
+.icon-localization:before {
+  content: "\e938";
+}
+.icon-lock:before {
+  content: "\e939";
+}
+.icon-world:before {
+  content: "\e93a";
+}
+.icon-facebook:before {
+  content: "\e93b";
+}
+.icon-instagram:before {
+  content: "\e93c";
+}
+.icon-twitter:before {
+  content: "\e93d";
+}
+.icon-linkedin:before {
+  content: "\e93e";
+}
+.icon-pinterest:before {
+  content: "\e93f";
+}
+.icon-youtube:before {
+  content: "\e948";
+}
+.icon-vimeo:before {
+  content: "\e940";
+}
+.icon-tumblr:before {
+  content: "\e941";
+}
+.icon-whatsapp:before {
+  content: "\e942";
+}
+.icon-behance:before {
+  content: "\e943";
+}
+.icon-spotify:before {
+  content: "\e944";
+}
+.icon-github:before {
+  content: "\e945";
+}
+.icon-telegram:before {
+  content: "\e946";
+}
+.icon-tik-tok:before {
+  content: "\e947";
+}

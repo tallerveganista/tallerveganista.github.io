@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/expand</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-1044.000000, -641.000000)">
+            <rect id="Rectangle-4-Copy-45" fill-rule="nonzero" x="1040" y="637" width="32" height="32"></rect>
+            <g id="icons/dark/expand" transform="translate(1044.000000, 641.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="expand" stroke-width="1" fill-rule="evenodd" fill="#000000">
+                    <polygon id="Fill-1" fill-rule="nonzero" points="0 -0.0003 0 8.3082 1.5 8.3082 1.5 2.56095 9.57525 10.6362 10.63575 9.5757 2.5605 1.50045 8.3085 1.50045 8.3085 -0.0003"></polygon>
+                    <polygon id="Fill-2" fill-rule="nonzero" points="13.364325 14.42445 21.439575 22.50045 15.691575 22.50045 15.691575 23.9997 24.000075 23.9997 24.000075 15.6912 22.500075 15.6912 22.500075 21.43995 14.424825 13.36395"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

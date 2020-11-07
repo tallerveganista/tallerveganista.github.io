@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-852.000000, -577.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-31" x="848" y="573" width="32" height="32"></rect>
+            <g id="icons/dark/chat" transform="translate(852.000000, 577.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M3.739725,1.5 C2.505225,1.5 1.500225,2.505 1.500225,3.7395 L1.500225,15.12375 C1.500225,16.359 2.505225,17.36325 3.739725,17.36325 L12.677475,17.36325 L12.677475,20.87025 L16.786725,17.36325 L20.299725,17.36325 C21.534975,17.36325 22.539225,16.359 22.539225,15.12375 L22.539225,3.7395 C22.539225,2.505 21.534975,1.5 20.299725,1.5 L3.739725,1.5 Z M11.177475,24.12225 L11.177475,18.86325 L3.739725,18.86325 C1.677975,18.86325 0.000225,17.1855 0.000225,15.12375 L0.000225,3.7395 C0.000225,1.67775 1.677975,0 3.739725,0 L20.299725,0 C22.361475,0 24.039225,1.67775 24.039225,3.7395 L24.039225,15.12375 C24.039225,17.1855 22.361475,18.86325 20.299725,18.86325 L17.340975,18.86325 L11.177475,24.12225 Z" id="Fill-1" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

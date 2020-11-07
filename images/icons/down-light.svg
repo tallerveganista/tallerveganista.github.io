@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/down-light</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-180.000000, -514.000000)">
+            <rect id="Rectangle-4-Copy-12" fill-rule="nonzero" x="176" y="509" width="32" height="32"></rect>
+            <rect id="Rectangle-4-Copy-13" fill-rule="nonzero" x="176" y="509" width="32" height="32"></rect>
+            <g id="icons/dark/down-light" transform="translate(180.000000, 513.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <polygon id="down-light" fill="#000000" fill-rule="evenodd" points="23.4 5.25 11.97975 18.0975 0.56025 5.25 0 5.748 11.97975 19.22625 23.96025 5.748"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/tumblr</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-852.000000, -769.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-4-Copy-67" x="848" y="765" width="32" height="32"></rect>
+            <g id="icons/dark/tumblr" transform="translate(852.000000, 769.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M15.6893269,16.0634911 C15.4105875,16.1962903 14.8776123,16.311833 14.4800167,16.3217742 C13.2799071,16.3538486 13.0469827,15.4796813 13.0373127,14.845978 L13.0373127,10.1844089 L16.0475854,10.1844089 L16.0475854,7.91706969 L13.0477338,7.91706969 L13.0477338,4.1025641 L10.8524616,4.1025641 C10.8163166,4.1025641 10.753227,4.13416955 10.7443081,4.21435548 C10.6158758,5.38178757 10.0691936,7.43079596 7.79487179,8.25009921 L7.79487179,10.1843151 L9.31202519,10.1843151 L9.31202519,15.0767822 C9.31202519,16.7520585 10.5490309,19.1320331 13.8145722,19.0759499 C14.9163861,19.0570991 16.1400604,18.5964286 16.4102564,18.1986877 L15.6893269,16.0634911 Z" id="tumblr" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/dark/check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements" transform="translate(-948.000000, -577.000000)">
+            <rect id="Rectangle-4-Copy-32" fill-rule="nonzero" x="944" y="573" width="32" height="32"></rect>
+            <g id="icons/dark/check" transform="translate(948.000000, 577.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="check" stroke-width="1" fill-rule="evenodd" fill="#000000">
+                    <path d="M12,22.5 C6.21,22.5 1.5,17.79 1.5,12 C1.5,6.21 6.21,1.5 12,1.5 C17.79,1.5 22.5,6.21 22.5,12 C22.5,17.79 17.79,22.5 12,22.5 M12,0 C5.3835,0 0,5.3835 0,12 C0,18.6165 5.3835,24 12,24 C18.6165,24 24,18.6165 24,12 C24,5.3835 18.6165,0 12,0" id="Fill-1" fill-rule="nonzero"></path>
+                    <polygon id="Fill-3" fill-rule="nonzero" points="11.027325 13.7142 7.953825 10.6407 6.893325 11.7012 11.027325 15.8352 17.106825 9.7557 16.046325 8.6952"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
