@@ -9,6 +9,12 @@
   padding-left: 2rem;
 }
 
+.wrapper{
+  box-sizing: border-box;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .row {
   box-sizing: border-box;
   display: -webkit-box;
