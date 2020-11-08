@@ -1,0 +1,36 @@
+// Ux Library
+// Design and Development. Fluorescente github: @fluorescente
+// fluorescente.design
+
+// xs - Up to 768px
+@media only screen and (max-width: 48em){
+  // visible/hidden
+  .visible-sm{
+    display: block;
+  }
+  .hidden-xs{
+    display: none;
+  }
+}
+
+// sm - from 768
+@media only screen and (min-width: 48em) {
+  // visible/hidden
+  .visible-sm{
+    display: block;
+  }
+  .hidden-sm{
+    display: none;
+  }
+}
+
+// lg - from 962
+@media only screen and (min-width: 62em) {
+  // visible/hidden
+  .visible-lg{
+    display: block;
+  }
+  .hidden-lg{
+    display: none;
+  }
+}

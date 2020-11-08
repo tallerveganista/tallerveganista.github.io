@@ -1,0 +1,493 @@
+// Ux Library
+// Design and Development. Fluorescente github: @fluorescente
+// fluorescente.design
+
+// Type scale: https://www.modularscale.com/?16&px&1.2
+// Spaces scale: 2 / 4 / 8 / 16 / 32 / 64 / 128
+
+// Variables
+
+// Color variables
+$brand: #40FC81;
+$dark: #000;
+$bright: #fff;
+
+$gray-1: #f7f7f7;
+$gray-2: #c6c6c6;
+$gray-3: #949494;
+$gray-4: #636363;
+$gray-5: #313131;
+
+$transparent: rgba(0,0,0,0);
+
+
+// Type variables
+$sans-serif: 'DM Sans', sans-serif;
+
+$regular: 400;
+$regular-italic: 400i;
+
+$medium: 500;
+$medium-italic: 500i;
+
+$bold: 700;
+$bold-italic: 700i;
+
+$big-text: 1.44rem;
+$medium-text: 1rem;
+$small-text: 0.694rem;
+
+
+// Styles
+
+// General
+body{
+  font-family: $sans-serif;
+  font-weight: $regular;
+  color: $dark;
+}
+
+section{
+  margin: 4rem 0;
+}
+
+a{
+  text-decoration: none;
+  color: $dark;
+  &:hover{
+    color: $brand;
+    text-decoration: none;
+  }
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.no-underline{
+  text-decoration: none;
+  &:hover{
+    text-decoration: none !important;
+  }
+}
+
+.dark{
+  color: $dark;
+}
+
+.bright{
+  color: $bright;
+}
+
+.dark-background{
+  background-color: $dark;
+}
+
+.bright-background{
+  background-color: $bright;
+}
+
+.brand-background{
+  background-color: $brand;
+}
+
+.gray-1-background{
+  background-color: $gray-1;
+}
+
+.gray-2-background{
+  background-color: $gray-2;
+}
+
+.gray-3-background{
+  background-color: $gray-3;
+}
+
+.gray-4-background{
+  background-color: $gray-3;
+}
+
+.gray-5-background{
+  background-color: $gray-5;
+}
+
+figure{
+  margin: 0;
+  & img{
+    width: 100%;
+  }
+}
+
+ul{
+  padding: 0;
+  margin: 0;
+  & li{
+    list-style-type: none;
+  }
+}
+
+.inline{
+  display: inline-block;
+  & li{
+    display: inline-block;
+  }
+}
+
+// Columns
+.box-row{
+  display: block;
+  width: 100%;
+  height: 5.1rem;
+}
+
+// Type
+
+// Type scale: https://www.modularscale.com/?16&px&1.2
+h1, h2, h3, h4, h5, h6{
+  color: $dark;
+  font-family: $sans-serif;
+  font-weight: $bold;
+}
+
+h1, h2, h3, h4{
+  letter-spacing: -0.051875rem;
+}
+
+h1, h2, .double-space{
+  margin: 0 0 2.4rem 0;
+}
+
+h3, h4, h5, h6, .single-space{
+  margin: 0 0 1.4rem 0;
+}
+
+h1{
+  font-size: 2.488rem;
+}
+
+h2{
+  font-size: 2.074rem;
+}
+
+h3{
+  font-size: 1.728rem;
+}
+
+h4{
+  font-size: 1.44rem;
+}
+
+h5{
+  font-size: 1.2rem;
+}
+
+h6{
+  font-size: 1rem;
+}
+
+p{
+  font-size: $medium-text;
+  margin: 0 0 1.4rem 0;
+  line-height: 1.625rem;
+}
+
+.p-big{
+  font-size: $big-text;
+  line-height: 2.0625rem;
+}
+
+.p-small{
+  font-size: $small-text;
+  line-height: 1.4375rem;
+}
+
+// Buttons
+.button{
+  display: inline-block;
+  font-weight: bold;
+  padding: .5rem 1rem;
+  font-size: $medium-text;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  &:hover{
+    background-color: $brand;
+  }
+}
+
+.button-wide{
+  padding: .5rem 0;
+  width: 100%;
+}
+
+.button-big, .link-big{
+  font-size: $big-text;
+}
+
+.button-small, .link-small{
+  font-size: $small-text;
+}
+
+.button-ghost{
+  border: 2px solid $dark;
+}
+
+.button-ghost-bright{
+  border: 2px solid $bright;
+}
+
+.button-box{
+  padding: 1rem;
+  margin-bottom: 2.4rem;
+  & a{
+    &:last-child{
+      margin-bottom: 0;
+    }
+  }
+}
+
+.button.bright{
+  &:hover{
+    color: $bright;
+  }
+}
+
+.button.dark{
+  &:hover{
+    color: $dark;
+  }
+}
+
+// Links
+.link{
+  font-weight: $bold;
+  &:hover{
+    text-decoration: underline;
+    color: $brand;
+  }
+  & span{
+    font-size: 1.6rem;
+    vertical-align: middle;
+    margin-left: .5rem;
+  }
+}
+
+// Typography
+.header-examples{
+  & h1, & h2, & h3, & h4, & h5, & h6{
+    margin: 0 0 1.4rem 0;
+  }
+}
+
+// Icons
+.icon-gallery{
+  & .row{
+    margin: 0 0 2.4rem 0;
+  }
+}
+
+.icon-box{
+  margin: 0 0 2.4rem 0;
+  & img{
+    width: inherit;
+    vertical-align: middle;
+  }
+}
+
+// Nav
+.main-nav{
+  background-color: $gray-1;
+  padding: 1.4rem 0;
+  & li{
+    margin-right: 1rem;
+  }
+}
+
+.underline-links{
+  & li{
+    & a{
+      &:after{
+        content: "";
+        display: block;
+        background-color: $transparent;
+        width: 30%;
+        height: 2px;
+        position: relative;
+        top: 1.4rem;
+        margin: 0 auto;
+      }
+      &:hover{
+        color: $dark;
+        &:after{
+          background-color: $dark;
+        }
+      }
+    }
+  }
+    & .active{
+      &:after{
+        background-color: $dark;
+      }
+    }
+}
+
+// Slideshow
+.uk-slideshow{
+  margin: 0 0 -6px 0;
+}
+
+.slideshow-controls{
+  & svg{
+    display: none;
+  }
+  & span{
+    font-size: 2rem;
+    opacity: 1;
+  }
+}
+
+.uk-slidenav{
+  color: $bright !important;
+  opacity: 1;
+  &:hover{
+    color: $dark !important;
+  }
+}
+
+.uk-dotnav{
+  position: relative;
+  top: -1.4rem;
+  margin: 0 !important;
+  & a{
+    height: 6px;
+    width: 6px;
+    background-color: $bright !important;
+    border-color: $transparent !important;
+    &:hover{
+      background-color: $dark !important;
+    }
+  }
+  & .uk-active{
+    & a{
+      background-color: $dark !important;
+      border-color: $transparent !important;
+    }
+  }
+}
+
+// Accordion
+.uk-accordion-title{
+  padding: .5rem;
+  border-bottom: 1px dotted $gray-2;
+  & h1, & h2, & h3, & h4, & h5, & h6{
+    margin-bottom: 0;
+  }
+  &:before{
+    background-image: url('../images/icons/plus.svg');
+    background-size: 1rem 1rem;
+    width: 1rem;
+    height: 1rem;
+    margin-left: 1rem;
+    margin-top: .16rem;
+  }
+  &:hover{
+    background-color: $gray-1;
+  }
+}
+
+.uk-accordion-content{
+  margin: 2.4rem .5rem 3rem .5rem;
+}
+
+.uk-open>.uk-accordion-title{
+  &:before{
+    background-image: url('../images/icons/minus.svg');
+  }
+}
+
+.uk-accordion>:nth-child(n+2){
+  margin-top: 0;
+}
+
+// Alert
+.uk-alert{
+  color: inherit;
+  padding: 2.4rem 1.4rem;
+  margin: 0 0 1.4rem 0;
+  background-color: $gray-1;
+}
+
+.uk-alert-close{
+  top: 1.4rem;
+  right: 1.4rem;
+  opacity: 1;
+  &:hover{
+    opacity: 1;
+  }
+}
+
+.alert-content{
+  margin: 0 0 .5rem 0;
+  & p{
+    &:last-child{
+      margin-bottom: 0;
+    }
+  }
+}
+
+.alert-content-no-heading{
+  margin: 1.4rem 0 .5rem 0;
+}
+
+// Filter
+.uk-grid-margin{
+  margin-top: 0 !important;
+}
+
+.filter-item{
+  margin: 0 0 1.4rem 0;
+  top: inherit !important;
+}
+
+.filter-controls{
+  display: block;
+  margin-bottom: 2.6rem;
+  & li{
+    margin-right: 1rem;
+    & a{
+      &:after{
+        top: .8rem;
+      }
+    }
+  }
+  & .uk-active{
+    & a{
+      &:after{
+        background-color: $dark;
+      }
+    }
+  }
+}
+
+.filter-content{
+  margin-bottom: 5rem;
+}
+
+// Sections
+.colors{
+  margin: 4rem 0 -1.4rem 0;
+  & .box-row{
+    margin: 0 0 .7rem 0;
+  }
+}
+
+.icons{
+  margin: 4rem 0 -2.4rem 0;
+}
+
+.typography{
+  margin: 4rem 0 -1.4rem 0;
+}
+
+.buttons{
+  margin: 4rem 0 -2.4rem 0;
+}
