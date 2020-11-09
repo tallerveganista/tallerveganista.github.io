@@ -4,13 +4,15 @@
 
 // Type scale: https://www.modularscale.com/?16&px&1.2
 // Spaces scale: 2 / 4 / 8 / 16 / 32 / 64 / 128
+// Spaces scale: 6 / 12 / 24 / 48
 
 // Variables
 
 // Color variables
 $brand: #8441FD;
+$brand-2: #FF5252;
 $dark: #000;
-$bright: #fff;
+$bright: #FFFEFA;
 
 $gray-1: #f7f7f7;
 $gray-2: #c6c6c6;
@@ -19,24 +21,30 @@ $gray-4: #636363;
 $gray-5: #313131;
 
 $transparent: rgba(0,0,0,0);
+$box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
 
 
 // Type variables
+
 $sans-serif: 'League Spartan Variable', sans-serif;
+$serif: 'EB Garamond', serif;
 
 $regular: 400;
 $regular-italic: 400i;
 
-$medium: 500;
-$medium-italic: 500i;
+$medium: 600;
+$medium-italic: 600i;
 
 $bold: 700;
 $bold-italic: 700i;
 
-$big-text: 1.44rem;
+$big-text: 1.2rem;
 $medium-text: 1rem;
-$small-text: 0.694rem;
+$small-text: 0.833125rem;
 
+$big-line-height: 1.92rem;
+$medium-line-height: 1.6rem;
+$small-line-height: 1.333rem;
 
 // Styles
 
@@ -47,14 +55,15 @@ $small-text: 0.694rem;
 }
 
 // General
+
 body{
-  font-family: $sans-serif;
+  font-family: $serif;
   font-weight: $regular;
   color: $dark;
 }
 
 section{
-  margin: 4rem 0;
+  margin: 0;
 }
 
 a{
@@ -140,6 +149,7 @@ ul{
 }
 
 // Columns
+
 .box-row{
   display: block;
   width: 100%;
@@ -149,42 +159,49 @@ ul{
 // Type
 
 // Type scale: https://www.modularscale.com/?16&px&1.2
+
 h1, h2, h3, h4, h5, h6{
   color: $dark;
   font-family: $sans-serif;
   font-weight: $bold;
 }
 
-h1, h2, h3, h4{
-  letter-spacing: -0.051875rem;
+h1, h2{
+  margin: 0;
 }
 
-h1, h2, .double-space{
-  margin: 0 0 2.4rem 0;
-}
-
-h3, h4, h5, h6, .single-space{
-  margin: 0 0 1.4rem 0;
+h3, h4, h5, h6{
+  margin: 0;
 }
 
 h1{
-  font-size: 2.488rem;
+  // h1-xs: 33.178px / 36.864px
+  font-size: 2.07375rem;
+  line-height: 2.304rem;
 }
 
 h2{
-  font-size: 2.074rem;
+  // h2-xs: 27.648px / 30.72px
+  font-size: 1.728rem;
+  line-height: 1.92rem;
 }
 
 h3{
-  font-size: 1.728rem;
+  // h3-xs: 23.04px / 25.6px
+  font-size: 1.44rem;
+  line-height: 1.6rem;
 }
 
 h4{
-  font-size: 1.44rem;
+  // h4-xs: 19.2px / 13.333px
+  font-size: 1.2rem;
+  line-height: 1.333rem;
 }
 
 h5{
-  font-size: 1.2rem;
+  // h5-xs: 16px / 17,776px
+  font-size: 1rem;
+  line-height: 1,111rem;
 }
 
 h6{
@@ -193,30 +210,33 @@ h6{
 
 p{
   font-size: $medium-text;
-  margin: 0 0 1.4rem 0;
-  line-height: 1.625rem;
+  margin: 0;
+  line-height: $medium-line-height;
 }
 
 .p-big{
   font-size: $big-text;
-  line-height: 2.0625rem;
+  line-height: $big-line-height
 }
 
 .p-small{
   font-size: $small-text;
-  line-height: 1.4375rem;
+  line-height: $small-line-height;
 }
 
 // Buttons
 .button{
+  font-family: $sans-serif;
+  color: $bright;
+  font-weight: $medium;
   display: inline-block;
-  font-weight: bold;
   padding: .5rem 1rem;
   font-size: $medium-text;
-  margin: 0 0 1rem 0;
+  margin: 0;
   text-align: center;
   &:hover{
-    background-color: $brand;
+    background-color: $brand-2;
+    color: $bright;
   }
 }
 
@@ -264,27 +284,23 @@ p{
 }
 
 // Links
+
 .link{
+  font-family: $sans-serif;
   font-weight: $bold;
   &:hover{
     text-decoration: underline;
     color: $brand;
   }
   & span{
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     vertical-align: middle;
     margin-left: .5rem;
   }
 }
 
-// Typography
-.header-examples{
-  & h1, & h2, & h3, & h4, & h5, & h6{
-    margin: 0 0 1.4rem 0;
-  }
-}
-
 // Icons
+
 .icon-gallery{
   & .row{
     margin: 0 0 2.4rem 0;
@@ -300,11 +316,19 @@ p{
 }
 
 // Nav
+
 .main-nav{
-  background-color: $gray-1;
-  padding: 1.4rem 0;
+  background-color: $bright;
+  padding: .5rem 0 .25rem 0;
+  box-shadow: $box-shadow;
+  -webkit-box-shadow: $box-shadow;
+  -moz-box-shadow: $box-shadow;
   & li{
     margin-right: 1rem;
+    font-size: 1.5rem;
+    &:last-child{
+      margin-right: 0;
+    }
   }
 }
 
@@ -337,6 +361,7 @@ p{
 }
 
 // Slideshow
+
 .uk-slideshow{
   margin: 0 0 -6px 0;
 }
@@ -381,6 +406,7 @@ p{
 }
 
 // Accordion
+
 .uk-accordion-title{
   padding: .5rem;
   border-bottom: 1px dotted $gray-2;
@@ -415,6 +441,7 @@ p{
 }
 
 // Alert
+
 .uk-alert{
   color: inherit;
   padding: 2.4rem 1.4rem;
@@ -445,6 +472,7 @@ p{
 }
 
 // Filter
+
 .uk-grid-margin{
   margin-top: 0 !important;
 }
@@ -479,6 +507,7 @@ p{
 }
 
 // Sections
+
 .colors{
   margin: 4rem 0 -1.4rem 0;
   & .box-row{
