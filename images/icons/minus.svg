@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/minus</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-276.000000, -705.000000)" fill-rule="nonzero">
-            <rect id="Rectangle-4-Copy-50" x="272" y="701" width="32" height="32"></rect>
-            <g id="icons/dark/minus" transform="translate(276.000000, 705.000000)">
-                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
-                <rect id="Rectangle" fill="#000000" x="0" y="11.25" width="24" height="1.5"></rect>
-            </g>
-        </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/minus</title>
+    <g id="icons/minus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0" y="15" width="32" height="2"></rect>
     </g>
 </svg>

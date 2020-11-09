@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/trash</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-756.000000, -641.000000)">
-            <rect id="Rectangle-4-Copy-42" fill-rule="nonzero" x="752" y="637" width="32" height="32"></rect>
-            <g id="icons/dark/trash" transform="translate(756.000000, 641.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="trash" stroke-width="1" fill-rule="evenodd" transform="translate(0.750000, 0.000000)" fill="#000000">
-                    <polygon id="Fill-1" fill-rule="nonzero" points="5.427 18.50775 6.927 18.50775 6.927 9.84825 5.427 9.84825"></polygon>
-                    <polygon id="Fill-2" fill-rule="nonzero" points="10.497 18.50775 11.997 18.50775 11.997 9.84825 10.497 9.84825"></polygon>
-                    <polygon id="Fill-3" fill-rule="nonzero" points="15.567 18.50775 17.067 18.50775 17.067 9.84825 15.567 9.84825"></polygon>
-                    <path d="M19.5945,21.5043 C19.5945,22.0533 19.1475,22.5003 18.5985,22.5003 L3.8955,22.5003 C3.3465,22.5003 2.8995,22.0533 2.8995,21.5043 L2.8995,7.24905 L19.5945,7.24905 L19.5945,21.5043 Z M1.5,1.5003 L20.994,1.5003 L20.994,5.74905 L20.3445,5.74905 L2.1495,5.74905 L1.5,5.74905 L1.5,1.5003 Z M21.28125,0.0003 L1.21275,0.0003 C0.5445,0.0003 0,0.54405 0,1.2123 L0,6.0363 C0,6.7053 0.5445,7.24905 1.21275,7.24905 L1.3995,7.24905 L1.3995,21.5043 C1.3995,22.88055 2.51925,24.0003 3.8955,24.0003 L18.5985,24.0003 C19.97475,24.0003 21.0945,22.88055 21.0945,21.5043 L21.0945,7.24905 L21.28125,7.24905 C21.95025,7.24905 22.494,6.7053 22.494,6.0363 L22.494,1.2123 C22.494,0.54405 21.95025,0.0003 21.28125,0.0003 Z" id="Fill-4" fill-rule="nonzero"></path>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/trash</title>
+    <g id="icons/trash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="trash" transform="translate(1.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
+            <polygon id="Fill-1" points="7.236 24.677 9.236 24.677 9.236 13.131 7.236 13.131"></polygon>
+            <polygon id="Fill-2" points="13.996 24.677 15.996 24.677 15.996 13.131 13.996 13.131"></polygon>
+            <polygon id="Fill-3" points="20.756 24.677 22.756 24.677 22.756 13.131 20.756 13.131"></polygon>
+            <path d="M26.126,28.6724 C26.126,29.4044 25.53,30.0004 24.798,30.0004 L5.194,30.0004 C4.462,30.0004 3.866,29.4044 3.866,28.6724 L3.866,9.6654 L26.126,9.6654 L26.126,28.6724 Z M2,2.0004 L27.992,2.0004 L27.992,7.6654 L27.126,7.6654 L2.866,7.6654 L2,7.6654 L2,2.0004 Z M28.375,0.0004 L1.617,0.0004 C0.726,0.0004 0,0.7254 0,1.6164 L0,8.0484 C0,8.9404 0.726,9.6654 1.617,9.6654 L1.866,9.6654 L1.866,28.6724 C1.866,30.5074 3.359,32.0004 5.194,32.0004 L24.798,32.0004 C26.633,32.0004 28.126,30.5074 28.126,28.6724 L28.126,9.6654 L28.375,9.6654 C29.267,9.6654 29.992,8.9404 29.992,8.0484 L29.992,1.6164 C29.992,0.7254 29.267,0.0004 28.375,0.0004 L28.375,0.0004 Z" id="Fill-4"></path>
         </g>
     </g>
 </svg>

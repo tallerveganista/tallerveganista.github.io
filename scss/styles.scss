@@ -8,7 +8,7 @@
 // Variables
 
 // Color variables
-$brand: #40FC81;
+$brand: #8441FD;
 $dark: #000;
 $bright: #fff;
 
@@ -22,7 +22,7 @@ $transparent: rgba(0,0,0,0);
 
 
 // Type variables
-$sans-serif: 'DM Sans', sans-serif;
+$sans-serif: 'League Spartan Variable', sans-serif;
 
 $regular: 400;
 $regular-italic: 400i;
@@ -39,6 +39,12 @@ $small-text: 0.694rem;
 
 
 // Styles
+
+@font-face {
+  font-family: 'League Spartan Variable';
+  src: url('../fonts/LeagueSpartan-VF.woff2') format('woff2-variations');
+  font-weight: 200 900;
+}
 
 // General
 body{

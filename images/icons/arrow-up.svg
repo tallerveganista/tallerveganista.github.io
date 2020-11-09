@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/arrow-up</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-373.000000, -513.000000)" fill-rule="nonzero">
-            <rect id="Rectangle-4-Copy-15" x="369" y="509" width="32" height="32"></rect>
-            <g id="icons/dark/arrow-up" transform="translate(373.000000, 513.000000)">
-                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
-                <polygon id="up" fill="#000000" points="11.74275 0 3 9.8355 4.12125 10.83225 10.99275 3.10125 10.99275 23.62875 12.49275 23.62875 12.49275 3.10125 19.36425 10.83225 20.4855 9.8355"></polygon>
-            </g>
-        </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/arrow-up</title>
+    <g id="icons/arrow-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <polygon id="up" fill="#000000" fill-rule="nonzero" points="15.657 0 4 13.114 5.495 14.443 14.657 4.135 14.657 31.505 16.657 31.505 16.657 4.135 25.819 14.443 27.314 13.114"></polygon>
     </g>
 </svg>

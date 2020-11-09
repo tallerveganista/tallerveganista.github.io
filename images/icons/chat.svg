@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/chat</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-852.000000, -577.000000)" fill-rule="nonzero">
-            <rect id="Rectangle-4-Copy-31" x="848" y="573" width="32" height="32"></rect>
-            <g id="icons/dark/chat" transform="translate(852.000000, 577.000000)">
-                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
-                <path d="M3.739725,1.5 C2.505225,1.5 1.500225,2.505 1.500225,3.7395 L1.500225,15.12375 C1.500225,16.359 2.505225,17.36325 3.739725,17.36325 L12.677475,17.36325 L12.677475,20.87025 L16.786725,17.36325 L20.299725,17.36325 C21.534975,17.36325 22.539225,16.359 22.539225,15.12375 L22.539225,3.7395 C22.539225,2.505 21.534975,1.5 20.299725,1.5 L3.739725,1.5 Z M11.177475,24.12225 L11.177475,18.86325 L3.739725,18.86325 C1.677975,18.86325 0.000225,17.1855 0.000225,15.12375 L0.000225,3.7395 C0.000225,1.67775 1.677975,0 3.739725,0 L20.299725,0 C22.361475,0 24.039225,1.67775 24.039225,3.7395 L24.039225,15.12375 C24.039225,17.1855 22.361475,18.86325 20.299725,18.86325 L17.340975,18.86325 L11.177475,24.12225 Z" id="Fill-1" fill="#000000"></path>
-            </g>
-        </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/chat</title>
+    <g id="icons/chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <path d="M4.9863,2 C3.3403,2 2.0003,3.34 2.0003,4.986 L2.0003,20.165 C2.0003,21.812 3.3403,23.151 4.9863,23.151 L16.9033,23.151 L16.9033,27.827 L22.3823,23.151 L27.0663,23.151 C28.7133,23.151 30.0523,21.812 30.0523,20.165 L30.0523,4.986 C30.0523,3.34 28.7133,2 27.0663,2 L4.9863,2 Z M14.9033,32.163 L14.9033,25.151 L4.9863,25.151 C2.2373,25.151 0.0003,22.914 0.0003,20.165 L0.0003,4.986 C0.0003,2.237 2.2373,0 4.9863,0 L27.0663,0 C29.8153,0 32.0523,2.237 32.0523,4.986 L32.0523,20.165 C32.0523,22.914 29.8153,25.151 27.0663,25.151 L23.1213,25.151 L14.9033,32.163 Z" id="Fill-1" fill="#000000" fill-rule="nonzero"></path>
     </g>
 </svg>

@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/telegram</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-180.000000, -833.000000)">
-            <rect id="Rectangle-4-Copy-72" fill-rule="nonzero" x="176" y="829" width="32" height="32"></rect>
-            <g id="icons/dark/telegram" transform="translate(180.000000, 833.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="telegram" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 1.500000)" fill="#000000">
-                    <path d="M22.2653442,0.228734853 L0.927170688,8.61223401 C0.927170688,8.61223401 -0.0846309341,8.95552385 0.00570849642,9.58789986 C0.0779800409,10.2202759 0.909102802,10.5093621 0.909102802,10.5093621 L6.27526498,12.3161507 L19.1576678,4.13139825 C19.1576678,4.13139825 19.8984511,3.6797011 19.8803832,4.13139825 C19.8803832,4.13139825 20.0068584,4.2036698 19.6093649,4.58309541 C19.2660751,4.90831736 11.5330198,11.8463856 9.34680562,13.7977173 L9.45521293,13.851921 L18.2181377,20.5731746 C19.6816365,21.2055506 20.2056052,19.8865949 20.2056052,19.8865949 L23.9998613,0.716567779 C24.0179291,-0.530116363 22.2653442,0.228734853 22.2653442,0.228734853 Z" fill-rule="nonzero"></path>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/telegram</title>
+    <g id="icons/telegram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="telegram" transform="translate(0.000000, 2.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M29.6871256,0.304979805 L1.23622758,11.4829787 C1.23622758,11.4829787 -0.112841246,11.9406985 0.00761132855,12.7838665 C0.103973388,13.6270345 1.21213707,14.0124827 1.21213707,14.0124827 L8.36701997,16.4215342 L25.543557,5.50853101 C25.543557,5.50853101 26.5312681,4.90626813 26.5071776,5.50853101 C26.5071776,5.50853101 26.6758112,5.60489306 26.1458199,6.11079388 C25.6881001,6.54442314 15.3773598,15.7951808 12.4624075,18.3969564 L12.6069506,18.469228 L24.2908503,27.4308995 C26.242182,28.2740675 26.9408069,26.5154599 26.9408069,26.5154599 L32,0.955423705 C32.0239055,-0.706821818 29.6871256,0.304979805 29.6871256,0.304979805 Z"></path>
         </g>
     </g>
 </svg>

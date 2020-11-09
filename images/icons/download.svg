@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/download</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-852.000000, -641.000000)" fill-rule="nonzero">
-            <rect id="Rectangle-4-Copy-43" x="848" y="637" width="32" height="32"></rect>
-            <g id="icons/dark/download" transform="translate(852.000000, 641.000000)">
-                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
-                <path d="M22.4451,10.718625 L22.4451,20.837625 C22.4451,21.664875 21.77235,22.337625 20.9451,22.337625 L2.99985,22.337625 C2.17335,22.337625 1.49985,21.664875 1.49985,20.837625 L1.49985,10.718625 L-0.00015,10.718625 L-0.00015,20.837625 C-0.00015,22.492125 1.34535,23.837625 2.99985,23.837625 L20.9451,23.837625 C22.5996,23.837625 23.9451,22.492125 23.9451,20.837625 L23.9451,10.718625 L22.4451,10.718625 Z" id="Fill-1" fill="#000000"></path>
-                <polygon id="Fill-4" fill="#000000" points="17.3577 8.519925 16.2372 7.522425 12.7227 11.468175 12.7227 -7.5e-05 11.2227 -7.5e-05 11.2227 11.468925 7.7082 7.522425 6.5877 8.519925 11.9727 14.565675"></polygon>
-            </g>
-        </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/download</title>
+    <g id="icons/download" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <path d="M29.9268,14.2915 L29.9268,27.7835 C29.9268,28.8865 29.0298,29.7835 27.9268,29.7835 L3.9998,29.7835 C2.8978,29.7835 1.9998,28.8865 1.9998,27.7835 L1.9998,14.2915 L-0.0002,14.2915 L-0.0002,27.7835 C-0.0002,29.9895 1.7938,31.7835 3.9998,31.7835 L27.9268,31.7835 C30.1328,31.7835 31.9268,29.9895 31.9268,27.7835 L31.9268,14.2915 L29.9268,14.2915 Z" id="Fill-1" fill="#000000" fill-rule="nonzero"></path>
+        <polygon id="Fill-4" fill="#000000" fill-rule="nonzero" points="23.1436 11.3599 21.6496 10.0299 16.9636 15.2909 16.9636 -0.0001 14.9636 -0.0001 14.9636 15.2919 10.2776 10.0299 8.7836 11.3599 15.9636 19.4209"></polygon>
     </g>
 </svg>

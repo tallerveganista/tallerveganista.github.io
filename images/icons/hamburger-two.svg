@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/hamburger-two</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-372.000000, -449.000000)">
-            <rect id="Rectangle-4-Copy-2" fill-rule="nonzero" x="368" y="445" width="32" height="32"></rect>
-            <g id="icons/dark/hamburger-two" transform="translate(372.000000, 449.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="hamburguer-two" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 6.750000)" fill="#000000">
-                    <polygon id="Fill-1" fill-rule="nonzero" points="0 9.769425 24 9.769425 24 8.269425 0 8.269425"></polygon>
-                    <polygon id="Fill-2" fill-rule="nonzero" points="0 1.499925 24 1.499925 24 -7.5e-05 0 -7.5e-05"></polygon>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/hamburger-two</title>
+    <g id="icons/hamburger-two" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="hamburguer-two" transform="translate(0.000000, 9.000000)" fill="#000000" fill-rule="nonzero">
+            <polygon id="Fill-1" points="0 13.0259 32 13.0259 32 11.0259 0 11.0259"></polygon>
+            <polygon id="Fill-2" points="0 1.9999 32 1.9999 32 -0.0001 0 -0.0001"></polygon>
         </g>
     </g>
 </svg>

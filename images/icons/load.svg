@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/load</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-564.000000, -705.000000)">
-            <rect id="Rectangle-4-Copy-52" fill-rule="nonzero" x="560" y="701" width="32" height="32"></rect>
-            <g id="icons/dark/load" transform="translate(564.000000, 705.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="load" stroke-width="1" fill-rule="evenodd" fill="#000000">
-                    <path d="M22.5,12 C22.5,12.92175 22.38075,13.83675 22.1445,14.71875 C20.9205,19.3005 16.74825,22.5 12,22.5 C8.55525,22.5 5.34375,20.781 3.39825,18.01125 L6.9285,18.79125 L7.2525,17.3265 L1.2,15.9885 L0.5805,22.1565 L2.07375,22.3065 L2.388,19.17375 C4.629,22.161 8.19075,24 12,24 C17.42625,24 22.194,20.343 23.5935,15.1065 C23.86275,14.09775 24,13.053 24,12 L22.5,12 Z" id="Fill-1" fill-rule="nonzero"></path>
-                    <path d="M12,1.5 C15.52875,1.5 18.73725,3.22425 20.6775,6.0825 L17.118,5.2965 L16.79475,6.76125 L22.848,8.0985 L23.46675,1.9305 L21.97425,1.78125 L21.66225,4.88775 C19.425,1.833 15.88575,0 12,0 C5.3835,0 0,5.3835 0,12 L1.5,12 C1.5,6.21 6.21,1.5 12,1.5" id="Fill-3" fill-rule="nonzero"></path>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/load</title>
+    <g id="icons/load" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="load" fill="#000000" fill-rule="nonzero">
+            <path d="M30,16 C30,17.229 29.841,18.449 29.526,19.625 C27.894,25.734 22.331,30 16,30 C11.407,30 7.125,27.708 4.531,24.015 L9.238,25.055 L9.67,23.102 L1.6,21.318 L0.774,29.542 L2.765,29.742 L3.184,25.565 C6.172,29.548 10.921,32 16,32 C23.235,32 29.592,27.124 31.458,20.142 C31.817,18.797 32,17.404 32,16 L30,16 Z" id="Fill-1"></path>
+            <path d="M16,2 C20.705,2 24.983,4.299 27.57,8.11 L22.824,7.062 L22.393,9.015 L30.464,10.798 L31.289,2.574 L29.299,2.375 L28.883,6.517 C25.9,2.444 21.181,0 16,0 C7.178,0 0,7.178 0,16 L2,16 C2,8.28 8.28,2 16,2" id="Fill-3"></path>
         </g>
     </g>
 </svg>

@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/warning</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-660.000000, -577.000000)">
-            <rect id="Rectangle-4-Copy-29" fill-rule="nonzero" x="656" y="573" width="32" height="32"></rect>
-            <g id="icons/dark/warning" transform="translate(660.000000, 577.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="warning" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 1.500000)" fill="#000000">
-                    <path d="M2.049525,19.4586 L12.000525,2.2236 L21.950775,19.4586 L2.049525,19.4586 Z M23.900025,19.8336 L12.650025,0.3486 C12.381525,-0.1164 11.618775,-0.1164 11.350275,0.3486 L0.100275,19.8336 C-0.033225,20.0661 -0.033225,20.3511 0.100275,20.5836 C0.234525,20.8161 0.482025,20.9586 0.750525,20.9586 L23.250525,20.9586 C23.518275,20.9586 23.765775,20.8161 23.900025,20.5836 C24.033525,20.3511 24.033525,20.0661 23.900025,19.8336 Z" id="Fill-1" fill-rule="nonzero"></path>
-                    <polygon id="Fill-4" fill-rule="nonzero" points="11.21925 13.76685 12.71925 13.76685 12.71925 8.43885 11.21925 8.43885"></polygon>
-                    <path d="M10.980675,15.973725 C10.980675,16.536975 11.436675,16.992975 11.999925,16.992975 C12.563175,16.992975 13.019925,16.536975 13.019925,15.973725 C13.019925,15.411225 12.563175,14.954475 11.999925,14.954475 C11.436675,14.954475 10.980675,15.411225 10.980675,15.973725" id="Fill-6" fill-rule="nonzero"></path>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/warning</title>
+    <g id="icons/warning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="warning" transform="translate(0.000000, 2.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M2.7327,25.9448 L16.0007,2.9648 L29.2677,25.9448 L2.7327,25.9448 Z M31.8667,26.4448 L16.8667,0.4648 C16.5087,-0.1552 15.4917,-0.1552 15.1337,0.4648 L0.1337,26.4448 C-0.0443,26.7548 -0.0443,27.1348 0.1337,27.4448 C0.3127,27.7548 0.6427,27.9448 1.0007,27.9448 L31.0007,27.9448 C31.3577,27.9448 31.6877,27.7548 31.8667,27.4448 C32.0447,27.1348 32.0447,26.7548 31.8667,26.4448 L31.8667,26.4448 Z" id="Fill-1"></path>
+            <polygon id="Fill-4" points="14.959 18.3558 16.959 18.3558 16.959 11.2518 14.959 11.2518"></polygon>
+            <path d="M14.6409,21.2983 C14.6409,22.0493 15.2489,22.6573 15.9999,22.6573 C16.7509,22.6573 17.3599,22.0493 17.3599,21.2983 C17.3599,20.5483 16.7509,19.9393 15.9999,19.9393 C15.2489,19.9393 14.6409,20.5483 14.6409,21.2983" id="Fill-6"></path>
         </g>
     </g>
 </svg>

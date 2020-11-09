@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/close-light</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-564.000000, -449.000000)" fill-rule="nonzero">
-            <rect id="Rectangle-4-Copy-4" x="560" y="445" width="32" height="32"></rect>
-            <g id="icons/dark/close-light" transform="translate(564.000000, 449.000000)">
-                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
-                <polygon id="close-light" fill="#000000" points="23.45775 0 11.994 11.4645 0.531 0 -4.97379915e-14 0.53025 11.4645 11.994 -4.97379915e-14 23.45775 0.531 23.988 11.994 12.525 23.45775 23.988 23.988 23.45775 12.525 11.994 23.988 0.53025"></polygon>
-            </g>
-        </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/close-light</title>
+    <g id="icons/close-light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <polygon id="close-light" fill="#000000" fill-rule="nonzero" points="31.277 0 15.992 15.286 0.708 0 -4.97379915e-14 0.707 15.286 15.992 -4.97379915e-14 31.277 0.708 31.984 15.992 16.7 31.277 31.984 31.984 31.277 16.7 15.992 31.984 0.707"></polygon>
     </g>
 </svg>

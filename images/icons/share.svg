@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/share</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-1234.000000, -640.000000)" fill-rule="nonzero">
-            <rect id="Rectangle-4-Copy-47" x="1230" y="636" width="32" height="32"></rect>
-            <g id="icons/dark/share" transform="translate(1234.000000, 640.000000)">
-                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
-                <path d="M22.50825,14.20275 L22.50825,21.65625 C22.50825,22.0695 22.17225,22.40625 21.75825,22.40625 L2.25,22.40625 C1.83675,22.40625 1.5,22.0695 1.5,21.65625 L1.5,2.24925 C1.5,1.836 1.83675,1.5 2.25,1.5 L11.961,1.5 L11.961,0 L2.25,0 C1.0095,0 0,1.00875 0,2.24925 L0,21.65625 C0,22.89675 1.0095,23.90625 2.25,23.90625 L21.75825,23.90625 C22.99875,23.90625 24.00825,22.89675 24.00825,21.65625 L24.00825,14.20275 L22.50825,14.20275 Z" id="Fill-1" fill="#000000"></path>
-                <path d="M18.46875,5.18925 C12.834,5.18925 8.25,9.77325 8.25,15.408 L9.75,15.408 C9.75,10.6005 13.66125,6.68925 18.46875,6.68925 L20.0205,6.68925 L17.8815,8.59575 L18.879,9.7155 L23.07,5.98275 L18.879,2.25 L17.8815,3.36975 L19.923,5.18925 L18.46875,5.18925 Z" id="Fill-4" fill="#000000"></path>
-            </g>
-        </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/share</title>
+    <g id="icons/share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <path d="M30.011,18.937 L30.011,28.875 C30.011,29.426 29.563,29.875 29.011,29.875 L3,29.875 C2.449,29.875 2,29.426 2,28.875 L2,2.999 C2,2.448 2.449,2 3,2 L15.948,2 L15.948,0 L3,0 C1.346,0 0,1.345 0,2.999 L0,28.875 C0,30.529 1.346,31.875 3,31.875 L29.011,31.875 C30.665,31.875 32.011,30.529 32.011,28.875 L32.011,18.937 L30.011,18.937 Z" id="Fill-1" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M24.625,6.919 C17.112,6.919 11,13.031 11,20.544 L13,20.544 C13,14.134 18.215,8.919 24.625,8.919 L26.694,8.919 L23.842,11.461 L25.172,12.954 L30.76,7.977 L25.172,3 L23.842,4.493 L26.564,6.919 L24.625,6.919 Z" id="Fill-4" fill="#000000" fill-rule="nonzero"></path>
     </g>
 </svg>

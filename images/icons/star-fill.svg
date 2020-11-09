@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/star-fill</title>
-    <desc>Created with Sketch.</desc>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/star-fill</title>
     <defs>
-        <polygon id="path-1" points="0 0.000225 23.9997726 0.000225 23.9997726 22.2458119 0 22.2458119"></polygon>
+        <polygon id="path-1" points="0 0.0003 31.9996969 0.0003 31.9996969 29.6610826 0 29.6610826"></polygon>
     </defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-948.000000, -705.000000)">
-            <rect id="Rectangle-4-Copy-56" fill-rule="nonzero" x="944" y="701" width="32" height="32"></rect>
-            <g id="icons/dark/star-fill" transform="translate(948.000000, 705.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="Group-3" fill-rule="evenodd" stroke-width="1" transform="translate(0.000000, 0.750000)">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <g id="Clip-2"></g>
-                    <path d="M19.04925,22.24425 C19.36875,22.24875 19.63125,22.0005 19.6365,21.68925 C19.6365,21.64875 19.63275,21.6075 19.6245,21.567 L18.057,14.148 L23.8095,9.0435 C24.0465,8.835 24.0645,8.47875 23.85,8.24775 C23.75475,8.14575 23.62575,8.08125 23.48475,8.06625 L15.74325,7.22325 L12.52575,0.32625 C12.39075,0.04425 12.0465,-0.07875 11.75625,0.0525 C11.63175,0.108 11.53275,0.2055 11.47425,0.32625 L8.256,7.22325 L0.51525,8.06625 C0.19725,8.1 -0.0315,8.37825 0.003,8.68725 C0.01875,8.8245 0.0855,8.9505 0.18975,9.04275 L5.943,14.148 L4.37625,21.567 C4.31025,21.8715 4.5105,22.17 4.82325,22.23375 C4.96275,22.26225 5.10675,22.23975 5.22975,22.1715 L12,18.429 L18.7695,22.1715 C18.855,22.218 18.951,22.2435 19.04925,22.24425" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
-                </g>
-            </g>
+    <g id="icons/star-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group-3" transform="translate(0.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M25.399,29.659 C25.825,29.665 26.175,29.334 26.182,28.919 C26.182,28.865 26.177,28.81 26.166,28.756 L24.076,18.864 L31.746,12.058 C32.062,11.78 32.086,11.305 31.8,10.997 C31.673,10.861 31.501,10.775 31.313,10.755 L20.991,9.631 L16.701,0.435 C16.521,0.059 16.062,-0.105 15.675,0.07 C15.509,0.144 15.377,0.274 15.299,0.435 L11.008,9.631 L0.687,10.755 C0.263,10.8 -0.042,11.171 0.004,11.583 C0.025,11.766 0.114,11.934 0.253,12.057 L7.924,18.864 L5.835,28.756 C5.747,29.162 6.014,29.56 6.431,29.645 C6.617,29.683 6.809,29.653 6.973,29.562 L16,24.572 L25.026,29.562 C25.14,29.624 25.268,29.658 25.399,29.659" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
         </g>
     </g>
 </svg>

@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/shopping-bag</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-276.000000, -641.000000)">
-            <rect id="Rectangle-4-Copy-37" fill-rule="nonzero" x="272" y="637" width="32" height="32"></rect>
-            <g id="icons/dark/shopping-bag" transform="translate(276.000000, 641.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="shopping-bag" stroke-width="1" fill-rule="evenodd" fill="#000000">
-                    <path d="M22.5,7.852275 L22.5,20.968275 C22.5,21.795525 21.82725,22.468275 21,22.468275 L3,22.468275 C2.17275,22.468275 1.5,21.795525 1.5,20.968275 L1.5,7.852275 L0,7.852275 L0,20.968275 C0,22.622775 1.3455,23.968275 3,23.968275 L21,23.968275 C22.6545,23.968275 24,22.622775 24,20.968275 L24,7.852275 L22.5,7.852275 Z" id="Fill-4" fill-rule="nonzero"></path>
-                    <path d="M7.076325,6.423675 C7.076325,3.708675 9.285075,1.499925 12.000075,1.499925 C14.715075,1.499925 16.923825,3.708675 16.923825,6.423675 L16.923825,10.289925 L18.423825,10.289925 L18.423825,6.423675 C18.423825,2.881425 15.542325,-7.5e-05 12.000075,-7.5e-05 C8.457825,-7.5e-05 5.576325,2.881425 5.576325,6.423675 L5.576325,10.289925 L7.076325,10.289925 L7.076325,6.423675 Z" id="Fill-1" fill-rule="nonzero"></path>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/shopping-bag</title>
+    <g id="icons/shopping-bag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="shopping-bag" fill="#000000" fill-rule="nonzero">
+            <path d="M30,10.4697 L30,27.9577 C30,29.0607 29.103,29.9577 28,29.9577 L4,29.9577 C2.897,29.9577 2,29.0607 2,27.9577 L2,10.4697 L0,10.4697 L0,27.9577 C0,30.1637 1.794,31.9577 4,31.9577 L28,31.9577 C30.206,31.9577 32,30.1637 32,27.9577 L32,10.4697 L30,10.4697 Z" id="Fill-4"></path>
+            <path d="M9.4351,8.5649 C9.4351,4.9449 12.3801,1.9999 16.0001,1.9999 C19.6201,1.9999 22.5651,4.9449 22.5651,8.5649 L22.5651,13.7199 L24.5651,13.7199 L24.5651,8.5649 C24.5651,3.8419 20.7231,-0.0001 16.0001,-0.0001 C11.2771,-0.0001 7.4351,3.8419 7.4351,8.5649 L7.4351,13.7199 L9.4351,13.7199 L9.4351,8.5649 Z" id="Fill-1"></path>
         </g>
     </g>
 </svg>

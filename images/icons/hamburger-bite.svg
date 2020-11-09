@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/hamburger-bite</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-276.000000, -449.000000)">
-            <rect id="Rectangle-4-Copy" fill-rule="nonzero" x="272" y="445" width="32" height="32"></rect>
-            <g id="icons/dark/hamburger-bite" transform="translate(276.000000, 449.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="hamburguer-bite" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 2.250000)" fill="#000000">
-                    <polygon id="Fill-1" fill-rule="nonzero" points="0 10.519725 24 10.519725 24 9.018975 0 9.018975"></polygon>
-                    <polygon id="Fill-2" fill-rule="nonzero" points="12 18.788475 24 18.788475 24 17.288475 12 17.288475"></polygon>
-                    <polygon id="Fill-3" fill-rule="nonzero" points="0 2.250225 24 2.250225 24 0.749475 0 0.749475"></polygon>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/hamburger-bite</title>
+    <g id="icons/hamburger-bite" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="hamburguer-bite" transform="translate(0.000000, 3.000000)" fill="#000000" fill-rule="nonzero">
+            <polygon id="Fill-1" points="0 14.0263 32 14.0263 32 12.0253 0 12.0253"></polygon>
+            <polygon id="Fill-2" points="16 25.0513 32 25.0513 32 23.0513 16 23.0513"></polygon>
+            <polygon id="Fill-3" points="0 3.0003 32 3.0003 32 0.9993 0 0.9993"></polygon>
         </g>
     </g>
 </svg>

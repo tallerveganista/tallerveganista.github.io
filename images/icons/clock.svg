@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icons/dark/clock</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="lg-1440-px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Elements" transform="translate(-1140.000000, -577.000000)">
-            <rect id="Rectangle-4-Copy-34" fill-rule="nonzero" x="1136" y="573" width="32" height="32"></rect>
-            <g id="icons/dark/clock" transform="translate(1140.000000, 577.000000)">
-                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-                <g id="clock" stroke-width="1" fill-rule="evenodd" fill="#000000">
-                    <path d="M12,22.5 C6.21,22.5 1.5,17.79 1.5,12 C1.5,6.21 6.21,1.5 12,1.5 C17.79,1.5 22.5,6.21 22.5,12 C22.5,17.79 17.79,22.5 12,22.5 M12,0 C5.3835,0 0,5.3835 0,12 C0,18.6165 5.3835,24 12,24 C18.6165,24 24,18.6165 24,12 C24,5.3835 18.6165,0 12,0" id="Fill-1" fill-rule="nonzero"></path>
-                    <polygon id="Fill-3" fill-rule="nonzero" points="12.75 5.120025 11.25 5.120025 11.25 13.718025 17.09625 13.718025 17.09625 12.218025 12.75 12.218025"></polygon>
-                </g>
-            </g>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/clock</title>
+    <g id="icons/clock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+        <g id="clock" fill="#000000" fill-rule="nonzero">
+            <path d="M16,30 C8.28,30 2,23.72 2,16 C2,8.28 8.28,2 16,2 C23.72,2 30,8.28 30,16 C30,23.72 23.72,30 16,30 M16,0 C7.178,0 0,7.178 0,16 C0,24.822 7.178,32 16,32 C24.822,32 32,24.822 32,16 C32,7.178 24.822,0 16,0" id="Fill-1"></path>
+            <polygon id="Fill-3" points="17 6.8267 15 6.8267 15 18.2907 22.795 18.2907 22.795 16.2907 17 16.2907"></polygon>
         </g>
     </g>
 </svg>
