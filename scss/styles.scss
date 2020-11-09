@@ -10,7 +10,8 @@
 
 // Color variables
 $brand: #8441FD;
-$brand-2: #FF5252;
+$brand-2: #B2FCE4;
+$brand-3: #FF5252;
 $dark: #000;
 $bright: #FFFEFA;
 
@@ -22,7 +23,7 @@ $gray-5: #313131;
 
 $transparent: rgba(0,0,0,0);
 $box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
-
+$transition: .3s ease;
 
 // Type variables
 
@@ -148,6 +149,11 @@ ul{
   }
 }
 
+.break-xs{
+  display: block;
+  content: '';
+}
+
 // Columns
 
 .box-row{
@@ -166,11 +172,7 @@ h1, h2, h3, h4, h5, h6{
   font-weight: $bold;
 }
 
-h1, h2{
-  margin: 0;
-}
-
-h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6{
   margin: 0;
 }
 
@@ -178,6 +180,7 @@ h1{
   // h1-xs: 33.178px / 36.864px
   font-size: 2.07375rem;
   line-height: 2.304rem;
+  margin-bottom: 1rem;
 }
 
 h2{
@@ -201,42 +204,45 @@ h4{
 h5{
   // h5-xs: 16px / 17,776px
   font-size: 1rem;
-  line-height: 1,111rem;
-}
-
-h6{
-  font-size: 1rem;
+  line-height: 1.111rem;
 }
 
 p{
+  // p-xs: 16px / 25.6px
   font-size: $medium-text;
-  margin: 0;
   line-height: $medium-line-height;
+  margin: 0;
 }
 
 .p-big{
+  // p-xs-big: 19.2px / 30.2px
   font-size: $big-text;
-  line-height: $big-line-height
+  line-height: $big-line-height;
 }
 
 .p-small{
+  // p-xs-small: 13.33px
   font-size: $small-text;
   line-height: $small-line-height;
 }
 
 // Buttons
+
 .button{
   font-family: $sans-serif;
   color: $bright;
   font-weight: $medium;
   display: inline-block;
-  padding: .5rem 1rem;
-  font-size: $medium-text;
+  padding: .25rem 1rem;
+  font-size: 1.05rem;
+  border-radius: 25px;
   margin: 0;
   text-align: center;
   &:hover{
-    background-color: $brand-2;
+    background-color: $dark;
     color: $bright;
+    -webkit-transition: $transition;
+    transition: $transition;
   }
 }
 
@@ -271,13 +277,13 @@ p{
   }
 }
 
-.button.bright{
+.button-bright{
   &:hover{
     color: $bright;
   }
 }
 
-.button.dark{
+.button-dark{
   &:hover{
     color: $dark;
   }
@@ -525,4 +531,37 @@ p{
 
 .buttons{
   margin: 4rem 0 -2.4rem 0;
+}
+
+// Mobile hero image
+
+.mobile-hero-image{
+  background-color: $dark;
+  background-image: url(../images/hero-image-mobile-1-1.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 20rem;
+  width: 100%;
+}
+
+// header
+
+.index-header{
+  padding: 1rem 0 0 0;
+  margin: 0 0 3rem 0;
+  & .p-big{
+    // p-xs: 16px / 25.6px
+    font-size: $medium-text;
+    line-height: $medium-line-height;
+  }
+  & .button{
+    margin-top: 1.5rem;
+  }
+}
+
+// Content
+
+.content{
+
 }
