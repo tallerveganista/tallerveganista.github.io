@@ -1,6 +1,53 @@
-// Ux Library
+// Taller Veganista
 // Design and Development. Fluorescente github: @fluorescente
 // fluorescente.design
+
+// Type scale: https://www.modularscale.com/?16&px&1.2
+// Spaces scale: 2 / 4 / 8 / 16 / 32 / 64 / 128
+// Spaces scale: 6 / 12 / 24 / 48
+
+// Variables
+
+// Color variables
+$brand: #8441FD;
+$brand-2: #B2FCE4;
+$brand-3: #FF5252;
+$dark: #000;
+$bright: #FFFEFA;
+
+$gray-1: #f7f7f7;
+$gray-2: #c6c6c6;
+$gray-3: #949494;
+$gray-4: #636363;
+$gray-5: #313131;
+
+$transparent: rgba(0,0,0,0);
+$box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
+$transition: .7s ease;
+
+// Type variables
+
+$sans-serif: 'League Spartan Variable', sans-serif;
+$serif: 'EB Garamond', serif;
+
+$regular: 400;
+$regular-italic: 400i;
+
+$medium: 600;
+$medium-italic: 600i;
+
+$bold: 700;
+$bold-italic: 700i;
+
+$big-text: 1.2rem;
+$medium-text: 1.2rem;
+$small-text: 1rem;
+$micro-text: 0.833125rem;
+
+$big-line-height: 1.92rem;
+$medium-line-height: 1.92rem;
+$small-line-height: 1.6rem;
+
 
 // xs - Up to 768px
 @media only screen and (max-width: 48em){
@@ -21,6 +68,17 @@
   }
   .hidden-sm{
     display: none;
+  }
+  // Header
+  .index-header{
+    color: $bright;
+    background-color:$dark;
+    & h1{
+      color: $bright;
+    }
+  }
+  .button-wide-xs{
+    display: inline-block;
   }
 }
 
