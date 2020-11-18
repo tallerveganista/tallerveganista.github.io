@@ -249,8 +249,8 @@ p{
   margin: 0;
   text-align: center;
   &:hover{
-    background-color: $dark;
-    color: $brand-2;
+    background-color: $brand-2;
+    color: $dark;
     -webkit-transition: $transition;
     transition: $transition;
   }
