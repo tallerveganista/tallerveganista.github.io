@@ -416,7 +416,69 @@ p{
 
 // Sections
 
+// Modal-nav
 
+.uk-modal-full{
+  z-index: 9999999999;
+  & .uk-modal-dialog{
+    height: 100%;
+    color: $bright;
+    background-color: $dark;
+  }
+  & .uk-modal-body{
+    padding: .75rem 0 2.4rem 0;
+  }
+  & .wrapper{
+    height: 100%;
+  }
+  & .modal-nav-row{
+    height: 100%;
+  }
+  & ul{
+    padding-left: 0;
+  }
+  & .social{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    & li{
+      margin-right: 1rem;
+      &:last-child{
+        margin-right: 0;
+      }
+    }
+  }
+  & li{
+    font-family: $sans-serif;
+    font-weight: $bold;
+    font-size: 1.44rem;
+    margin-bottom: 1rem;
+  }
+  & .logo{
+    font-size: 8rem;
+    margin-bottom: -1rem;
+  }
+  & a{
+    color: $bright;
+    &:hover{
+      color: $brand-2;
+    }
+  }
+  & .uk-modal-close-default{
+    position: inherit;
+    padding: 0;
+    & span{
+      font-size: 1.5rem;
+    }
+    & svg{
+      display: none;
+    }
+  }
+}
+
+.modal-open{
+  display: block;
+  opacity: 1;
+}
 
 // Mobile hero image
 
@@ -498,7 +560,9 @@ footer{
     font-size: 7.5rem;
     color: $bright;
     &:hover{
-      color: $brand;
+      color: $brand-2;
+      transition: $transition;
+      -webkit-transition: $transition;
     }
   }
   & nav{
@@ -511,6 +575,12 @@ footer{
       font-weight: $medium;
       font-size: $medium-text;
       color: $bright;
+      &:hover{
+        color: $brand-2;
+        text-decoration: underline;
+        transition: $transition;
+        -webkit-transition: $transition;
+      }
     }
   }
   & p{
@@ -518,6 +588,11 @@ footer{
   }
   & .link{
     color: $bright;
+    &:hover{
+      color: $brand-2;
+      transition: $transition;
+      -webkit-transition: $transition;
+    }
   }
   & .social{
     & li{
