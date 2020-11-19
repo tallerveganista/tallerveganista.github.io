@@ -100,6 +100,10 @@ $small-line-height: 1.6rem;
   .hidden-lg{
     display: none;
   }
+}
+
+// lg - from 1200
+@media only screen and (min-width: 75em) {
   .hero-image{
     background-size: 50% auto;
   }

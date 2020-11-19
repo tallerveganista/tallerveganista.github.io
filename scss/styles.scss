@@ -610,6 +610,9 @@ footer{
       }
       & a{
         font-size: 1.25rem;
+        &:hover{
+          text-decoration: none;
+        }
       }
     }
   }
