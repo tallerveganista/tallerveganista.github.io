@@ -72,7 +72,6 @@ $small-line-height: 1.6rem;
   // Header
   .index-header{
     color: $bright;
-    background-color:$dark;
     & h1{
       color: $bright;
     }
@@ -82,7 +81,7 @@ $small-line-height: 1.6rem;
   }
   .hero-image{
     background-color: $dark;
-    background-image: url(../images/hero-image-mobile-1-1.png);
+    background-image: url(../images/hero-image-home-tablet.png);
     background-repeat: no-repeat;
     background-size: 33.333% auto;
     background-position: right;
@@ -100,11 +99,15 @@ $small-line-height: 1.6rem;
   .hidden-lg{
     display: none;
   }
+  .header-wrapper{
+    background-color: $dark;
+  }
 }
 
 // lg - from 1200
 @media only screen and (min-width: 75em) {
   .hero-image{
     background-size: 50% auto;
+    background-image: url(../images/hero-image-home-variant.png);
   }
 }
