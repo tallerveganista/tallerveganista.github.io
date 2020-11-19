@@ -247,7 +247,7 @@ p{
   color: $bright;
   font-weight: $medium;
   display: inline-block;
-  padding: .75rem 2rem;
+  padding: .5rem 2.5rem;
   border-radius: 50px;
   margin: 0;
   text-align: center;
@@ -265,7 +265,20 @@ p{
 }
 
 .button-big, .link-big{
+  font-size: $big-text;
+}
+
+.link-big{
+  & span{
+    font-size: 2rem;
+  }
+}
+
+.link-mid{
   font-size: $medium-text;
+  & span{
+    font-size: 2rem;
+  }
 }
 
 .button-small, .link-small{
@@ -316,12 +329,6 @@ p{
   & span{
     vertical-align: middle;
     margin-left: .5rem;
-  }
-}
-
-.link-big{
-  & span{
-    font-size: 2rem;
   }
 }
 
@@ -555,7 +562,7 @@ header{
   & h3{
     margin: 0 0 1rem 0;
   }
-  & h4{
+  & h4, & h5{
     margin: 0 0 1rem 0;
   }
   & .text-box{
@@ -568,8 +575,16 @@ header{
     border-bottom: 0;
     margin-bottom: 0;
   }
+  & .preview-event{
+    padding: 0 0 2rem 0;
+    border-bottom: 1px dotted $gray-2;
+  }
   & .preview-event-article{
     margin: 0 0 2rem 0;
+    & h4{
+      font-size: 1.728125rem;
+      line-height: 2.0625rem;
+    }
     & figure{
       margin: 0 0 1rem 0;
     }

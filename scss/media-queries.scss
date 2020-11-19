@@ -75,23 +75,25 @@ $small-line-height: 1.6rem;
     font-size: 2.98625rem;
     line-height: 3.5625rem;
   }
-
   h2{
     // h2-xs: 39,81px / 47px
     font-size: 2.488125rem;
     line-height: 2.9375rem;
   }
-
   h3{
     // h3-xs: 33,18px / 39px
     font-size: 2.07375rem;
     line-height: 2.4375rem;
   }
-
   h4{
     // h4-xs: 27,65px / 33px
     font-size: 1.728125rem;
     line-height: 2.0625rem;
+  }
+  h5{
+    // h4-xs: 23.04px / 27px
+    font-size: 1.44rem;
+    line-height: 1.6875rem;
   }
   // Buttons
   .button-big, .link-big{
@@ -111,6 +113,12 @@ $small-line-height: 1.6rem;
       }
     }
   }
+  // Modal nav
+  .uk-modal-full{
+    & .uk-modal-body{
+      padding: 1rem 0 2.4rem 0;
+    }
+  }
   // Header
   .index-header{
     color: $bright;
@@ -123,6 +131,7 @@ $small-line-height: 1.6rem;
   }
   .index-header{
     padding: 14rem 0 4.5rem 0;
+    margin: 0 auto 5rem 0;
   }
   .hero-image{
     background-color: $dark;
@@ -130,6 +139,29 @@ $small-line-height: 1.6rem;
     background-repeat: no-repeat;
     background-size: 33.333% auto;
     background-position: right;
+  }
+  // Content
+  .content{
+    & .row{
+      padding: 0 0 4rem 0;
+      margin: 0 0 4.5rem 0;
+    }
+    & .text-box{
+      margin: 0 0 2rem 0;
+    }
+    & .preview-events-and-articles{
+      margin: 0;
+    }
+    & .preview-event-article{
+      & h4{
+        font-size: 1.728125rem;
+        line-height: 2.0625rem;
+      }
+    }
+    & .preview-event{
+      padding: 0;
+      border-bottom: none;
+    }
   }
 }
 
@@ -144,6 +176,11 @@ $small-line-height: 1.6rem;
   }
   .header-wrapper{
     background-color: $dark;
+  }
+  .content-home{
+    .wrapper{
+      max-width: 59.0625rem;
+    }
   }
 }
 
