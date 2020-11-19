@@ -62,6 +62,7 @@ body{
   font-family: $serif;
   font-weight: $regular;
   color: $dark;
+  background-color: $bright;
 }
 
 section{
@@ -319,6 +320,14 @@ p{
 .link-big{
   & span{
     font-size: 2rem;
+  }
+}
+
+.link-heading{
+  &:hover{
+    color: $brand;
+    transition: $transition;
+    -webkit-transition: $transition;
   }
 }
 
