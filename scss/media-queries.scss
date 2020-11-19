@@ -39,12 +39,12 @@ $medium-italic: 600i;
 $bold: 700;
 $bold-italic: 700i;
 
-$big-text: 1.2rem;
+$big-text: 1.44rem;
 $medium-text: 1.2rem;
 $small-text: 1rem;
 $micro-text: 0.833125rem;
 
-$big-line-height: 1.92rem;
+$big-line-height: 2.25rem;
 $medium-line-height: 1.92rem;
 $small-line-height: 1.6rem;
 
@@ -69,6 +69,48 @@ $small-line-height: 1.6rem;
   .hidden-sm{
     display: none;
   }
+  // Headings
+  h1{
+    // h1-xs: 47,78px / 57px
+    font-size: 2.98625rem;
+    line-height: 3.5625rem;
+  }
+
+  h2{
+    // h2-xs: 39,81px / 47px
+    font-size: 2.488125rem;
+    line-height: 2.9375rem;
+  }
+
+  h3{
+    // h3-xs: 33,18px / 39px
+    font-size: 2.07375rem;
+    line-height: 2.4375rem;
+  }
+
+  h4{
+    // h4-xs: 27,65px / 33px
+    font-size: 1.728125rem;
+    line-height: 2.0625rem;
+  }
+  // Buttons
+  .button-big, .link-big{
+    font-size: $big-text;
+  }
+  .button{
+    & .visible-sm{
+      display: inline-block;
+    }
+  }
+  // Main nav
+  .main-nav{
+    padding: .75rem 0 .5rem 0;
+    & li{
+      & a{
+        font-size: 1.5rem;
+      }
+    }
+  }
   // Header
   .index-header{
     color: $bright;
@@ -79,14 +121,15 @@ $small-line-height: 1.6rem;
   .button-wide-xs{
     display: inline-block;
   }
+  .index-header{
+    padding: 14rem 0 4.5rem 0;
+  }
   .hero-image{
     background-color: $dark;
     background-image: url(../images/hero-image-home-tablet.png);
     background-repeat: no-repeat;
     background-size: 33.333% auto;
     background-position: right;
-    height: 20rem;
-    width: 100%;
   }
 }
 

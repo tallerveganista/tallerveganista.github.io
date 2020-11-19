@@ -39,12 +39,12 @@ $medium-italic: 600i;
 $bold: 700;
 $bold-italic: 700i;
 
-$big-text: 1.2rem;
+$big-text: 1.44rem;
 $medium-text: 1.2rem;
 $small-text: 1rem;
 $micro-text: 0.833125rem;
 
-$big-line-height: 1.92rem;
+$big-line-height: 2.25rem;
 $medium-line-height: 1.92rem;
 $small-line-height: 1.6rem;
 
@@ -213,12 +213,14 @@ p{
   font-size: $medium-text;
   line-height: $medium-line-height;
   margin: 0;
+  font-weight: $regular;
 }
 
 .p-big{
   // p-xs-big: 19.2px / 30.2px
   font-size: $big-text;
   line-height: $big-line-height;
+  font-weight: $regular;
 }
 
 .p-small{
@@ -246,7 +248,7 @@ p{
   font-weight: $medium;
   display: inline-block;
   padding: .75rem 2rem;
-  border-radius: 25px;
+  border-radius: 50px;
   margin: 0;
   text-align: center;
   &:hover{
@@ -263,7 +265,7 @@ p{
 }
 
 .button-big, .link-big{
-  font-size: $big-text;
+  font-size: $medium-text;
 }
 
 .button-small, .link-small{
@@ -518,11 +520,24 @@ p{
   }
   & .p-big{
     // p-xs: 16px / 25.6px
-    font-size: $medium-text;
-    line-height: $medium-line-height;
+    font-size: $big-text;
+    line-height: $big-line-height;
   }
   & .text-box{
-    margin: 0 0 1.5rem 0;
+    margin: 0 0 2rem 0;
+  }
+}
+
+header{
+  & .down{
+    color: $brand-2;
+    font-size: 2rem;
+    display: inline-block;
+    position: relative;
+    top: 4rem;
+    &:hover{
+      color: $bright;
+    }
   }
 }
 
