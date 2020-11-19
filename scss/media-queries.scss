@@ -80,6 +80,15 @@ $small-line-height: 1.6rem;
   .button-wide-xs{
     display: inline-block;
   }
+  .hero-image{
+    background-color: $dark;
+    background-image: url(../images/hero-image-mobile-1-1.png);
+    background-repeat: no-repeat;
+    background-size: 33.333% auto;
+    background-position: right;
+    height: 20rem;
+    width: 100%;
+  }
 }
 
 // lg - from 962
@@ -90,5 +99,8 @@ $small-line-height: 1.6rem;
   }
   .hidden-lg{
     display: none;
+  }
+  .hero-image{
+    background-size: 50% auto;
   }
 }
