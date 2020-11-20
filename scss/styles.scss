@@ -503,8 +503,7 @@ p{
 .mobile-hero-image{
   background-color: $dark;
   background-image: url(../images/hero-image-mobile-1-1.png);
-  background-size: cover;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   height: 20rem;
   width: 100%;
@@ -534,13 +533,13 @@ p{
     margin: 0 0 2rem 0;
   }
   & .down{
-    color: $brand-2;
+    color: $bright;
     font-size: 2rem;
     display: inline-block;
     position: relative;
-    top: 4rem;
+    top: 5.5rem;
     &:hover{
-      color: $brand;
+      color: $brand-2;
     }
   }
 }

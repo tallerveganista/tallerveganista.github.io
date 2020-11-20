@@ -124,13 +124,14 @@ $small-line-height: 1.6rem;
     color: $bright;
     & h1{
       color: $bright;
+      margin: 14rem 0 1rem 0;
     }
   }
   .button-wide-xs{
     display: inline-block;
   }
   .index-header{
-    padding: 14rem 0 4.5rem 0;
+    padding: 8rem 0 6rem 0;
     margin: 0 auto 6rem auto;
   }
   .hero-image{
@@ -174,6 +175,84 @@ $small-line-height: 1.6rem;
   .hidden-lg{
     display: none;
   }
+  // Body
+  .index-body{
+    margin-top: -14rem;
+  }
+  // Main nav
+  .main-nav{
+    background-color: $transparent;
+    & .logo{
+      font-size: 8.5rem;
+      color: $bright;
+      &:hover{
+        color: $brand-2;
+      }
+    }
+    & ul{
+      & li{
+        margin-right: 1.2rem;
+        & a{
+          font-family: $sans-serif;
+          font-weight: $bold;
+          font-size: $medium-text;
+          color: $bright;
+          &:hover{
+            color: $brand-2;
+          }
+        }
+      }
+    }
+    & .social{
+      display: inline-block;
+      & li{
+        margin-right: 1rem;
+        &:last-child{
+          margin-right: 0;
+        }
+        & a{
+          font-size: $medium-text;
+        }
+      }
+    }
+  }
+  // Shrink nav
+  .shrink-nav{
+    background-color: $bright;
+    & ul{
+      margin-top: -.5rem;
+    }
+    & li{
+      margin-right: 1rem !important;
+      & a{
+        color: $dark !important;
+        font-size: $small-text !important;
+        &:hover{
+          color: $brand !important;
+        }
+      }
+    }
+    & .social{
+      position: relative;
+      top: .2rem;
+      & li{
+        margin-right: .75rem !important;
+      }
+    }
+    & .logo{
+      font-size: 1.5rem;
+      color: $dark;
+      &:hover{
+        color: $brand !important;
+      }
+      & span{
+        &:before{
+          content: "\e94b";
+        }
+      }
+    }
+  }
+  // header
   .header-wrapper{
     background-color: $dark;
   }
@@ -183,8 +262,8 @@ $small-line-height: 1.6rem;
     }
   }
   .index-header{
-    & .down{
-      left: 3.5rem;
+    & .text-box{
+      margin: 0 0 2.5rem 0;
     }
   }
   // Footer
@@ -192,7 +271,6 @@ $small-line-height: 1.6rem;
     & nav{
       margin: 0 0 .5rem 0;
       & li{
-        display: inline-block;
         margin-right: 1rem;
         &:last-child{
           margin-right: 0;
@@ -213,5 +291,10 @@ $small-line-height: 1.6rem;
   .hero-image{
     background-size: 50% auto;
     background-image: url(../images/hero-image-home-variant.png);
+  }
+  .index-header{
+    & .down{
+      left: 3.5rem;
+    }
   }
 }

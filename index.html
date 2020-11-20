@@ -12,12 +12,14 @@
     <!-- uikit JS -->
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit-icons.min.js"></script>
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <!-- icomoon -->
     <link rel="stylesheet" href="icomoon/style.css">
     <!-- flexbox Sass Grid -->
     <link rel="stylesheet" href="css/flexboxgrid.css">
+    <!-- jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- nav shrink -->
+    <script src="js/nav-shrink.js"></script>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
     <!-- icomoon -->
@@ -29,7 +31,7 @@
     <!-- Favico -->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   </head>
-  <body>
+  <body class="index-body">
 
     <!-- modal nav -->
     <div id="modal-nav" class="uk-modal-full" uk-modal>
@@ -98,6 +100,48 @@
     </nav>
     <!-- Main nav end -->
 
+    <!-- Main nav desk -->
+    <nav class="hidden-xs hidden-sm visible-lg main-nav" uk-sticky="bottom: #offset">
+      <!-- wrapper -->
+      <div class="wrapper container-fluid">
+        <!-- row -->
+        <div class="row middle-sm">
+          <!-- col -->
+          <div class="col-sm-5">
+            <nav>
+              <ul class="inline">
+                <li><a href="#">¿Por qué veganismo?</a></li>
+                <li><a href="#">Lecciones</a></li>
+              </ul>
+            </nav>
+          </div>
+          <!-- col end -->
+          <div class="col-sm-2 center-sm">
+            <a class="logo" href="#"><span class="icon icon-taller-veganista-logo"></span></a>
+          </div>
+          <!-- col -->
+          <!-- col -->
+          <div class="col-sm-5 end-sm">
+            <nav>
+              <ul class="inline">
+                <li><a href="#">Parches</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Correo</a></li>
+                <div class="social">
+                  <li><a href="#"><span class="icon icon-meetup"></span></a></li>
+                  <li><a href="#"><span class="icon icon-telegram"></span></a></li>
+                </div>
+              </ul>
+            </nav>
+          </div>
+          <!-- col end
+        </div> -->
+        <!-- row end -->
+      </div>
+      <!-- wrapper end -->
+    </nav>
+    <!-- Main nav desk end -->
+
     <!-- wrapper -->
     <div class="wrapper">
       <!-- Mobile hero image -->
@@ -156,6 +200,7 @@
       <!-- header end -->
     </div>
     <!-- wrapper-end -->
+    <!-- header end -->
 
     <!-- section -->
     <section class="content content-home">
@@ -317,7 +362,7 @@
           <!-- col -->
           <div class="col-xs-12">
             <nav>
-              <ul>
+              <ul class="inline">
                 <li><a href="#">Inicio</a></li>
                 <li><a href="#">¿Porqué veganismo?</a></li>
                 <li><a href="#">Lecciones</a></li>
