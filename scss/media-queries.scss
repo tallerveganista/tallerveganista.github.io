@@ -121,25 +121,28 @@ $small-line-height: 1.6rem;
   }
   // Header
   .index-header{
-    color: $bright;
+    color: $dark;
     & h1{
-      color: $bright;
-      margin: 14rem 0 1rem 0;
+      color: $dark;
+      margin: 0 0 1rem 0;
     }
   }
   .button-wide-xs{
     display: inline-block;
   }
   .index-header{
-    padding: 8rem 0 6rem 0;
-    margin: 0 auto 6rem auto;
+    padding: 1rem 0 1rem 0;
+    margin: 0 auto 2rem auto;
+    & .content-box{
+      margin: 0 0 3rem 0;
+    }
   }
-  .hero-image{
-    background-color: $dark;
-    background-image: url(../images/hero-image-home-tablet.png);
-    background-repeat: no-repeat;
-    background-size: 33.333% auto;
-    background-position: right;
+  .down{
+    color: $dark;
+    font-size: 2rem;
+    &:hover{
+      color: $brand-2;
+    }
   }
   // Content
   .content{
@@ -262,6 +265,14 @@ $small-line-height: 1.6rem;
     }
   }
   .index-header{
+    padding: 21rem 0 1rem 0;
+    margin: 0 0 6rem 0;
+    & h1, & p{
+      color: $bright;
+    }
+    & .content-box{
+      margin: 0 0 5.5rem 0;
+    }
     & .text-box{
       margin: 0 0 2.5rem 0;
     }
@@ -291,10 +302,7 @@ $small-line-height: 1.6rem;
   .hero-image{
     background-size: 50% auto;
     background-image: url(../images/hero-image-home-variant.png);
-  }
-  .index-header{
-    & .down{
-      left: 3.5rem;
-    }
+    background-repeat: no-repeat;
+    background-position: right;
   }
 }
