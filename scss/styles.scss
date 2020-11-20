@@ -533,9 +533,6 @@ p{
   & .text-box{
     margin: 0 0 2rem 0;
   }
-}
-
-header{
   & .down{
     color: $brand-2;
     font-size: 2rem;
@@ -543,7 +540,7 @@ header{
     position: relative;
     top: 4rem;
     &:hover{
-      color: $bright;
+      color: $brand;
     }
   }
 }
