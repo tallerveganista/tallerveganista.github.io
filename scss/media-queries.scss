@@ -197,6 +197,7 @@ $small-line-height: 1.6rem;
       }
     }
     & ul{
+      background-color: $dark;
       & li{
         margin-right: 1.2rem;
         & a{
@@ -232,6 +233,7 @@ $small-line-height: 1.6rem;
     // -moz-box-shadow: $box-shadow;
     & ul{
       margin-top: -.5rem;
+      background-color: $transparent;
     }
     & li{
       margin-right: 1rem !important;
