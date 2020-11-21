@@ -120,21 +120,25 @@ $small-line-height: 1.6rem;
     }
   }
   // Header
-  .index-header{
-    color: $dark;
-    & h1{
-      color: $dark;
-      margin: 0 0 1rem 0;
-    }
-  }
   .button-wide-xs{
     display: inline-block;
   }
   .index-header{
-    padding: 1rem 0 1rem 0;
-    margin: 0 auto 2rem auto;
+    padding: 0 0 1rem 0;
+    background-color: $dark;
+    background-image: url(../images/hero-image-home-tablet.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    & h1, & p{
+      color: $bright;
+    }
     & .content-box{
-      margin: 0 0 3rem 0;
+      margin: 6rem 0 2.5rem 0;
+      padding: 0 2rem 0 0;
+    }
+    & .text-box{
+      margin: 0 0 2.5rem 0;
     }
   }
   .down{
@@ -144,6 +148,7 @@ $small-line-height: 1.6rem;
       color: $brand-2;
     }
   }
+
   // Content
   .content{
     & .row{
@@ -178,13 +183,12 @@ $small-line-height: 1.6rem;
   .hidden-lg{
     display: none;
   }
-  // Body
-  .index-body{
-    margin-top: -14rem;
-  }
   // Main nav
   .main-nav{
     background-color: $transparent;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
     & .logo{
       font-size: 8.5rem;
       color: $bright;
@@ -219,9 +223,12 @@ $small-line-height: 1.6rem;
       }
     }
   }
-  // Shrink nav
+  // content-box nav
   .shrink-nav{
     background-color: $bright;
+    box-shadow: $box-shadow;
+    -webkit-box-shadow: $box-shadow;
+    -moz-box-shadow: $box-shadow;
     & ul{
       margin-top: -.5rem;
     }
@@ -255,27 +262,9 @@ $small-line-height: 1.6rem;
       }
     }
   }
-  // header
-  .header-wrapper{
-    background-color: $dark;
-  }
-  .content-home{
-    .wrapper{
-      max-width: 59.0625rem;
-    }
-  }
+  // Index
   .index-header{
-    padding: 21rem 0 1rem 0;
-    margin: 0 auto 6rem auto;
-    & h1, & p{
-      color: $bright;
-    }
-    & .content-box{
-      margin: 0 0 5.5rem 0;
-    }
-    & .text-box{
-      margin: 0 0 2.5rem 0;
-    }
+    background-image: url(../images/hero-image-home-variant.png);
   }
   // Footer
   footer{
@@ -300,10 +289,14 @@ $small-line-height: 1.6rem;
 
 // lg - from 1200
 @media only screen and (min-width: 75em) {
-  .hero-image{
-    background-size: 50% auto;
-    background-image: url(../images/hero-image-home-variant.png);
-    background-repeat: no-repeat;
-    background-position: right;
+  .index-header{
+    margin: 0 auto 6rem auto;
+    & .content-box{
+      margin: 7.5rem 0 4.5rem 0;
+      padding: 0 2rem 0 0;
+    }
+    & .text-box{
+      margin: 0 0 2.5rem 0;
+    }
   }
 }

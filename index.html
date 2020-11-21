@@ -31,7 +31,7 @@
     <!-- Favico -->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   </head>
-  <body class="index-body">
+  <body>
 
     <!-- modal nav -->
     <div id="modal-nav" class="uk-modal-full" uk-modal>
@@ -73,7 +73,7 @@
     </div>
     <!-- modal nav end -->
 
-    <!-- Main nav -->
+    <!-- Main nav mobile -->
     <nav uk-sticky="show-on-up: true" class="main-nav visible-xs visible-sm hidden-lg">
       <!-- wrapper -->
       <div class="wrapper container-fluid">
@@ -98,116 +98,84 @@
       </div>
       <!-- wrapper end -->
     </nav>
-    <!-- Main nav end -->
-
-    <!-- Main nav desk -->
-    <nav class="hidden-xs hidden-sm visible-lg main-nav" uk-sticky="bottom: #offset">
-      <!-- wrapper -->
-      <div class="wrapper container-fluid">
-        <!-- row -->
-        <div class="row middle-sm">
-          <!-- col -->
-          <div class="col-sm-5">
-            <nav>
-              <ul class="inline">
-                <li><a href="#">¿Por qué veganismo?</a></li>
-                <li><a href="#">Lecciones</a></li>
-              </ul>
-            </nav>
-          </div>
-          <!-- col end -->
-          <div class="col-sm-2 center-sm">
-            <a class="logo" href="#"><span class="icon icon-taller-veganista-logo"></span></a>
-          </div>
-          <!-- col -->
-          <!-- col -->
-          <div class="col-sm-5 end-sm">
-            <nav>
-              <ul class="inline">
-                <li><a href="#">Parches</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Correo</a></li>
-                <div class="social">
-                  <li><a href="#"><span class="icon icon-meetup"></span></a></li>
-                  <li><a href="#"><span class="icon icon-telegram"></span></a></li>
-                </div>
-              </ul>
-            </nav>
-          </div>
-          <!-- col end
-        </div> -->
-        <!-- row end -->
-      </div>
-      <!-- wrapper end -->
-    </nav>
-    <!-- Main nav desk end -->
-
-    <!-- wrapper -->
-    <div class="wrapper">
-      <!-- Mobile hero image -->
-      <div class="mobile-hero-image hidden-lg" uk-parallax="bgy: -30">
-      </div>
-      <!-- Mobile hero image end -->
-    </div>
-    <!-- wrapper end -->
+    <!-- Main nav mobile end -->
 
     <!-- header -->
-    <!-- wrapper -->
-    <div class="header-wrapper">
-      <!-- header -->
-      <header class="index-header hero-image wrapper-big" uk-parallax="bgy: -30">
+    <header class="index-header">
+      <!-- Main nav desk -->
+      <nav class="hidden-xs hidden-sm visible-lg main-nav" uk-sticky="bottom: #offset">
         <!-- wrapper -->
-        <div class="wrapper">
+        <div class="wrapper container-fluid">
           <!-- row -->
-          <div class="row">
+          <div class="row middle-sm">
             <!-- col -->
-            <div class="col-xs-12 col-sm-10 col-lg-6">
-                <!-- wrapper -->
-                <div class="wrapper container-fluid">
-                  <!-- row -->
-                  <div class="row">
-                    <!-- col -->
-                    <div class="col-xs-12 content-box">
-                      <h1>Veganismo<span class="break-xs hidden-sm hidden-lg"></span> sin miedo</h1>
-                      <!-- text-box -->
-                      <div class="text-box">
-                        <p class="p-big">Oponerse a la explotación y la violencia contra los animales es luchar por sociedad más justa. Acá está toda la información que necesitas para unirte a esta lucha desde tus hábitos de vida y tu participación ciudadana.</p>
-                      </div>
-                      <!-- text-box end -->
-                      <a class="button brand-background button-big button-wide-xs" href="#">Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora</a>
-                    </div>
-                    <!-- col end -->
-                  </div>
-                  <!-- row end -->
-                </div>
-                <!-- wrapper end -->
-              </div>
-            <!-- col end -->
-          </div>
-          <!-- row end -->
-          <!-- row -->
-          <div class="row hidden-xs visible-lg bottom-sm">
-            <!-- wrapper -->
-            <div class="wrapper container-fluid">
-              <!-- row -->
-              <div class="row">
-                <!-- col -->
-                <div class="col-xs-12 center-sm">
-                  <a class="down" href="#"><span class="icon icon-down"></span></a>
-                </div>
-                <!-- col-end -->
-              </div>
-              <!-- row end -->
+            <div class="col-sm-5">
+              <nav>
+                <ul class="inline">
+                  <li><a href="#">¿Por qué veganismo?</a></li>
+                  <li><a href="#">Lecciones</a></li>
+                </ul>
+              </nav>
             </div>
-            <!-- wrapper end -->
-          </div>
+            <!-- col end -->
+            <div class="col-sm-2 center-sm">
+              <a class="logo" href="#"><span class="icon icon-taller-veganista-logo"></span></a>
+            </div>
+            <!-- col -->
+            <!-- col -->
+            <div class="col-sm-5 end-sm">
+              <nav>
+                <ul class="inline">
+                  <li><a href="#">Parches</a></li>
+                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">Correo</a></li>
+                  <div class="social">
+                    <li><a href="#"><span class="icon icon-meetup"></span></a></li>
+                    <li><a href="#"><span class="icon icon-telegram"></span></a></li>
+                  </div>
+                </ul>
+              </nav>
+            </div>
+            <!-- col end
+          </div> -->
           <!-- row end -->
         </div>
         <!-- wrapper end -->
-      </header>
-      <!-- header end -->
-    </div>
-    <!-- wrapper-end -->
+      </nav>
+      <!-- Main nav desk end -->
+      <!-- wrapper hero image-->
+      <div class="wrapper hero-image hidden-sm">
+      </div>
+      <!-- wrapper hero image end -->
+      <!-- wrapper -->
+      <div class="wrapper container-fluid">
+        <!-- row -->
+        <div class="row">
+          <!-- col -->
+          <div class="col-xs-12 col-sm-6 col-lg-6 content-box">
+            <h1>Veganismo<span class="break hidden-lg"></span> sin miedo</h1>
+            <!-- text-box -->
+            <div class="text-box">
+              <p class="p-big">Oponerse a la explotación y la violencia contra los animales es luchar por sociedad más justa. Acá está toda la información que necesitas para unirte a esta lucha desde tus hábitos de vida y tu participación ciudadana.</p>
+            </div>
+            <!-- text-box end -->
+            <a class="button brand-background button-big button-wide-xs" href="#">Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora</a>
+          </div>
+          <!-- col end -->
+        </div>
+        <!-- row end -->
+        <!-- row -->
+        <div class="row center-sm hidden-xs visible-lg">
+          <!-- col -->
+          <div class="col-xs-12">
+            <a class="down" href="#"><span class="icon icon-down"></span> </a>
+          </div>
+          <!-- col end -->
+        </div>
+        <!-- row end -->
+      </div>
+      <!-- wrapper end -->
+    </header>
     <!-- header end -->
 
     <!-- section -->
@@ -218,7 +186,7 @@
         <!-- row what -->
         <div class="row">
           <!-- col -->
-          <div class="col-xs-12 col-sm-6">
+          <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5">
             <a href="#">
               <figure>
                 <img src="images/lessons-thumbnail.png" alt="">
@@ -227,7 +195,7 @@
           </div>
           <!-- col end -->
           <!-- col -->
-          <div class="col-xs-12 col-sm-6">
+          <div class="col-xs-12 col-sm-6 col-lg-5">
             <a href="#"><h3 class="link-heading">¿Qué es Taller Veganista?</h3></a>
             <!-- text-box -->
             <div class="text-box">
@@ -243,7 +211,7 @@
         <!-- row why -->
         <div class="row">
           <!-- col -->
-          <div class="col-xs-12 col-sm-6 last-sm">
+          <div class="col-xs-12 col-sm-6 col-lg-5 last-sm">
             <a href="#">
               <figure>
                 <img src="images/pig-thumbnail.png" alt="">
@@ -252,7 +220,7 @@
           </div>
           <!-- col end -->
           <!-- col -->
-          <div class="col-xs-12 col-sm-6">
+          <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5">
             <a href="#"><h3 class="link-heading">¿Porqué veganismo?</h3></a>
             <!-- text-box -->
             <div class="text-box">

@@ -151,7 +151,7 @@ ul{
   }
 }
 
-.break-xs{
+.break{
   display: block;
   content: '';
 }
@@ -500,27 +500,20 @@ p{
 
 // Mobile hero image
 
-.mobile-hero-image{
-  background-color: $dark;
-  background-image: url(../images/hero-image-mobile-1-1.png);
-  background-position: top;
-  background-repeat: no-repeat;
-  height: 20rem;
-  width: 100%;
-}
 // Index
 
 // header
 
-.wrapper-big{
-  max-width: 90rem;
-  margin: 0 auto;
-  box-sizing: border-box;
-}
-
 .index-header{
-  padding: 1rem 0 0 0;
   margin: 0 auto 3.5rem auto;
+  & .hero-image{
+    background-image: url(../images/hero-image-mobile-1-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24rem;
+    background-color: $dark;
+    margin-bottom: 1rem;
+  }
   & h1{
     margin-bottom: 1rem;
   }
