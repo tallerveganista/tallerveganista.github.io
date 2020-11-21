@@ -23,7 +23,8 @@ $gray-5: #313131;
 
 $transparent: rgba(0,0,0,0);
 $box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
-$transition: .7s ease;
+$transition: .4s ease;
+$transition-quick: .1s ease;
 
 // Type variables
 
@@ -359,11 +360,16 @@ p{
 // Nav
 
 .main-nav{
-  background-color: $bright;
+  // background-color: $bright;
+  background-color: $brand-2;
   padding: .5rem 0 .25rem 0;
-  box-shadow: $box-shadow;
-  -webkit-box-shadow: $box-shadow;
-  -moz-box-shadow: $box-shadow;
+  // box-shadow: $box-shadow;
+  // -webkit-box-shadow: $box-shadow;
+  // -moz-box-shadow: $box-shadow;
+  & a{
+    transition: $transition-quick;
+    -webkit-transition: $transition-quick;
+  }
   & li{
     margin-right: 1rem;
     font-size: 1.5rem;

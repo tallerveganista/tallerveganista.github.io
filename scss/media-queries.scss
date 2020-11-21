@@ -225,10 +225,11 @@ $small-line-height: 1.6rem;
   }
   // content-box nav
   .shrink-nav{
-    background-color: $bright;
-    box-shadow: $box-shadow;
-    -webkit-box-shadow: $box-shadow;
-    -moz-box-shadow: $box-shadow;
+    // background-color: $bright;
+    background-color: $brand-2;
+    // box-shadow: $box-shadow;
+    // -webkit-box-shadow: $box-shadow;
+    // -moz-box-shadow: $box-shadow;
     & ul{
       margin-top: -.5rem;
     }
@@ -238,7 +239,7 @@ $small-line-height: 1.6rem;
         color: $dark !important;
         font-size: $small-text !important;
         &:hover{
-          color: $brand !important;
+          color: $dark !important;
         }
       }
     }
@@ -253,7 +254,7 @@ $small-line-height: 1.6rem;
       font-size: 1.5rem;
       color: $dark;
       &:hover{
-        color: $brand !important;
+        color: $bright !important;
       }
       & span{
         &:before{
@@ -292,7 +293,7 @@ $small-line-height: 1.6rem;
   .index-header{
     margin: 0 auto 6rem auto;
     & .content-box{
-      margin: 7.5rem 0 4.5rem 0;
+      margin: 9rem 0 5.5rem 0;
       padding: 0 2rem 0 0;
     }
     & .text-box{
