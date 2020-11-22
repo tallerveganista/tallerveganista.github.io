@@ -353,7 +353,7 @@ p{
         width: 33%;
         height: .2rem;
         position: relative;
-        top: .7rem;
+        top: .65rem;
         margin: 0 auto;
       }
       &:hover{
@@ -364,11 +364,18 @@ p{
       }
     }
   }
-    & .active{
+  & .active{
       &:after{
         background-color: $dark;
       }
     }
+  & .social{
+    & a{
+      &:after{
+        top: .45rem;
+      }
+    }
+  }
 }
 
 // Icons
