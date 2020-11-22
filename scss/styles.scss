@@ -341,6 +341,36 @@ p{
   }
 }
 
+// Underline links
+
+.underline-links{
+  & li{
+    & a{
+      &:after{
+        content: "";
+        display: block;
+        background-color: $transparent;
+        width: 33%;
+        height: .2rem;
+        position: relative;
+        top: .7rem;
+        margin: 0 auto;
+      }
+      &:hover{
+        color: $dark;
+        &:after{
+          background-color: $dark !important;
+        }
+      }
+    }
+  }
+    & .active{
+      &:after{
+        background-color: $dark;
+      }
+    }
+}
+
 // Icons
 
 .icon-gallery{
@@ -369,6 +399,9 @@ p{
   & a{
     transition: $transition-quick;
     -webkit-transition: $transition-quick;
+    &:hover{
+      color: $dark;
+    }
   }
   & li{
     margin-right: 1rem;
@@ -377,34 +410,6 @@ p{
       margin-right: 0;
     }
   }
-}
-
-.underline-links{
-  & li{
-    & a{
-      &:after{
-        content: "";
-        display: block;
-        background-color: $transparent;
-        width: 30%;
-        height: 2px;
-        position: relative;
-        top: 1.4rem;
-        margin: 0 auto;
-      }
-      &:hover{
-        color: $dark;
-        &:after{
-          background-color: $dark;
-        }
-      }
-    }
-  }
-    & .active{
-      &:after{
-        background-color: $dark;
-      }
-    }
 }
 
 // Alert
