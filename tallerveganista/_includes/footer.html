@@ -1,0 +1,7 @@
+<h3>This is a big footer for {{ site.title }}</h3>
+
+{% for post in site.pages %}
+  <ul>
+    <li><a style="{% if page.url == 404.html %}display: none;{% endif %}" href="{{ post.url }}">{{ post.title }}</a></li>
+  </ul>
+{% endfor %}

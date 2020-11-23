@@ -1,0 +1,21 @@
+---
+layout: basic-structure
+---
+
+{% if page.title == "Second Post"%}
+  This is a second post :)
+{% elsif page.title == "First Post" %}
+  This is the first post :)
+{% else %}
+  This is not the first or the second :)
+{% endif %}
+
+<h2>{{ page.title }}</h2>
+
+{{ content }}
+
+{% for post in site.posts %}
+  <ul>
+    <li><a style="{% if page.url == post.url %}color: red;{% endif %}" href="{{ post.url }}">{{ post.title }}</a></li>
+  </ul>
+{% endfor %}
