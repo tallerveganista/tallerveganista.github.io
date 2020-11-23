@@ -359,7 +359,7 @@ p{
       &:hover{
         color: $dark;
         &:after{
-          background-color: $dark !important;
+          background-color: $brand-2;
         }
       }
     }
@@ -371,6 +371,11 @@ p{
     }
   & .social{
     & a{
+      &:hover{
+        &:after{
+          background-color: $transparent;
+        }
+      }
       &:after{
         top: .45rem;
       }

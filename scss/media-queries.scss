@@ -189,6 +189,9 @@ $small-line-height: 1.6rem;
     box-shadow: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
+    & .nav-right{
+      padding: 0 1rem;
+    }
     & .logo{
       font-size: 8.5rem;
       color: $bright;
@@ -242,6 +245,9 @@ $small-line-height: 1.6rem;
         font-size: $small-text !important;
         &:hover{
           color: $dark !important;
+          &:after{
+            background-color: $dark;
+          }
         }
       }
     }
@@ -250,6 +256,14 @@ $small-line-height: 1.6rem;
       top: .2rem;
       & li{
         margin-right: .75rem !important;
+      }
+      & a{
+        &:hover{
+          color: $bright !important;
+          &:after{
+            background-color: $transparent;
+          }
+        }
       }
     }
     & .logo{
@@ -295,7 +309,7 @@ $small-line-height: 1.6rem;
   .index-header{
     margin: 0 auto 6rem auto;
     & .content-box{
-      margin: 9rem 0 5.5rem 0;
+      margin: 7rem 0 3rem 0;
       padding: 0 2rem 0 0;
     }
     & .text-box{
