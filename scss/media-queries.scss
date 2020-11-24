@@ -24,6 +24,7 @@ $gray-5: #313131;
 $transparent: rgba(0,0,0,0);
 $box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
 $transition: .7s ease;
+$transition-quick: .4s ease;
 
 // Type variables
 
@@ -144,6 +145,8 @@ $small-line-height: 1.6rem;
   .down{
     color: $bright;
     font-size: 2rem;
+    -webkit-transition: $transition-quick;
+    transition: $transition-quick;
     &:hover{
       color: $brand-2;
     }
@@ -307,13 +310,31 @@ $small-line-height: 1.6rem;
 // lg - from 1200
 @media only screen and (min-width: 75em) {
   .index-header{
-    margin: 0 auto 6rem auto;
+    margin: 0 auto 5rem auto;
+    padding: 0;
+    height: 100vh;
     & .content-box{
-      margin: 7rem 0 3rem 0;
+      // margin: 7rem 0 3rem 0;
+      margin: 2rem 0 0 0;
       padding: 0 2rem 0 0;
     }
     & .text-box{
       margin: 0 0 2.5rem 0;
     }
+  }
+  .content-box-wrapper{
+    height: 100vh
+  }
+  .sixty-six-height{
+    height: 66vh;
+  }
+  .down-box{
+    position: absolute !important;
+    bottom: 1rem;
+    left: 50%;
+    margin-left: -1.5rem;
+    text-align: center;
+    z-index: 1;
+    // cursor: pointer;
   }
 }

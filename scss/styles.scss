@@ -23,8 +23,8 @@ $gray-5: #313131;
 
 $transparent: rgba(0,0,0,0);
 $box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
-$transition: .4s ease;
-$transition-quick: .1s ease;
+$transition: .7s ease;
+$transition-quick: .4s ease;
 
 // Type variables
 
@@ -64,6 +64,8 @@ body{
   font-weight: $regular;
   color: $dark;
   background-color: $bright;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 section{
@@ -618,7 +620,7 @@ footer{
     }
     & a{
       font-family: $sans-serif;
-      font-weight: $medium;
+      font-weight: $bold;
       font-size: $medium-text;
       color: $bright;
       &:hover{
