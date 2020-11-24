@@ -411,8 +411,8 @@ p{
   // -webkit-box-shadow: $box-shadow;
   // -moz-box-shadow: $box-shadow;
   & a{
-    transition: $transition-quick;
-    -webkit-transition: $transition-quick;
+    // transition: $transition-quick;
+    // -webkit-transition: $transition-quick;
     &:hover{
       color: $dark;
     }
