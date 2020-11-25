@@ -1,0 +1,145 @@
+---
+layout: basic-structure
+---
+
+{% include header-home.html %}
+
+<!-- section -->
+<section class="content content-home" id="scroll-to-content">
+  <!-- wrapper -->
+  <div class="wrapper container-fluid">
+
+    <!-- row what -->
+    <div class="row" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 100">
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5">
+        <a href="#">
+          <figure>
+            <img src="{{ "/assets/images/lessons-thumbnail.png" | relative_url }}" alt="{{ file.name }}">
+          </figure>
+        </a>
+      </div>
+      <!-- col end -->
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6 col-lg-5">
+        <a href="#"><h3 class="link-heading">¿Qué es Taller Veganista?</h3></a>
+        <!-- text-box -->
+        <div class="text-box">
+          <p>Taller Veganista es una iniciativa local dedicada a ayudar a las personas que están interesadas en ser veganas pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque abolicionista e interseccional.</p>
+        </div>
+        <!-- text-box end -->
+        <a class="link link-mid no-underline" href="#">Más sobre nosotros <span class="icon icon-long-arrow-right-light"></span></a>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+
+    <!-- row why -->
+    <div class="row" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 100">
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6 col-lg-5 last-sm">
+        <a href="#">
+          <figure>
+            <img src="{{ "/assets/images/pig-thumbnail.png" | relative_url }}" alt="{{ file.name }}" alt="">
+          </figure>
+        </a>
+      </div>
+      <!-- col end -->
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5" >
+        <a href="#"><h3 class="link-heading">¿Porqué veganismo?</h3></a>
+        <!-- text-box -->
+        <div class="text-box">
+          <p>Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que la vida y el cuerpo y la vida de los animales de otras especies me pertenece.</p>
+        </div>
+        <!-- text-box end -->
+        <a class="link link-mid no-underline" href="#">Artículo completo <span class="icon icon-long-arrow-right-light"></span></a>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+
+    <!-- row lessons -->
+    <div class="row center-sm preview-lessons" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 60">
+      <!-- col -->
+      <div class="col-xs-12 col-sm-10">
+        <a href="#"><h3 class="link-heading">Lecciones</h3></a>
+        <!-- text-box -->
+        <div class="text-box">
+          <p>X lecciones en las que aprenderás sobre consideraciones éticas relativas al veganismo, nutrición a base de plantas, impacto ambiental de las industrias de explotación animal y activismo por los derechos de los animales. Tendrás la posibilidad de conocer a más personas veganas de la ciudad.</p>
+        </div>
+        <!-- text-box end -->
+        <a class="button brand-background button-big button-wide-xs" href="#">Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora</a>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+
+    <!-- row -->
+    <div class="row preview-events-and-articles">
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 100">
+        <!-- prewiew-event-article -->
+        <div class="preview-event-article preview-event">
+          <h5>Para Parchar</h5>
+          <!-- thumbnail -->
+          <div class="big-thumbnail">
+            <a href="#">
+              <figure>
+                <img src="{{ "/assets/images/event-thumbnail.jpg" | relative_url }}" alt="{{ file.name }}">
+              </figure>
+            </a>
+            <p class="category">Negocios Veganos</p>
+            <a href="#">
+              <h4 class="link-heading">Inauguración Vegan Junk Bar Medellín</h4>
+            </a>
+            <!-- text-box -->
+            <div class="text-box">
+              <p>El lugar vegano más cool del mundo abre sus puertas en Medellín con una fiesta imperdible. Pintura en vivo, tatuajes, comida y la música de Rain Blow y Attack of Carrots. Para ir debes inscribirte en el sitio web Vegan Junk Bar Medellín <a class="link" href="#">www.veganjunkbarmedellin.com</a></p>
+            </div>
+            <!-- text-box end -->
+            <p class="author-date">6 ago / 2020</p>
+          </div>
+          <!-- thumbnail end -->
+        </div>
+        <!-- preview-event-article end -->
+      </div>
+      <!-- col end -->
+
+      <!-- col -->
+      <div class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 100">
+        <!-- prewiew-event-article -->
+        <div class="preview-event-article">
+          <h5>Para Leer</h5>
+          <!-- thumbnail -->
+          <div class="big-thumbnail">
+            <a href="#">
+              <figure>
+                <img src="{{ "/assets/images/article-thumbnail.jpg" | relative_url }}" alt="{{ file.name }}">
+              </figure>
+            </a>
+            <p class="category">Consideraciones Éticas</p>
+            <a href="#">
+              <h4 class="link-heading">¿Para quiénes es imposible el veganismo?</h4>
+            </a>
+            <!-- text-box -->
+            <div class="text-box">
+              <p>Un argumento que usan quienes rechazan el veganismo es que en algunas comunidades el acceso a la comida que crece de la tierra es limitado. Porque en la comunidad no existe la agricultura o los mercados se han reemplazado por tiendas de gasolinera y restaurantes de comida rápida.</p>
+            </div>
+            <!-- text-box end -->
+            <p class="author-date">Alejandro Narváez Isaza  |  12 oct / 2020</p>
+          </div>
+          <!-- thumbnail end -->
+        </div>
+        <!-- prewiew-event-article end -->
+      </div>
+      <!-- col end -->
+
+    </div>
+    <!-- row end -->
+
+  </div>
+  <!-- wrapper end -->
+
+</section>
+<!-- section content end -->

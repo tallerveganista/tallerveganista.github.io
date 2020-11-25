@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author }}">
+    <title>{{ site.title }} / {{ page.title }}</title>
+    <!-- Normalize -->
+    <link rel="stylesheet" href="{{ "/assets/css/normalize.css" | relative_url }}">
+    <!-- uikit CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/css/uikit.min.css" />
+    <!-- uikit JS -->
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.9/dist/js/uikit-icons.min.js"></script>
+    <!-- icomoon -->
+    <link rel="stylesheet" href="{{ "/assets/icomoon/style.css" | relative_url }}">
+    <!-- flexbox Sass Grid -->
+    <link rel="stylesheet" href="{{ "/assets/css/flexboxgrid.css" | relative_url }}">
+    <!-- jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- nav shrink -->
+    <script src="{{ "/assets/js/nav-shrink.js" | relative_url }}"></script>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+    <!-- Media queries -->
+    <link rel="stylesheet" href="{{ "/assets/css/media-queries.css" | relative_url }}">
+    <!-- Favico -->
+    <link rel="shortcut icon" href="{{ "assets/favicon.ico" | relative_url }}" type="image/x-icon">
+  </head>
+  <body>
+    {% include modal-nav.html %}
+
+    {% include main-nav-mobile.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    {% include smallchat.html %}
+  </body>
+</html>
