@@ -5,9 +5,9 @@ layout: basic-structure
 {% include header.html %}
 
 <!-- content -->
-<div class="content post-content">
+<div class="content content-post">
   <!-- wrapper -->
-  <div class="wrapper">
+  <div class="wrapper container-fluid">
     <!-- row -->
     <div class="row">
       <!-- col -->
@@ -19,10 +19,11 @@ layout: basic-structure
     </div>
     <!-- row end -->
     <!-- row -->
-    <div class="row">
+    <div class="row article-container">
       <!-- col -->
       <div class="col-xs-12 col-lg-offset-2 col-lg-8">
         {{ content }}
+        <a class="button brand-background button-big button-wide-xs" href="#">Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora</a>
       </div>
       <!-- col end -->
     </div>

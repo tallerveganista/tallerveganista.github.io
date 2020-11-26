@@ -523,7 +523,11 @@ p{
   opacity: 1;
 }
 
-// Mobile hero image
+.why-big-text{
+  margin: 0 0 2.5rem 0;
+  padding: 0 0 2rem 0;
+  border-bottom: 1px dotted $gray-2;
+}
 
 // Index
 
@@ -595,6 +599,30 @@ p{
     & .text-box{
       margin: 0 0 .75rem 0;
     }
+  }
+}
+
+// Posts
+
+.content-post{
+  padding: 0;
+  margin: 0 0 6rem 0;
+  & .row{
+    padding: 0 !important;
+    margin: 0 !important;
+    border-bottom: none;
+  }
+  & .article-container{
+    margin: 2rem 0 0 0 !important;
+    & p{
+      margin: 0 0 2rem 0;
+    }
+  }
+}
+
+.article-container{
+  & p:last-child{
+    margin-bottom: 4rem;
   }
 }
 
