@@ -243,6 +243,24 @@ p{
   color: $gray-4;
 }
 
+blockquote{
+  // p-xs-big: 19.2px / 30.2px
+  font-style: normal !important;
+  color: $dark !important;
+  & p{
+    font-size: $big-text;
+    line-height: $big-line-height;
+    color: $gray-4;
+  }
+}
+
+.letter-white-space{
+  &:after{
+    content: "-";
+    color: $transparent;
+  }
+}
+
 // Buttons
 
 .button{
@@ -606,7 +624,7 @@ p{
 
 .content-post{
   padding: 0;
-  margin: 0 0 6rem 0;
+  margin: 0 0 5.5rem 0;
   & .row{
     padding: 0 !important;
     margin: 0 !important;
@@ -617,12 +635,6 @@ p{
     & p{
       margin: 0 0 2rem 0;
     }
-  }
-}
-
-.article-container{
-  & p:last-child{
-    margin-bottom: 4rem;
   }
 }
 
