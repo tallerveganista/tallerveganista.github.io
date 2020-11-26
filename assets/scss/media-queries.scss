@@ -124,7 +124,7 @@ $small-line-height: 1.6rem;
   .button-wide-xs{
     display: inline-block;
   }
-  .index-header{
+  .index-header, .internal-header{
     padding: 0 0 1rem 0;
     background-color: $dark;
     background-image: url(../images/hero-image-home-tablet.png);
@@ -149,6 +149,42 @@ $small-line-height: 1.6rem;
     transition: $transition-quick;
     &:hover{
       color: $brand-2;
+    }
+  }
+
+  .internal-header{
+    background-color: $transparent;
+    background-image: none;
+    color: $dark;
+    & .main-nav{
+      & .logo{
+        color: $dark;
+        &:hover{
+          color: $brand;
+        }
+      }
+      & ul{
+        background-color: $transparent;
+        & a{
+          color: $dark;
+          &:hover{
+            color: $dark;
+            &:after{
+              background-color: $brand;
+            }
+          }
+        }
+      }
+      & .social{
+        & a{
+          &:hover{
+            color: $brand;
+            &:after{
+              background-color: $transparent;
+            }
+          }
+        }
+      }
     }
   }
 
@@ -286,6 +322,9 @@ $small-line-height: 1.6rem;
   .index-header{
     background-image: url(../images/hero-image-home-variant.png);
   }
+  .internal-header{
+    background-image: none;
+  }
   // Footer
   footer{
     & nav{
@@ -336,5 +375,8 @@ $small-line-height: 1.6rem;
     text-align: center;
     z-index: 1;
     // cursor: pointer;
+  }
+  .internal-header{
+    height: inherit;
   }
 }
