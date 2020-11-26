@@ -632,8 +632,14 @@ blockquote{
   }
   & .article-container{
     margin: 2rem 0 0 0 !important;
+    & .button{
+      margin: .5rem 0 0 0;
+    }
     & p{
       margin: 0 0 2rem 0;
+      &:last-child{
+        margin: 0 0 3rem 0;
+      }
     }
   }
 }
