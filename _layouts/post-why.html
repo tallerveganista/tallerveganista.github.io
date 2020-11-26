@@ -1,0 +1,26 @@
+---
+layout: basic-structure
+---
+
+{% include header.html %}
+
+<!-- content -->
+<div class="content post-content">
+  <!-- wrapper -->
+  <div class="wrapper">
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8 center-lg">
+        <h1>{{ page.title }}</h1>
+        <p class="author-date">{{ page.author }}</p>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+  </div>
+  <!-- wrapper end -->
+</div>
+<!-- content end -->
+
+{{ content }}

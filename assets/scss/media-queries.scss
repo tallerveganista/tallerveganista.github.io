@@ -165,7 +165,12 @@ $small-line-height: 1.6rem;
       }
       & ul{
         background-color: $transparent;
-        & a{
+        & .active{
+          &:after{
+            background-color: $brand;
+          }
+        }
+        & a, .active{
           color: $dark;
           &:hover{
             color: $dark;

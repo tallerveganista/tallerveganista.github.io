@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Second Post"
-date:   2020-11-22 17:30:35 -0500
+title:  Second Post
 categories: jekyll update
+permalink: /post-example/
 ---
-This is a second post
