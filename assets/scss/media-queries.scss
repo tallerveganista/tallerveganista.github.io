@@ -167,7 +167,7 @@ $small-line-height: 1.6rem;
         background-color: $transparent;
         & .active{
           &:after{
-            background-color: $brand;
+            background-color: $dark;
           }
         }
         & a, .active{
@@ -284,7 +284,12 @@ $small-line-height: 1.6rem;
     }
     & li{
       margin-right: 1rem !important;
-      & a{
+      & .active{
+        &:after{
+          background-color: $dark !important;
+        }
+      }
+      & a, .active{
         color: $dark !important;
         font-size: $small-text !important;
         &:hover{
