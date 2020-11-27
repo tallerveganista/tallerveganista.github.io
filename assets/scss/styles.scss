@@ -247,6 +247,7 @@ blockquote{
   // p-xs-big: 19.2px / 30.2px
   font-style: normal !important;
   color: $dark !important;
+  margin: 0;
   & p{
     font-size: $big-text;
     line-height: $big-line-height;
