@@ -10,7 +10,7 @@ Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vid
 
 ### ¿Qué es veganismo?
 
-Según la [Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}, veganismo es:
+Según la definición de [Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}, veganismo es:
 
 > "Una forma de vida que busca excluir, hasta donde sea posible y practicable, todas las formas de explotación de, o crueldad contra los animales para comida, ropa o cualquier otro propósito; y por extensión, promueve el desarrollo y uso de alternativas libres de animales para el beneficio de los animales, humanos y el ambiente. En términos dietarios denota la práctica de prescindir de todos los productos derivados total o parcialmente de animales."
 {: class="p-big"}
@@ -25,8 +25,8 @@ En la [lección uno](#){:target='_blank' class="link"} entenderás mejor que es 
 
 ### ¿Entonces porqué veganismo?
 
-![Gallina en una granja industrial _Jo -Anne McArthur _We Animals archive](/assets/images/why-veganism-article.jpg)
-[Hens confined in a battery cage on a factory farm. Jo -Anne McArthur. We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
+![Gallina en una granja industrial &#124; Jo -Anne McArthur &#124; We Animals archive](/assets/images/why-veganism-article.jpg)
+[Hens confined in a battery cage on a factory farm &nbsp; &#124; &nbsp; Jo -Anne McArthur &nbsp; &#124; &nbsp; We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
 
 
 Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si vemos a alguien haciéndolo. Los que hemos pasado tiempo con animales de estas especies, sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todos son alguien y no algo.
@@ -39,7 +39,7 @@ No necesitamos consumir cadáveres ni secreciones de animales, vestirnos con sus
   <iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[¿Por qué no ser vegano?. Macakiux. Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
+[¿Por qué no ser vegano? &nbsp; &#124; &nbsp; Macakiux &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
 Ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece a mi; así ese alguien sea de otra especie.
 
