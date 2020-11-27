@@ -83,29 +83,29 @@ layout: basic-structure
         <div class="preview-event-article preview-event">
           <h5>Para Parchar</h5>
           <!-- thumbnail -->
-          <div class="big-thumbnail">
-            <a href="/first-post/">
-              <figure>
-                <img src="">
-              </figure>
-            </a>
-            <a href="#">
-              <figure>
-                <img src="{{ "/assets/images/event-thumbnail.jpg" | relative_url }}" alt="{{ file.name }}">
-              </figure>
-            </a>
-            <p class="category">Negocios Veganos</p>
-            <a href="#">
-              <h4 class="link-heading">Inauguración Vegan Junk Bar Medellín</h4>
-            </a>
-            <!-- text-box -->
-            <div class="text-box">
-              <p>El lugar vegano más cool del mundo abre sus puertas en Medellín con una fiesta imperdible. Pintura en vivo, tatuajes, comida y la música de Rain Blow y Attack of Carrots. Para ir debes inscribirte en el sitio web Vegan Junk Bar Medellín <a class="link" href="#">www.veganjunkbarmedellin.com</a></p>
-            </div>
-            <!-- text-box end -->
-            <p class="author-date">6 ago / 2020</p>
-          </div>
-          <!-- thumbnail end -->
+          {% for post in site.posts %}
+            {% if post.tags contains 'highlight-event' %}
+              <!-- big-thumbnail -->
+              <div class="big-thumbnail">
+                <a href="{{ post.url }}">
+                  <figure>
+                    <img src="{{ post.image-landscape }}" alt="">
+                  </figure>
+                </a>
+                <p class="category">{{ post.categories }}</p>
+                <a href="#">
+                  <h4 class="link-heading">{{ post.title }}</h4>
+                </a>
+                <!-- text-box -->
+                <div class="text-box">
+                  <p>{{ post.excerpt }}</p>
+                </div>
+                <!-- text-box end -->
+                <p class="author-date">{{ post.author }} &nbsp; | &nbsp;{% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.date | date: "%d" }} / {{ post.date | date: "%Y" }}</p>
+              </div>
+              <!-- big thumbnail end -->
+            {% endif %}
+          {% endfor %}
         </div>
         <!-- preview-event-article end -->
       </div>
@@ -116,25 +116,29 @@ layout: basic-structure
         <!-- prewiew-event-article -->
         <div class="preview-event-article">
           <h5>Para Leer</h5>
-          <!-- thumbnail -->
-          <div class="big-thumbnail">
-            <a href="#">
-              <figure>
-                <img src="{{ "/assets/images/article-thumbnail.jpg" | relative_url }}" alt="{{ file.name }}">
-              </figure>
-            </a>
-            <p class="category">Consideraciones Éticas</p>
-            <a href="#">
-              <h4 class="link-heading">¿Para quiénes es imposible el veganismo?</h4>
-            </a>
-            <!-- text-box -->
-            <div class="text-box">
-              <p>Un argumento que usan quienes rechazan el veganismo es que en algunas comunidades el acceso a la comida que crece de la tierra es limitado. Porque en la comunidad no existe la agricultura o los mercados se han reemplazado por tiendas de gasolinera y restaurantes de comida rápida.</p>
-            </div>
-            <!-- text-box end -->
-            <p class="author-date">Alejandro Narváez Isaza  |  12 oct / 2020</p>
-          </div>
-          <!-- thumbnail end -->
+          {% for post in site.posts %}
+            {% if post.tags contains 'highlight-article' %}
+              <!-- big-thumbnail -->
+              <div class="big-thumbnail">
+                <a href="{{ post.url }}">
+                  <figure>
+                    <img src="{{ post.image-landscape }}" alt="">
+                  </figure>
+                </a>
+                <p class="category">{{ post.categories }}</p>
+                <a href="#">
+                  <h4 class="link-heading">{{ post.title }}</h4>
+                </a>
+                <!-- text-box -->
+                <div class="text-box">
+                  <p>{{ post.excerpt }}</p>
+                </div>
+                <!-- text-box end -->
+                <p class="author-date">{{ post.author }} &nbsp; | &nbsp;{% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.date | date: "%d" }} / {{ post.date | date: "%Y" }}</p>
+              </div>
+              <!-- big thumbnail end -->
+            {% endif %}
+          {% endfor %}
         </div>
         <!-- prewiew-event-article end -->
       </div>
