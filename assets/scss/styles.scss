@@ -426,7 +426,7 @@ blockquote{
   padding-bottom: 56.25%;
   padding-top: 0;
   height: 0;
-  margin: 3rem 0 .5rem 0;
+  margin: 3rem 0 0 0;
   & iframe, .video{
     position: absolute;
     top: 0;
@@ -437,7 +437,8 @@ blockquote{
 }
 
 .caption{
-  margin: 0 0 2rem 0;
+  display: block;
+  margin: .75rem 0 2rem 0;
   color: $dark;
   font-size: $small-text;
   &:hover{
@@ -658,7 +659,7 @@ blockquote{
     border-bottom: none;
   }
   & .article-container{
-    margin: 2rem 0 0 0 !important;
+    margin: 2rem 0 1rem 0 !important;
     & .button{
       margin: .5rem 0 0 0;
     }
@@ -667,6 +668,26 @@ blockquote{
       // &:last-child{
       //   margin: 0 0 3rem 0;
       // }
+    }
+  }
+}
+
+.prev-next{
+  & .visible-sm{
+    font-size: inherit;
+    display: inline;
+    margin: 0;
+  }
+  & .col-xs-6{
+    padding: 0;
+  }
+  & a{
+    & .margin-right{
+      margin-left: 0;
+      margin-right: .5rem;
+    }
+    &:hover{
+      text-decoration: none;
     }
   }
 }

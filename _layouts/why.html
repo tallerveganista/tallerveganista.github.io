@@ -13,7 +13,7 @@ layout: basic-structure
       <!-- col -->
       <div class="col-xs-12 col-lg-offset-2 col-lg-8 center-lg">
         <h1>{{ page.title }}</h1>
-        <p class="author-date">{{ page.author }}<span class="letter-white-space"> </span> | <span class="letter-white-space"> </span>{{ page.date | date_to_string }}</p>
+        <p class="author-date">{{ page.author }}<span class="letter-white-space"> </span> | <span class="letter-white-space"> </span>{{ page.date | date: '%b %d, %Y'}}</p>
       </div>
       <!-- col end -->
     </div>

@@ -1,5 +1,5 @@
 ---
-layout: post-why
+layout: why
 title:  ¿Por qué veganismo?
 date: 2020-11-26 11:48:00 -0500
 author: Alejandro Narváez Isaza
@@ -26,7 +26,7 @@ En la [lección uno](#){:target='_blank' class="link"} entenderás mejor que es 
 ### ¿Entonces porqué veganismo?
 
 ![Gallina en una granja industrial _Jo -Anne McArthur _We Animals archive](/assets/images/why-veganism-article.jpg)
-[_Jo -Anne McArthur _We Animals archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
+[Hens confined in a battery cage on a factory farm. Jo -Anne McArthur. We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
 
 
 Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si vemos a alguien haciéndolo. Los que hemos pasado tiempo con animales de estas especies, sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todos son alguien y no algo.
@@ -39,7 +39,7 @@ No necesitamos consumir cadáveres ni secreciones de animales, vestirnos con sus
   <iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[¿Porqué no ser vegano? _Macakiux. Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
+[¿Por qué no ser vegano?. Macakiux. Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
 Ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece a mi; así ese alguien sea de otra especie.
 

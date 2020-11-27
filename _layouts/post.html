@@ -1,0 +1,74 @@
+---
+layout: basic-structure
+---
+
+{% include header.html %}
+
+<!-- content -->
+<div class="content content-post">
+  <!-- wrapper -->
+  <div class="wrapper container-fluid">
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8 center-lg">
+        <p class="category">{{ page.categories }}</p>
+        <h1>{{ page.title }}</h1>
+        <p class="author-date">{{ page.author }}<span class="letter-white-space"> </span> | <span class="letter-white-space"> </span>{{ page.date | date: '%b %d, %Y'}}</p>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+    <!-- row -->
+    <div class="row article-container">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        {{ content }}
+      </div>
+      <!-- col-end  -->
+      <!-- col -->
+      <!-- <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <div class="blog-posts">
+          {% for post in site.posts %}
+          <div class="blog-post-spacing">
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p class="summary">
+              {{ post.category }}
+              <span class="date">
+                {{ post.date | date: '%b %d, %Y'}}
+              </span>
+            </p>
+            {{ post.excerpt }}
+          </div>
+          {% endfor %}
+        </div>
+      </div> -->
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <!-- row -->
+        <div class="row prev-next">
+          <div class="col-xs-6 inline">
+            {% if page.previous.url != nil %}
+              <a class="link link-mid" href="{{ page.previous.url }}"><span class="icon icon-long-arrow-left-light margin-right"></span> Anterior <span class="hidden-xs visible-sm">artículo</span></a>
+            {% endif%}
+          </div>
+          <div class="col-xs-6 inline end-xs">
+            {% if page.next.url != nil %}
+              <a class="link link-mid" href="{{ page.next.url }}">Siguiente <span class="hidden-xs visible-sm">artículo</span><span class="icon icon-long-arrow-right-light"></span></a>
+            {% endif %}
+          </div>
+        </div>
+        <!-- row end -->
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+  </div>
+  <!-- wrapper end -->
+</div>
+<!-- content end -->

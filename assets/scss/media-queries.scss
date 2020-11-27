@@ -216,9 +216,8 @@ $small-line-height: 1.6rem;
       border-bottom: none;
     }
   }
-
   .content-post{
-    margin: 0 0 6.5rem 0;
+    margin: 2rem 0 6.5rem 0;
   }
 }
 
@@ -339,6 +338,14 @@ $small-line-height: 1.6rem;
   .internal-header{
     background-image: none;
   }
+  .why-big-text{
+    margin: 0 0 4.5rem 0 !important;
+    padding: 0 0 4rem 0 !important;
+  }
+  // Posts
+  .content-post{
+    margin: -1rem 0 6.5rem 0;
+  }
   // Footer
   footer{
     & nav{
@@ -363,7 +370,7 @@ $small-line-height: 1.6rem;
 // lg - from 1200
 @media only screen and (min-width: 75em) {
   .index-header{
-    margin: 0 auto 5rem auto;
+    margin: 0 auto 6rem auto;
     padding: 0;
     height: 100vh;
     & .content-box{
