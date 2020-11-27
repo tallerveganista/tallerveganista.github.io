@@ -105,6 +105,13 @@ $small-line-height: 1.6rem;
       display: inline-block;
     }
   }
+  .prev-next{
+    & .long-word{
+      font-size: inherit;
+      display: inline;
+      margin: 0;
+    }
+  }
   // Main nav
   .main-nav{
     padding: .75rem 0 .5rem 0;

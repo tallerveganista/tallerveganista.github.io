@@ -673,10 +673,8 @@ blockquote{
 }
 
 .prev-next{
-  & .visible-sm{
-    font-size: inherit;
-    display: inline;
-    margin: 0;
+  & .long-word{
+    display: none;
   }
   & .col-xs-6{
     padding: 0;
