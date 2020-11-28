@@ -56,6 +56,7 @@ $micro-line-height: 1.6rem;
 @font-face {
   font-family: 'League Spartan Variable';
   src: url('../fonts/league-spartan/LeagueSpartan-VF.woff2') format('woff2-variations');
+  src: url('../fonts/league-spartan/LeagueSpartanVariable.ttf') format('truetype');
   font-weight: 200 900;
 }
 
@@ -63,7 +64,6 @@ $micro-line-height: 1.6rem;
     font-family: 'Fanwood';
     src: url('../fonts/fanwood_regular_macroman/Fanwood-webfont.eot');
     src: url('../fonts/fanwood_regular_macroman/Fanwood-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/fanwood_regular_macroman/Fanwood-webfont.woff2') format('woff2'),
          url('../fonts/fanwood_regular_macroman/Fanwood-webfont.woff') format('woff'),
          url('../fonts/fanwood_regular_macroman/Fanwood-webfont.ttf') format('truetype'),
          url('../fonts/fanwood_regular_macroman/Fanwood-webfont.svg#fanwoodregular') format('svg');
@@ -75,7 +75,6 @@ $micro-line-height: 1.6rem;
     font-family: 'fanwooditalic';
     src: url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.eot');
     src: url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.woff2') format('woff2'),
          url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.woff') format('woff'),
          url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.ttf') format('truetype'),
          url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.svg#fanwooditalic') format('svg');
@@ -461,6 +460,7 @@ blockquote{
   margin: .75rem 0 2rem 0;
   color: $dark;
   font-size: $micro-text;
+  line-height: $micro-line-height;
   // font-weight: $bold;
   &:hover{
     text-decoration: underline;
