@@ -40,15 +40,21 @@ $medium-italic: 600i;
 $bold: 700;
 $bold-italic: 700i;
 
+// https://www.modularscale.com/?16&px&1.2
 $big-text: 1.44rem;
 $medium-text: 1.2rem;
 $small-text: 1rem;
 $micro-text: 0.833125rem;
 
+// https://www.modularscale.com/?16&px&1.125
+$big-text-sans: 1.424rem;
+$medium-text-sans: 1.266rem;
+$small-text-sans: 1.125rem;
+$micro-text-sans: 1rem;
+
 $big-line-height: 2.25rem;
 $medium-line-height: 1.92rem;
 $small-line-height: 1.6rem;
-
 
 // xs - Up to 768px
 @media only screen and (max-width: 48em){
