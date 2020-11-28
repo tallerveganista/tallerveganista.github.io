@@ -114,7 +114,7 @@ $micro-line-height: 1.6rem;
   }
   // Main nav
   .main-nav{
-    padding: .75rem 0 .5rem 0;
+    padding: 1rem 0 .5rem 0;
     & li{
       & a{
         font-size: $big-text;
@@ -227,6 +227,15 @@ $micro-line-height: 1.6rem;
     margin: 2rem 0 6.5rem 0;
   }
   &.shrink-nav{
+    & .social{
+      & a{
+        &:hover{
+          &:after{
+            background-color: $transparent !important;
+          }
+        }
+      }
+    }
     & a, .active{
       &:hover{
         &:after{
