@@ -19,7 +19,7 @@ No todxs lxs veganxs aceptan esta definición al pie de la letra. Para mi, forma
 
 Mientras que actuar con base en creencias y costumbres es opcional, actuar con base en argumentos éticos sólidos es simplemente lo correcto y lo mínimo que deberíamos hacer. Política porque no estamos buscando excluirnos individualmente de participar en un sistema de explotación injusto y extremadamente violento sino que ese sistema se acabe.
 
-Otros cuestionan la parte de posible o practicable porque lo ven como una oportunidad para que una persona justifique su participación en la explotación de los animales ante cualquier dificultad. No todos pensamos igual y nuestras diferencias generan discusiones complejas e interesantes. Tomamos la decisión de ser veganxs porque estamos dispuestos a cuestionar el sistema de creencias convencional, y tenemos la disciplina para actuar en consecuencia, hasta donde podemos.
+Otros cuestionan la parte de posible o practicable porque lo ven como una oportunidad para que una persona justifique su participación directa en la explotación de los animales ante cualquier dificultad. No todos pensamos igual y nuestras diferencias generan discusiones complejas e interesantes. Tomamos la decisión de ser veganxs porque estamos dispuestos a cuestionar el sistema de creencias convencional, y tenemos la disciplina para actuar en consecuencia, hasta donde podemos.
 
 En la [lección uno](#){:target='_blank' class="link"} entenderás mejor que es veganismo, explorarás los argumentos que lo sustentan y conocerás algo de su historia.
 

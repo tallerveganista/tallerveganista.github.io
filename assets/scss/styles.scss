@@ -11,7 +11,7 @@
 // Color variables
 $brand: #FFB6C6;
 $brand-2: #B2FCE4;
-$dark: #000;
+$dark: #111;
 $bright: #FFFEFA;
 
 $gray-1: #f7f7f7;
@@ -670,7 +670,7 @@ blockquote{
 
 // Posts
 
-.content-post{
+.content-post, .content-lessons{
   padding: 0;
   margin: 2.5rem 0 4.5rem 0;
   & .row{

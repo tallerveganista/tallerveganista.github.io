@@ -11,7 +11,7 @@
 // Color variables
 $brand: #FFB6C6;
 $brand-2: #B2FCE4;
-$dark: #000;
+$dark: #111;
 $bright: #FFFEFA;
 
 $gray-1: #f7f7f7;
@@ -222,7 +222,7 @@ $micro-line-height: 1.6rem;
       border-bottom: none;
     }
   }
-  .content-post{
+  .content-post .content-lessons{
     margin: 2rem 0 6.5rem 0;
   }
   &.shrink-nav{
@@ -271,7 +271,8 @@ $micro-line-height: 1.6rem;
       }
     }
     & ul{
-      background-color: $dark;
+      // background-color: $dark;
+      // padding: .5rem 1rem;
       & li{
         margin-right: 1.2rem;
         & a{
@@ -367,7 +368,7 @@ $micro-line-height: 1.6rem;
     padding: 0 0 4rem 0 !important;
   }
   // Posts
-  .content-post{
+  .content-post, .content-lessons{
     margin: -1.5rem 0 6.5rem 0;
   }
   // Footer
