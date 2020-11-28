@@ -4,7 +4,7 @@ lesson-number: Lección 2
 tags: lesson
 category: lesson
 date: 2020-01-29 23:00:00
-title: Veganismo
+title: Introducción a la nutrición basada en plantas
 excerpt: Lección nutrición
 author: Tayrona Hoyos
 image: /assets/images/lessons/challenge-pics-12.jpg
