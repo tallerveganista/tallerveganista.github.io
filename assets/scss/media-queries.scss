@@ -29,7 +29,7 @@ $transition-quick: .4s ease;
 // Type variables
 
 $sans-serif: 'League Spartan Variable', sans-serif;
-$serif: 'Lusitana', serif;
+$serif: 'Fanwood', serif;
 
 $regular: 400;
 $regular-italic: 400i;
@@ -40,21 +40,15 @@ $medium-italic: 600i;
 $bold: 700;
 $bold-italic: 700i;
 
-// https://www.modularscale.com/?16&px&1.2
-$big-text: 1.44rem;
-$medium-text: 1.2rem;
-$small-text: 1rem;
-$micro-text: 0.833125rem;
+$big-text: 1.424rem;
+$medium-text: 1.266rem;
+$small-text: 1.125rem;
+$micro-text: 1rem;
 
-// https://www.modularscale.com/?16&px&1.125
-$big-text-sans: 1.424rem;
-$medium-text-sans: 1.266rem;
-$small-text-sans: 1.125rem;
-$micro-text-sans: 1rem;
-
-$big-line-height: 2.25rem;
-$medium-line-height: 1.92rem;
-$small-line-height: 1.6rem;
+$big-line-height: 2.2784rem;
+$medium-line-height: 2.0256rem;
+$small-line-height: 1.8rem;
+$micro-line-height: 1.6rem;
 
 // xs - Up to 768px
 @media only screen and (max-width: 48em){
@@ -123,7 +117,7 @@ $small-line-height: 1.6rem;
     padding: .75rem 0 .5rem 0;
     & li{
       & a{
-        font-size: 1.5rem;
+        font-size: $big-text;
       }
     }
   }
@@ -231,6 +225,15 @@ $small-line-height: 1.6rem;
   }
   .content-post{
     margin: 2rem 0 6.5rem 0;
+  }
+  &.shrink-nav{
+    & a, .active{
+      &:hover{
+        &:after{
+          background-color: $dark !important;
+        }
+      }
+    }
   }
 }
 
