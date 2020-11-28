@@ -183,6 +183,10 @@ ul{
   content: '';
 }
 
+.p-space{
+  margin: 0 0 2rem 0;
+}
+
 // Columns
 
 .box-row{
@@ -259,7 +263,7 @@ p{
 .category{
   text-transform: uppercase;
   font-size: $micro-text;
-  letter-spacing: 0.2rem;
+  letter-spacing: 0.12rem;
 }
 
 .author-date{
@@ -695,6 +699,17 @@ blockquote{
   }
 }
 
+.content-lessons{
+  margin: 2.5rem 0 2.5rem 0;
+  & h1{
+    margin: 0 0 2rem 0;
+  }
+  & .article-container{
+    margin: 0 !important;
+    border-bottom: 1px dotted $gray-2;
+  }
+}
+
 .prev-next{
   & .long-word{
     display: none;
@@ -712,6 +727,7 @@ blockquote{
     }
   }
 }
+
 
 // Footer
 

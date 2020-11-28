@@ -1,0 +1,23 @@
+<!-- lessons-gallery -->
+<div class="wrapper container-fluid">
+  <!-- row -->
+    <ul class="row" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 100">
+      {% for post in site.posts reversed%}
+        {% if post.tags contains 'lesson' %}
+          <li class="col-xs-12 col-sm-6 col-lg-3">
+            <a href="{{ post.url }}">
+              <figure>
+                <img src="{{ post.image }}" alt="">
+              </figure>
+              <p class="category">{{ post.lesson-number }}</p>
+              <h4>{{ post.title }}</h4>
+              <p>{{ post.excerpt }}</p>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  <!-- row end -->
+</div>
+
+<!-- lessons-gallery end -->
