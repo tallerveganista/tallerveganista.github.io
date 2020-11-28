@@ -710,6 +710,27 @@ blockquote{
   }
 }
 
+.lessons-gallery{
+  margin: 0 0 2.5rem 0;
+  & li{
+    margin: 0 0 2rem 0;
+    & a{
+      color: inherit;
+      &:hover{
+        & h4{
+          color: $brand;
+        }
+      }
+    }
+    & figure{
+      margin: 0 0 1rem 0;
+    }
+    & h4{
+      margin: 0 0 .5rem 0;
+    }
+  }
+}
+
 .prev-next{
   & .long-word{
     display: none;

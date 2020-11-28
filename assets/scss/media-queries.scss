@@ -364,6 +364,18 @@ $micro-line-height: 1.6rem;
   .content-post, .content-lessons{
     margin: -1.5rem 0 6.5rem 0;
   }
+  .content-lessons{
+    margin-bottom: 4.5rem;
+    & .article-container{
+      padding-bottom: 2.5rem !important;
+    }
+  }
+  .lessons-gallery{
+    & li{
+      margin: 0 0 4rem 0;
+    }
+  }
+
   // Footer
   footer{
     & nav{
