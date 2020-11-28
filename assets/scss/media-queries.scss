@@ -9,9 +9,8 @@
 // Variables
 
 // Color variables
-$brand: #8441FD;
+$brand: #FFB6C6;
 $brand-2: #B2FCE4;
-$brand-3: #FF5252;
 $dark: #000;
 $bright: #FFFEFA;
 
@@ -336,7 +335,7 @@ $micro-line-height: 1.6rem;
       }
       & a{
         &:hover{
-          color: $bright !important;
+          // color: $bright !important;
           &:after{
             background-color: $transparent;
           }
@@ -347,7 +346,7 @@ $micro-line-height: 1.6rem;
       font-size: 1.5rem;
       color: $dark;
       &:hover{
-        color: $bright !important;
+        color: $dark !important;
       }
       & span{
         &:before{
