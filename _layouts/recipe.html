@@ -37,9 +37,13 @@ layout: basic-structure
         <!-- row -->
         <div class="row prev-next">
           <div class="col-xs-6 inline">
-            <a class="link link-mid" href="{{ page.lesson-url }}"><span class="icon icon-long-arrow-left-light margin-right"></span> Vuelve a la {{ page.lesson-number }}</a>
+            <a class="link link-mid" href="{{ page.lesson-url }}"><span class="icon icon-long-arrow-left-light margin-right"></span>{{ page.lesson-number }}</a>
           </div>
-          <!-- <div class="col-xs-6 inline">
+        </div>
+        <!-- row end -->
+        <!-- row -->
+        <!-- <div class="row prev-next">
+          <div class="col-xs-6 inline">
             {% if page.previous.url != nil and page.previous.tags contains 'recipe'%}
               <a class="link link-mid" href="{% if page.previous.tags contains 'recipe' %}{{ page.previous.url }}{% endif %}"><span class="icon icon-long-arrow-left-light margin-right"></span> Anterior</a>
             {% endif %}
@@ -48,8 +52,8 @@ layout: basic-structure
             {% if page.next.url != nil and page.next.tags contains 'recipe'%}
               <a class="link link-mid" href="{% if page.next.tags contains 'recipe' %}{{ page.next.url }}{% endif %}">Siguiente<span class="icon icon-long-arrow-right-light"></span></a>
             {% endif %}
-          </div> -->
-        </div>
+          </div>
+        </div> -->
         <!-- row end -->
       </div>
       <!-- col end -->

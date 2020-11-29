@@ -5,6 +5,7 @@ tags: ['lesson']
 title: Veganismo
 date: 2020-11-28 16:00:00
 excerpt: Lección veganismo
+recipe-introduction: Revisa los ingredientes que necesitatas y preparaciones previas antes de empezar las recetas. Hoy te presentamos dos opciones para desayunos.
 author: Tayrona Hoyos
 image: /assets/images/lessons/challenge-pics-01.jpg
 permalink: /leccion-veganismo/

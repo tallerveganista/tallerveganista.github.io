@@ -35,8 +35,10 @@ layout: basic-structure
       <!-- row -->
       <div class="row">
         <div class="col-xs-12 col-lg-offset-2 col-lg-8">
-          <h3>Recetas</h3>
-          <p>Revisa los ingredientes que necesitatas y preparaciones previas antes de empezar las recetas. Hoy te presentamos dos opciones para desayunos.</p>
+          {% if page.recipe-introduction != nil %}
+            <h3>Recetas</h3>
+          {% endif%}
+          <p>{{ page.recipe-introduction }}</p>
         </div>
       </div>
       <!-- row end -->
