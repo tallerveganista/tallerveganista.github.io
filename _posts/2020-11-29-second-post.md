@@ -1,12 +1,11 @@
 ---
 layout: post
 categories: [Negocios Veganos]
-tags: highlight-event
-title: Second Post
+tags: ['highlight-article', 'article']
+title: Second-post
 excerpt: El lugar vegano más cool del mundo abre sus puertas en Medellín con una fiesta imperdible. Pintura en vivo, tatuajes, comida y la música de Rain Blow y Attack of Carrots. Para ir debes inscribirte en el sitio web
 author: Tayrona Hoyos
-date: 2020-11-28 20:00:00
-image-landscape: /assets/images/event-thumbnail.jpg
+image-landscape: /assets/images/article-thumbnail.jpg
 permalink: /second-post/
 description: La mera descripción.
 ---
