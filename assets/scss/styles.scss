@@ -672,6 +672,22 @@ blockquote{
   }
 }
 
+.big-thumbnail{
+  & a{
+    &:hover{
+      & h4{
+        color: $brand;
+      }
+      & p{
+        color: $dark;
+      }
+      & .author-date{
+        color: $gray-4;
+      }
+    }
+  }
+}
+
 // Posts
 
 .content-post, .content-lessons{

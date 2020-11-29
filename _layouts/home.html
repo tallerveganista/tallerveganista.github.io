@@ -85,25 +85,23 @@ layout: basic-structure
           <!-- thumbnail -->
           {% for post in site.posts %}
             {% if post.tags contains 'highlight-event' %}
-              <!-- big-thumbnail -->
-              <div class="big-thumbnail">
-                <a href="{{ post.url }}">
-                  <figure>
-                    <img src="{{ post.image-landscape }}" alt="">
-                  </figure>
-                </a>
+            <!-- big-thumbnail -->
+            <div class="big-thumbnail">
+              <a href="{{ post.url }}">
+                <figure>
+                  <img src="{{ post.image-landscape }}" alt="">
+                </figure>
                 <p class="category">{{ post.categories }}</p>
-                <a href="{{ post.url }}">
-                  <h4 class="link-heading">{{ post.title }}</h4>
-                </a>
+                <h4 class="link-heading">{{ post.title }}</h4>
                 <!-- text-box -->
                 <div class="text-box">
                   <p>{{ post.excerpt }}</p>
                 </div>
                 <!-- text-box end -->
-                <p class="author-date">{{ post.author }} &nbsp; | &nbsp;{% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.date | date: "%d" }} / {{ post.date | date: "%Y" }}</p>
-              </div>
-              <!-- big thumbnail end -->
+                <p class="author-date">{{ post.author }} &nbsp; | &nbsp;{% assign m = post.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.date | date: "%d" }} / {{ post.date | date: "%Y" }}</p>
+              </a>
+            </div>
+            <!-- big thumbnail end -->
             {% endif %}
           {% endfor %}
         </div>
@@ -124,17 +122,15 @@ layout: basic-structure
                   <figure>
                     <img src="{{ post.image-landscape }}" alt="">
                   </figure>
-                </a>
-                <p class="category">{{ post.categories }}</p>
-                <a href="{{ post.url }}">
+                  <p class="category">{{ post.categories }}</p>
                   <h4 class="link-heading">{{ post.title }}</h4>
+                  <!-- text-box -->
+                  <div class="text-box">
+                    <p>{{ post.excerpt }}</p>
+                  </div>
+                  <!-- text-box end -->
+                  <p class="author-date">{{ post.author }} &nbsp; | &nbsp;{% assign m = post.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.date | date: "%d" }} / {{ post.date | date: "%Y" }}</p>
                 </a>
-                <!-- text-box -->
-                <div class="text-box">
-                  <p>{{ post.excerpt }}</p>
-                </div>
-                <!-- text-box end -->
-                <p class="author-date">{{ post.author }} &nbsp; | &nbsp;{% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.date | date: "%d" }} / {{ post.date | date: "%Y" }}</p>
               </div>
               <!-- big thumbnail end -->
             {% endif %}

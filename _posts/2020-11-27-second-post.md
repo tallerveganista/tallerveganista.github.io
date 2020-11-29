@@ -3,8 +3,9 @@ layout: post
 categories: [Negocios Veganos]
 tags: highlight-event
 title: Second Post
-excerpt: El lugar vegano más cool del mundo abre sus puertas en Medellín con una fiesta imperdible. Pintura en vivo, tatuajes, comida y la música de Rain Blow y Attack of Carrots. Para ir debes inscribirte en el sitio web  <a href="https://www.veganjunkfoodbar.com/" target="_blank" class="link">Vegan Junk Bar Medellín</a>
+excerpt: El lugar vegano más cool del mundo abre sus puertas en Medellín con una fiesta imperdible. Pintura en vivo, tatuajes, comida y la música de Rain Blow y Attack of Carrots. Para ir debes inscribirte en el sitio web
 author: Tayrona Hoyos
+date: 2020-11-28 20:00:00
 image-landscape: /assets/images/event-thumbnail.jpg
 permalink: /second-post/
 description: La mera descripción.
