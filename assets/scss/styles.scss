@@ -766,13 +766,16 @@ blockquote{
   & p{
     margin: 0 0 2rem 0;
   }
-  & .border-line{
+  & .border-line-top{
     border-top: $border-line;
     padding: 2rem 0 0 0;
   }
+  & .border-line-bottom{
+    border-bottom: $border-line;
+  }
   & .no-side-spaces{
-    margin: 0 auto;
-    padding: 0;
+    margin: 0 auto 2rem auto;
+    padding: 0 0 1rem 0;
   }
   & li{
     &:nth-child(odd){
@@ -780,6 +783,19 @@ blockquote{
     }
     &:nth-child(even){
       padding-right: 0;
+    }
+  }
+}
+
+.recipe-thumbnail{
+  & a{
+    &:hover{
+      & h5{
+        color: $brand;
+      }
+      & p{
+        color: $dark;
+      }
     }
   }
 }

@@ -34,7 +34,7 @@ layout: basic-structure
     <div class="recipes">
       <!-- row -->
       <div class="row">
-        <div class="col-xs-12 col-lg-offset-2 col-lg-8 border-line">
+        <div class="col-xs-12 col-lg-offset-2 col-lg-8 border-line-top">
           {% if page.recipe-introduction != nil %}
             <h3>Recetas</h3>
           {% endif%}
@@ -45,7 +45,7 @@ layout: basic-structure
       <!-- row  -->
       <div class="row">
         <!-- col -->
-        <div class="col-xs-12 col-lg-offset-2 col-sm-8 no-side-spaces">
+        <div class="col-xs-12 col-lg-offset-2 col-sm-8 no-side-spaces border-line-bottom">
           <!-- row -->
           <ul class="row">
             {% for post in site.posts %}
@@ -59,7 +59,7 @@ layout: basic-structure
                         <img src="{{ post.image-landscape }}" alt="">
                       </figure>
                       <h5>{{ post.title }}</h5>
-                      <p>{{ post.excerpt }}</p>
+                      <p class="p-small">{{ post.excerpt }}</p>
                     </a>
                   </div>
                   <!-- recipe thumbnail end -->
