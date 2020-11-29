@@ -366,14 +366,24 @@ $micro-line-height: 1.6rem;
   }
   .content-lessons{
     margin-bottom: 4rem;
+    padding: 0;
     & .article-container{
-      padding-bottom: 1rem !important;
+      padding: 0 0 1rem 0 !important;
     }
   }
   .lessons-gallery{
     & li{
       margin: 0 0 4rem 0;
     }
+  }
+
+  .scroll-down{
+    margin-top: -2.5rem;
+    display: block;
+    color: $dark;
+    font-size: 2rem;
+    -webkit-transition: $transition-quick;
+    transition: $transition-quick;
   }
 
   // Footer
@@ -415,8 +425,8 @@ $micro-line-height: 1.6rem;
   .content-box-wrapper{
     height: 100vh
   }
-  .sixty-six-height{
-    height: 66vh;
+  .fake-height{
+    height: 56vh;
   }
   .down-box{
     position: absolute !important;
