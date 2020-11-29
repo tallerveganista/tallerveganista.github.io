@@ -22,6 +22,9 @@ $gray-5: #313131;
 
 $transparent: rgba(0,0,0,0);
 $box-shadow: -1px -1px 17px -2px rgba(0,0,0,0.13);
+
+$border-line: 1px dotted $gray-2;
+
 $transition: .7s ease;
 $transition-quick: .4s ease;
 
@@ -600,7 +603,7 @@ blockquote{
 .why-big-text{
   margin: 0 0 2.5rem 0;
   padding: 0 0 2rem 0;
-  border-bottom: 1px dotted $gray-2;
+  border-bottom: $border-line;
 }
 
 // Index
@@ -636,7 +639,7 @@ blockquote{
   & .row{
     padding: 0 0 2rem 0;
     margin: 0 0 2.5rem 0;
-    border-bottom: 1px dotted $gray-2;
+    border-bottom: $border-line;
   }
   & figure{
     margin: 0 0 1.5rem 0;
@@ -659,7 +662,7 @@ blockquote{
   }
   & .preview-event{
     padding: 0 0 2rem 0;
-    border-bottom: 1px dotted $gray-2;
+    border-bottom: $border-line;
   }
   & .preview-event-article{
     margin: 0 0 2rem 0;
@@ -731,7 +734,7 @@ blockquote{
   }
   & .article-container{
     margin: 0 !important;
-    border-bottom: 1px dotted $gray-2;
+    border-bottom: $border-line;
   }
 }
 
@@ -752,6 +755,31 @@ blockquote{
     }
     & h4{
       margin: 0 0 .5rem 0;
+    }
+  }
+}
+
+.recipes{
+  & h3{
+    margin: 0 0 1rem 0;
+  }
+  & p{
+    margin: 0 0 2rem 0;
+  }
+  & .border-line{
+    border-top: $border-line;
+    padding: 2rem 0 0 0;
+  }
+  & .no-side-spaces{
+    margin: 0 auto;
+    padding: 0;
+  }
+  & li{
+    &:nth-child(odd){
+      padding-left: 0;
+    }
+    &:nth-child(even){
+      padding-right: 0;
     }
   }
 }

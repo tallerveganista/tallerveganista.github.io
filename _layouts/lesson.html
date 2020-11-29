@@ -34,7 +34,7 @@ layout: basic-structure
     <div class="recipes">
       <!-- row -->
       <div class="row">
-        <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <div class="col-xs-12 col-lg-offset-2 col-lg-8 border-line">
           {% if page.recipe-introduction != nil %}
             <h3>Recetas</h3>
           {% endif%}
@@ -45,7 +45,7 @@ layout: basic-structure
       <!-- row  -->
       <div class="row">
         <!-- col -->
-        <div class="col-xs-12 col-lg-offset-2 col-sm-8">
+        <div class="col-xs-12 col-lg-offset-2 col-sm-8 no-side-spaces">
           <!-- row -->
           <ul class="row">
             {% for post in site.posts %}
