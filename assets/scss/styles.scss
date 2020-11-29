@@ -61,24 +61,24 @@ $micro-line-height: 1.6rem;
 
 @font-face {
     font-family: 'Fanwood';
-    src: url('../fonts/fanwood_regular_macroman/Fanwood-webfont.eot');
-    src: url('../fonts/fanwood_regular_macroman/Fanwood-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/fanwood_regular_macroman/Fanwood-webfont.woff') format('woff'),
-         url('../fonts/fanwood_regular_macroman/Fanwood-webfont.ttf') format('truetype'),
-         url('../fonts/fanwood_regular_macroman/Fanwood-webfont.svg#fanwoodregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
+    src: url('../fonts/fanwood-regular/fanwood-webfont.eot');
+    src: url('../fonts/fanwood-regular/fanwood-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fanwood-regular/fanwood-webfont.woff') format('woff'),
+         url('../fonts/fanwood-regular/fanwood-webfont.ttf') format('truetype'),
+         url('../fonts/fanwood-regular/fanwood-webfont.svg#fanwoodregular') format('svg');
+    // font-weight: normal;
+    // font-style: normal;
 }
 
 @font-face {
     font-family: 'fanwooditalic';
-    src: url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.eot');
-    src: url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.woff') format('woff'),
-         url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.ttf') format('truetype'),
-         url('../fonts/fanwood_italic_macroman/Fanwood-Italic-webfont.svg#fanwooditalic') format('svg');
-    font-weight: normal;
-    font-style: italic;
+    src: url('../fonts/fanwood-italic/fanwood-Italic-webfont.eot');
+    src: url('../fonts/fanwood-italic/fanwood-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fanwood-italic/fanwood-Italic-webfont.woff') format('woff'),
+         url('../fonts/fanwood-italic/fanwood-Italic-webfont.ttf') format('truetype'),
+         url('../fonts/fanwood-italic/fanwood-Italic-webfont.svg#fanwooditalic') format('svg');
+    // font-weight: normal;
+    // font-style: italic;
 }
 
 // General
@@ -103,6 +103,10 @@ a{
     color: $brand;
     text-decoration: none;
   }
+}
+
+em{
+  color: $dark;
 }
 
 .underline{

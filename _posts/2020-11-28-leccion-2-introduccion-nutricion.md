@@ -1,8 +1,7 @@
 ---
 layout: lesson
 lesson-number: Lección 2
-tags: lesson
-category: lesson
+tags: ['lesson']
 date: 2020-11-28 17:00:00
 title: Introducción a la nutrición basada en plantas
 excerpt: Lección nutrición

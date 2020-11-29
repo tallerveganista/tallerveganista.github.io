@@ -1,8 +1,7 @@
 ---
 layout: lesson
 lesson-number: Lección 1
-tags: lesson
-category: lesson
+tags: ['lesson']
 title: Veganismo
 date: 2020-11-28 16:00:00
 excerpt: Lección veganismo

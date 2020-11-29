@@ -30,6 +30,49 @@ layout: basic-structure
       <!-- col-end  -->
     </div>
     <!-- row end -->
+    <!-- recipes -->
+    <div class="recipes">
+      <!-- row -->
+      <div class="row">
+        <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+          <h3>Recetas</h3>
+          <p>Revisa los ingredientes que necesitatas y preparaciones previas antes de empezar las recetas. Hoy te presentamos dos opciones para desayunos.</p>
+        </div>
+      </div>
+      <!-- row end -->
+      <!-- row  -->
+      <div class="row">
+        <!-- col -->
+        <div class="col-xs-12 col-lg-offset-2 col-sm-8">
+          <!-- row -->
+          <ul class="row">
+            {% for post in site.posts %}
+              {% if post.tags contains 'recipe' and page.lesson-number == post.lesson-number %}
+                <!-- col -->
+                <li class="col-xs-12 col-sm-6">
+                  <!-- recipe thumbnail -->
+                  <div class="recipe-thumbnail">
+                    <a href="{{ post.url }}">
+                      <figure>
+                        <img src="{{ post.image-landscape }}" alt="">
+                      </figure>
+                      <h5>{{ post.title }}</h5>
+                      <p>{{ post.excerpt }}</p>
+                    </a>
+                  </div>
+                  <!-- recipe thumbnail end -->
+                </li>
+                <!-- col end -->
+              {% endif %}
+            {% endfor %}
+          </ul>
+          <!-- row end -->
+        </div>
+        <!-- col end -->
+      </div>
+      <!-- row end -->
+    </div>
+    <!-- recipes end -->
     <!-- row -->
     <div class="row">
       <!-- col -->
@@ -38,12 +81,12 @@ layout: basic-structure
         <div class="row prev-next">
           <div class="col-xs-6 inline">
             {% if page.previous.url != nil and page.previous.tags contains 'lesson'%}
-              <a class="link link-mid" href="{% if page.previous.tags contains 'lesson'%}{{ page.previous.url }}{% endif %}"><span class="icon icon-long-arrow-left-light margin-right"></span> Anterior</a>
+              <a class="link link-mid" href="{% if page.previous.tags contains 'lesson' %}{{ page.previous.url }}{% endif %}"><span class="icon icon-long-arrow-left-light margin-right"></span> Anterior</a>
             {% endif %}
           </div>
           <div class="col-xs-6 inline end-xs">
             {% if page.next.url != nil and page.next.tags contains 'lesson'%}
-              <a class="link link-mid" href="{% if page.next.tags contains 'lesson'%}{{ page.next.url }}{% endif %}">Siguiente<span class="icon icon-long-arrow-right-light"></span></a>
+              <a class="link link-mid" href="{% if page.next.tags contains 'lesson' %}{{ page.next.url }}{% endif %}">Siguiente<span class="icon icon-long-arrow-right-light"></span></a>
             {% endif %}
           </div>
         </div>

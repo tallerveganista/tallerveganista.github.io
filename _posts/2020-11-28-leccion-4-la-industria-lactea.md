@@ -1,8 +1,7 @@
 ---
 layout: lesson
 lesson-number: Lección 4
-tags: lesson
-category: lesson
+tags: ['lesson']
 title: La industria láctea
 date: 2020-11-28 19:00:00
 excerpt: Lección industria láctea
