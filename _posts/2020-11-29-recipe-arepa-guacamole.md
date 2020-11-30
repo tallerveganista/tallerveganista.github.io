@@ -2,6 +2,7 @@
 layout: recipe
 lesson-url: /leccion-veganismo/
 lesson-number: Lección 1
+lesson-id: lesson-one-recipe-two
 categories: ['Recetas','Lección 1']
 tags: ['recipe']
 title: Arepa con guacamole

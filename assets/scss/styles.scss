@@ -788,6 +788,12 @@ blockquote{
 }
 
 .recipe-thumbnail{
+  & figure{
+    margin: 0 0 1rem 0;
+  }
+  & h4{
+    margin: 0 0 1rem 0;
+  }
   & a{
     &:hover{
       & h4{

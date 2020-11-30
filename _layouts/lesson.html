@@ -53,7 +53,7 @@ layout: basic-structure
                   <li class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 60">
                     <!-- recipe thumbnail -->
                     <div class="recipe-thumbnail">
-                      <a href="{{ post.url }}">
+                      <a href="#{{ post.lesson-id }}" uk-toggle>
                         <figure>
                           <img src="{{ post.image-landscape }}" alt="">
                         </figure>
@@ -99,5 +99,41 @@ layout: basic-structure
     <!-- row end -->
   </div>
   <!-- wrapper end -->
+
+  <!-- modal-recipe -->
+  <div class="modal-recipe">
+    {% for post in site.posts %}
+      {% if post.tags contains 'recipe' and page.lesson-number == post.lesson-number %}
+      <div id="{{ post.lesson-id }}" uk-modal>
+        <div class="uk-modal-dialog uk-modal-body">
+          <!-- row -->
+          <div class="row center-lg">
+            <!-- col -->
+            <div class="col-xs-12">
+              <p class="category">
+                {{ post.categories | join: ' &nbsp | &nbsp ' }}
+              </p>
+              <h3>{{ post.title }}</h3>
+              <p class="author-date">{{ page.author }} &nbsp; | &nbsp;{% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ page.date | date: "%d" }} / {{ page.date | date: "%Y" }}</p>
+            </div>
+            <!-- col end -->
+          </div>
+          <!-- row end -->
+          <!-- row -->
+          <div class="row">
+            <!-- col -->
+            <div class="col-xs-12">
+              {{ content }}
+            </div>
+            <!-- col-end -->
+          </div>
+          <!-- row end -->
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <!-- modal-recipe-end -->
+
 </div>
 <!-- content end -->
