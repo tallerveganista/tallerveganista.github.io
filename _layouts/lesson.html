@@ -44,21 +44,21 @@ layout: basic-structure
         <!-- row  -->
         <div class="row">
           <!-- col -->
-          <div class="col-xs-12 col-lg-offset-2 col-sm-8 no-side-spaces border-line-bottom">
+          <div class="col-xs-12 col-lg-offset-2 col-lg-8 no-side-spaces border-line-bottom">
             <!-- row -->
             <ul class="row">
               {% for post in site.posts %}
                 {% if post.tags contains 'recipe' and page.lesson-number == post.lesson-number %}
                   <!-- col -->
-                  <li class="col-xs-12 col-sm-6">
+                  <li class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 60">
                     <!-- recipe thumbnail -->
                     <div class="recipe-thumbnail">
                       <a href="{{ post.url }}">
                         <figure>
                           <img src="{{ post.image-landscape }}" alt="">
                         </figure>
-                        <h5>{{ post.title }}</h5>
-                        <p class="p-small">{{ post.excerpt }}</p>
+                        <h4>{{ post.title }}</h4>
+                        <p>{{ post.excerpt }}</p>
                       </a>
                     </div>
                     <!-- recipe thumbnail end -->
