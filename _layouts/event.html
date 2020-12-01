@@ -15,11 +15,11 @@ layout: basic-structure
         <figure>
           <img src="{{ page.image-landscape }}" alt="">
         </figure>
-        <p class="author-date">{{ page.author }} &nbsp; | &nbsp;{% assign m = page.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ page.event-date | date: "%d" }} / {{ page.event-date | date: "%Y" }}</p>
-        <p>{{ page.event-date }}</p>
+        <p class="author-date">{% assign m = page.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ page.event-date | date: "%d" }} / {{ page.event-date | date: "%Y" }}</p>
         <p class="category">
           {{ page.categories | join: ' &nbsp | &nbsp ' }}
         </p>
+        <h2>{{ page.title }}</h2>
       </div>
       <!-- col end -->
     </div>

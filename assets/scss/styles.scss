@@ -513,7 +513,7 @@ blockquote{
 // Alert
 
 .uk-alert{
-  color: $bright;
+  color: $dark;
   padding: 1rem 0rem;
   margin: 0;
   background-color: $transparent;
@@ -523,7 +523,7 @@ blockquote{
     & span{
       font-size: $small-text;
       margin: 0 .5rem;
-      color: $brand-2;
+      color: $brand;
     }
   }
 }
@@ -532,9 +532,9 @@ blockquote{
   top: 0;
   right: 0;
   opacity: 1;
-  color: $bright;
+  color: $dark;
   &:hover{
-    color: $brand-2;
+    color: $gray-3;
     opacity: 1;
   }
   & svg{
@@ -556,8 +556,8 @@ blockquote{
 }
 
 .alert{
-  background-color: $brand-3;
-  color: $bright;
+  background-color: $gray-1;
+  color: $dark;
 }
 
 // Sections
