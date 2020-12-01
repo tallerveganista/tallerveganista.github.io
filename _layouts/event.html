@@ -1,0 +1,61 @@
+---
+layout: basic-structure
+---
+
+{% include header.html %}
+
+<!-- content -->
+<div class="content content-post">
+  <!-- wrapper -->
+  <div class="wrapper container-fluid">
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <figure>
+          <img src="{{ page.image-landscape }}" alt="">
+        </figure>
+        <p class="author-date">{{ page.author }} &nbsp; | &nbsp;{% assign m = page.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ page.event-date | date: "%d" }} / {{ page.event-date | date: "%Y" }}</p>
+        <p>{{ page.event-date }}</p>
+        <p class="category">
+          {{ page.categories | join: ' &nbsp | &nbsp ' }}
+        </p>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+    <!-- row -->
+    <div class="row article-container">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        {{ content }}
+      </div>
+      <!-- col-end  -->
+    </div>
+    <!-- row end -->
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <!-- row -->
+        <div class="row prev-next">
+          <div class="col-xs-6 inline">
+            {% if page.previous.url != nil and page.previous.tags contains 'event'%}
+              <a class="link link-mid" href="{% if page.previous.tags contains 'article' %}{{ page.previous.url }}{% endif %}"><span class="icon icon-long-arrow-left-light margin-right"></span> Anterior</a>
+            {% endif %}
+          </div>
+          <div class="col-xs-6 inline end-xs">
+            {% if page.next.url != nil and page.next.tags contains 'event'%}
+              <a class="link link-mid" href="{% if page.next.tags contains 'article' %}{{ page.next.url }}{% endif %}">Siguiente<span class="icon icon-long-arrow-right-light"></span></a>
+            {% endif %}
+          </div>
+        </div>
+        <!-- row end -->
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+  </div>
+  <!-- wrapper end -->
+</div>
+<!-- content end -->

@@ -21,7 +21,7 @@
       <div class="col-sm-5 end-sm">
         <nav>
           <ul class="inline underline-links nav-right">
-            <li><a href="/parches/">Parches</a></li>
+            <li><a href="/parches/" {% if page.url == "/parches/" or page.category == "lesson" %}class="active"{% endif %}>Parches</a></li>
             <li><a href="#">Blog</a></li>
             <li><a href="mailto:hola@tallerveganista.com" target="_blank" rel="noopener noreferrer">Correo</a></li>
             <div class="social">

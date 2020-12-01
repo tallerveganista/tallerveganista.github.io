@@ -723,7 +723,7 @@ blockquote{
 
 // Posts
 
-.content-post, .content-lessons{
+.content-post, .content-lessons, .content-event-article{
   padding: 0;
   margin: 2.5rem 0 4.5rem 0;
   & .row{
@@ -814,6 +814,7 @@ blockquote{
 }
 
 .recipe-thumbnail{
+  margin: 0 0 1.5rem 0;
   & figure{
     margin: 0 0 1rem 0;
   }
@@ -887,6 +888,33 @@ blockquote{
       background-color: $brand-2;
     }
   }
+}
+
+.highlight-thumbnail-a{
+  & h2{
+    margin: 0 0 1rem 0;
+  }
+  & .category{
+    margin: 0 0 .5rem 0;
+  }
+  &:hover{
+    & h2{
+      color: $brand;
+    }
+    & .author-date{
+      color: $gray-4;
+    }
+    & .category{
+      color: $dark;
+    }
+    & p{
+      color: $dark;
+    }
+  }
+}
+
+.highlight-thumbnail{
+  padding: 0 0 5rem 0;
 }
 
 // Footer

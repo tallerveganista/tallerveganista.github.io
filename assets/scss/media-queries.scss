@@ -219,6 +219,9 @@ $micro-line-height: 1.6rem;
   .content-post .content-lessons{
     margin: 2rem 0 6.5rem 0;
   }
+  .content-event-article{
+    margin: 0 0 6.5rem 0;
+  }
   &.shrink-nav{
     & .social{
       & a{
@@ -389,7 +392,7 @@ $micro-line-height: 1.6rem;
   .modal-recipe{
     & .uk-modal-dialog{
       width: 86%;
-      max-width: 1100px;      
+      max-width: 1100px;
     }
   }
 
