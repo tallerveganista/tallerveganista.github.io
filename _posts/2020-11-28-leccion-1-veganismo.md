@@ -3,6 +3,7 @@ layout: lesson
 lesson-number: Lección 1
 tags: ['lesson']
 title: Veganismo
+category: lesson
 date: 2020-11-28 16:00:00
 excerpt: Lección veganismo
 recipe-introduction: Revisa los ingredientes que necesitatas y preparaciones previas antes de empezar las recetas. Hoy te presentamos dos opciones para desayunos.

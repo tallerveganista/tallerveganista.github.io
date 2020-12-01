@@ -2,6 +2,7 @@
 layout: lesson
 lesson-number: Lección 3
 tags: ['lesson']
+category: lesson
 date: 2020-11-28 18:00:00
 title: Especismo y otros tipos de discriminación
 excerpt: Lección especismo

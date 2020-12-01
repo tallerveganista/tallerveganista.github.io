@@ -216,11 +216,22 @@ $micro-line-height: 1.6rem;
       border-bottom: none;
     }
   }
+
+  .recipes{
+      & li{
+        &:nth-child(odd){
+          padding-left: 0;
+          padding-right: .5rem;
+        }
+        &:nth-child(even){
+          padding-right: inherit;
+          padding-left: .5rem;
+        }
+      }
+    }
+
   .content-post .content-lessons{
     margin: 2rem 0 6.5rem 0;
-  }
-  .content-event-article{
-    margin: 0 0 6.5rem 0;
   }
   &.shrink-nav{
     & .social{
@@ -374,6 +385,9 @@ $micro-line-height: 1.6rem;
     & .article-container{
       padding: 0 0 1rem 0 !important;
     }
+  }
+  .content-event-article{
+    margin: 0 0 4.5rem 0;
   }
   .lessons-gallery{
     & li{
