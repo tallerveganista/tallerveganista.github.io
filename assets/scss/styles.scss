@@ -523,17 +523,18 @@ blockquote{
     & span{
       font-size: $small-text;
       margin: 0 .5rem;
+      color: $brand-2;
     }
   }
 }
 
 .uk-alert-close{
-  top: 0rem;
-  right: 1.4rem;
+  top: 0;
+  right: 0;
   opacity: 1;
   color: $bright;
   &:hover{
-    color: $gray-4;
+    color: $brand-2;
     opacity: 1;
   }
   & svg{
