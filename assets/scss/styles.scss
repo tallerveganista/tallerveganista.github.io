@@ -11,6 +11,7 @@
 // Color variables
 $brand: #FFB6C6;
 $brand-2: #B2FCE4;
+$brand-3: #6F33DB;
 $dark: #111;
 $bright: #FFFEFA;
 
@@ -506,18 +507,31 @@ blockquote{
 // Alert
 
 .uk-alert{
-  color: inherit;
-  padding: 2.4rem 1.4rem;
-  margin: 0 0 1.4rem 0;
-  background-color: $gray-1;
+  color: $bright;
+  padding: 1rem 0rem;
+  margin: 0;
+  background-color: $transparent;
+  & p{
+    font-family: $sans-serif;
+    font-weight: $bold;
+    & span{
+      font-size: $small-text;
+      margin: 0 .5rem;
+    }
+  }
 }
 
 .uk-alert-close{
-  top: 1.4rem;
+  top: 0rem;
   right: 1.4rem;
   opacity: 1;
+  color: $bright;
   &:hover{
+    color: $gray-4;
     opacity: 1;
+  }
+  & svg{
+  display: none;
   }
 }
 
@@ -532,6 +546,11 @@ blockquote{
 
 .alert-content-no-heading{
   margin: 1.4rem 0 .5rem 0;
+}
+
+.alert{
+  background-color: $brand-3;
+  color: $bright;
 }
 
 // Sections
