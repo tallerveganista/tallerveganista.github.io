@@ -386,6 +386,13 @@ $micro-line-height: 1.6rem;
     transition: $transition-quick;
   }
 
+  .modal-recipe{
+    & .uk-modal-dialog{
+      width: 86%;
+      max-width: 1100px;      
+    }
+  }
+
   // Footer
   footer{
     & nav{

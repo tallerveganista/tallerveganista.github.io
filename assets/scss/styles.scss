@@ -850,6 +850,44 @@ blockquote{
   }
 }
 
+.modal-recipe{
+  background: rgba(0, 0, 0, 0.2);
+  & .uk-modal-dialog{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+    border-radius: 6px;
+    padding: 2rem 1rem 3.5rem 1rem;
+  }
+  & .uk-modal-close-default{
+    position: inherit;
+    padding: 0;
+    & span{
+      font-size: 1.5rem;
+    }
+    & svg{
+      display: none;
+    }
+  }
+  & .info-box{
+    margin: 0 0 2rem 0;
+  }
+  & .post-content-p{
+    font-size: $medium-text;
+    line-height: $medium-line-height;
+    font-weight: $regular;
+  }
+  & .post-content-space{
+    display: block;
+    margin: 0 0 2rem 0;
+  }
+  & .button-close{
+    display: inline-block;
+    padding: 1.5rem 2.5rem;
+    background-color: $brand;
+    &:hover{
+      background-color: $brand-2;
+    }
+  }
+}
 
 // Footer
 
