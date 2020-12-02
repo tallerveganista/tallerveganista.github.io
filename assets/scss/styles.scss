@@ -767,7 +767,7 @@ blockquote{
       margin: 0 0 1rem 0;
     }
     & .category{
-      margin: 0 0 .5rem 0;
+      margin: 0 0 0 0;
     }
     &:nth-child(odd){
       padding-left: 0;
@@ -956,7 +956,7 @@ blockquote{
     margin: 0 0 -.25rem 0;
   }
   & .category{
-    margin: 0 0 .5rem 0;
+    // margin: 0 0 0 0;
   }
   &:hover{
     & h2{
