@@ -4,11 +4,12 @@ lesson-url: /leccion-veganismo/
 lesson-number: Lección 1
 lesson-id: lesson-one-recipe-two
 categories: ['Recetas','Lección 1']
-tags: ['recipe']
+tags: ['recipe','article']
 title: Arepa con guacamole
 excerpt: Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet. Quis lectus nulla at volutpat diam ut venenatis. Cras ornare arcu dui vivamus arcu felis bibendum ut.
 author: Tayrona Hoyos
-image-landscape: /assets/images/article-thumbnail.jpg
+image-landscape: /assets/images/event-thumbnail.jpg
+image: /assets/images/lessons/challenge-pics-01.jpg
 permalink: /arepa-con-guacamole/
 description: La mera descripción.
 ---

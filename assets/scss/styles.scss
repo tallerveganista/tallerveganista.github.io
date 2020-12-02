@@ -770,7 +770,7 @@ blockquote{
 }
 
 .events-gallery, .articles-gallery{
-  margin-bottom: 6.5rem;
+  margin-bottom: 3rem;
   margin-left: 0;
   margin-right: 0;
   & li{
@@ -812,6 +812,10 @@ blockquote{
       }
     }
   }
+}
+
+.articles-exerpt{
+  margin-bottom: 1rem;
 }
 
 .content-lessons{

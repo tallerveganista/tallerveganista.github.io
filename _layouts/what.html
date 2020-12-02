@@ -5,7 +5,7 @@ layout: basic-structure
 {% include header.html %}
 
 <!-- content -->
-<div class="content content-post content-what">
+<div class="content content-post content-what" uk-scrollspy="cls: uk-animation-fade; delay: 100">
   <!-- wrapper -->
   <div class="wrapper container-fluid">
     <!-- row -->
@@ -37,7 +37,7 @@ layout: basic-structure
           {% for post in site.posts reversed %}
             {% if post.tags contains 'member' %}
             <!-- row   -->
-            <div class="row member center-xs start-sm">
+            <div class="row member center-xs start-sm" uk-scrollspy="cls: uk-animation-fade; delay: 100">
               <!-- col -->
               <div class="col-xs-12 col-sm-4 col-lg-3">
                 <figure>

@@ -233,6 +233,20 @@ $micro-line-height: 1.6rem;
   .content-post .content-lessons{
     margin: 2rem 0 6.5rem 0;
   }
+  .events-gallery, .articles-gallery{
+    margin-bottom: 4rem;
+    & li{
+      margin-bottom: 3.5rem;
+      &:nth-child(odd){
+        padding-left: 0;
+        padding-right: .5rem;
+      }
+      &:nth-child(even){
+        padding-right: 0;
+        padding-left: .5rem;
+      }
+    }
+  }
   &.shrink-nav{
     & .social{
       & a{
@@ -401,6 +415,7 @@ $micro-line-height: 1.6rem;
   }
 
   .content-what{
+    margin-bottom: 4.5rem;
     & .article-container{
       margin-top: 0 !important;
     }
@@ -413,6 +428,10 @@ $micro-line-height: 1.6rem;
     }
   }
 
+  .visible-date{
+    display: inline-block;
+  }
+
   .scroll-down{
     display: block;
     color: $dark;
@@ -423,7 +442,7 @@ $micro-line-height: 1.6rem;
 
   .modal-recipe{
     & .uk-modal-dialog{
-      width: 86%;
+      width: 66%;
       max-width: 1100px;
     }
   }

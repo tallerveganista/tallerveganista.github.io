@@ -1,4 +1,4 @@
-<nav class="hidden-xs hidden-sm visible-lg main-nav" id="desk-nav">
+<nav class="hidden-xs hidden-sm visible-lg main-nav" id="desk-nav" uk-scrollspy="cls: uk-animation-fade; delay: 60">
   <!-- wrapper -->
   <div class="wrapper container-fluid">
     <!-- row -->
@@ -22,7 +22,7 @@
         <nav>
           <ul class="inline underline-links nav-right">
             <li><a href="/parches/" {% if page.url == "/parches/" or page.tags contains "event" %}class="active"{% endif %}>Parches</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="/blog/" {% if page.url == "/blog/" or page.tags contains "article" %}class="active"{% endif %}>Blog</a></li>
             <li><a href="mailto:hola@tallerveganista.com" target="_blank" rel="noopener noreferrer">Correo</a></li>
             <div class="social">
               <li><a href="#"><span class="icon icon-meetup"></span></a></li>
