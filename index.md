@@ -5,4 +5,6 @@
 layout: home
 title: Veganismo sin miedo
 permalink: /
+alt-why-image: Cerdo esclavizado
+alt-what-image: Animales en clase
 ---

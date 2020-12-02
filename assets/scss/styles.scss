@@ -391,12 +391,14 @@ blockquote{
   }
 }
 
-.link-heading{
-  // &:hover{
-  //   color: $brand;
-  //   transition: $transition;
-  //   -webkit-transition: $transition;
-  // }
+.preview-lessons{
+  .link-heading{
+    &:hover{
+      color: $brand;
+      transition: $transition;
+      -webkit-transition: $transition;
+    }
+  }
 }
 
 .index-section{
