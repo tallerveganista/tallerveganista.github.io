@@ -30,14 +30,14 @@ layout: basic-structure
     <!-- row -->
     <div class="row">
       <!-- col -->
-      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8 center-xs">
         <!-- members -->
         <div class="members">
-          <h3>¿Quiénes somos?</h3>
+          <h3 class="start-xs">¿Quiénes somos?</h3>
           {% for post in site.posts reversed %}
             {% if post.tags contains 'member' %}
             <!-- row   -->
-            <div class="row member center-xs start-sm" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+            <div class="row member start-sm" uk-scrollspy="cls: uk-animation-fade; delay: 100">
               <!-- col -->
               <div class="col-xs-12 col-sm-4 col-lg-3">
                 <figure>

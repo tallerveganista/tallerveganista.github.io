@@ -277,11 +277,13 @@ p{
 .category{
   text-transform: uppercase;
   font-size: $micro-text;
-  letter-spacing: 0.12rem;
+  letter-spacing: .12rem;
+  line-height: $micro-line-height;
 }
 
 .author-date{
   font-size: $small-text;
+  line-height: $micro-line-height;
   color: $gray-4;
 }
 
@@ -390,12 +392,26 @@ blockquote{
 }
 
 .link-heading{
+  // &:hover{
+  //   color: $brand;
+  //   transition: $transition;
+  //   -webkit-transition: $transition;
+  // }
+}
+
+.index-section{
   &:hover{
-    color: $brand;
-    transition: $transition;
-    -webkit-transition: $transition;
+    & h3{
+      color: $brand;
+      transition: $transition;
+      -webkit-transition: $transition;
+    }
+    & p{
+      color: $dark;
+    }
   }
 }
+
 
 // Underline links
 
@@ -462,7 +478,7 @@ blockquote{
   padding-bottom: 56.25%;
   padding-top: 0;
   height: 0;
-  margin: 3rem 0 0 0;
+  margin: 1rem 0 0 0;
   & iframe, .video{
     position: absolute;
     top: 0;
@@ -474,7 +490,7 @@ blockquote{
 
 .caption{
   display: block;
-  margin: .75rem 0 2rem 0;
+  margin: .75rem 0 0 0;
   color: $dark;
   font-size: $micro-text;
   line-height: $micro-line-height;
@@ -725,7 +741,7 @@ blockquote{
 
 .content-post, .content-lessons{
   padding: 0;
-  margin: 2.5rem 0 4.5rem 0;
+  margin: 2.5rem 0;
   & .row{
     padding: 0 !important;
     margin: 0 !important;
@@ -743,7 +759,7 @@ blockquote{
       // }
     }
     & img{
-      margin: 2rem 0 0 0;
+      margin: 1rem 0 0 0;
     }
     & .link-big{
       &:hover{
@@ -779,7 +795,7 @@ blockquote{
       margin: 0 0 1rem 0;
     }
     & .category{
-      margin: 0 0 0 0;
+      margin: 0 0 .25rem 0;
     }
     &:nth-child(odd){
       padding-left: 0;
@@ -790,7 +806,7 @@ blockquote{
       padding-left: 0;
     }
     & .author-date{
-      margin: 0 0 -.25rem 0;
+      margin: 0;
     }
     & h2, h4{
       margin: 0 0 1rem 0;
@@ -970,6 +986,9 @@ blockquote{
       background-color: $brand-2;
     }
   }
+  & .button-wide-xs{
+    display: block;
+  }
 }
 
 .highlight-thumbnail-a{
@@ -983,10 +1002,10 @@ blockquote{
     margin: 0 0 1rem 0;
   }
   & .author-date{
-    margin: 0 0 -.25rem 0;
+    margin: 0;
   }
   & .category{
-    // margin: 0 0 0 0;
+    margin: 0 0 .25rem 0;
   }
   &:hover{
     & h2{

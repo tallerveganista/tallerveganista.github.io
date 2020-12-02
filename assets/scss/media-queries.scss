@@ -231,10 +231,10 @@ $micro-line-height: 1.6rem;
     }
 
   .content-post .content-lessons{
-    margin: 2rem 0 6.5rem 0;
+    margin: 2rem 0 3rem 0;
   }
   .events-gallery, .articles-gallery{
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
     & li{
       margin-bottom: 3.5rem;
       &:nth-child(odd){
@@ -396,10 +396,9 @@ $micro-line-height: 1.6rem;
   }
   // Posts
   .content-post, .content-lessons{
-    margin: -1.5rem 0 6.5rem 0;
+    margin: -1.5rem 0 4.5rem 0;
   }
   .content-lessons{
-    margin-bottom: 4rem;
     padding: 0;
     & .article-container{
       padding: 0 0 1rem 0 !important;
@@ -415,7 +414,8 @@ $micro-line-height: 1.6rem;
   }
 
   .content-what{
-    margin-bottom: 4.5rem;
+    // margin-bottom: 4.5rem;
+    margin-top: 0;
     & .article-container{
       margin-top: 0 !important;
     }
@@ -426,6 +426,12 @@ $micro-line-height: 1.6rem;
       padding-bottom: 4rem;
       margin-bottom: 2.5rem;
     }
+  }
+
+  // video
+
+  .video-wrapper{
+    margin: 3rem 0 0 0;
   }
 
   .visible-date{

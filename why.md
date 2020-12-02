@@ -25,11 +25,10 @@ En la [lección uno](#){:target='_blank' class="link"} entenderás mejor que es 
 
 ### ¿Entonces porqué veganismo?
 
+Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si vemos a alguien haciéndolo. Quienes hemos pasado tiempo con animales de estas especies, sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todos son alguien y no algo.
+
 ![Gallina en una granja industrial &#124; Jo -Anne McArthur &#124; We Animals archive](/assets/images/why-veganism-article.jpg)
 [Hens confined in a battery cage on a factory farm &nbsp; &#124; &nbsp; Jo -Anne McArthur &nbsp; &#124; &nbsp; We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
-
-
-Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si vemos a alguien haciéndolo. Quienes hemos pasado tiempo con animales de estas especies, sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todos son alguien y no algo.
 
 Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de nuestra propia vida es el sistema nervioso central. Lxs animales que se han destinado para ser explotados tienen ese sistema. Entonces podemos asegurar que lxs animales están en capacidad de experimentar sensaciones de placer o dolor. Ejercer violencia en su contra les produce sufrimiento. Lxs animales no entregan sus vidas voluntariamente ni escogen convertirse en máquinas que producen bienes de consumo, trabajan, realizan actos de entretenimiento, o se someten a experimentos por gusto. Para usar a lxs animales debemos someterles, esclavizarles y asesinarles. Todos actos de violencia innecesaria.
 
