@@ -50,7 +50,7 @@ layout: basic-structure
               {% for post in site.posts %}
                 {% if post.tags contains 'recipe' and page.lesson-number == post.lesson-number %}
                   <!-- col -->
-                  <li class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 60">
+                  <li class="col-xs-12 col-sm-6" uk-scrollspy="cls: uk-animation-fade; delay: 100">
                     <!-- recipe thumbnail -->
                     <div class="recipe-thumbnail">
                       <a href="#{{ post.lesson-id }}" uk-toggle>

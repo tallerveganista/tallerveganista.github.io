@@ -4,7 +4,7 @@
     <ul class="row events-gallery">
       {% for post in site.posts %}
         {% if post.tags contains 'event' %}
-          <li class="col-xs-12 col-sm-12 col-lg-6" uk-scrollspy="cls: uk-animation-slide-bottom; delay: 60">
+          <li class="col-xs-12 col-sm-12 col-lg-6" uk-scrollspy="cls: uk-animation-fade; delay: 100">
             <a href="{{ post.url }}">
               <!-- row -->
               <div class="row">

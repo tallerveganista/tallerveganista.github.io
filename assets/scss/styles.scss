@@ -753,11 +753,23 @@ blockquote{
   }
 }
 
+.content-event{
+  & .author-date{
+    margin: 0 0 -.25rem 0
+  }
+  & .category{
+    margin: 0;
+  }
+  & .event-container{
+    margin: 1rem 0 0 0 !important;
+  }
+}
+
 .content-event-article{
   margin: 2.5rem 0 2rem 0;
 }
 
-.events-gallery{
+.events-gallery, .articles-gallery{
   margin-bottom: 6.5rem;
   margin-left: 0;
   margin-right: 0;
@@ -794,6 +806,9 @@ blockquote{
       }
       & p{
         color: $dark;
+      }
+      & .author-date{
+        color: $gray-4;
       }
     }
   }
