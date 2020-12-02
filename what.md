@@ -1,0 +1,14 @@
+---
+layout: what
+title: ¿Qué es Taller Veganista?
+author: Alejandro Narváez Isaza
+permalink: /que-es-taller-veganista/
+image-member-one: /assets/images/lessons/challenge-pics-03.jpg
+name-member-one: Alejandro Narváez Isaza
+excerpt-member-one: Soy diseñador gráfico y puedo hacer algo de desarrollo Front-end. Hace cinco años me preguntaba cuántos animales necesitábamos matar para alimentar a tantas personas y cuando hablé de eso con un amigo, mi amigo me recomendó ver Cowspiracy. Me hice vegano buscando reducir mi impacto ambiental y más adelante me di cuenta del horror de las industrias de explotación animal. Mi posición dentro del veganismo es abolicionista e interseccional.
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Hendrerit gravida rutrum quisque non tellus orci ac auctor. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Mi ipsum faucibus vitae aliquet. Aenean euismod elementum nisi quis eleifend quam adipiscing. Sollicitudin nibh sit amet commodo. Tempus egestas sed sed risus pretium quam vulputate dignissim. Nunc lobortis mattis aliquam faucibus. Porttitor eget dolor morbi non arcu. Dignissim cras tincidunt lobortis feugiat vivamus at augue eget arcu.
+
+Nec feugiat nisl pretium fusce id. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Elementum integer enim neque volutpat ac tincidunt vitae semper quis. Varius morbi enim nunc faucibus. Sed lectus vestibulum mattis ullamcorper velit sed. Pharetra et ultrices neque ornare aenean euismod. Id semper risus in hendrerit gravida rutrum quisque non tellus. Porttitor eget dolor morbi non arcu risus. Mattis rhoncus urna neque viverra justo nec. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Mattis enim ut tellus elementum sagittis vitae et leo duis. Purus in mollis nunc sed id semper risus in. Enim sit amet venenatis urna cursus eget. Tellus orci ac auctor augue mauris augue neque gravida.
+
+Blandit libero volutpat sed cras ornare arcu. Tincidunt dui ut ornare lectus sit amet est placerat. Elit ut aliquam purus sit amet. Convallis a cras semper auctor. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat. Adipiscing at in tellus integer. Enim diam vulputate ut pharetra sit. Eget duis at tellus at urna condimentum mattis pellentesque id. Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. Velit dignissim sodales ut eu. Netus et malesuada fames ac turpis egestas integer. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Est placerat in egestas erat imperdiet sed euismod. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu.

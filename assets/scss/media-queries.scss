@@ -251,6 +251,11 @@ $micro-line-height: 1.6rem;
       }
     }
   }
+  .members{
+    & figure{
+      width: 100%;
+    }
+  }
 }
 
 // lg - from 962
@@ -392,6 +397,19 @@ $micro-line-height: 1.6rem;
   .lessons-gallery{
     & li{
       margin: 0 0 4rem 0;
+    }
+  }
+
+  .content-what{
+    & .article-container{
+      margin-top: 0 !important;
+    }
+    & .text-box{
+      margin-bottom: 0;
+    }
+    & .content-box{
+      padding-bottom: 4rem;
+      margin-bottom: 2.5rem;
     }
   }
 

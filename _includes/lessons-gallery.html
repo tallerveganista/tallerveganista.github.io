@@ -2,7 +2,7 @@
 <div class="wrapper container-fluid" id="scroll-to-lessons">
   <!-- row -->
     <ul class="row lessons-gallery">
-      {% for post in site.posts reversed%}
+      {% for post in site.posts reversed %}
         {% if post.tags contains 'lesson' %}
           <li class="col-xs-12 col-sm-6 col-lg-3" uk-scrollspy="cls: uk-animation-fade; delay: 100">
             <a href="{{ post.url }}">

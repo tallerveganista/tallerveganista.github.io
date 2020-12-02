@@ -1,0 +1,68 @@
+---
+layout: basic-structure
+---
+
+{% include header.html %}
+
+<!-- content -->
+<div class="content content-post content-what">
+  <!-- wrapper -->
+  <div class="wrapper container-fluid">
+    <!-- row -->
+    <div class="row article-container">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <!-- content-box -->
+        <div class="content-box">
+          <!-- text-box -->
+          <div class="text-box">
+            <h1 class="center-lg">{{ page.title }}</h1>
+            {{ content }}
+          </div>
+          <!-- text-box end -->
+          <a class="button brand-background button-big button-wide-xs" href="/lecciones/">Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora</a>
+        </div>
+        <!-- content box end -->
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <!-- members -->
+        <div class="members">
+          <h3>¿Quiénes somos?</h3>
+          {% for post in site.posts reversed %}
+            {% if post.tags contains 'member' %}
+            <!-- row   -->
+            <div class="row member center-xs start-sm">
+              <!-- col -->
+              <div class="col-xs-12 col-sm-4 col-lg-3">
+                <figure>
+                  <img src="{{ post.image }}" alt="">
+                </figure>
+              </div>
+              <!-- col end -->
+              <!-- col -->
+              <div class="col-xs-12 col-sm-8 col-lg-9">
+                <h4>{{ post.name }}</h4>
+                <p>{{ post.excerpt }}</p>
+              </div>
+              <!-- col end -->
+            </div>
+            <!-- row end -->
+            {% endif %}
+          {% endfor %}
+        </div>
+        <!-- members end -->
+      </div>
+      <!-- col-end -->
+
+    </div>
+    <!-- row end -->
+  </div>
+  <!-- wrapper end -->
+</div>
+<!-- content end -->
