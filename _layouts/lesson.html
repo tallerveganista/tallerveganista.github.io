@@ -59,7 +59,9 @@ layout: basic-structure
                         </figure>
                         <h4>{{ post.title }}</h4>
                         <p>{{ post.excerpt }}</p>
-                      </a>
+                        <p class="open-link middle-xs">
+                          <a href="#{{ post.lesson-id }}" uk-toggle class="link">Abrir <span class="icon icon-long-arrow-right-light"></span></a>
+                        </p>
                     </div>
                     <!-- recipe thumbnail end -->
                   </li>

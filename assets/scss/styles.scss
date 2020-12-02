@@ -882,10 +882,21 @@ blockquote{
 
 .recipe-thumbnail{
   margin: 0 0 1.5rem 0;
+  & .open-link{
+    margin: -1rem 0 0 0;
+    & a{
+      &:hover{
+        text-decoration: none;
+      }
+      & span{
+        font-size: 1.6rem;
+      }
+    }
+  }
   & figure{
     margin: 0 0 1rem 0;
   }
-  & h4{
+  & h3, h4{
     margin: 0 0 1rem 0;
   }
   & a{
