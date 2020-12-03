@@ -5,7 +5,7 @@ date: 2020-11-26 11:48:00 -0500
 author: Alejandro Narváez Isaza
 permalink: /porque-veganismo/
 ---
-Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece a mi; así ese alguien sea de otra especie.
+Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece; así ese alguien sea de otra especie.
 {:class="p-big center-lg why-big-text"}
 
 ### ¿Qué es veganismo?
@@ -15,17 +15,17 @@ Para que sepamos de lo que estamos hablando, empecemos con la definición más o
 > "Una forma de vida que busca excluir, hasta donde sea posible y practicable, todas las formas de explotación de, o crueldad contra los animales para comida, ropa o cualquier otro propósito; y por extensión, promueve el desarrollo y uso de alternativas libres de animales para el beneficio de los animales, humanos y el ambiente. En términos dietarios denota la práctica de prescindir de todos los productos derivados total o parcialmente de animales."
 {: class="p-big"}
 
-No todxs lxs veganxs aceptan esta definición al pie de la letra. Para mi, forma de vida suena a que soy aficionado a algo y lo hago porque es mi gusto personal, entonces cambiaría esa parte por postura ética y política. Ética porque la ética no se deriva de creencias y costumbres culturales sino de argumentos lógicos que pueden y deben ponerse a prueba, cuestionarse y refutarse si es necesario, pero que si pasan la prueba del análisis con pensamiento crítico deberíamos aceptarlos como ciertos al menos hasta que alguien logre desmontarlos.
+No todxs lxs veganxs aceptan esta definición al pie de la letra. Para mi, forma de vida suena a que soy aficionado a algo y lo hago porque es mi gusto personal, entonces cambiaría esa parte por postura ética y política. Ética porque la ética no se deriva de creencias y costumbres culturales sino de argumentos lógicos que pueden y deben ponerse a prueba, cuestionarse y refutarse si es necesario, pero que si sobreviven a un análisis crítico y riguroso deberíamos aceptarlos como ciertos al menos hasta que alguien logre desmontarlos.
 
 Mientras que actuar con base en creencias y costumbres es opcional, actuar con base en argumentos éticos sólidos es simplemente lo correcto y lo mínimo que deberíamos hacer, o si no es posible, entonces crear las condiciones para avanzar lo que se pueda en esa dirección. Política porque no estamos buscando excluirnos individualmente de participar en un sistema de explotación injusto y extremadamente violento sino que ese sistema se acabe. El veganismo es la manera como individualmente decidimos no participar directamente en ese sistema, pero el sistema sigue sin nosotros. Ampliar la definición de veganismo para que incluya una posición activa en contra del especismo podría comprometer a más veganxs a organizarnos para actuar colectivamente.
 
-La parte de posible y parcticable está muy bien porque tiene en cuenta las limitaciones que cada cual podría tener por el nivel de conocimiento y la capacidad que tenga de actuar en consecuencia con sus propias decisiones. Otrxs lo ven como una oportunidad para justificar la participación directa en la explotación de lxs animales ante cualquier dificultad. No todos lxs veganxs pensamos igual y nue qstras diferencias generan discusiones que siempre enseñan algo. Tomamos la decisión de ser veganxs porque estamos dispuestos a cuestionar el sistema de creencias convencional y tenemos la disciplina para actuar en consecuencia hasta donde podemos. No tenemos el poder para acabar inmediatamente con la dominación y explotación, pero si tenemos el de empoderar a los demás, para que entre todxs nos levantemos y construyamos una sociedad justa.
+La parte de posible y parcticable está muy bien porque tiene en cuenta las limitaciones que cada cual podría tener por el nivel de conocimiento y la capacidad que tenga de actuar en consecuencia con sus propias decisiones. Otrxs lo ven como una oportunidad para justificar la participación directa en la explotación de lxs animales ante cualquier dificultad. No todos lxs veganxs pensamos igual y nuestras diferencias generan discusiones que siempre enseñan algo. Tomamos la decisión de ser veganxs porque estamos dispuestos a cuestionar el sistema de creencias convencional y tenemos la disciplina para actuar en consecuencia hasta donde podemos. No tenemos el poder para acabar inmediatamente con la dominación y explotación, pero si tenemos el de empoderar a los demás, para que entre todxs nos levantemos y construyamos una sociedad justa.
 
-En la [lección uno](#){:target='_blank' class="link"} entenderás mejor que es veganismo, explorarás los argumentos que lo sustentan y conocerás algo de su historia.
+En la [lección uno](/leccion-veganismo/){:target='_blank' class="link"} entenderás mejor que es veganismo, explorarás los argumentos que lo sustentan y conocerás algo de su historia.
 
 ### ¿Entonces porqué veganismo?
 
-Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si vemos a alguien haciéndolo. Quienes hemos pasado tiempo con animales de estas especies, sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todos son alguien y no algo.
+Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si vemos que alguien lo hace. Quienes hemos pasado tiempo con animales de estas especies, sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todos son alguien y no algo.
 
 ![Gallina en una granja industrial &#124; Jo -Anne McArthur &#124; We Animals archive](/assets/images/why-veganism-article.jpg)
 [Hens confined in a battery cage on a factory farm &nbsp; &#124; &nbsp; Jo -Anne McArthur &nbsp; &#124; &nbsp; We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
@@ -40,6 +40,6 @@ No necesitamos consumir cadáveres ni secreciones de animales, vestirnos con sus
 
 [¿Por qué no ser vegano? &nbsp; &#124; &nbsp; Macakiux &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
-Ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece a mi; así ese alguien sea de otra especie.
+Ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece; así ese alguien sea de otra especie.
 
 Vivimos en de una cultura especista en la que decidir hacer lo posible por dejar de participar en un sistema de explotación tan bien aceptado puede llegar a ser difícil al principio, pero con el tiempo se convierte en algo normal. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.

@@ -11,7 +11,7 @@
               </figure>
               <p class="category">{{ post.lesson-number }}</p>
               <h4>{{ post.title }}</h4>
-              <p>{{ post.excerpt }}</p>
+              <p>{{ post.excerpt | truncate: 126 }}</p>
             </a>
           </li>
         {% endif %}
