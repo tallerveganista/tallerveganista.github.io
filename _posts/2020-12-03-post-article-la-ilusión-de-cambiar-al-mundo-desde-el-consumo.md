@@ -9,7 +9,7 @@ author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/vegan-shoppers-landscape.jpg
 image: /assets/images/posts/vegan-shoppers-square.jpg
 permalink: /la-ilusión-de-cambiar-el-mundo-desde-el-consumo/
-description: Cuestionamientos a la idea de votar con el dollar para generar cambios.
+description: Cuestionamientos a la idea de votar con el dólar para generar cambios políticos y sociales.
 ---
 Cuando somos veganxs nos excluimos de participar directamente de un sistema de producción injusto y violento que debería terminar, pero que sigue sin nosotros. Habría que cuestionarse si es verdad que la población vegana ha aumentado los últimos años o no, pero suponiendo que haya aumentado, de todas maneras la producción ganadera se mantiene creciendo de manera estable.
 
