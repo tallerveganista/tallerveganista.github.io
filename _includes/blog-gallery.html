@@ -3,7 +3,7 @@
   <!-- row -->
     <ul class="row articles-gallery">
       {% for post in site.posts %}
-        {% if post.tags contains 'article' %}
+        {% if post.tags contains 'blog-gallery' %}
           <li class="col-xs-12 col-sm-12 col-lg-6" uk-scrollspy="cls: uk-animation-fade; delay: 100">
             <a href="{{ post.url }}">
               <!-- row -->

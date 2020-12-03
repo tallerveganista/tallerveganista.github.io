@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [Activismo]
-tags: ['highlight-article']
+tags: ['highlight-article','article']
 title: La ilusión de cambiar el mundo desde el consumo
 date: '2020-12-03'
 excerpt: Cuando somos veganxs nos excluimos de participar directamente de un sistema de producción injusto y violento que debería terminar, pero que sigue sin nosotros. Habría que cuestionarse si es verdad que la población vegana ha aumentado los últimos años o no, pero suponiendo que haya aumentado, de todas maneras la producción ganadera se mantiene creciendo de manera estable.
@@ -9,7 +9,7 @@ author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/vegan-shoppers-landscape.jpg
 image: /assets/images/posts/vegan-shoppers-square.jpg
 permalink: /la-ilusión-de-cambiar-el-mundo-desde-el-consumo/
-description: Cuando somos veganxs nos excluimos de participar directamente de un sistema de producción injusto y violento que debería terminar, pero que sigue sin nosotros. Habría que cuestionarse si es verdad que la población vegana ha aumentado los últimos años o no, pero suponiendo que haya aumentado, de todas maneras la producción ganadera se mantiene creciendo de manera estable.
+description: Cuestionamientos a la idea de votar con el dollar para generar cambios.
 ---
 Cuando somos veganxs nos excluimos de participar directamente de un sistema de producción injusto y violento que debería terminar, pero que sigue sin nosotros. Habría que cuestionarse si es verdad que la población vegana ha aumentado los últimos años o no, pero suponiendo que haya aumentado, de todas maneras la producción ganadera se mantiene creciendo de manera estable.
 

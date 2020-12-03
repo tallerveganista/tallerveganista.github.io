@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: [Comida afuera]
-tags: ['highlight-event']
+tags: ['highlight-event','event']
 title: Picnic, inauguración Taller Veganista
 date: '2020-12-02'
 event-date: '2021-02-07'
@@ -9,7 +9,7 @@ excerpt: Celebraremos el inicio de este proyecto con un picnic. Tendremos músic
 image-landscape: /assets/images/events/picnic-inauguracion-taller-veganista.jpg
 image: /assets/images/events/picnic-inauguracion-taller-veganista-square.jpg
 permalink: /inauguración-taller-veganista/
-description: La mera descripción.
+description: Evento de inauguración del proyecto Taller Veganista.
 ---
 
 Celebraremos el inicio de este proyecto con un picnic. Tendremos música y comida para compartir, e imprimiremos camisetas y afiches en vivo. Recuerda seguir las medidas de bioseguridad para evitar contagios.
