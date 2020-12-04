@@ -21,7 +21,7 @@
 title: Taller Veganista
 email: hola@tallerveganista.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Taller Veganista es una iniciativa local dedicada a ayudar a las personas que están interesadas en ser veganas pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque abolicionista e interseccional.
+  Toda la información que necesitas para unirte a la lucha antiespecista desde tus hábitos de vida y tu participación ciudadana.
 author: Taller Veganista / Fluorescente
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -40,7 +40,7 @@ defaults:
       image: true
 
 plugins:
-  - jekyll-seo-tag      
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
