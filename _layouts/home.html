@@ -15,7 +15,7 @@ layout: basic-structure
         <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5">
           <a href="/que-es-taller-veganista/">
             <figure>
-              <img src="{{ "/assets/images/animales-en-clase.png" | relative_url }}" alt="{{ page.alt-what-image }}">
+              <img src="{{ page.what-image }}" alt="{{ page.alt-what-image }}">
             </figure>
           </a>
         </div>
@@ -23,13 +23,13 @@ layout: basic-structure
       <!-- col -->
       <a class="index-section" href="/que-es-taller-veganista/">
         <div class="col-xs-12 col-sm-6 col-lg-5">
-          <h3 class="link-heading">¿Qué es Taller Veganista?</h3>
+          <h3 class="link-heading">{{ page.what-heading }}</h3>
           <!-- text-box -->
           <div class="text-box">
-            <p>Taller Veganista es una iniciativa local dedicada a ayudar a las personas que están interesadas en ser veganas pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque abolicionista e interseccional.</p>
+            <p>{{ page.what-text }}</p>
           </div>
           <!-- text-box end -->
-          <a class="link link-mid no-underline" href="/que-es-taller-veganista/">Más información <span class="icon icon-long-arrow-right-light"></span></a>
+          <a class="link link-mid no-underline" href="/que-es-taller-veganista/">{{ page.what-button }}<span class="icon icon-long-arrow-right-light"></span></a>
         </div>
       </a>
       <!-- col end -->
@@ -42,7 +42,7 @@ layout: basic-structure
       <div class="col-xs-12 col-sm-6 col-lg-5 last-sm">
         <a class="index-section" href="/porque-veganismo/">
           <figure>
-            <img src="{{ "/assets/images/cerdo-enjaulado.png" | relative_url }}" alt="{{ page.alt-why-image }}">
+            <img src="{{ page.why-image }}">
           </figure>
         </a>
       </div>
@@ -50,13 +50,13 @@ layout: basic-structure
       <!-- col -->
       <a class="index-section" href="/porque-veganismo/">
         <div class="col-xs-12 col-sm-6 col-lg-offset-1 col-lg-5">
-          <h3 class="link-heading">¿Porqué veganismo?</h3>
+          <h3 class="link-heading">{{ page.why-heading }}</h3>
           <!-- text-box -->
           <div class="text-box">
-            <p>Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece; así ese alguien sea de otra especie.</p>
+            <p>{{ page.why-text }}</p>
           </div>
           <!-- text-box end -->
-          <a class="link link-mid no-underline" href="/porque-veganismo/">Texto completo <span class="icon icon-long-arrow-right-light"></span></a>
+          <a class="link link-mid no-underline" href="/porque-veganismo/">{{ page.why-button }}<span class="icon icon-long-arrow-right-light"></span></a>
         </div>
       </a>
       <!-- col end -->
@@ -70,10 +70,10 @@ layout: basic-structure
         <a href="/lecciones/"><h3 class="link-heading">Lecciones</h3></a>
         <!-- text-box -->
         <div class="text-box">
-          <p>X Lecciones en las que aprenderás sobre consideraciones éticas relativas al veganismo, nutrición a base de plantas, impacto ambiental de las industrias de explotación animal, y activismo. Tendrás la posibilidad de conocer a más personas veganas de la ciudad.</p>
+          <p>{{ page.lessons-text }}</p>
         </div>
         <!-- text-box end -->
-        <a class="button brand-background button-big button-wide-xs" href="/lecciones/">Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora</a>
+        <a class="button brand-background button-big button-wide-xs" href="/lecciones/">{{ page.lessons-button }}</a>
       </div>
       <!-- col end -->
     </div>
