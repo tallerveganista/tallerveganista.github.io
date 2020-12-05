@@ -33,5 +33,5 @@ lessons-text: >-
   veganismo, nutrición a base de plantas, impacto ambiental de las industrias de
   explotación animal, y activismo. Tendrás la posibilidad de conocer a más
   personas veganas de la ciudad.
-lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span>
+lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 ---
