@@ -8,7 +8,7 @@ category: lesson
 date: {}
 excerpt: Lección veganismo
 recipe-introduction: null
-author: Tayrona Hoyos
+author: Alejandro Narváez Isaza
 image: /assets/images/lessons/leccion-01-veganismo-square.jpg
 permalink: /leccion-veganismo/
 description: null
