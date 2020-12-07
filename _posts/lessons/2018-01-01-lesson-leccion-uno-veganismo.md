@@ -16,7 +16,9 @@ recipe-introduction: null
 author: Alejandro Narváez Isaza
 image: /assets/images/lessons/leccion-01-veganismo-square.jpg
 permalink: /leccion-veganismo/
-description: null
+description: >-
+  Origen de la palabra veganismo y anotaciones sobre las motivaciones para
+  hacerse veganx.
 published: true
 ---
 Lo más probable es que hayan existido veganxs durante toda la historia, pero la palabra *veganismo*, fue acuñada en 1944 durante la fundación de "The Vegan Society".
