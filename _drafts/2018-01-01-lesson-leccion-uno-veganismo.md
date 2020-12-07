@@ -63,4 +63,10 @@ El segundo problema de la motivación ambiental es que el tema es tan complejo y
 
 ### Veganxs por antiespecismo
 
-Primero estaría bien definir la palabra especismo.
+Primero estaría bien definir la palabra especismo. En el Dicccionario de la Lengua Española se define como: 
+
+>1. m. Discriminación de los animales por considerarlos especies inferiores.
+{: class="p-big"}
+
+>2. m. Creencia según la cual el ser humano es superior al resto de los animales, y por ello puede utilizarlos en beneficio propio.
+{: class="p-big"}
