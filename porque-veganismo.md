@@ -1,16 +1,17 @@
 ---
 layout: why
-title:  ¿Por qué veganismo?
-date: 2020-11-26 11:48:00 -0500
+title: ¿Por qué veganismo?
+date: '2020-11-26 11:48:00 -0500'
 author: Alejandro Narváez Isaza
 permalink: /porque-veganismo/
+published: true
 ---
 Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece; así ese alguien sea de otra especie.
 {:class="p-big center-lg why-big-text"}
 
 ### ¿Qué es veganismo?
 
-Para que sepamos de lo que estamos hablando, empecemos con la definición más o menos oficial que propone la organización [Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}:
+Para que sepamos de lo que estamos hablando, empecemos con la definición más o menos oficial que propone la organización [The Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}:
 
 > "Una forma de vida que busca excluir, hasta donde sea posible y practicable, todas las formas de explotación de, o crueldad contra los animales para comida, ropa o cualquier otro propósito; y por extensión, promueve el desarrollo y uso de alternativas libres de animales para el beneficio de los animales, humanos y el ambiente. En términos dietarios denota la práctica de prescindir de todos los productos derivados total o parcialmente de animales."
 {: class="p-big"}
