@@ -58,13 +58,8 @@ La motivación ambiental tiene dos problemas graves. El primero es que dentro de
 
 Desde ese punto de vista sería un problema de que tan sostenible es la producción del cadáver o secreción, no de si consumirlo es apoyar un sistema de explotación que no es ético. Y tampoco pasa nada con *darse un gusto* después de tantos sacrificios por "el ambiente," que como van las cosas serán en vano.
 
-El segundo problema de la motivación ambiental es que el tema es tan complejo y tiene tantas variables, que discutir si hacernos veganxs es la acción individual más efectiva para combatir la crísis climática y ambiental, comparado con reducir el consumo de cadáveres, o evitar consumir cadáveres pero seguir consumiendo secreciones, se vuelve una discusión de posibilidades infinitas, para la que difícilmente podemos estar bien preparadxs y que puede más bien ser una pérdida de tiempo.
+El segundo problema de la motivación ambiental es que el tema es tan complejo y tiene tantas variables, que discutir si hacernos veganxs es la acción individual más efectiva para combatir la crísis climática y ambiental, comparado con reducir el consumo de cadáveres, o evitar consumir cadáveres pero seguir consumiendo secreciones, o vivir en el monte cazando y recolectando... se vuelve una discusión de posibilidades infinitas, para la que difícilmente podemos estar bien preparadxs y que puede más bien ser una pérdida de tiempo.
 
 ### Veganxs por antiespecismo
 
-Primero estaría bien definir la palabra especismo. 
-
-
-
-
-
+Primero estaría bien definir la palabra especismo.
