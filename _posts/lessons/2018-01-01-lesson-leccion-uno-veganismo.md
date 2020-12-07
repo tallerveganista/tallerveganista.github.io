@@ -5,7 +5,7 @@ tags:
   - lesson
 title: Veganismo
 category: lesson
-date: {}
+date: 2020-12-07T00:00:00.000Z
 excerpt: Lección veganismo
 recipe-introduction: null
 author: Alejandro Narváez Isaza
