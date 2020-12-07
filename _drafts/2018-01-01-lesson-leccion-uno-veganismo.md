@@ -35,8 +35,7 @@ En 1949, Leslie J Cross señaló que la palabra veganismo no tenía una definici
 > “Una forma de vida que busca excluir, hasta donde sea posible y practicable, todas las formas de explotación de, o crueldad contra los animales para comida, ropa o cualquier otro propósito; y por extensión, promueve el desarrollo y uso de alternativas libres de animales para el beneficio de los animales, humanos y el ambiente. En términos dietarios denota la práctica de prescindir de todos los productos derivados total o parcialmente de animales.”
 {: class="p-big"}
 
-[Artículo completo](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"} sobre la definición de veganismo y ebook sobre la historia the la Sociedad Vegana
-(En Inglés).
+[Artículo completo](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"} sobre la definición de veganismo y ebook sobre la historia the la Sociedad Vegana.
 
 En la página [Porqué veganismo](/porque-veganismo/){:target='_blank' class="link"} hago unas anotaciones acerca de discusiones actuales sobre la definición. 
 
