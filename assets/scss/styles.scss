@@ -292,7 +292,7 @@ blockquote{
   font-style: normal !important;
   color: $dark !important;
   margin: 0;
-  & p{
+  & p, & ol{
     font-size: $big-text;
     line-height: $big-line-height;
     color: $gray-4;
@@ -490,7 +490,7 @@ blockquote{
   }
 }
 
-.caption{
+.caption, .caption-no-link{
   display: block;
   margin: .75rem 0 0 0;
   color: $dark;
@@ -500,6 +500,12 @@ blockquote{
   &:hover{
     text-decoration: underline;
     color: $dark;
+  }
+}
+
+.caption-no-link{
+  &:hover{
+    text-decoration: none;
   }
 }
 
