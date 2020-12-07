@@ -11,7 +11,7 @@ Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vid
 
 ### ¿Qué es veganismo?
 
-Para que sepamos de lo que estamos hablando, empecemos con la definición más o menos oficial que propone la organización [The Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}:
+Para que sepamos de lo que estamos hablando, empecemos con la definición más o menos oficial que propone la organización [The Vegan Society:](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}
 
 > "Una forma de vida que busca excluir, hasta donde sea posible y practicable, todas las formas de explotación de, o crueldad contra los animales para comida, ropa o cualquier otro propósito; y por extensión, promueve el desarrollo y uso de alternativas libres de animales para el beneficio de los animales, humanos y el ambiente. En términos dietarios denota la práctica de prescindir de todos los productos derivados total o parcialmente de animales."
 {: class="p-big"}
