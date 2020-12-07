@@ -26,21 +26,24 @@ author: Taller Veganista / Fluorescente
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  tallerveganista
+github_username: tallerveganista
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
-
 plugins:
   - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
