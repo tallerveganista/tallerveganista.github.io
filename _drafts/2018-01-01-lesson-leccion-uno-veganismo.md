@@ -37,7 +37,7 @@ En 1949, Leslie J Cross señaló que la palabra veganismo no tenía una definici
 
 [Artículo completo](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"} sobre la definición de veganismo y ebook sobre la historia the la Sociedad Vegana.
 
-En la página [Porqué veganismo](/porque-veganismo/){:target='_blank' class="link"} hago unas anotaciones acerca de discusiones actuales sobre la definición. 
+En la página [Porqué veganismo,](/porque-veganismo/){:target='_blank' class="link"} hago unas anotaciones acerca de discusiones actuales sobre la definición. 
 
 Dentro de la definición más o menos oficial, caben quienes se hacen veganxs por salud y por reducir su impacto ambiental individual, aunque la motivación influye en que las personas se mantengan veganas o abandonen el veganismo después de un tiempo, e influye en la información que consultarían. Es importante analizar cuál es la motivación que nos impulsa a adoptar el veganismo.
 
@@ -63,10 +63,12 @@ El segundo problema de la motivación ambiental es que el tema es tan complejo y
 
 ### Veganxs por antiespecismo
 
-Primero estaría bien definir la palabra especismo. En el Dicccionario de la Lengua Española se define como: 
+Primero estaría bien definir la palabra especismo. En el [Dicccionario de la Lengua Española](https://dle.rae.es/especismo){:target='_blank' class="link"} se define como: 
 
 >1. m. Discriminación de los animales por considerarlos especies inferiores.
 {: class="p-big"}
 
 >2. m. Creencia según la cual el ser humano es superior al resto de los animales, y por ello puede utilizarlos en beneficio propio.
 {: class="p-big"}
+
+
