@@ -1,14 +1,17 @@
 ---
 layout: lesson
 lesson-number: Lección 1
-tags: ['lesson']
+tags:
+  - lesson
 title: Veganismo
 category: lesson
-date: 2020-11-28 16:00:00
+date: {}
 excerpt: Lección veganismo
-recipe-introduction:
+recipe-introduction: null
 author: Tayrona Hoyos
 image: /assets/images/lessons/challenge-pics-01.jpg
 permalink: /leccion-veganismo/
-description:
+description: null
+published: true
 ---
+Lo más probable es que hayan existido veganxs durante toda la historia, pero la palabra *veganismo* fue acuñada en 1944.
