@@ -61,6 +61,11 @@ Desde ese punto de vista sería un problema de que tan sostenible es la producci
 
 El segundo problema de la motivación ambiental es que el tema es tan complejo y tiene tantas variables, que al final no sabemos si realmente vale la pena hacernos veganxs como una acción individual efectiva para combatir la crísis climática y ambiental, o si está bien solamente reducir el consumo de cadáveres, o evitar consumir cadáveres pero seguir consumiendo secreciones... se abren posibilidades de discusión sobre variables infinitas para la que difícilmente podemos estar bien preparadxs.
 
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/wNQ5wvGmnEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ### Veganxs por antiespecismo
 
 Primero estaría bien definir la palabra especismo. En el [Dicccionario de la Lengua Española](https://dle.rae.es/especismo){:target='_blank' class="link"} se define como: 
@@ -71,5 +76,4 @@ Primero estaría bien definir la palabra especismo. En el [Dicccionario de la Le
 >2. m. Creencia según la cual el ser humano es superior al resto de los animales, y por ello puede utilizarlos en beneficio propio.
 {: class="p-big"}
 
-Si somos veganxs porque rechazamos la violencia que se deriva de apropiarse de los cuerpos de los animales como si fueran nuestros, entonces la idea de ejercer o financiar esa violencia cuando podemos no hacerlo; es inaceptable. 
-
+Si somos veganxs porque rechazamos la violencia que se deriva de apropiarse de los cuerpos de los animales como si fueran nuestros, entonces la idea de ejercer o financiar esa violencia cuando podemos no hacerlo; es inaceptable.
