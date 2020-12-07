@@ -94,7 +94,7 @@ Si somos veganxs porque rechazamos la violencia que se deriva de apropiarnos de 
 
 Hasta acá de definiciones, motivaciones e historia de palabras. La siguiente lección será una introducción a la nutrición basada en plantas. Desde la lección tres en adelante, conoceremos el horror que hay detrás de las diferentes industrias de explotación animal, y entenderemos el especismo como sistema de creencias absurdas y tradiciones que normalizan la violencia.
 
-Como curiosidad, comparto los que creo son los primeros documentales veganos de la historia. Mucho antes del auge de documentales veganos que vivimos ahora. El lenguaje visual de cada uno es tan de su época que ahora parecerían *mockumentales*, y se nota que el presupuesto no era mucho, pero los argumentos no han cambiado mucho.
+Como curiosidad, comparto los que creo son los primeros documentales veganos de la historia. Mucho antes del auge de documentales veganos que vivimos ahora. El lenguaje visual de cada uno es tan de su época que ahora parecerían *mockumentales*, y se nota que el presupuesto no era mucho, pero los argumentos se mantienen sólidos.
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/VlTYjaQLy2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
