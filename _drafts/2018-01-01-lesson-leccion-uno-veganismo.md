@@ -56,9 +56,9 @@ Yo me hice vegano porque quería reducir mi huella de carbono y consumir menos a
 
 La motivación ambiental tiene dos problemas graves. El primero es que dentro de esa lógica el reduccionismo es aceptable. *Día sin carne, vegetarianismo, etc...,* Ideas como alimentar con algas a las vacas para que no produzcan metano y explotarlas de ecológicamente, fabricar un material parecido al plástico pero biodegradable a partir de caparazones de cangrejos; y otras ideas horrorosas producto de la idea de que vamos a sobrevivir a la sexta extinción viviendo igual pero con productos "verdes", y el mismo especismo.
 
-Desde ese punto de vista sería un problema de que tan sostenible es la producción del cadáver o secreción, no de si consumirlo es apoyar un sistema de explotación que no es ético. Y tampoco pasa nada con *darse un gusto* después de tantos sacrificios por "el ambiente," que al parecer serán en vano.
+Desde ese punto de vista sería un problema de que tan sostenible es la producción del cadáver o secreción, no de si consumirlo es apoyar un sistema de explotación que no es ético. Y tampoco pasa nada con *darse un gusto* después de tantos sacrificios por "el ambiente," que como van las cosas serán en vano.
 
-El segundo problema de la motivación ambiental es que el tema es tan complejo y tiene tantas variables, que discutir si hacernos veganxs es la acción individual más efectiva para combatir la crísis climática y ambiental o no es tan efectiva, o si es pero no mucho más que ser vegetarianxs, o si es mejor irse a vivir al monte y vivir de sembrar, cazar y pescar... Se vuelve una discusión de posibilidades infinitas, para la que difícilmente podemos estar bien preparadxs y que puede más bien ser una pérdida de tiempo.
+El segundo problema de la motivación ambiental es que el tema es tan complejo y tiene tantas variables, que discutir si hacernos veganxs es la acción individual más efectiva para combatir la crísis climática y ambiental, comparado con reducir el consumo de cadáveres, o evitar consumir cadáveres pero seguir consumiendo secreciones, se vuelve una discusión de posibilidades infinitas, para la que difícilmente podemos estar bien preparadxs y que puede más bien ser una pérdida de tiempo.
 
 ### Veganxs por antiespecismo
 
