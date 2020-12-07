@@ -66,7 +66,7 @@ El segundo problema de la motivación ambiental es que el tema es tan complejo y
 </div>
 
 [26 Formas de Luchar contra el Cambio Climático &nbsp; &#124; &nbsp; 
-QuantumFracture &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk) {:target='_blank' class="caption"} Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra los animales, entonces reducir es aceptable y se perpetúa el mito de que el veganismo exigente, peligroso y aburrido.{: class="caption"}
+QuantumFracture &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk) {:target='_blank' class="caption"} Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra los animales, entonces reducir es aceptable y se perpetúa el mito de que el veganismo exigente, peligroso y aburrido. Además se tiene para hablar de veganismo porque le incomoda el tema. (Oh boy){: class="caption"}
 
 ### Veganxs por creencias sobrenaturales y pseudocientíficas
 
