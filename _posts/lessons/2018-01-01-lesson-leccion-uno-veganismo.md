@@ -64,7 +64,7 @@ Yo me hice vegano porque quería reducir mi huella de carbono y consumir menos a
 
 La motivación ambiental tiene dos problemas graves. El primero es que dentro de esa lógica el reduccionismo es aceptable. *Día sin carne, vegetarianismo, etc...,* Ideas como alimentar con algas a las vacas para que no produzcan metano y explotarlas de ecológicamente, fabricar un material parecido al plástico pero biodegradable, a partir de caparazones de cangrejos; y otras maquinaciones horrorosas producto de pensar que vamos a sobrevivir a la sexta extinción, viviendo igual, pero con productos "verdes", y el mismo especismo.
 
-El problema es que tan sostenible es la producción del cadáver o secreción, no si consumirlo es apoyar un sistema de explotación que no es ético. Tampoco pasa nada con "darse un gusto" después de tantos sacrificios por "el ambiente", que como van las cosas serán en vano.
+El problema es que tan sostenible es la producción del cadáver o la secreción, no si consumir es apoyar un sistema de explotación que no es ético. Tampoco pasa nada con "darse un gusto" después de tantos sacrificios por "el ambiente", que como van las cosas serán en vano.
 
 El segundo problema de la motivación ambiental es que el tema es tan complejo y tiene tantas variables, que al final no sabemos si realmente vale la pena hacernos veganxs como una acción individual efectiva para combatir la crísis climática y ambiental, o si está bien solamente reducir el consumo de cadáveres, o si es más bien evitar consumir cadáveres pero seguir consumiendo secreciones... Se abren posibilidades de discusión sobre variables infinitas para la que difícilmente podemos estar bien preparadxs.
 
