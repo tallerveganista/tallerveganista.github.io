@@ -15,7 +15,9 @@ excerpt: >-
 recipe-introduction: null
 author: Alejandro Narváez Isaza
 image: /assets/images/lessons/leccion-01-veganismo-square.jpg
-alt-image: Ternero descansando cómodamente, y retratos de fundadorxs de la Sociedad Vegana.
+alt-image: >-
+  Ternero descansando cómodamente, y retratos de fundadorxs de la Sociedad
+  Vegana.
 permalink: /leccion-veganismo/
 description: >-
   Origen de la palabra veganismo y anotaciones sobre las motivaciones para
@@ -33,6 +35,11 @@ Entre los que se oponían al uso de productos de origen animal estaba Mr Donald 
 El nombre *"Non-dairy vegetarians"* es muy largo, incómodo y no deja claro la oposición a considerar los huevos y otras secreciones como comida. Donald Watson y su esposa Dorothy se basaron en las ideas de Mr G.A. Henderson y su esposa Fay K. Henderson *"Allvega, Allvegan"* para proponer el nombre *"Vegan"*. Entre las propuestas de otros miembros estaban: *"Dairyban", "Vitan", "Benevore", "Sanivore" y "Beaumangeur"*.
 
 La palabra *vegan* está formada por las primeras y últimas letras de la palabra *vegetarian* porque el veganismo surge del vegetarianismo y es su conclusón lógica. Donald Watson fue la primera persona en usar la palabra en una publicación: *The Vegan News* - en 1944, y Fay K. Henderson, la primera en publicar un libro de cocina con la palabra en el título: *Vegan Recipes* - en 1946.
+
+![Vegan News #1 | Donald Watson | Vegan Recipes | Fay K. Henderson](assets/images/lessons/leccion-01-vegan-news-vegan-recipes.jpg)
+[Vegan News #1 |  Donald Watson](https://web.archive.org/web/20130226003431/http://www.ukveggie.com/vegan_news/vegan_news_1.pdf){:target='_blank' class="caption"}
+[Vegan Recipes | Fay K. Henderson](https://www.happycow.net/blog/vegan-recipes)
+{:target='_blank' class="caption"}
 
 Uno de los restaurantes vegetarianos con mejor reputación de Londres en 1934 se llamó *The Vega.* De Walter y Jenny Fleiss, quienes tenían un restaurante con el mismo nombre en Colonia y tuvieron que emigrar de Alemania al enterarse de que Walter era número 17 en la lista de la Gestapo. *The Vega,* era un nombre reconocido entre los vegetarianos de la época.
 
