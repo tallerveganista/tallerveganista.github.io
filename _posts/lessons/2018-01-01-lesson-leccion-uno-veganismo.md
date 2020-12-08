@@ -7,11 +7,8 @@ title: Veganismo
 category: lesson
 date: 2020-12-07T00:00:00.000Z
 excerpt: >-
-  Si somos veganxs porque rechazamos la violencia que se deriva de apropiarnos
-  de los cuerpos de los animales como si fueran nuestros, entonces la idea de
-  ejercer o financiar esa violencia cuando podemos no hacerlo; es inaceptable y
-  desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a
-  pasar por la mente volver a ejercer el especismo tres veces al día.
+  Origen de la palabra veganismo y anotaciones sobre las motivaciones para
+  hacerse veganx.
 recipe-introduction: null
 author: Alejandro Narváez Isaza
 image: /assets/images/lessons/leccion-01-veganismo-square.jpg
