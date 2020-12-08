@@ -5,7 +5,7 @@ tags:
   - lesson
 title: Veganismo
 category: lesson
-date: 2020-12-07T00:00:00.000Z
+date: {}
 excerpt: >-
   Si somos veganxs porque rechazamos la violencia que se deriva de apropiarnos
   de los cuerpos de los animales como si fueran nuestros, entonces la idea de
@@ -46,7 +46,7 @@ En 1949, Leslie J. Cross señaló que la palabra veganismo no tenía una definic
 
 En la página [Porqué veganismo,](/porque-veganismo/){:target='_blank' class="link"} hago unas anotaciones acerca de discusiones actuales sobre la definición.
 
-Dentro de la definición más o menos oficial, caben quienes se hacen veganxs por salud y por reducir su impacto ambiental individual, las razones por las que alguien decide hacerse veganx no son exclusivas ni excluyentes, aunque la motivación influye en que se mantenga veganx, o abandone el veganismo después de un tiempo. No importa si hemos llegado al veganismo por salud o por reducción del impacto ambiental, pero creo que es necesario entender el antiespecismo para quedarse.
+Dentro de la definición más o menos oficial, caben quienes se hacen veganxs por salud y por reducir su impacto ambiental individual. Las razones por las que alguien decide hacerse veganx no son exclusivas ni excluyentes, aunque la motivación influye en que esa persona se mantenga vegana, o abandone el veganismo después de un tiempo. No importa si hemos llegado al veganismo por salud o por reducción del impacto ambiental, pero creo que es necesario entender el antiespecismo para quedarse.
 
 ### Veganxs por salud
 
