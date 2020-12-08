@@ -5,7 +5,7 @@ tags:
   - lesson
 title: Veganismo
 category: lesson
-date: 2020-12-07T00:00:00.000Z
+date: {}
 excerpt: >-
   Si somos veganxs porque rechazamos la violencia que se deriva de apropiarnos
   de los cuerpos de los animales como si fueran nuestros, entonces la idea de
@@ -79,7 +79,9 @@ El segundo problema de la motivación ambiental, es que el tema es tan complejo 
   <iframe src="https://www.youtube.com/embed/wNQ5wvGmnEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[26 Formas de Luchar contra el Cambio Climático &nbsp; &#124; &nbsp; QuantumFracture &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"} Acá se reconoce que seguir una dieta a base de plantas, es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra los animales, entonces reducir, o comer cadáveres de otras especies es aceptable. Como el presentador no tiene ningún problema con la violencia contra los animales ni cree que es necesario hacer algo al respecto; repite el mito de que el veganismo exigente, peligroso y aburrido.
+[26 Formas de Luchar contra el Cambio Climático &nbsp; &#124; &nbsp; QuantumFracture &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"} 
+
+Acá se reconoce que seguir una dieta a base de plantas, es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra los animales, entonces reducir, o comer cadáveres de otras especies es aceptable. Como el presentador no tiene ningún problema con la violencia contra los animales ni cree que es necesario hacer algo al respecto; repite el mito de que el veganismo exigente, peligroso y aburrido.
 {: class="caption-no-link"}
 
 ### Veganxs por antiespecismo
