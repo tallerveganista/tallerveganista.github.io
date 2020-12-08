@@ -5,7 +5,7 @@ tags:
   - lesson
 title: Veganismo
 category: lesson
-date: {}
+date: 2020-12-07T00:00:00.000Z
 excerpt: >-
   Origen de la palabra veganismo y anotaciones sobre las motivaciones para
   hacerse veganx.
