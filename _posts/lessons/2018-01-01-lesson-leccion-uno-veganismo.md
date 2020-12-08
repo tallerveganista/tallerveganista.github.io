@@ -5,7 +5,7 @@ tags:
   - lesson
 title: Veganismo
 category: lesson
-date: {}
+date: 2020-12-07T00:00:00.000Z
 excerpt: >-
   Si somos veganxs porque rechazamos la violencia que se deriva de apropiarnos
   de los cuerpos de los animales como si fueran nuestros, entonces la idea de
