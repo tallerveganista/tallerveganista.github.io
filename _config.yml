@@ -40,8 +40,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: ""
     values:
+      #values
       layout: "post"
       image: true
 

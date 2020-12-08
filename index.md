@@ -30,7 +30,7 @@ why-text: >-
   alguien más me pertenece; así ese alguien sea de otra especie.
 why-button: Texto completo
 lessons-text: >-
-  X Lecciones en las que aprenderás sobre consideraciones éticas relativas al
+  Lecciones en las que aprenderás sobre consideraciones éticas relativas al
   veganismo, nutrición a base de plantas, impacto ambiental de las industrias de
   explotación animal, y activismo. Tendrás la posibilidad de conocer a más
   personas veganas de la ciudad.
