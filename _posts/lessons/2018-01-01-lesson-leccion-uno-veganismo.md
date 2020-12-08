@@ -15,6 +15,7 @@ excerpt: >-
 recipe-introduction: null
 author: Alejandro Narváez Isaza
 image: /assets/images/lessons/leccion-01-veganismo-square.jpg
+alt-image: Ternero descansando cómodamente, y retratos de fundadorxs de la Sociedad Vegana.
 permalink: /leccion-veganismo/
 description: >-
   Origen de la palabra veganismo y anotaciones sobre las motivaciones para
