@@ -36,7 +36,7 @@ El nombre *"Non-dairy vegetarians"* es muy largo, incómodo y no deja claro la o
 
 La palabra *vegan* está formada por las primeras y últimas letras de la palabra *vegetarian* porque el veganismo surge del vegetarianismo y es su conclusón lógica. Donald Watson fue la primera persona en usar la palabra en una publicación: *The Vegan News* - en 1944, y Fay K. Henderson, la primera en publicar un libro de cocina con la palabra en el título: *Vegan Recipes* - en 1946.
 
-![Vegan News #1 | Donald Watson | Vegan Recipes | Fay K. Henderson](assets/images/lessons/leccion-01-vegan-news-vegan-recipes.jpg)
+![Vegan News #1 &nbsp; &#124; &nbsp; Donald Watson &nbsp; &#124; &nbsp; Vegan Recipes &nbsp; &#124; &nbsp; Fay K. Henderson](assets/images/lessons/leccion-01-vegan-news-vegan-recipes.jpg)
 
 Uno de los restaurantes vegetarianos con mejor reputación de Londres en 1934 se llamó *The Vega.* De Walter y Jenny Fleiss, quienes tenían un restaurante con el mismo nombre en Colonia y tuvieron que emigrar de Alemania al enterarse de que Walter era número 17 en la lista de la Gestapo. *The Vega,* era un nombre reconocido entre los vegetarianos de la época.
 
