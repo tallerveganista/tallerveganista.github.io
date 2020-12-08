@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Veganismo sin miedo
+image: assets/images/taller-veganista-cover.png
 permalink: /
 alt-why-image: Cerdo esclavizado
 alt-what-image: Animales en clase
