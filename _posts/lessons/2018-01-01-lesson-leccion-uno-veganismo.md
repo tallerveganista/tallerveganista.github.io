@@ -21,7 +21,7 @@ description: >-
   hacerse veganx.
 published: true
 ---
-Lo más probable es que hayan existido veganxs durante toda la historia, pero la palabra *veganismo*, fue acuñada en 1944 durante la fundación de "The Vegan Society".
+Lo más probable es que hayan existido veganxs durante toda la historia, pero la palabra *veganismo*, fue acuñada en 1944 durante la fundación de *The Vegan Society*.
 
 ### Origen de la palabra veganismo
 
