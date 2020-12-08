@@ -44,6 +44,7 @@ defaults:
     values:
       #values
       layout: "post"
+      logo: /assets/taller-veganista-logo.png
       image: true
 
 # Exclude from processing.
