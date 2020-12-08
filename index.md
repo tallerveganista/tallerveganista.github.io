@@ -34,4 +34,7 @@ lessons-text: >-
   explotación animal, y activismo. Tendrás la posibilidad de conocer a más
   personas veganas de la ciudad.
 lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
+description: >-
+  Toda la información que necesitas para unirte a la lucha antiespecista desde
+  tus hábitos de vida y tu participación ciudadana.
 ---
