@@ -15,3 +15,5 @@ description: Evento de inauguración del proyecto Taller Veganista.
 Celebraremos el inicio de este proyecto con un picnic. Tendremos música, comida para compartir, e imprimiremos camisetas y afiches en vivo. Recuerda seguir las medidas de bio seguridad para evitar contagios.
 
 Domingo 7 de febrero. Parque de los deseos. 3:00 p.m.
+
+<a class="link" href="https://www.meetup.com/taller-veganista/events/275066359/" target="_blank">meetup.com/taller-veganista/events/275066359</a>
