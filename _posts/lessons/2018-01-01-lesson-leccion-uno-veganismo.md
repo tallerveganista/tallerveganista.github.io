@@ -32,6 +32,10 @@ Durante la década de 1830, la palabra *vegetariano* se usaba para referirse a u
 
 Entre los que se oponían al uso de productos de origen animal estaba Mr Donald Watson, quién experimentaba con una dieta crudivegana (No recomendable a menos que se cuente con asesoría profesional), e intentó sin éxito formar un un grupo de vegetarianos “sin lácteos” dentro de la Sociedad Vegetariana. La sociedad decidió que era mejor enfocar sus energías en abolir el consumo de carne, y le sugirió a Watson fundar una organización aparte. En noviembre de 1944, Elsie Shringley, Donald Watson y otros cuatro se reunieron en el *Attic Club* en Holborn, Londres para discutir fundar una nueva organización.
 
+![Ternero y fotos históricas](../assets/images/lessons/leccion-01-ternero-fotos-de-historia.jpg)
+[ HAN Mengqi &nbsp; &#124; &nbsp; Unsplash](https://unsplash.com/@hanmengqi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target='_blank' class="caption"}
+
+
 El nombre *"Non-dairy vegetarians"* es muy largo, incómodo y no deja claro la oposición a considerar los huevos y otras secreciones como comida. Donald Watson y su esposa Dorothy se basaron en las ideas de Mr G.A. Henderson y su esposa Fay K. Henderson *"Allvega, Allvegan"* para proponer el nombre *"Vegan"*. Entre las propuestas de otros miembros estaban: *"Dairyban", "Vitan", "Benevore", "Sanivore" y "Beaumangeur"*.
 
 La palabra *vegan* está formada por las primeras y últimas letras de la palabra *vegetarian* porque el veganismo surge del vegetarianismo y es su conclusón lógica. Donald Watson fue la primera persona en usar la palabra en una publicación: *The Vegan News* - en 1944, y Fay K. Henderson, la primera en publicar un libro de cocina con la palabra en el título: *Vegan Recipes* - en 1946.
@@ -79,7 +83,7 @@ El segundo problema de la motivación ambiental, es que el tema es tan complejo 
   <iframe src="https://www.youtube.com/embed/wNQ5wvGmnEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[26 Formas de Luchar contra el Cambio Climático &nbsp; &#124; &nbsp; QuantumFracture &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"} 
+[26 Formas de Luchar contra el Cambio Climático &nbsp; &#124; &nbsp; QuantumFracture &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"}
 
 Acá se reconoce que seguir una dieta a base de plantas, es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra los animales, entonces reducir, o comer cadáveres de otras especies es aceptable. Como el presentador no tiene ningún problema con la violencia contra los animales ni cree que es necesario hacer algo al respecto; repite el mito de que el veganismo exigente, peligroso y aburrido.
 {: class="caption-no-link"}
