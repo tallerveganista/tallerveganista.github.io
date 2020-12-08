@@ -4,6 +4,7 @@ title: ¿Por qué veganismo?
 date: '2020-11-26 11:48:00 -0500'
 author: Alejandro Narváez Isaza
 permalink: /porque-veganismo/
+image: assets/images/lessons/leccion-01-ternero-fotos-de-historia.jpg
 published: true
 ---
 Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece; así ese alguien sea de otra especie.
