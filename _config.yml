@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Toda la información que necesitas para unirte a la lucha antiespecista desde tus hábitos de vida y tu participación ciudadana.
 author: Taller Veganista / Fluorescente
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tallerveganista.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: tallerveganista
 
@@ -36,6 +36,12 @@ plugins:
 plugins:
   - jekyll-seo-tag
 
+plugins:
+  - jekyll-sitemap
+
+plugins:
+  - jekyll-analytics
+
 defaults:
   -
     scope:
@@ -46,6 +52,11 @@ defaults:
       layout: "post"
       logo: /assets/taller-veganista-logo.png
       image: true
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-GHCQ1QXCSX        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Exclude from processing.
 # The following items will not be processed, by default.
