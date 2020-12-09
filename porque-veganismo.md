@@ -47,6 +47,6 @@ El condicionamiento cultural es una ideología dominante e invisible que Melanie
   <iframe src="https://www.youtube.com/embed/f1veVP829JI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[At Second Glance &nbsp; &#124; &nbsp; Melanie Joy &nbsp; &#124; &nbsp; Ted München &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=f1veVP829JI&feature=emb_logo){:target='_blank' class="caption"}
+[Beyond Carnism and Toward Rational, Authentic Food Choices &nbsp; &#124; &nbsp; Melanie Joy &nbsp; &#124; &nbsp; Ted München &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=f1veVP829JI&feature=emb_logo){:target='_blank' class="caption"}
 
 Vivimos en de una cultura especista en la que decidir hacer lo posible por dejar de participar en un sistema de explotación tan bien aceptado puede llegar a ser difícil al principio, pero con el tiempo se convierte en lo normal. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
