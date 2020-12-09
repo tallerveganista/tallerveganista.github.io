@@ -10,7 +10,7 @@ excerpt: >-
   Origen de la palabra veganismo y anotaciones sobre las motivaciones para
   hacerse veganx.
 recipe-introduction: null
-author: 'Alejandro Narváez Isaza, con la colaboración de Eduardo Arias González'
+author: Alejandro Narváez Isaza
 image: /assets/images/lessons/leccion-01-veganismo-square.jpg
 alt-image: >-
   Ternero descansando cómodamente, y retratos de fundadorxs de la Sociedad
