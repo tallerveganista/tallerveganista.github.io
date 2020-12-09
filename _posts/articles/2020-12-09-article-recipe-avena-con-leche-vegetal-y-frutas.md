@@ -28,14 +28,15 @@ date: 2020-12-9
 ---
 #### Ingredientes:
 
-- Leche vegetal
-- Semillas de chía
-- Semillas de linaza molidas
-- Avena en hojuelas
-- Frutas picadas
-- Uvas pasas (Opcional)
-- Canela molida (Opcional)
-- Panela en polvo (Opcional)
+Leche vegetal
+Semillas de chía
+Semillas de linaza molidas
+Avena en hojuelas
+Frutas picadas
+Uvas pasas (Opcional)
+Canela molida (Opcional)
+Panela en polvo (Opcional)
+
 
 #### Preparaciones previas
 
