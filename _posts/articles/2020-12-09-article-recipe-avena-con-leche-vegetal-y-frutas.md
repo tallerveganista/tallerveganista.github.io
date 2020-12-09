@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: recipe
 lesson-url: /leccion-veganismo/
 lesson-number: Lección 1
