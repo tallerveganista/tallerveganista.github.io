@@ -27,7 +27,7 @@ why-text: >-
   Porque ningún ser que siente y tiene una experiencia subjetiva de su propia
   vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen
   a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de
-  alguien más me pertenece; así ese alguien sea de otra especie.
+  alguien más me pertenece, así ese alguien sea de otra especie.
 why-button: Texto completo
 lessons-text: >-
   Lecciones en las que aprenderás sobre consideraciones éticas relativas al
