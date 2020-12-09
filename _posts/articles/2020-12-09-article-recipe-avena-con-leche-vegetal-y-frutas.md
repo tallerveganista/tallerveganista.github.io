@@ -19,11 +19,12 @@ excerpt: >-
   panadería. Evito la de almendras por el uso de abejas en su polinización.
   bibendum ut.
 author: Alejandro Narváez Isaza
-image-landscape: /assets/images/event-thumbnail.jpg
-image: /assets/images/lessons/challenge-pics-01.jpg
+image-landscape: /assets/images/posts/receta-avena-con-leche-vegetal.png
+image: /assets/images/posts/receta-avena-con-leche-vegetal-square.png
 permalink: /avena-con-leche-vegetal-y-frutas/
 description: Receta de avena con leche vegetal y frutas.
 title: Avena con leche vegetal y frutas
+date: 2020-12-9
 ---
 #### Ingredientes:
 
