@@ -104,3 +104,5 @@ Hasta donde tengo noticia, estos son los primeros documentales para la promoció
 </div>
 
 [Truth or Dairy &nbsp; &#124; &nbsp; The Vegan Society &nbsp; &#124; &nbsp; 1994 &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=ce5lY9lXmK0&list=PL4qbpZDdKQPkIvWmOM3BSfeFURNQJaHWO&index=15){:target='_blank' class="caption"}
+
+Gracias a Eduardo Arias González, de [Taller Agosto](http://talleragosto.com/){:target='_blank' class="link"}, por ayudarme a revisar el texto de esta lección. 
