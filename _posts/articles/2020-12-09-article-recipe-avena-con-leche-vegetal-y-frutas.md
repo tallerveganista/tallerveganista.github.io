@@ -60,7 +60,7 @@ Guarda la okara (residuo que queda al colar la leche) para preparar quesos más 
 
 La avena se remoja y se deja una hora en la nevera, o desde la noche anterior.
 
-###Preparación:
+### Preparación:
 
 En un tazón, agrega una cucharada de semillas de chía y una cucharada de semillas de linaza, agrega un poco de agua y dejalas un rato o unos 20 minutos.
 
