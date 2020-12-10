@@ -68,4 +68,4 @@ date: 2020-12-9
 
 <p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, agrega las frutas y pasas si quieres y la leche vegetal. Puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
 
-<p class="post-content-p post-content-half-space">Mis frutas favoritas para la avena son piña y mora o fresa. La mora y la fresa pertenecen al grupo de las bayas. Con este desayuno puedo chequear la porción de bayas diaria en la aplicación de la <a class="link" href="https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/" target="_blank">Docena Diaria</a> que conoceremos más adelante.<p>
+<p class="post-content-p post-content-half-space">Mis combinación de frutas favoritas para la avena son piña y mora o piña y fresa. La mora y la fresa pertenecen al grupo de las bayas, con este desayuno puedo chequear la porción de bayas diaria en la aplicación de la <a class="link" href="https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/" target="_blank">Docena Diaria.</a><p>
