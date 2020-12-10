@@ -25,6 +25,10 @@ description: Receta de avena con leche vegetal y frutas.
 title: Avena con leche vegetal y frutas
 date: 2020-12-9
 ---
+<figure>
+  <img src="../assets/images/posts/receta-avena-con-leche-vegetal-landscape.jpg">
+</figure>
+
 <h3>Ingredientes</h3>
 
 <ul>
@@ -67,6 +71,6 @@ date: 2020-12-9
 
 <p class="post-content-p post-content-space">Pica las frutas que quieres con tu avena.</p>
 
-<p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, agrega las frutas y pasas si quieres y la leche vegetal. puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
+<p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, agrega las frutas y pasas si quieres y la leche vegetal. Puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
 
 <p class="post-content-p post-content-half-space">Mis frutas favoritas para la avena son piña y mora o fresa. La mora y la fresa pertenecen al grupo de las bayas. Con este desayuno puedo chequear la porción de bayas diaria en la aplicación de la docena diaria que conoceremos más adelante.<p>
