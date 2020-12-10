@@ -53,6 +53,14 @@ defaults:
       logo: /assets/taller-veganista-logo.png
       image: true
 
+collections:
+  events:
+    output: true
+  lessons:
+    output: true
+  team-members:
+    output: true
+
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
     id: G-GHCQ1QXCSX        # Required - replace with your tracking id

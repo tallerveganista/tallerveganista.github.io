@@ -34,21 +34,21 @@ layout: basic-structure
         <!-- members -->
         <div class="members">
           <h3 class="start-xs">¿Quiénes somos?</h3>
-          {% for post in site.posts reversed %}
-            {% if post.tags contains 'member' %}
+          {% for team-member in site.team-members reversed %}
+            {% if team-member.tags contains 'member' %}
             <!-- row   -->
             <div class="row member start-sm" uk-scrollspy="cls: uk-animation-fade; delay: 100">
               <!-- col -->
               <div class="col-xs-12 col-sm-4 col-lg-3">
                 <figure>
-                  <img src="{{ post.image }}" alt="{{ post.name }}">
+                  <img src="{{ team-member.image }}" alt="{{ team-member.name }}">
                 </figure>
               </div>
               <!-- col end -->
               <!-- col -->
               <div class="col-xs-12 col-sm-8 col-lg-9">
-                <h4>{{ post.name }}</h4>
-                <p>{{ post.excerpt }}</p>
+                <h4>{{ team-member.name }}</h4>
+                <p>{{ team-member.excerpt }}</p>
               </div>
               <!-- col end -->
             </div>

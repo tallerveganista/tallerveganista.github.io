@@ -87,22 +87,22 @@ layout: basic-structure
         <div class="preview-event-article preview-event">
           <h5>Para Parchar</h5>
           <!-- thumbnail -->
-          {% for post in site.posts %}
-            {% if post.tags contains 'highlight-event' %}
+          {% for event in site.events %}
+            {% if event.tags contains 'highlight-event' %}
             <!-- big-thumbnail -->
             <div class="big-thumbnail">
-              <a href="{{ post.url }}">
+              <a href="{{ event.url }}">
                 <figure>
-                  <img src="{{ post.image-landscape }}" alt="">
+                  <img src="{{ event.image-landscape }}" alt="">
                 </figure>
-                <p class="category">{{ post.categories | join: ' &nbsp | &nbsp ' }}</p>
-                <h4 class="link-heading">{{ post.title }}</h4>
+                <p class="category">{{ event.categories | join: ' &nbsp | &nbsp ' }}</p>
+                <h4 class="link-heading">{{ event.title }}</h4>
                 <!-- text-box -->
                 <div class="text-box">
-                  <p>{{ post.excerpt | truncate: 186 }}</p>
+                  <p>{{ event.excerpt | truncate: 186 }}</p>
                 </div>
                 <!-- text-box end -->
-                <p class="author-date">{% assign m = post.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ post.event-date | date: "%d" }} / {{ post.event-date | date: "%Y" }}</p>
+                <p class="author-date">{% assign m = event.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ event.event-date | date: "%d" }} / {{ event.event-date | date: "%Y" }}</p>
               </a>
             </div>
             <!-- big thumbnail end -->
