@@ -56,7 +56,7 @@ date: 2020-12-9
 	<iframe src="https://www.youtube.com/embed/caIojdZGe_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<a class="caption" href="https://www.youtube.com/watch?v=caIojdZGe_c">4 Leches vegetales + 2 quesos. Muy fácil &nbsp; &#124; &nbsp; Cocina Veggikinga &nbsp; &#124; &nbsp; Cocina Veggikinga &nbsp; &#124; &nbsp; Youtube</a>
+<a class="caption" href="https://www.youtube.com/watch?v=caIojdZGe_c">4 Leches vegetales + 2 quesos. Muy fácil &nbsp; &#124; &nbsp; Cocina Veggikinga &nbsp; &#124; &nbsp; Youtube</a>
 
 <p class="post-content-p post-content-space">La avena se remoja y se deja una hora en la nevera, o desde la noche anterior.</p>
 
