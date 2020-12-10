@@ -11,12 +11,7 @@ categories:
   - Lección 1
 tags: ['recipe','article','blog-gallery']
 excerpt: >-
-  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro
-  para leche, o una tela que cumpla la misma función, licuadora, y la
-  preparación generalmente necesita mínimo 8 horas en remojo. Mi favorita es la
-  leche de nuez. La nuez la consigo a buen precio en almacenes de insumos para
-  panadería. Evito la de almendras por el uso de abejas en su polinización.
-  bibendum ut.
+  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. Mi favorita es la de nuez, se puede conseguir la nuez a buen precio en almacenes de insumos para panadería. Evito la de almendras por el uso de abejas en su polinización.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/receta-avena-con-leche-vegetal-landscape.jpg
 image: /assets/images/posts/receta-avena-con-leche-vegetal-square.jpg
@@ -44,7 +39,7 @@ date: 2020-12-9
 
 <h3>Preparaciones previas</h3>
 
-<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función, licuadora, y la preparación generalmente necesita mínimo 8 horas en remojo. Mi favorita es la leche de nuez. La nuez la consigo a buen precio en almacenes de insumos para panadería. Evito la de almendras por el uso de abejas en su polinización.
+<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. Mi favorita es la de nuez, se puede conseguir la nuez a buen precio en almacenes de insumos para panadería. Evito la de almendras por el uso de abejas en su polinización.
 </p>
 
 <p class="post-content-p post-content-space">En este video aprenderás a preparar la leche vegetal de tu preferencia.</p>
@@ -73,4 +68,4 @@ date: 2020-12-9
 
 <p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, agrega las frutas y pasas si quieres y la leche vegetal. Puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
 
-<p class="post-content-p post-content-half-space">Mis frutas favoritas para la avena son piña y mora o fresa. La mora y la fresa pertenecen al grupo de las bayas. Con este desayuno puedo chequear la porción de bayas diaria en la aplicación de la docena diaria que conoceremos más adelante.<p>
+<p class="post-content-p post-content-half-space">Mis frutas favoritas para la avena son piña y mora o fresa. La mora y la fresa pertenecen al grupo de las bayas. Con este desayuno puedo chequear la porción de bayas diaria en la aplicación de la <a class="link" href="https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/" target="_blank">Docena Diaria</a> que conoceremos más adelante.<p>
