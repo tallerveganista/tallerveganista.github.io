@@ -11,7 +11,7 @@ categories:
   - Lección 1
 tags: ['recipe','article','blog-gallery']
 excerpt: >-
-  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo, se pueden conseguir las semillas y frutos secos a buen precio en tiendas de insumos para panadería. Es preferible evitar las almendras por la cantidad de agua que requiere su producción, y la forma como se polinizan los cultivos usando abejas propiedad de apicultores comerciales.
+  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. En tiendas de insumos para panadería se pueden conseguir las semillas y frutos secos a buen precio. Es preferible evitar las almendras por la cantidad de agua que requiere su producción y la forma como se polinizan los cultivos usando abejas propiedad de apicultores comerciales.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/receta-avena-con-leche-vegetal-landscape.jpg
 image: /assets/images/posts/receta-avena-con-leche-vegetal-square.jpg
@@ -39,7 +39,7 @@ date: 2020-12-9
 
 <h3>Preparaciones previas</h3>
 
-<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo, se pueden conseguir las semillas y frutos secos a buen precio en tiendas de insumos para panadería. Es preferible evitar las almendras por la cantidad de agua que requiere su producción, y la forma como se polinizan los cultivos usando abejas propiedad de apicultores comerciales.
+<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. En tiendas de insumos para panadería se pueden conseguir las semillas y frutos secos a buen precio. Es preferible evitar las almendras por la cantidad de agua que requiere su producción y la forma como se polinizan los cultivos usando abejas propiedad de apicultores comerciales.
 </p>
 
 <p class="post-content-p post-content-space">En este video aprenderás a preparar la leche vegetal de tu preferencia.</p>
