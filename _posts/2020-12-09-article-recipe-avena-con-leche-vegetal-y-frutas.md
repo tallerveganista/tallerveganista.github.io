@@ -11,7 +11,7 @@ categories:
   - Lección 1
 tags: ['recipe','article','blog-gallery']
 excerpt: >-
-  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. Mi favorita es la de nuez, se puede conseguir la nuez a buen precio en almacenes de insumos para panadería. Evito la de almendras por el uso de abejas en su polinización.
+  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. Mi favorita es la de nuez, se pueden conseguir las nueces a buen precio en tiendas de insumos para panadería. Evito las almendras por el uso de abejas en su polinización.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/receta-avena-con-leche-vegetal-landscape.jpg
 image: /assets/images/posts/receta-avena-con-leche-vegetal-square.jpg
@@ -39,7 +39,7 @@ date: 2020-12-9
 
 <h3>Preparaciones previas</h3>
 
-<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. Mi favorita es la de nuez, se puede conseguir la nuez a buen precio en almacenes de insumos para panadería. Evito la de almendras por el uso de abejas en su polinización.
+<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. Mi favorita es la de nuez, se pueden conseguir las nueces a buen precio en tiendas de insumos para panadería. Evito las almendras por el uso de abejas en su polinización.
 </p>
 
 <p class="post-content-p post-content-space">En este video aprenderás a preparar la leche vegetal de tu preferencia.</p>
