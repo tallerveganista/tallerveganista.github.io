@@ -1,28 +1,5 @@
 ---
-layout: post
-published: true
-layout: recipe
-lesson-url: /leccion-veganismo/
-lesson-number: Lección 1
-lesson-id: lesson-one-recipe-one
-categories:
-  - Recetas
-  - Lección 1
-tags: ['recipe','article','blog-gallery']
-excerpt: >-
-  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro
-  para leche, o una tela que cumpla la misma función, licuadora, y la
-  preparación generalmente necesita mínimo 8 horas en remojo. Mi favorita es la
-  leche de nuez. La nuez la consigo a buen precio en almacenes de insumos para
-  panadería. Evito la de almendras por el uso de abejas en su polinización.
-  bibendum ut.
-author: Alejandro Narváez Isaza
-image-landscape: /assets/images/posts/receta-avena-con-leche-vegetal-landscape.jpg
-image: /assets/images/posts/receta-avena-con-leche-vegetal-square.jpg
-permalink: /avena-con-leche-vegetal-y-frutas/
-description: Receta de avena con leche vegetal y frutas.
-title: Avena con leche vegetal y frutas
-date: 2020-12-9
+published: false
 ---
 <h3>Ingredientes</h3>
 
@@ -66,6 +43,6 @@ date: 2020-12-9
 
 <p class="post-content-p post-content-space">Pica las frutas que quieres con tu avena.</p>
 
-<p class="post-content-p post-content-space">agrega al tazón la avena y revuelve, Agrega las frutas y pasas si quieres y la leche vegetal. puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
+<p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, Agrega las frutas y pasas si quieres y la leche vegetal. puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
 
 <p class="post-content-p post-content-half-space">Mis frutas favoritas para la avena son piña y mora o fresa. La mora y la fresa pertenecen al grupo de las bayas. Con este desayuno puedo chequear la porción de bayas diaria en la aplicación de la docena diaria que conoceremos más adelante.<p>
