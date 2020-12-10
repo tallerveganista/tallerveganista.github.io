@@ -757,6 +757,14 @@ blockquote{
   }
   & .article-container{
     margin: 2rem 0 1rem 0 !important;
+    & ul{
+      margin-bottom: 2rem;
+    }
+    & li{
+      font-size: $medium-text;
+      line-height: $medium-line-height;
+      font-weight: $regular;
+    }
     & .button{
       margin: .5rem 0 0 0;
     }
@@ -977,14 +985,26 @@ blockquote{
   & .info-box{
     margin: 0 0 2rem 0;
   }
-  & .post-content-p{
+  & h3{
+    margin-bottom: 2rem;
+  }
+  & ul{
+    margin-bottom: 2rem;
+  }
+  & .post-content-p, & li{
     font-size: $medium-text;
     line-height: $medium-line-height;
     font-weight: $regular;
   }
+  & .caption{
+    margin-bottom: 2rem;
+  }
   & .post-content-space{
     display: block;
     margin: 0 0 2rem 0;
+  }
+  & .post-content-half-space{
+    margin: 0 0 1rem 0;
   }
   & .button-close{
     display: inline-block;

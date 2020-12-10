@@ -58,7 +58,7 @@ layout: basic-structure
                           <img src="{{ post.image-landscape }}" alt="">
                         </figure>
                         <h4>{{ post.title }}</h4>
-                        <p>{{ post.excerpt }}</p>
+                        <p>{{ post.excerpt | truncate: 126 }}</p>
                         <p class="open-link middle-xs">
                           <a href="#{{ post.lesson-id }}" uk-toggle class="link">Abrir <span class="icon icon-long-arrow-right-light"></span></a>
                         </p>
@@ -124,7 +124,7 @@ layout: basic-structure
             <div class="row center-lg info-box">
               <!-- col -->
               <div class="col-xs-12">
-                <h3>{{ post.title }}</h3>
+                <h2>{{ post.title }}</h2>
                 <p class="author-date">{{ page.author }} &nbsp; | &nbsp;{% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ page.date | date: "%d" }} / {{ page.date | date: "%Y" }}</p>
               </div>
               <!-- col end -->

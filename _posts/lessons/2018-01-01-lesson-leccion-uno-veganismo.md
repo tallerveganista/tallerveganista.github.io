@@ -9,7 +9,8 @@ date: 2020-12-07T00:00:00.000Z
 excerpt: >-
   Origen de la palabra veganismo y anotaciones sobre las motivaciones para
   hacerse veganx.
-recipe-introduction: null
+recipe-introduction: >-
+  Revisa los ingredientes que necesitatas y preparaciones previas antes de empezar las recetas. Hoy presentamos dos opciones para desayunos.
 author: Alejandro Narváez Isaza
 image: /assets/images/lessons/leccion-01-veganismo-square.jpg
 alt-image: >-
@@ -18,7 +19,7 @@ alt-image: >-
 permalink: /leccion-veganismo/
 description: >-
   Origen de la palabra veganismo y anotaciones sobre las motivaciones para
-  hacerse veganx.
+  hacerse veganx.   
 published: true
 ---
 Antes de leer esta lección, recomiendo leer [¿Porqué Veganismo?](/porque-veganismo/){:class="link"}
@@ -105,4 +106,4 @@ Hasta donde tengo noticia, estos son los primeros documentales para la promoció
 
 [Truth or Dairy &nbsp; &#124; &nbsp; The Vegan Society &nbsp; &#124; &nbsp; 1994 &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=ce5lY9lXmK0&list=PL4qbpZDdKQPkIvWmOM3BSfeFURNQJaHWO&index=15){:target='_blank' class="caption"}
 
-Gracias a Eduardo Arias González, de [Taller Agosto](http://talleragosto.com/){:target='_blank' class="link"}, por ayudarme a revisar el texto de esta lección. 
+Gracias a Eduardo Arias González, de [Taller Agosto](http://talleragosto.com/){:target='_blank' class="link"}, por ayudarme a revisar el texto de esta lección.
