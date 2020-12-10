@@ -1,5 +1,29 @@
 ---
 published: true
+layout: post
+published: true
+layout: recipe
+lesson-url: /leccion-veganismo/
+lesson-number: Lección 1
+lesson-id: lesson-one-recipe-one
+categories:
+  - Recetas
+  - Lección 1
+tags: ['recipe','article','blog-gallery']
+excerpt: >-
+  Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro
+  para leche, o una tela que cumpla la misma función, licuadora, y la
+  preparación generalmente necesita mínimo 8 horas en remojo. Mi favorita es la
+  leche de nuez. La nuez la consigo a buen precio en almacenes de insumos para
+  panadería. Evito la de almendras por el uso de abejas en su polinización.
+  bibendum ut.
+author: Alejandro Narváez Isaza
+image-landscape: /assets/images/posts/receta-avena-con-leche-vegetal-landscape.jpg
+image: /assets/images/posts/receta-avena-con-leche-vegetal-square.jpg
+permalink: /avena-con-leche-vegetal-y-frutas/
+description: Receta de avena con leche vegetal y frutas.
+title: Avena con leche vegetal y frutas
+date: 2020-12-9
 ---
 <h3>Ingredientes</h3>
 
