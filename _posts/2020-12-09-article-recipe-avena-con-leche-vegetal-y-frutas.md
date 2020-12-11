@@ -39,7 +39,9 @@ date: 2020-12-9
 
 <h3>Preparaciones previas</h3>
 
-<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función y una licuadora. La preparación generalmente necesita mínimo 8 horas para remojo. En tiendas de insumos para panadería se pueden conseguir las semillas y frutos secos a buen precio. Es preferible evitar las almendras por la cantidad de agua que requiere su producción y la forma como se polinizan los cultivos usando abejas propiedad de apicultores comerciales.
+<p class="post-content-p post-content-space">Para preparar leche vegetal se necesita un colador de tela, o una bolsa/filtro para leche, o una tela que cumpla la misma función, una licuadora, y generalmente unas 8 horas de anticipación para remojar. En tiendas de insumos para panadería se pueden conseguir las semillas y frutos secos a buen precio.</p>
+
+<p class="post-content-p post-content-space">No recomiendo las almendras por la cantidad de agua que requiere su producción y la forma como se polinizan sus cultivos usando abejas propiedad de apicultores comerciales.
 </p>
 
 <p class="post-content-p post-content-space">En este video aprenderás a preparar la leche vegetal de tu preferencia.</p>
@@ -60,12 +62,12 @@ date: 2020-12-9
 
 <p class="post-content-p post-content-space">La avena se remoja y se deja una hora en la nevera, o desde la noche anterior.</p>
 
-<h3>Preparación:</h3>
+<h3>Preparación</h3>
 
-<p class="post-content-p post-content-space">En un tazón, agrega una cucharada de semillas de chía y una cucharada de semillas de linaza, agrega un poco de agua y dejalas un rato o unos 20 minutos.</p>
+<p class="post-content-p post-content-space">En un tazón, agrega una cucharada de semillas de chía y una cucharada de semillas de linaza más un poco de agua y dejalas unos 20 minutos.</p>
 
 <p class="post-content-p post-content-space">Pica las frutas que quieres con tu avena.</p>
 
-<p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, agrega las frutas y pasas si quieres y la leche vegetal. Puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
+<p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, adiciona las frutas y pasas si quieres y la leche vegetal. Puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
 
-<p class="post-content-p post-content-half-space">Mis combinación de frutas favoritas para la avena son piña y mora o piña y fresa. La mora y la fresa pertenecen al grupo de las bayas, con este desayuno puedo chequear la porción de bayas diaria en la aplicación de la <a class="link" href="https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/" target="_blank">Docena Diaria.</a><p>
+<p class="post-content-p post-content-half-space">Mis combinación de frutas favoritas para la avena son piña y mora o piña y fresa. La mora y la fresa pertenecen al grupo de las bayas que es recomenable consumir a diario. Con este desayuno puedo chequear la porción de bayas sugerida en la <a class="link" href="https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/" target="_blank">Docena Diaria.</a><p>
