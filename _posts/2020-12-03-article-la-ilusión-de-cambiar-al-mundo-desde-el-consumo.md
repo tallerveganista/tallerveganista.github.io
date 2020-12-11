@@ -11,8 +11,9 @@ excerpt: >-
   Cuando somos veganxs nos excluimos de participar directamente en un sistema de
   producción injusto y violento que debería terminar, pero que sigue funcionando
   sin nosotrxs. Habría que cuestionar si es verdad que la población vegana ha
-  aumentado en los últimos años o no, pero suponiendo que sí ha aumentado, a
-  pesar de esto la producción ganadera se mantiene creciendo de manera estable.
+  aumentado en los últimos años o no, pero suponiendo que sí ha aumentado, no ha
+  sido suficiente como para afectar la producción ganadera que se mantiene
+  creciendo de manera estable.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/vegan-shoppers-landscape.jpg
 image: /assets/images/posts/vegan-shoppers-square.jpg
