@@ -66,6 +66,9 @@ jekyll_analytics:
     id: G-GHCQ1QXCSX        # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
+#Include Brave
+include: .well-known
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
