@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tallerveganista.com
+Token: 1cd24d3e7cd9f90db34810e55a7300526c2f3cf7dbdee99497c1230962c2d525
