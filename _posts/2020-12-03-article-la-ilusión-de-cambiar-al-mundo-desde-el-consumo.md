@@ -9,7 +9,7 @@ title: La ilusión de cambiar el mundo desde el consumo
 date: '2020-12-03'
 excerpt: >-
   Cuando somos veganxs nos excluimos de participar directamente en un sistema de
-  producción injusto y violento que debería terminar, pero que sigue funcionando
+  producción injusto y violento que debería terminar pero que sigue funcionando
   sin nosotrxs. Habría que cuestionar si es verdad que la población vegana ha
   aumentado en los últimos años o no, pero suponiendo que sí ha aumentado, no ha
   sido suficiente como para afectar la producción ganadera que se mantiene
@@ -26,7 +26,7 @@ published: true
 Si lo único que podemos cambiar es el mercado en nuestra casa, lo único que vamos a cambiar es el mercado en nuestra casa. No hay una relación tan directa entre lo que compramos y la generación de cambios en el sistema económico y político en el que vivimos.
 {:class="p-big"}
 
-Cuando somos veganxs nos excluimos de participar directamente en un sistema de producción injusto y violento que debería terminar, pero que sigue funcionando sin nosotrxs. Habría que cuestionar si es verdad que la población vegana ha aumentado en los últimos años o no, pero suponiendo que sí ha aumentado, no ha sido suficiente como para afectar la producción ganadera que se mantiene creciendo de manera estable.
+Cuando somos veganxs nos excluimos de participar directamente en un sistema de producción injusto y violento que debería terminar pero que sigue funcionando sin nosotrxs. Habría que cuestionar si es verdad que la población vegana ha aumentado en los últimos años o no, pero suponiendo que sí ha aumentado, no ha sido suficiente como para afectar la producción ganadera que se mantiene creciendo de manera estable.
 
 Podríamos interpretar el veganismo como un boicot permanente a los negocios de empresas y corporaciones que se benefician económicamente de que billones de animales sean esclavizados y asesinados. El veganismo es una acción política permanente, pero al mismo tiempo lxs veganxs somos un nicho de mercado que por pequeño que sea puede ser atractivo para esas mismas corporaciones y empresas. Entonces el veganismo pierde su relevancia como parte esencial de un movimiento por los derechos de los animales y se convierte en la preferencia que hace que algunxs consumidores elijan esta marca en lugar de esta otra. Que una corporación decida ofrecer productos veganos no quiere decir que decidió tomar una posición en contra del especismo sino que reconoce una demanda que puede satisfacer. Es mejor apoyar negocios de veganxs que quieren ganarse la vida dentro del movimiento, pero teniendo presente que dejar de consumir esto por consumir lo otro no es suficiente.
 
