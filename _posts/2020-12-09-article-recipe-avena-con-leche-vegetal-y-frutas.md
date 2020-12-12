@@ -68,6 +68,6 @@ date: 2020-12-9
 
 <p class="post-content-p post-content-space">Pica las frutas que quieres con tu avena.</p>
 
-<p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, adiciona las frutas y pasas si quieres y la leche vegetal. Puedes espolvorear con canela molida o panela en polvo, y ya está.<p>
+<p class="post-content-p post-content-space">Agrega al tazón la avena y revuelve, adiciona las frutas y pasas si quieres y la leche vegetal. Puedes espolvorear con canela molida o panela en polvo, y ya está. Sirve con un vaso de agua o la bebida de tu preferencia.<p>
 
 <p class="post-content-p post-content-half-space">Mis combinación de frutas favoritas para la avena son piña y mora o piña y fresa. La mora y la fresa pertenecen al grupo de las bayas que es recomenable consumir a diario. Con este desayuno puedo chequear la porción de bayas sugerida en la <a class="link" href="https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/" target="_blank">Docena Diaria.</a><p>

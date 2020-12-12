@@ -67,7 +67,7 @@ jekyll_analytics:
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 #Include Brave
-include: .well-known
+include: [.well-known]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
