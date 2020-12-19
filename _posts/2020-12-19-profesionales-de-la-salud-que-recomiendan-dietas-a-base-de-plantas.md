@@ -37,9 +37,34 @@ Cirujano general, autor y conferencista. Promueve su mensaje de la comida como m
 
 [Garth Davis, M.D.](https://drgarthdavis.com/){:class="link" target="_blank"}
 
-## Danielle Belardo
+## Danielle Belardo, M.D.
 
 Directora de Cardiología y Co-Directora de Investigación y Educación en el Instituto de Medicina a Base de Plantas en Newport Beach California, Miembro del Colegio Americano de Nutrición en Cardiología. *American College of Cardiology Nutrition* y el Sub Comité de Estilo de Vida.
+
+[Danielle Belardo, M.D.](https://www.daniellebelardomd.com/){:class="link" target="_blank"}
+
+## Dr. Milton Mills
+
+Médico de cuidados críticos en el hospital Inova Fairfax, miembro de la Junta Directiva de [Plant-based Prevention Of Disease, Inc](https://www.preventionofdisease.org/){:class="link" target="_blank"} y conferencista en eventos comunitarios por de todo Estados Unidos.
+
+[Dr. Milton Mills](https://drmiltonmillsplantbasednation.com/){:class="link" target="_blank"}
+
+## Dr. Joel Kahn
+
+Cardiólogo Holístico, fundador del centro Kahn para la Longevidad Cardiaca y propietario del restaurante Greenspace & Go, en Detroit.
+
+[Dr. Joel Kahn](https://www.drjoelkahn.com/){:class="link" target="_blank"}
+
+[Kahn Center for Cardiac Longevity](https://www.kahnlongevitycenter.com/){:class="link" target="_blank"}
+
+[Greenspace and Go](https://greenspaceandgo.com/){:class="link" target="_blank"}
+
+## Dr. Gemma Newman
+
+Médica de la Universidad de Wales, graduada del curso de Aplicación de la medicina funcional en la práctica clínica Applying Functional Medicine in Clinical Practice y miembro de la Sociedad Británica de Medicina de Estilo de Vida. British Society of  Lifestyle Medicine.
+
+[Dr. Gemma Newman](https://gemmanewman.com/){:class="link" target="_blank"}
+
 
 
 
