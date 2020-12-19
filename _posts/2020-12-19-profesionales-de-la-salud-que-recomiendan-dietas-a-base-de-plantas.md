@@ -19,7 +19,7 @@ Ph.D. en nutrición, bioquímica y bacteriología de la Universidad Cornell, aut
 
 ## Michael Greger, M.D.
 
-Médico, autor y conferencista reconocido internacionalmente por su participación en discusiones sobre temas relacionados con la salud pública. Miembro del Consejo de Directores de [True Health Initiative](http://www.truehealthinitiative.org/){:class="link" target="_blank"} y fundador de [Nutrition Facts](https://nutritionfacts.org/){:class="link" target="_blank"}
+Médico, autor y conferencista reconocido internacionalmente por su participación en discusiones sobre temas relacionados con la salud pública. Miembro del Consejo de Directores de [True Health Initiative](http://www.truehealthinitiative.org/){:class="link" target="_blank"} y fundador de [Nutrition Facts](https://nutritionfacts.org/es/){:class="link" target="_blank"}
 
 [Michael Greger, M.D.](https://drgreger.org/){:class="link" target="_blank"}
 
@@ -27,4 +27,20 @@ Médico, autor y conferencista reconocido internacionalmente por su participaci�
 
 Profesor adjunto de medicina en la Facultad de medicina de la Universidad George Washington,, D.C., y presidente del Comité de Médicos por una Medicina Responsable. [Physicians Committee for Responsible Medicine](https://www.pcrm.org){:class="link" target="_blank"}
 
-[Neal Barnard, M.D.]()
+[Neal Barnard, M.D.](https://www.pcrm.org/about-us/staff/neal-barnard-md-facc){:class="link" target="_blank"}
+
+[Comité de Médicos por una Medicina Responsable](https://www.pcrm.org/){:class="link" target="_blank"}
+
+## Garth Davis, M.D.
+
+Cirujano general, autor y conferencista. Promueve su mensaje de la comida como medicina por medio de conferencias, libros, participaciones en documentales y programas de televisión.
+
+[Garth Davis, M.D.](https://drgarthdavis.com/){:class="link" target="_blank"}
+
+## Danielle Belardo
+
+Directora de Cardiología y Co-Directora de Investigación y Educación en el Instituto de Medicina a Base de Plantas en Newport Beach California, Miembro del Colegio Americano de Nutrición en Cardiología. *American College of Cardiology Nutrition* y el Sub Comité de Estilo de Vida.
+
+
+
+
