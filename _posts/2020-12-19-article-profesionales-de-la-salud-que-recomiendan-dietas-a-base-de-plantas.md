@@ -14,9 +14,9 @@ image: >-
   /assets/images/posts/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas.jpg
 permalink: /profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/
 description: >-
-  Lista con algunos de algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición a base de plantas y por promover dietas a base de plantas ante sus pacientes y por medio de los contenidos que producen.
+  Lista con algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición y por promover la alimentación a base de plantas ante sus pacientes y por medio de los contenidos que producen.
 excerpt: >-
-  Lista con algunos de algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición a base de plantas y por promover dietas a base de plantas ante sus pacientes y por medio de los contenidos que producen."
+  Lista con algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición y por promover la alimentación a base de plantas ante sus pacientes y por medio de los contenidos que producen.
 published: true
 ---
 La Academia de Nutrición y Dietética *Academy of Nutrition and Dietetics* reconoció desde el 2016 que las dietas a base de plantas bien planeadas son saludables, nutricionalmente adecuadas, pueden beneficiar la prevención y tratamiento de ciertas enfermedades y son apropiadas para personas en cualquier etapa de la vida incluyendo atletas. Además son más sostenibles ambientalmente que las dietas ricas en productos de origen animal porque usan menos recursos naturales y producen un menor daño ambiental.
