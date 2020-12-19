@@ -1,5 +1,18 @@
 ---
 published: false
+layout: post
+categories:
+  - Nutrición
+tags:
+  - article
+date: '2020-12-19'
+author: Alejandro Narváez Isaza
+image-landscape: /assets/images/posts/vegan-shoppers-landscape.jpg
+image: >-
+  /assets/images/posts/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas.jpg
+permalink: /profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/
+description: "Lista de algunos de algunxs de lxs profesionales de la salud que se destacan por sus \t\t\tinvestigaciones sobre nutrición a base de plantas y por promover dietas a base de plantas ante sus pacientes y por medio de los contenidos que producen."
+excerpt: "Lista de algunos de algunxs de lxs profesionales de la salud que se destacan por sus \t\t\tinvestigaciones sobre nutrición a base de plantas y por promover dietas a base de plantas ante sus pacientes y por medio de los contenidos que producen."
 ---
 La Academia de Nutrición y Dietética *Academy of Nutrition and Dietetics* reconoció desde el 2016 que las dietas a base de plantas bien planeadas son saludable, nutricionalmente adecuadas, pueden beneficiar la prevención y tratamiento de ciertas enfermedades y son apropiadas para personas en cualquier etapa de la vida y atletas. También que las dietas a base de plantas son más sostenibles ambientalmente que las dietas ricas en productos de origen animal porque usa menos recursos naturales y están asociadas con mucho menos daño ambiental.
 
@@ -67,5 +80,3 @@ Médica de la Universidad de Wales, graduada del curso de Aplicación de la medi
 
 
 Si hace falta alguien en esta lista puedes enviarnos un [correo,](mailto:hola@tallerveganista.com){:class="link" target="_blank"} escribirnos en [Telegram](https://t.me/joinchat/J9QQERRxaty5e3lfNBtHdw){:class="link" target="_blank"} o usar el chat de la esquina inferior derecha.
-
-
