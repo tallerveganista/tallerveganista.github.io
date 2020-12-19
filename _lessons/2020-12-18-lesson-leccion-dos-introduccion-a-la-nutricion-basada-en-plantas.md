@@ -1,3 +1,26 @@
+---
+layout: lesson
+lesson-number: Lección 2
+tags:
+  - lesson
+title: Veganismo
+category: lesson
+date: 2020-12-07T00:00:00.000Z
+excerpt: >-
+  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
+recipe-introduction: >-
+  Revisa los ingredientes que necesitarás y las preparaciones previas antes de
+  empezar las recetas. Hoy presentamos dos opciones para desayunos.
+author: Alejandro Narváez Isaza
+image: /assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg
+alt-image: >-
+  Niña comiendo pasta, ensalada y frutas.
+permalink: /leccion-introduccion-a-la-nutrición-basada-en-plantas/
+description: >-
+  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
+published: false
+--- 
+
 La dieta americana estándar (*Standard American Diet. SAD* ⎯ *sad* = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
 Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista de los más destacados en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](#){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, que son adecuadas para cualquier etapa de la vida y que se deben acompañar de suplementos de vitamina B12.
@@ -14,7 +37,7 @@ Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda
 
 Mi recomendación es no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](#){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos específicos.
 
-## Datos básicos sobre nutrición a base de plantas
+## Datos básicos sobre nutrición basada en plantas
 
 Buena parte de la información para esta sección está sustentada en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender.
 
