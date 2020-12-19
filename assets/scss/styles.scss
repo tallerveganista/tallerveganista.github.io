@@ -757,6 +757,11 @@ blockquote{
   }
   & .article-container{
     margin: 2rem 0 1rem 0 !important;
+    & .link{
+      & span{
+        font-size: 1.6rem;
+      }
+    }
     & ul{
       margin-bottom: 2rem;
     }
