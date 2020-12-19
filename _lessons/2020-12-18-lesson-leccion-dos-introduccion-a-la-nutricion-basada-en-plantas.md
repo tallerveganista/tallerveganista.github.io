@@ -5,21 +5,24 @@ tags:
   - lesson
 title: Veganismo
 category: lesson
-date: 2020-12-07T00:00:00.000Z
+date: 2020-12-19T00:00:00.000Z
 excerpt: >-
-  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
+  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
+  plantas y recursos para facilitar la planeación de una dieta adecuada.
 recipe-introduction: >-
   Revisa los ingredientes que necesitarás y las preparaciones previas antes de
   empezar las recetas. Hoy presentamos dos opciones para desayunos.
 author: Alejandro Narváez Isaza
-image: /assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg
-alt-image: >-
-  Niña comiendo pasta, ensalada y frutas.
+image: >-
+  /assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg
+alt-image: 'Niña comiendo pasta, ensalada y frutas.'
 permalink: /leccion-introduccion-a-la-nutrición-basada-en-plantas/
 description: >-
-  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
+  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
+  plantas y recursos para facilitar la planeación de una dieta adecuada.
 published: false
---- 
+---
+ 
 
 La dieta americana estándar (*Standard American Diet. SAD* ⎯ *sad* = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
