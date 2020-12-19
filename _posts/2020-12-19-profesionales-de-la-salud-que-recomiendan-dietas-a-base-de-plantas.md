@@ -18,7 +18,7 @@ La Academia de Nutrición y Dietética *Academy of Nutrition and Dietetics* reco
 
 [Posición de la Academia respecto a las dietas vegetarianas y veganas](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link" target="_blank"}
 
-Sin embargo todavía estamos lejos de que este hecho sea aceptado o por lo menos reconocido por la mayoría de profesionales de la salud que siguen desconociendo los riesgos asociados a consumir productos de origen animal y afirmando que consumirlos es fundamental. Esta es una lista de algunos de algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición a base de plantas y por promover dietas a base de plantas ante sus pacientes y por medio de los contenidos que producen.
+Sin embargo todavía estamos lejos de que este hecho sea aceptado o por lo menos reconocido por la mayoría de profesionales de la salud que siguen desconociendo los riesgos asociados a consumir productos de origen animal y afirmando que consumirlos es fundamental. Esta es una lista con algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición a base de plantas y por promover dietas a base de plantas ante sus pacientes y por medio de los contenidos que producen.
 
 ## T. Colin Campbell
 
