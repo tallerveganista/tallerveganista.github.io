@@ -25,6 +25,8 @@ La Academia de Nutrición y Dietética *Academy of Nutrition and Dietetics* reco
 
 Sin embargo todavía estamos lejos de que este hecho sea aceptado o por lo menos reconocido por la mayoría de profesionales de la salud que siguen desconociendo los riesgos asociados a consumir productos de origen animal y afirmando que su consumo es fundamental. Esta es una lista con algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición y por promover la alimentación a base de plantas ante sus pacientes y por medio de los contenidos que producen.
 
+![T. Colin Campbell](../assets/images/posts/t-colin-campbell.jpg)
+
 ### T. Colin Campbell
 
 Ph.D. en nutrición, bioquímica y bacteriología de la Universidad Cornell, autor y fundador del Centro de Estudios de Nutrición T. Colin Campbell que otorga el Certificado de Nutrición Basada en Plantas.
@@ -35,11 +37,15 @@ Ph.D. en nutrición, bioquímica y bacteriología de la Universidad Cornell, aut
 
 [Certificado de Nutrición Basada en Plantas <span class="icon icon-long-arrow-right-light"></span>](https://nutritionstudies.org/es/cursos/certificado-de-nutricion-basada-en-plantas/){:class="link no-underline" target="_blank"}
 
+![Michael Greger, M.D.](../assets/images/posts/michael-greger.jpg)
+
 ### Michael Greger, M.D.
 
 Médico, autor y conferencista reconocido internacionalmente por su participación en discusiones sobre temas relacionados con la salud pública. Miembro del Consejo de Directores de [True Health Initiative ](http://www.truehealthinitiative.org/){:class="link" target="_blank"} y fundador de [Nutrition Facts](https://nutritionfacts.org/es/){:class="link" target="_blank"}
 
 [Michael Greger, M.D. <span class="icon icon-long-arrow-right-light"></span>](https://drgreger.org/){:class="link no-underline" target="_blank"}
+
+![Michael Greger, M.D.](../assets/images/posts/neal-barnard.jpg)
 
 ### Neal Barnard, M.D.
 
@@ -49,11 +55,15 @@ Profesor adjunto de medicina en la Facultad de medicina de la Universidad George
 
 [Comité de Médicos por una Medicina Responsable <span class="icon icon-long-arrow-right-light"></span>](https://www.pcrm.org/){:class="link no-underline" target="_blank"}
 
+![Garth Davis, M.D.](../assets/images/posts/garth-davis.jpg)
+
 ### Garth Davis, M.D.
 
 Cirujano general, autor y conferencista. Promueve su mensaje de la comida como medicina por medio de conferencias, libros, participaciones en documentales y programas de televisión.
 
 [Garth Davis, M.D. <span class="icon icon-long-arrow-right-light"></span>](https://drgarthdavis.com/){:class="link no-underline" target="_blank"}
+
+![Danielle Belardo, M.D.](../assets/images/posts/danielle-belardo.jpg)
 
 ### Danielle Belardo, M.D.
 
@@ -61,11 +71,23 @@ Directora de Cardiología y Co-Directora de Investigación y Educación en el In
 
 [Danielle Belardo, M.D. <span class="icon icon-long-arrow-right-light"></span>](https://www.daniellebelardomd.com/){:class="link no-underline" target="_blank"}
 
+![Dr. Milton Mills](../assets/images/posts/milton-mills.jpg)
+
 ### Dr. Milton Mills
 
 Médico de cuidados críticos en el hospital Inova Fairfax, miembro de la Junta Directiva de [Plant-based Prevention Of Disease, Inc](https://www.preventionofdisease.org/){:class="link" target="_blank"} y conferencista en eventos comunitarios por de todo Estados Unidos.
 
 [Dr. Milton Mills <span class="icon icon-long-arrow-right-light"></span>](https://drmiltonmillsplantbasednation.com/){:class="link no-underline" target="_blank"}
+
+![Angie Sadegi, M.D.](../assets/images/posts/angie-sadegi.jpg)
+
+### Angie Sadegi, M.D.
+
+Médica certificada en la Junta Americana de Medicina Interna American Board of Internal Medicine y la Junta Americana de Gastroenterología American Board of Gastroenterology. Miembro de la Asociación Americana de Médicos Bariatras American Society of Bariatric Physicians y participante en competencias de aptitud física.
+
+[Angie Sadegi, M.D. <span class="icon icon-long-arrow-right-light"></span>](https://drangiehealth.com/){:class="link no-underline" target="_blank"}
+
+![Dr. Joel Kahn](../assets/images/posts/joel-kahn.jpg)
 
 ### Dr. Joel Kahn
 
@@ -76,6 +98,8 @@ Cardiólogo Holístico, fundador del centro Kahn para la Longevidad Cardiaca y p
 [Kahn Center for Cardiac Longevity <span class="icon icon-long-arrow-right-light"></span>](https://www.kahnlongevitycenter.com/){:class="link no-underline" target="_blank"}
 
 [Greenspace and Go <span class="icon icon-long-arrow-right-light"></span>](https://greenspaceandgo.com/){:class="link no-underline" target="_blank"}
+
+![Dr. Gemma Newman](../assets/images/posts/gemma-newman.jpg)
 
 ### Dr. Gemma Newman
 
