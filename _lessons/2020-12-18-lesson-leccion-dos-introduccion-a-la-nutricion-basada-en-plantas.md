@@ -136,9 +136,9 @@ Generalmente se asocia una dieta baja en carbohidratos con una dieta saludable, 
 
 ## Planear más fácilmente con la Docena Diaria
 
-El doctor Michael Greger tenía pegada en su nevera una lista con los alimentos que trataba de incluir a diario en su dieta, e iba chequeando una vez los consumía. Esta práctica evolucionó en el desarrollo de la aplicación La [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="link"} que es básicamente la lista del doctor Greger para chequear en nuestros teléfonos y simplifica enormemente la tarea de planear nuestra alimentación.
+El doctor Michael Greger tenía pegada en su nevera una lista con los alimentos que trataba de incluir a diario en su dieta, e iba chequeando una vez los consumía. Esta práctica evolucionó en el desarrollo de la aplicación La [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="link"} que es básicamente la lista del doctor Greger para chequear en nuestros teléfonos y simplificar la tarea de planear nuestra alimentación.
 
-Podemos revisar cuáles alimentos necesitamos para tener en cuenta esa información en el momento de comprar comida y usar la aplicación durante el día para saber si estamos comiendo lo que necesitamos mientras nos acostumbramos a una dieta a base de plantas.
+Podemos revisar cuáles alimentos necesitamos para tener en cuenta en el momento de comprar comida y usar la aplicación durante el día para saber si estamos comiendo lo que necesitamos mientras nos acostumbramos a una dieta a base de plantas.
 
 Un plato bien balanceado puede ser: un cuarto de leguminosas, un cuarto de cereales integrales, la mitad de vegetales de la familia crucífera, hojas verdes y otros vegetales, una ensalada para acompañar, una fruta como postre y un vaso de agua.
 
