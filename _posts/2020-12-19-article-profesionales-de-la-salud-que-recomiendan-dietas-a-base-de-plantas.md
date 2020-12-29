@@ -19,7 +19,7 @@ excerpt: >-
   Lista con algunxs de lxs profesionales de la salud que se destacan por sus investigaciones sobre nutrición y por promover la alimentación a base de plantas ante sus pacientes y por medio de los contenidos que producen.
 published: true
 ---
-La Academia de Nutrición y Dietética *Academy of Nutrition and Dietetics* reconoció desde el 2016 que las dietas a base de plantas bien planeadas son saludables, nutricionalmente adecuadas, pueden beneficiar la prevención y tratamiento de ciertas enfermedades y son apropiadas para personas en cualquier etapa de la vida incluyendo atletas. Además son más sostenibles ambientalmente que las dietas ricas en productos de origen animal porque usan menos recursos naturales y producen un menor daño ambiental.
+La Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* reconoció desde el 2016 que las dietas a base de plantas bien planeadas son saludables, nutricionalmente adecuadas, pueden beneficiar la prevención y tratamiento de ciertas enfermedades y son apropiadas para personas en cualquier etapa de la vida incluyendo atletas. Además son más sostenibles ambientalmente que las dietas ricas en productos de origen animal porque usan menos recursos naturales y producen un menor daño ambiental.
 
 [Artículo en Publimed <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
@@ -49,7 +49,7 @@ Médico, autor y conferencista reconocido internacionalmente por su participaci�
 
 ### Neal Barnard, M.D.
 
-Profesor adjunto de medicina en la Facultad de medicina de la Universidad George Washington,, D.C., y presidente del Comité de Médicos por una Medicina Responsable.
+Profesor adjunto de medicina en la Facultad de medicina de la Universidad George Washington,, D.C., y presidente del Comité de Médicos por una Medicina Responsable. *"Physicians Committee for Responsible Medicine"*
 
 [Neal Barnard, M.D. <span class="icon icon-long-arrow-right-light"></span>](https://www.pcrm.org/about-us/staff/neal-barnard-md-facc){:class="link no-underline" target="_blank"}
 
@@ -67,7 +67,7 @@ Cirujano general, autor y conferencista. Promueve su mensaje de la comida como m
 
 ### Danielle Belardo, M.D.
 
-Directora de Cardiología y Co-Directora de Investigación y Educación en el Instituto de Medicina a Base de Plantas en Newport Beach California, Miembro del Colegio Americano de Nutrición en Cardiología. *American College of Cardiology Nutrition* y el Sub Comité de Estilo de Vida.
+Directora de Cardiología y Co-Directora de Investigación y Educación en el Instituto de Medicina a Base de Plantas en Newport Beach California, Miembro del Colegio Americano de Nutrición en Cardiología. *"American College of Cardiology Nutrition"* y el Sub Comité de Estilo de Vida.
 
 [Danielle Belardo, M.D. <span class="icon icon-long-arrow-right-light"></span>](https://www.daniellebelardomd.com/){:class="link no-underline" target="_blank"}
 
@@ -103,7 +103,7 @@ Cardiólogo Holístico, fundador del centro Kahn para la Longevidad Cardiaca y p
 
 ### Dr. Gemma Newman
 
-Médica de la Universidad de Wales, graduada del curso de Aplicación de la medicina funcional en la práctica clínica Applying Functional Medicine in Clinical Practice y miembro de la Sociedad Británica de Medicina de Estilo de Vida. British Society of  Lifestyle Medicine.
+Médica de la Universidad de Wales, graduada del curso de Aplicación de la medicina funcional en la práctica clínica Applying Functional Medicine in Clinical Practice y miembro de la Sociedad Británica de Medicina de Estilo de Vida. *"British Society of  Lifestyle Medicine".*
 
 [Dr. Gemma Newman <span class="icon icon-long-arrow-right-light"></span>](https://gemmanewman.com/){:class="link no-underline" target="_blank"}
 
