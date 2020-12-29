@@ -8,7 +8,7 @@ category: lesson
 date: 2020-12-29
 excerpt: >-
   Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
-  plantas y recursos para facilitar la planeación de una dieta adecuada.
+  plantas y recursos para planear fácilmente.
 recipe-introduction:
 author: Alejandro Narváez Isaza
 image: >-
