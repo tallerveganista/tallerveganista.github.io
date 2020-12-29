@@ -34,7 +34,7 @@ layout: basic-structure
         <!-- members -->
         <div class="members">
           <h3 class="start-xs">¿Quiénes somos?</h3>
-          {% for team-member in site.team-members reversed %}
+          {% for team-member in site.team-members %}
             {% if team-member.tags contains 'member' %}
             <!-- row   -->
             <div class="row member start-sm" uk-scrollspy="cls: uk-animation-fade; delay: 100">

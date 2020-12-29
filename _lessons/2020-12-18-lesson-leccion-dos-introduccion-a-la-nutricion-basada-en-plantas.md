@@ -3,15 +3,13 @@ layout: lesson
 lesson-number: Lección 2
 tags:
   - lesson
-title: Veganismo
+title: Introducción a la nutrición basada en plantas
 category: lesson
-date: 2020-12-19T00:00:00.000Z
+date: 2020-12-29
 excerpt: >-
   Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
   plantas y recursos para facilitar la planeación de una dieta adecuada.
-recipe-introduction: >-
-  Revisa los ingredientes que necesitarás y las preparaciones previas antes de
-  empezar las recetas. Hoy presentamos dos opciones para desayunos.
+recipe-introduction:
 author: Alejandro Narváez Isaza
 image: >-
   /assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas-square.jpg
@@ -20,23 +18,26 @@ permalink: /leccion-introduccion-a-la-nutrición-basada-en-plantas/
 description: >-
   Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
   plantas y recursos para facilitar la planeación de una dieta adecuada.
-published: false
+published: true
 ---
  La dieta americana estándar (*Standard American Diet. SAD* ⎯ *sad* = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
-Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista de los más destacados en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](#){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, que son adecuadas para cualquier etapa de la vida y que se deben acompañar de suplementos de vitamina B12.
+Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista de los más destacados en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, que son adecuadas para cualquier etapa de la vida. También menciona que se deben acompañar de suplementos de vitamina B12.
 
-[Posición de la Academia de Nutrición y Dietétetica: Dietas Vegetarianas.](https://pubmed.ncbi.nlm.nih.gov/27886704/){:target="_blank" class="link"}
+[Posición de la Academia de Nutrición y Dietétetica: Dietas Vegetarianas. <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
 La historia de nuestro amigx ex-vegetarianx no es evidencia de que alimentarse a base de plantas no funcione sino de que se alimentó mal y seguramente todavía lo hace aunque ahora incluya cadáveres en su dieta. Independientemente de que la dieta incluya o no partes de, o cosas que salen de animales, si nos alimentamos mal seguramente sufriremos deficiencias y enfermedades. Es muy probable que quienes siguen una dieta estándar tengan una deficiencia de fibra dietaria sin saberlo.
 
-### Los veganos somos una clase de vegetarianos :/ y los programas de 21, 22 y 30 días.
+### Lxs veganxs somos una clase de vegetarianxs :/ y los programas de 21, 22 y 30 días.
 
-Los que seguimos una dieta a base de plantas estamos catalogados como vegetarianxs estrictos en el lenguaje profesional porque el veganismo va más allá de una dieta, debido a esto frecuentemente se usa la palabra vegetarianx para referirse tanto a vegetarianxs como a veganxs (vegetarianxs estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianxs y veganxs, o de vegetarianxs o veganxs. También hay problemas de traducción. En *“The Game Changers”*, los subtítulos y doblaje dicen vegetarianx cuando el documetal claramente habla de nutrición a base de plantas exclusivamente, y el programa *“Vegan Kickstart”* del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”. 
+Los que seguimos una dieta a base de plantas estamos catalogados como vegetarianxs estrictos en el lenguaje profesional porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetarianx para referirse tanto a vegetarianxs como a veganxs (vegetarianxs estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianxs y veganxs, o de vegetarianxs o veganxs. También hay problemas de traducción. En *“The Game Changers”*, los subtítulos y doblaje dicen vegetarianx cuando el documetal claramente habla de nutrición a base de plantas exclusivamente. El programa *“Vegan Kickstart”* del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
 
-Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese periódo. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y no estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio, algunas personas fallan en completar los programas porque no logran acomodar su tiempo para ver la información y hacer la tarea del día. Acá cubrimos los temas que consideramos necesarios y si estudiarlos toma un día, una semana, un mes o más, depende de las posibilidades e interés de cada cual. Tampoco es relevante el número de lecciones o si se toman diariamente y no es necesario inscribirse para acceder al contenido. Más que seguir un programa es entender porque queremos ser veganxs y saber donde encontrar la información necesaria para hacerlo correctamente.
+Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese periódo. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y no estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio. Algunxs fallan en completar los programas porque no logran acomodar su tiempo para ver la información y hacer la tarea del día. Teniendo en cuenta esas limitaciones decidimos cubrir los temas que consideramos necesarios sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que seguir un programa es tener claro porque queremos ser veganxs, donde encontrar la información necesaria para hacerlo correctamente y contar con un acompañamiento que puede ser útil.
 
-Mi recomendación es no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](#){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos específicos.
+Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](#){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
+
+![Niña comiendo pasta, ensalada y frutas.](../assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg)
+[ Alex Green &nbsp; &#124; &nbsp; Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
 
 ## Datos básicos sobre nutrición basada en plantas
 
@@ -44,19 +45,21 @@ Buena parte de la información para esta sección está sustentada en el curso: 
 
 ### ¿Cuál es la dieta más adecuada?
 
-Sabemos que la dieta más adecuada para nuestra especie es una donde todas las calorías vengan de frutas, semillas, verduras, cereales integrales y legumbres. Alta en fibra y baja en alimentos procesados. Una alimentación basada en plantas bien llevada puede ayudar a prevenir el 80% de las enfermedades crónicas y degenerativas, también detener el progreso de enfermedades coronarias y diabetes.
+La dieta más adecuada para nuestra especie es una donde todas las calorías vengan de frutas, semillas, verduras, cereales integrales y legumbres. Alta en fibra y baja en alimentos procesados. Una alimentación basada en plantas bien llevada puede ayudar a prevenir el 80% de las enfermedades crónicas y degenerativas, también detener el progreso de enfermedades coronarias y diabetes.
 
 ### ¿Cómo obtener los nutrientes necesarios?
 
-Necesitamos nutrientes, no alimentos específicos. No necesitamos cadáveres sino proteínas, hierro y otros nutrientes, no necesitamos leche de animales de otras especies sino calcio. Mejor que pensar en reemplazar cadáveres y secreciones con algo parecido pero de origen vegetal, es pensar en los nutrientes que necesitamos y cómo los podemos obtener.
+Necesitamos nutrientes, no alimentos específicos. No necesitamos cadáveres sino proteínas, hierro y otros nutrientes, no necesitamos leche de animales de otras especies sino calcio. Mejor que pensar en reemplazar partes de animales y secreciones con algo parecido pero de origen vegetal, es entender que nutrientes necesitamos y cómo los podemos obtener.
 
 ### Proteínas
 
-La [definición de proteínas](https://nutritionstudies.org/es/de-donde-obtienes-tu-proteina/){:target="_blank" class="link"} es un compleja pero haciendo una reducción poco rigurosa son nutrientes con funciones variadas formados por cadenas de aminoácidos. Hay miles de aminoácidos pero los que tienen que ver con nuestra especie son 20. De estos 20, 11 son fabricados por nuestro cuerpo y 9 debemos ingerirlos. A esos 9 se les llama aminoácidos esenciales.
+Las [proteínas](https://nutritionstudies.org/es/de-donde-obtienes-tu-proteina/){:target="_blank" class="link"} se pueden entender muy por encima como: "nutrientes con funciones variadas formados por cadenas de aminoácidos". Hay miles de aminoácidos pero los que tienen que ver con nuestra especie son 20. De estos 20, 11 son fabricados por nuestro cuerpo y 9 debemos ingerirlos. A esos 9 se les llama aminoácidos esenciales.
 
-Es casi imposible sufrir una deficiencia de proteínas si la dieta es variada, tanto veganxs como no veganxs generalmente excedemos los requerimientos diarios de aminoácidos esenciales. Se recomienda consumir 0.8 gramos por cada kilo de nuestro peso ideal según la altura, y aumentar la cantidad si estamos buscando aumentar la masa muscular. Antes que sacar cuentas es mejor comer lo suficiente, variado y ya.
+Es casi imposible sufrir una deficiencia de proteínas si la dieta no restringe calorías, por eso tanto veganxs como no veganxs generalmente excedemos los requerimientos diarios de aminoácidos esenciales. Se recomienda consumir 0.8 gramos por cada kilo de nuestro peso ideal según la altura, y aumentar la cantidad si estamos buscando aumentar la masa muscular. Antes que sacar cuentas es mejor comer lo suficiente, variado y listo.
 
-El mito de la superioridad de la proteína de origen animal contra la obtenida consumiendo plantas tiene su origen en los estudios de Thomas B. Osborne y Lafayette Mendel en 1909. En el estudio alimentaron a unas ratas albinas con proteína de leche y a otras con proteína de trigo. Las ratas alimentadas con proteína de leche crecieron más rápido y eran más grandes. Concluyeron que existían diferencias entre el valor biológico de la proteína animal y vegetal, determinando que las proteínas animales son completas y de alto valor biológico mientras que las vegetales incompletas con valor biológico limitado. Esta clasificación fue desmentida en 1950 porque nuestras necesidades nutricionales y expectativa de vida es muy distinta a la de las ratas, crecemos más lento porque vivimos más tiempo y nuestras demandas metabólicas son diferentes. 
+#### El mito de la superioridad de la proteína de origen animal
+
+Este mito tiene su origen en los estudios de Thomas B. Osborne y Lafayette Mendel en 1909. En el estudio alimentaron a unas ratas albinas con proteína de leche y a otras con proteína de trigo. Las ratas alimentadas con proteína de leche crecieron más rápido y eran más grandes. Concluyeron que existían diferencias entre el valor biológico de la proteína animal y vegetal, determinando que las proteínas animales son completas y de alto valor biológico mientras que las vegetales incompletas con valor biológico limitado. Esta clasificación fue desmentida en 1950 porque nuestras necesidades nutricionales y expectativa de vida es muy distinta a la de las ratas, crecemos más lento porque vivimos más tiempo y nuestras demandas metabólicas son diferentes.
 
 Consumir proteínas de origen animal conlleva un exceso del aminoácido metionina, exceso que promueve un envejecimiento acelerado, las especies animales con una expectativa de vida menor son las que tienen una concentración mayor de metionina en sus tejidos.
 
@@ -80,7 +83,7 @@ La enzima que metaboliza estos ácidos grasos es la Delta-6 desaturase que puede
 - Papas fritas
 - Nueces mixtas con aceites vegetales horneados (De paquete de mecato)
 
-Aunque no es requerido, se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día y que provenga de microalgas.
+Aunque no es requerido se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día y que provenga de microalgas.
 
 ### Hierro y Zinc
 
@@ -92,22 +95,21 @@ Los vegetales de hoja verde, la cebolla, el ajo y el limón ayudan a la absorci�
 
 #### Hierro Hemo y Hierro no Hemo
 
-El hierro hemo es proporcionado por comida de origen animal y no está presente en plantas, el hierro hemo se absorbe mucho más fácil, pero el cuerpo se va acostumbrando al hierro no hemo y va mejorando su absorción. Hay algunos estudios que relacionan el consumo de hierro hemo con enfermedades, entonces el hierro no hemo es más seguro.
+El hierro hemo es proporcionado por comida de origen animal y no está presente en plantas, el hierro hemo se absorbe más fácilmente, pero el cuerpo se va acostumbrando al hierro no hemo y va mejorando su absorción. Hay algunos estudios que relacionan el consumo de hierro hemo con enfermedades, por tanto el hierro no hemo es más seguro.
 
-[La seguridad del hemo vs hierro no hemo](https://nutritionfacts.org/es/video/la-seguridad-del-hemo-vs-hierro-no-hemo/){:target="_blank" class="link"} 
+[La seguridad del Hemo vs Hierro no Hemo <span class="icon icon-long-arrow-right-light"></span>](https://nutritionfacts.org/es/video/la-seguridad-del-hemo-vs-hierro-no-hemo/){:class="link no-underline" target="_blank"}
 
 ### Yodo
 
-Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo.
-La disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo mujeres embarazadas y personas que siguen una dieta en la que se ha eliminado completamente la sal.
+Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo, la disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo mujeres embarazadas y personas que siguen una dieta en la que se ha eliminado completamente la sal.
 
 ### Calcio
 
 Los lácteos tienen mucho calcio pero también un montón hormonas de crecimiento diseñadas para que ternerxs crezcan rápidamente, pero que en humanxs favorece la formación de cánceres como el de próstata y mamas.
 
-Algunos alimentos de origen vegetal que contienen suficiente calcio son: 
+Algunos alimentos de origen vegetal que contienen suficiente calcio son:
 
-- Avena 
+- Avena
 - Leche de soya
 - Brócoli
 - Kale
@@ -119,7 +121,7 @@ Se puede aumentar la absorción de hierro, calcio y zinc, consumiendo ajo y cebo
 
 ### Vitamina D
 
-La vitamina D se obtiene a partir de la exposición al sol, pero la absorción depende de muchos factores, entonces es recomendable suplementarse con entre 600 a 1000 UI diariamente, independientemente del tipo de alimentación que se lleve.
+La vitamina D se obtiene a partir de la exposición al sol que puede ser veinte minutos al día sin bloqueador, pero la absorción depende de muchos factores, por lo que puede ser recomendable suplementarse con entre 600 a 1000 UI diariamente, independientemente del tipo de alimentación que se lleve.
 
 ### Vitamina B12
 
@@ -129,15 +131,16 @@ Es necesario consumir suplementos de vitamina B12. 50 microgramos diarios ó 250
 
 ### Carbohidratos
 
-Generalmente se asocia una dieta baja en carbohidratos con una dieta saludable, pero restringir carbohidratos no es recomendable, los carbohidratos que se deben evitar son los simples que son los que vienen de harinas refinadas, aceites refinados, azúcares, etc. Los carbohidratos complejos que vienen de cereales integrales y otros alimentos de origen vegetal son necesarios y se deben incluir.
+Generalmente se asocia una dieta baja en carbohidratos con una dieta saludable, pero restringir carbohidratos no es recomendable. Los carbohidratos que se deben evitar son los simples que son los que vienen de harinas refinadas, aceites refinados, azúcares, etc. Los carbohidratos complejos que vienen de cereales integrales y otros alimentos de origen vegetal son necesarios y se deben incluir.
 
-...
+![Aplicación de la docena diaria](../assets/images/lessons/docena-diaria-dr-greger.jpg)
+[ Ella Olson &nbsp; &#124; &nbsp; Pexels](https://www.pexels.com/@ella-olsson-572949){:target='_blank' class="caption"}
 
-## Planear más fácilmente con La Docena Diaria
+## Planear más fácilmente con la Docena Diaria
 
-El doctor Michael Greger tenía pegada en su nevera una lista con los alimentos que trataba de incluir a diario en su dieta, e iba chequeando una vez los consumía. Esta práctica evolucionó en el desarrollo de la aplicación La Docena Diaria que es básicamente la lista del doctor Greger para chequear en nuestros teléfonos y simplifica enormemente la tarea de planear nuestra dieta.
+El doctor Michael Greger tenía pegada en su nevera una lista con los alimentos que trataba de incluir a diario en su dieta, e iba chequeando una vez los consumía. Esta práctica evolucionó en el desarrollo de la aplicación La [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="link"} que es básicamente la lista del doctor Greger para chequear en nuestros teléfonos y simplifica enormemente la tarea de planear nuestra alimentación.
 
-Podemos revisar cuáles alimentos necesitamos y tener en cuenta esa información en el momento de comprar comida y usar la aplicación durante el día para saber si estamos comiendo lo que necesitamos mientras nos acostumbramos a una dieta a base de plantas. 
+Podemos revisar cuáles alimentos necesitamos para tener en cuenta esa información en el momento de comprar comida y usar la aplicación durante el día para saber si estamos comiendo lo que necesitamos mientras nos acostumbramos a una dieta a base de plantas.
 
 Un plato bien balanceado puede ser: un cuarto de leguminosas, un cuarto de cereales integrales, la mitad de vegetales de la familia crucífera, hojas verdes y otros vegetales, una ensalada para acompañar, una fruta como postre y un vaso de agua.
 

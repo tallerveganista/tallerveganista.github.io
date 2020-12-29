@@ -694,10 +694,10 @@ blockquote{
   & figure{
     margin: 0 0 1.5rem 0;
   }
-  & h3{
+  & h2, h3{
     margin: 0 0 1rem 0;
   }
-  & h4, & h5{
+  & h4, h5{
     margin: 0 0 1rem 0;
   }
   & .text-box{
@@ -764,11 +764,13 @@ blockquote{
     }
     & ul{
       margin-bottom: 2rem;
+      margin-left: 1.4rem;
     }
     & li{
       font-size: $medium-text;
       line-height: $medium-line-height;
       font-weight: $regular;
+      list-style-type: disc;
     }
     & .button{
       margin: .5rem 0 0 0;
@@ -998,6 +1000,10 @@ blockquote{
   }
   & ul, & ol{
     margin-bottom: 2rem;
+    margin-left: 1.4rem;
+  }
+  & li{
+    list-style-type: disc;
   }
   & .post-content-p, & li{
     font-size: $medium-text;

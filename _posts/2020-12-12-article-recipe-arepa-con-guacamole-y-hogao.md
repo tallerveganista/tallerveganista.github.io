@@ -28,12 +28,12 @@ date: 2020-12-12
 <h3>Ingredientes</h3>
 
 <ul>
-  <li>- Arepa</li>
-  <li>- Medio aguacate mediano</li>
-  <li>- Cebolla</li>
-  <li>- Medio tomate</li>
-  <li>- Semillas de chía</li>
-  <li>- Sal</li>
+  <li>Arepa</li>
+  <li>Medio aguacate mediano</li>
+  <li>Cebolla</li>
+  <li>Medio tomate</li>
+  <li>Semillas de chía</li>
+  <li>Sal</li>
 </ul>
 
 <h3>Preparación</h3>

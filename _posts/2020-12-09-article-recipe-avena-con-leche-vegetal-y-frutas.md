@@ -27,14 +27,14 @@ date: 2020-12-9
 <h3>Ingredientes</h3>
 
 <ul>
-  <li>- Leche vegetal</li>
-  <li>- Semillas de chía</li>
-  <li>- Semillas de linaza molidas</li>
-  <li>- Avena en hojuelas</li>
-  <li>- Frutas picadas</li>
-  <li>- Uvas pasas (Opcional)</li>
-  <li>- Canela molida (Opcional)</li>
-  <li>- Panela en polvo (Opcional)</li>
+  <li>Leche vegetal</li>
+  <li>Semillas de chía</li>
+  <li>Semillas de linaza molidas</li>
+  <li>Avena en hojuelas</li>
+  <li>Frutas picadas</li>
+  <li>Uvas pasas (Opcional)</li>
+  <li>Canela molida (Opcional)</li>
+  <li>Panela en polvo (Opcional)</li>
 </ul>
 
 <h3>Preparaciones previas</h3>
