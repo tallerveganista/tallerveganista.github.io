@@ -22,7 +22,7 @@ published: true
 ---
  La dieta americana estándar (*Standard American Diet. SAD* ⎯ *sad* = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
-Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista de los más destacados en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, que son adecuadas para cualquier etapa de la vida. También menciona que se deben acompañar de suplementos de vitamina B12.
+Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista algunxs de lxs más destacadxs en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades y que son adecuadas para cualquier etapa de la vida. También menciona que se deben acompañar de suplementos de vitamina B12.
 
 [Posición de la Academia de Nutrición y Dietétetica: Dietas Vegetarianas. <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
@@ -32,16 +32,16 @@ La historia de nuestro amigx ex-vegetarianx no es evidencia de que alimentarse a
 
 Los que seguimos una dieta a base de plantas estamos catalogados como vegetarianxs estrictos en el lenguaje profesional porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetarianx para referirse tanto a vegetarianxs como a veganxs (vegetarianxs estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianxs y veganxs, o de vegetarianxs o veganxs. También hay problemas de traducción. En *“The Game Changers”*, los subtítulos y doblaje dicen vegetarianx cuando el documetal claramente habla de nutrición a base de plantas exclusivamente. El programa *“Vegan Kickstart”* del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
 
-Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese periódo. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y no estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio. Algunxs fallan en completar los programas porque no logran acomodar su tiempo para ver la información y hacer la tarea del día. Teniendo en cuenta esas limitaciones decidimos cubrir los temas que consideramos necesarios sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que seguir un programa es tener claro porque queremos ser veganxs, donde encontrar la información necesaria para hacerlo correctamente y contar con un acompañamiento que puede ser útil.
+Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese periódo. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y tampoco estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio. Teniendo en cuenta esas limitaciones decidimos cubrir los temas que consideramos necesarios sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que inscribirse y completar un programa es tener claro porque queremos ser veganxs, donde encontrar la información necesaria para hacerlo correctamente y contar con un acompañamiento que puede ser útil.
 
-Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](#){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
+Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](#){:target="_blank" class="link"} (Proximamente la lista de nutricionistas) en caso de encontrar problemas o tener requerimientos nutricionales específicos.
 
 ![Niña comiendo pasta, ensalada y frutas.](../assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg)
 [ Alex Green &nbsp; &#124; &nbsp; Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
 
-## Datos básicos sobre nutrición basada en plantas
+## Información básica sobre nutrición basada en plantas
 
-Buena parte de la información para esta sección está sustentada en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender.
+Buena parte del contenido para esta sección está sustentado en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender.
 
 ### ¿Cuál es la dieta más adecuada?
 
@@ -61,13 +61,13 @@ Es casi imposible sufrir una deficiencia de proteínas si la dieta no restringe 
 
 Este mito tiene su origen en los estudios de Thomas B. Osborne y Lafayette Mendel en 1909. En el estudio alimentaron a unas ratas albinas con proteína de leche y a otras con proteína de trigo. Las ratas alimentadas con proteína de leche crecieron más rápido y eran más grandes. Concluyeron que existían diferencias entre el valor biológico de la proteína animal y vegetal, determinando que las proteínas animales son completas y de alto valor biológico mientras que las vegetales incompletas con valor biológico limitado. Esta clasificación fue desmentida en 1950 porque nuestras necesidades nutricionales y expectativa de vida es muy distinta a la de las ratas, crecemos más lento porque vivimos más tiempo y nuestras demandas metabólicas son diferentes.
 
-Consumir proteínas de origen animal conlleva un exceso del aminoácido metionina, exceso que promueve un envejecimiento acelerado, las especies animales con una expectativa de vida menor son las que tienen una concentración mayor de metionina en sus tejidos.
+Consumir proteínas de origen animal conlleva un exceso del aminoácido metionina, exceso que promueve un envejecimiento acelerado. Las especies animales con una expectativa de vida menor son las que tienen una concentración mayor de metionina en sus tejidos.
 
 Todas las proteínas contienen algo de aminoácidos esenciales y no es necesario consumir grandes cantidades de aminoácidos en cada comida porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
 
 ### Ácidos grasos. Omega 3 y Omega 6
 
-La enzima que metaboliza estos ácidos grasos es la Delta-6 desaturase que puede metabolizar Omega 3 u Omega 6, pero no los dos al tiempo. Como el Omega 3 es el ácido graso que necesitamos, es recomendable evitar fuentes de Omega 6. Necesitamos unos 2.6 gramos diarios de Omega 3.
+La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede metabolizar Omega 3 u Omega 6, pero no los dos al tiempo. Como el Omega 3 es el ácido graso que necesitamos, es recomendable evitar fuentes de Omega 6. Necesitamos unos 2.6 gramos diarios de Omega 3.
 
 #### Fuentes de Omega 3:
 
@@ -89,9 +89,7 @@ Aunque no es requerido se recomienda tomar suplementos de Omega 3. - DHA y EPA d
 
 En una dieta a base de plantas se puede consumir más hierro que una dieta estándar, pero la asimilación depende de evitar inhibidores como el café, el vino y el té, cuyo consumo debe evitarse al menos una hora antes de una comida.
 
-La absorción se puede mejorar con promotores que serían vitamina C y cítricos, nueces y granos integrales.
-
-Los vegetales de hoja verde, la cebolla, el ajo y el limón ayudan a la absorción de hierro y zinc.
+La absorción se puede mejorar con promotores que serían cítricos, nueces y granos integrales, también vegetales de hoja verde, cebolla y ajo.
 
 #### Hierro Hemo y Hierro no Hemo
 
