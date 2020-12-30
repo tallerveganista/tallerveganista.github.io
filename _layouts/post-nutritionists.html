@@ -1,0 +1,108 @@
+---
+layout: basic-structure
+---
+
+{% include header.html %}
+
+<!-- content -->
+<div class="content content-post">
+  <!-- wrapper -->
+  <div class="wrapper container-fluid">
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8 center-lg">
+        <p class="category">
+          {{ page.categories | join: ' &nbsp | &nbsp ' }}
+        </p>
+        <h1>{{ page.title }}</h1>
+        <p class="author-date">{{ page.author }} &nbsp; | &nbsp;{% assign m = page.date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ page.date | date: "%d" }} / {{ page.date | date: "%Y" }}</p>
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+    <!-- row -->
+    <div class="row article-container">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <p>{{ page.intro }}</p>
+      </div>
+      <!-- col-end  -->
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8 center-xs">
+        <!-- members/nutritionists -->
+        <div class="members">
+          {% for nutritionist in site.nutritionists %}
+            {% if nutritionist.tags contains 'listed' %}
+            <!-- row   -->
+            <div class="row member start-sm" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+              <!-- col -->
+              <div class="col-xs-12 col-sm-4 col-lg-3">
+                <figure>
+                  <img src="{{ nutritionist.image }}" alt="{{ nutritionist.name }}">
+                </figure>
+              </div>
+              <!-- col end -->
+              <!-- col -->
+              <div class="col-xs-12 col-sm-8 col-lg-9">
+                <p class="category">{{ nutritionist.location }}</p>
+                <h4>{{ nutritionist.name }}</h4>
+                <p>{{ nutritionist.excerpt }}</p>
+                <ul>
+                  {% if nutritionist.link-1 != nil %}
+                    <li>{{ nutritionist.link-1 }}</li>
+                  {% endif %}
+                  {% if nutritionist.link-2 != nil %}
+                    <li>{{ professional.link-2 }}</li>
+                  {% endif %}
+                  {% if nutritionist.link-3 != nil %}
+                    <li>{{ professional.link-3 }}</li>
+                  {% endif %}
+                  {% if nutritionist.link-4 != nil %}
+                    <li>{{ professional.link-4 }}</li>
+                  {% endif %}
+                </ul>
+              </div>
+              <!-- col end -->
+
+            </div>
+            <!-- row end -->
+            {% endif %}
+          {% endfor %}
+        </div>
+        <!-- members end -->
+      </div>
+      <!-- col-end -->
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        {{ content }}
+      </div>
+      <!-- col-end  -->
+    </div>
+    <!-- row end -->
+    <!-- row -->
+    <div class="row">
+      <!-- col -->
+      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+        <!-- row -->
+        <div class="row prev-next">
+          <div class="col-xs-6 inline">
+            {% if page.previous.url != nil and page.previous.tags contains 'article' %}
+              <a class="link link-mid" href="{% if page.previous.tags contains 'article' %}{{ page.previous.url }}{% endif %}"><span class="icon icon-long-arrow-left-light margin-right"></span> Anterior</a>
+            {% endif %}
+          </div>
+          <div class="col-xs-6 inline end-xs">
+            {% if page.next.url != nil and page.next.tags contains 'article' %}
+              <a class="link link-mid" href="{% if page.next.tags contains 'article' %}{{ page.next.url }}{% endif %}">Siguiente<span class="icon icon-long-arrow-right-light"></span></a>
+            {% endif %}
+          </div>
+        </div>
+        <!-- row end -->
+      </div>
+      <!-- col end -->
+    </div>
+    <!-- row end -->
+  </div>
+  <!-- wrapper end -->
+</div>
+<!-- content end -->

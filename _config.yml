@@ -60,6 +60,10 @@ collections:
     output: true
   team-members:
     output: true
+  nutritionists:
+    output: true
+  professionals:
+    output: true
 
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics

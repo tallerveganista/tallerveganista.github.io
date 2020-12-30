@@ -1090,6 +1090,26 @@ blockquote{
   & .member{
     margin: 0 0 2.5rem 0 !important;
   }
+  & .category{
+    margin-bottom: 0 !important;
+  }
+}
+
+.article-container{
+  & .members{
+    & .member{
+      margin-top: 2rem !important;
+    }
+    & img{
+      margin: 0 auto;
+    }
+    & ul{
+      margin: -1rem 0 .5rem 0;
+    }
+    & li{
+      list-style-type: none;
+    }
+  }
 }
 
 
