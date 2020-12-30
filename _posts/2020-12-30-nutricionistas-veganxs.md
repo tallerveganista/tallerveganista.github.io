@@ -12,7 +12,7 @@ title: Nutricionistas veganxs en Colombia
 image: >-
   /assets/images/posts/nutricionistas-veganxs-square.jpg
 permalink: /nutricionistas-veganxs-en-Colombia/
-intro: <p>La nutrición a base de plantas está avalada por la Academia de Nutrición y Dietética desde el 2016. Las dietas a base de plantas bien planeadas son saludables, nutricionalmente adecuadas y más sostenibles ambientalmente.</p><p><a href="https://pubmed.ncbi.nlm.nih.gov/27886704/" class="link no-underline" target="_blank">Artículo en Publimed <span class="icon icon-long-arrow-right-light"></span></a></p><p>Sin embargo la mayoría de lxs nutricionistas locales todavía recomiendan consumir alimentos de origen animal. Esta es una lista con algunxs nutricionistas especializadxs en nutrición a base de plantas acá en Colombia.</p>
+intro: <p>La nutrición a base de plantas está avalada por la Academia de Nutrición y Dietética desde el 2016. Las dietas a base de plantas bien planeadas son saludables, nutricionalmente adecuadas y más sostenibles ambientalmente.</p><p><a href="https://pubmed.ncbi.nlm.nih.gov/27886704/" class="link no-underline" target="_blank">Artículo en Publimed <span class="icon icon-long-arrow-right-light"></span></a></p><p>Sin embargo la mayoría de lxs nutricionistas locales todavía recomiendan consumir alimentos de origen animal y nos hacen perder tiempo a quienes no consideramos esa posibilidad. Esta es una lista con algunxs nutricionistas especializadxs en nutrición a base de plantas acá en Colombia.</p>
 description: >-
   Las dietas a base de plantas bien planeadas son saludables, nutricionalmente adecuadas y más sostenibles ambientalmente. Esta es una lista con algunxs nutricionistas especializadxs en nutrición a base de plantas acá en Colombia
 excerpt: >-
