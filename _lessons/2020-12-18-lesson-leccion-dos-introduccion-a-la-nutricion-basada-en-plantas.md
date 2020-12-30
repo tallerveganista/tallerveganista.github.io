@@ -22,7 +22,7 @@ published: true
 ---
  La dieta americana estándar (*Standard American Diet. SAD* ⎯ *sad* = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
-Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista algunxs de lxs más destacadxs en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades y que son adecuadas para cualquier etapa de la vida. También menciona que se deben acompañar de suplementos de vitamina B12.
+Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista algunxs de lxs más destacadxs en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades y que son adecuadas para cualquier etapa de la vida. Menciona además que deben acompañarse de suplementos de vitamina B12.
 
 [Posición de la Academia de Nutrición y Dietétetica: Dietas Vegetarianas. <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
@@ -32,7 +32,7 @@ La historia de nuestro amigx ex-vegetarianx no es evidencia de que alimentarse a
 
 Los que seguimos una dieta a base de plantas estamos catalogados como vegetarianxs estrictos en el lenguaje profesional porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetarianx para referirse tanto a vegetarianxs como a veganxs (vegetarianxs estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianxs y veganxs, o de vegetarianxs o veganxs. También hay problemas de traducción. En *“The Game Changers”*, los subtítulos y doblaje dicen vegetarianx cuando el documetal claramente habla de nutrición a base de plantas exclusivamente. El programa *“Vegan Kickstart”* del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
 
-Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese periódo. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y tampoco estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio. Teniendo en cuenta esas limitaciones decidimos cubrir los temas que consideramos necesarios sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que inscribirse y completar un programa es tener claro porque queremos ser veganxs, donde encontrar la información necesaria para hacerlo correctamente y contar con un acompañamiento que puede ser útil.
+Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese período. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y tampoco estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio. Teniendo en cuenta esas limitaciones decidimos cubrir los temas que consideramos necesarios sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que inscribirse y completar un programa es tener claro porque queremos ser veganxs, donde encontrar la información pertinente para hacerlo correctamente y contar con un acompañamiento si es necesario.
 
 Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](/nutricionistas-veganxs-en-Colombia/){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
 
@@ -65,17 +65,17 @@ Consumir proteínas de origen animal conlleva un exceso del aminoácido metionin
 
 Todas las proteínas contienen algo de aminoácidos esenciales y no es necesario consumir grandes cantidades de aminoácidos en cada comida porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
 
-### Ácidos grasos. Omega 3 y Omega 6
+### Ácidos grasos. omega 3 y omega 6
 
-La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede metabolizar Omega 3 u Omega 6, pero no los dos al tiempo. Como el Omega 3 es el ácido graso que necesitamos, es recomendable evitar fuentes de Omega 6. Necesitamos unos 2.6 gramos diarios de Omega 3.
+La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede metabolizar omega 3 u omega 6, pero no los dos al tiempo. Como el omega 3 es el ácido graso que necesitamos, es recomendable evitar fuentes de omega 6. Necesitamos unos 2.6 gramos diarios de omega 3.
 
-#### Fuentes de Omega 3:
+#### Fuentes de omega 3:
 
 - Nueces sin procesar
 - Semillas de chía
 - Semillas de linaza molida (La absorción de omega 3 a partir de este alimento es de 90%)
 
-#### Fuentes de Omega 6 (Evitar)
+#### Fuentes de omega 6 (Evitar)
 
 - Pollo
 - Postres a base de harina refinada
@@ -85,17 +85,17 @@ La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede
 
 Aunque no es requerido se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día y que provenga de microalgas.
 
-### Hierro y Zinc
+### Hierro y zinc
 
-En una dieta a base de plantas se puede consumir más hierro que una dieta estándar, pero la asimilación depende de evitar inhibidores como el café, el vino y el té, cuyo consumo debe evitarse al menos una hora antes de una comida.
+En una dieta a base de plantas se puede consumir más hierro y zinc que una dieta estándar, pero la asimilación depende de evitar inhibidores como el café, el vino y el té, cuyo consumo debe evitarse al menos una hora antes de una comida.
 
-La absorción se puede mejorar con promotores que serían cítricos, nueces y granos integrales, también vegetales de hoja verde, cebolla y ajo.
+La absorción se puede mejorar con promotores que serían cítricos, nueces y granos integrales, vegetales de hoja verde, cebolla y ajo.
 
-#### Hierro Hemo y Hierro no Hemo
+#### Hierro hemo y hierro no hemo
 
 El hierro hemo es proporcionado por comida de origen animal y no está presente en plantas, el hierro hemo se absorbe más fácilmente, pero el cuerpo se va acostumbrando al hierro no hemo y va mejorando su absorción. Hay algunos estudios que relacionan el consumo de hierro hemo con enfermedades, por tanto el hierro no hemo es más seguro.
 
-[La seguridad del Hemo vs Hierro no Hemo <span class="icon icon-long-arrow-right-light"></span>](https://nutritionfacts.org/es/video/la-seguridad-del-hemo-vs-hierro-no-hemo/){:class="link no-underline" target="_blank"}
+[La seguridad del hierro hemo en comparación con el no hemo <span class="icon icon-long-arrow-right-light"></span>](https://nutritionfacts.org/es/video/la-seguridad-del-hemo-vs-hierro-no-hemo/){:class="link no-underline" target="_blank"}
 
 ### Yodo
 
