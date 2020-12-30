@@ -65,7 +65,7 @@ Consumir proteínas de origen animal conlleva un exceso del aminoácido metionin
 
 Todas las proteínas contienen algo de aminoácidos esenciales y no es necesario consumir grandes cantidades de aminoácidos en cada comida porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
 
-### Ácidos grasos. omega 3 y omega 6
+### Ácidos grasos. Omega 3 y omega 6
 
 La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede metabolizar omega 3 u omega 6, pero no los dos al tiempo. Como el omega 3 es el ácido graso que necesitamos, es recomendable evitar fuentes de omega 6. Necesitamos unos 2.6 gramos diarios de omega 3.
 
