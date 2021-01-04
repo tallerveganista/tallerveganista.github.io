@@ -56,6 +56,6 @@ date: 2021-01-03
 
 <p class="post-content-p post-content-space">Remover el agua de los fríjoles y agregarlos a una olla express. Añadir agua, cucharada y media de páprika, cucharada y media de cúrcuma, media cucharadita de moringa, cuatro cucharadas de semillas de quinua y sal al gusto.</p>
 
-<p class="post-content-p post-content-half-space">Cocinar los frijoles durante 45 minutos.</p>
+<p class="post-content-p post-content-half-space">Cocinar los frijoles durante 45 minutos. Remover la ayuama, licuar y agregarla de nuevo.</p>
 
 <p class="post-content-p post-content-space">Servir en un tazón y agregar semillas de chía. Se puede acompañar con una ensalada, unos cuadritos de plátano maduro y una bebida.</p>
