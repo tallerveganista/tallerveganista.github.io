@@ -9,7 +9,9 @@ date: 2020-12-29
 excerpt: >-
   Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
   plantas y recursos para planear fácilmente.
-recipe-introduction:
+recipe-introduction: >-
+  Revisa los ingredientes que necesitarás y las preparaciones previas antes de
+  empezar las recetas. Hoy presentamos dos opciones para almuerzos.
 author: Alejandro Narváez Isaza
 image: >-
   /assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas-square.jpg
