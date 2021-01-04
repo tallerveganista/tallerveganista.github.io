@@ -42,6 +42,9 @@ plugins:
 plugins:
   - jekyll-analytics
 
+plugins:
+  - jekyll-sitemap
+
 defaults:
   -
     scope:
