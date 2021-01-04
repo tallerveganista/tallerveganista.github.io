@@ -54,7 +54,7 @@ date: 2021-01-03
 
 <h3>Preparación</h3>
 
-<p class="post-content-p post-content-space">Remover el agua de los fríjoles y agregarlos a una olla express. Añadir agua, cucharada y media de páprika, cucharada y media de cúrcuma, media cucharadita de moringa, cuatro cucharadas de semillas de quinua y sal al gusto.</p>
+<p class="post-content-p post-content-space">Remover el agua de los fríjoles y agregarlos a una olla express. Añadir agua, auyama pelada y picada, cucharada y media de páprika, cucharada y media de cúrcuma, media cucharadita de moringa, cuatro cucharadas de semillas de quinua y sal al gusto.</p>
 
 <p class="post-content-p post-content-half-space">Cocinar los frijoles durante 45 minutos, remover la ayuama, licuar y agregarla de nuevo.</p>
 
