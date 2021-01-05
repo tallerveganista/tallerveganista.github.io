@@ -15,7 +15,7 @@ excerpt: >-
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/receta-pasta-con-hummus-landscape.jpg
 image: /assets/images/posts/receta-pasta-con-hummus-square.jpg
-permalink: /frijoles-con-arroz-y-ensalada/
+permalink: /pasta-con-hummus/
 description: Receta de frijoles con arroz y ensalada
 title: Pasta con hummus
 date: 2021-01-05
