@@ -11,7 +11,7 @@ categories:
   - Lección 2
 tags: ['recipe','article','blog-gallery']
 excerpt: >-
-  Remover el agua de los fríjoles y agregarlos a una olla express. Añadir agua, cucharada y media de páprika, cucharada y media de cúrcuma, media cucharadita de moringa, cuatro cucharadas de semillas de quinua y sal al gusto.
+  Remover el agua de los garbanzos y agregarlos a una olla express. Agregar sal al gusto, cocinar los garbanzos durante 30 minutos.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/receta-pasta-con-hummus-landscape.jpg
 image: /assets/images/posts/receta-pasta-con-hummus-square.jpg
