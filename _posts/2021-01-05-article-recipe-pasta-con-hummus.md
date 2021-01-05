@@ -65,7 +65,7 @@ date: 2021-01-05
 
 <p class="post-content-p post-content-space">Cortar la espinaca en tiritas y picar el brócoli. Hervir agua en una olla y agregar la espinaca y el brócoli a una vaporera o un colador de metal para que los vegetales no toquen el agua. Tapar y dejar al vapor durante cinco minutos.</p>
 
-<p class="post-content-p post-content-space">Después de cocinar al vapor, agregar a una sartén, agregar el tomate y el cebollín picado finamente, agregar pimienta roja y saltear durante cinco minutos.</p>
+<p class="post-content-p post-content-space">Después de cocinar al vapor, agregar a una sartén caliente, agregar el tomate y el cebollín picado finamente, agregar pimienta roja y saltear durante cinco minutos.</p>
 
 <h4>Pasta</h4>
 
