@@ -66,7 +66,7 @@ date: 2021-01-05
 <p class="post-content-p post-content-space">Cortar la espinaca en tiritas. Hervir agua en una olla y agregar la espinaca a una vaporera o un colador de metal para que no toque el agua. Tapar y dejar al vapor durante cinco minutos.</p>
 
 <h4>Cebollín, tomate y champiñones</h4>
-<p class="post-content-p post-content-space">Picar finamente el cebollín, picar el tomate y los champiñones en cuadritos y saltear en una sartén caliente durante unos tres minutos.</p>
+<p class="post-content-p post-content-space">Picar finamente el cebollín, picar el tomate y los champiñones en cuadritos, agregar pimienta roja y saltear en una sartén caliente durante unos tres minutos.</p>
 
 <h4>Pasta</h4>
 
