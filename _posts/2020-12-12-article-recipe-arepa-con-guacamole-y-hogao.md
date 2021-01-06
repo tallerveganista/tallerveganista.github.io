@@ -33,7 +33,6 @@ date: 2020-12-12
   <li>Cebolla</li>
   <li>Medio tomate</li>
   <li>Semillas de chía</li>
-  <li>Sal</li>
 </ul>
 
 <h3>Preparación</h3>
