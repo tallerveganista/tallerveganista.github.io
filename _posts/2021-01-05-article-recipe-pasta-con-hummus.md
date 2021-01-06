@@ -57,7 +57,7 @@ date: 2021-01-05
 
 <h4>Hummus</h4>
 
-<p class="post-content-p post-content-space">Abrir los dientes de ajo, remover la vena interior, presionar con el la parte plana del cuchillo y picar finamente, si tienes macerador macerar.</p>
+<p class="post-content-p post-content-space">Abrir los dientes de ajo, remover la vena interior, presionar con la parte plana del cuchillo y picar finamente, si tienes macerador macerar.</p>
 
 <p class="post-content-p post-content-space">Agregar al procesador o licuadora los garbanzos, el tahine, los ajos y el jugo de un limón, licuar los garbanzos agregando lentamente agua de garbanzos hasta que se forme un puré. En licuadora generalmente es necesario parar, revolver con una cuchara grande y volver a licuar. <span class="icon icon-warning"></span> Nunca meter la cuchara con la licuadora prendida.</p>
 
