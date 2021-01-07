@@ -1,4 +1,6 @@
 ---
-tags: [member]
+tags:
+  - member
+published: true
 ---
-Hola, soy Jessica
+
