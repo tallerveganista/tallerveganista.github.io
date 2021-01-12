@@ -3,7 +3,7 @@ layout: post
 categories:
   - Activismo
 tags:
-  - highlight-article
+  - blog-gallery
   - article
 title: La ilusión de cambiar el mundo desde el consumo
 date: '2020-12-03'

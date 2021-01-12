@@ -192,7 +192,11 @@ ul{
 }
 
 .p-space{
-  margin: 0 0 2rem 0;
+  margin: 0 0 2rem 0 !important;
+}
+
+.p-space-img{
+  margin: 0 0 1rem 0 !important;
 }
 
 // Columns
