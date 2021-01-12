@@ -11,7 +11,7 @@ excerpt: >-
   El carnismo es una ideología dominante e invisible, eso quiere decir que la mayoría piensa y actúa según esta ideología sin saber que lo hace y que la mayoría fuimos adoctrinados según sus principios. Quienes nos educaron no tenían y probablemente a la fecha todavía no tienen idea de que son parte de un sistema de adoctrinamiento.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/piensa-con-libertad-y-empatia-landscape.jpg
-image: /assets/images/posts/piensa-con-libertad-y-empatia.jpg
+image: /assets/images/posts/piensa-con-libertad-y-empatia-square.jpg
 permalink: /sobrevivir-en-una-cultura-especista/
 description: >-
   Reflexiones sobre porque la mayoría de las personas son especistas y argumentos a favor del veganismo interseccional.
