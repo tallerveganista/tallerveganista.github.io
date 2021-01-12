@@ -39,12 +39,12 @@ Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de
 
 [¿Por qué no ser vegano? &nbsp; &#124; &nbsp; Macakiux &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
-Una pequeña anotación sobre el video: Miguel menciona que salvamos aniamles pero no tenemos suficiente influencia como para disminuir la producción ganadera, los únicos que salvan animales son quienes los rescatan o cuidan en santuarios o en sus lugares de residencia.
+Una pequeña anotación sobre el video: Miguel menciona que salvamos aniamles pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera, lxs únicxs que salvan animales son quienes les rescatan y/o cuidan en santuarios o en sus lugares de residencia.
 {: class="caption-no-link"}
 
 No necesitamos consumir cadáveres ni secreciones de animales, vestirnos con sus pieles, experimentar con sus cuerpos, usarles como herramientas de trabajo, medios de transporte u obligarlos a realizar actos para nuestro entretenimiento. La relación de dominación y explotación que tenemos con otros animales no es consecuencia de una necesidad de supervivencia sino de un condicionamiento cultural.
 
-El condicionamiento cultural es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― *Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo*. ― El carnismo es el sistema de creencias que soporta el especismo. Una forma de discriminación que consiste en tratar a los miembros de unas especies como dignos de consideración moral mientras se domina y explota a los de otras especies, a pesar de que sus intereses pueden ser equivalentes.
+El condicionamiento cultural es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― *Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo*. ― El carnismo es el sistema de creencias que soporta el especismo que es una forma de discriminación que consiste en tratar a los miembros de unas especies como dignos de consideración moral mientras se domina y explota a los de otras especies a pesar de que sus intereses pueden ser equivalentes.
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/f1veVP829JI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
