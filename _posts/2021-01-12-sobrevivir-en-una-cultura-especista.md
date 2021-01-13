@@ -8,13 +8,18 @@ tags:
 title: Sobrevivir en una cultura especista
 date: '2021-01-12'
 excerpt: >-
-  El carnismo es una ideología dominante e invisible, eso quiere decir que la mayoría piensa y actúa según esta ideología sin saber que lo hace y que la mayoría fuimos adoctrinados según sus principios. Quienes nos educaron no tenían y probablemente a la fecha todavía no tienen idea de que son parte de un sistema de adoctrinamiento.
+  El carnismo es una ideología dominante e invisible, eso quiere decir que la
+  mayoría piensa y actúa según esta ideología sin saber que lo hace y que la
+  mayoría fuimos adoctrinados según sus principios. Quienes nos educaron no
+  tenían y probablemente a la fecha todavía no tienen idea de que son parte de
+  un sistema de adoctrinamiento.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/piensa-con-libertad-y-empatia-landscape.jpg
 image: /assets/images/posts/piensa-con-libertad-y-empatia-square.jpg
 permalink: /sobrevivir-en-una-cultura-especista/
 description: >-
-  Reflexiones sobre porque la mayoría de las personas son especistas y argumentos a favor del veganismo interseccional.
+  Reflexiones sobre porque la mayoría de las personas son especistas y
+  argumentos a favor del veganismo interseccional.
 published: true
 ---
 El carnismo es una ideología dominante e invisible, eso quiere decir que la mayoría piensa y actúa según esta ideología sin saber que lo hace y que la mayoría fuimos adoctrinados según sus principios. Quienes nos educaron no tenían y probablemente a la fecha todavía no tienen idea de que son parte de un sistema de adoctrinamiento.
@@ -23,7 +28,7 @@ La mayoría de la población es especista y disfruta serlo igual que nosotrxs an
 
 ¿Son gente perversa que disfruta de la crueldad? probablemente no, o al menos no conscientemente. Al igual que nosotrxs crecieron en una cultura en donde la empatía se limita y reprime cada vez más y dentro de un sistema educativo al que si por suerte tenemos acceso, en la mayoría de los casos nos queda debiendo las herramientas para desarrollar nuestro pensamiento crítico.
 
-La violencia que necesariamente se ejerce hacia los animales que decidimos convertir en máquinas de producción y/o productos es espeluznante y es algo que es normal no querer ver, por eso la industria tiene éxito en el esfuerzo de ocultarla y distorsionar la percepción sobre sus propias actividades. A la población en general le queda muy fácil ignorar y justificar esta violencia porque sus cuellos no son los que están siendo rajados, sino los de individuos de otras especies y las manos que ejercen la violencia son las de trabajadorxs mal remuneradxs sin mayores opciones cuyo bienestar y salud mental tampoco son importantes en nuestra cultura.
+La violencia que necesariamente se ejerce hacia los animales que decidimos convertir en máquinas de producción y/o productos es espeluznante y es algo que es normal no querer ver, por eso la industria tiene éxito en el esfuerzo de ocultarla y distorsionar la percepción sobre sus propias actividades. A la población en general le queda muy fácil ignorar y justificar esta violencia porque sus cuellos no son los que están siendo rajados sino los de individuos de otras especies y las manos que ejercen la violencia son las de trabajadorxs mal remuneradxs sin mayores opciones cuyo bienestar y salud mental tampoco son importantes en nuestra cultura.
 
 Sentir rabia, indignación y tristeza es normal. Al escribir esto recordé un montón de imágenes de violencia contra los animales que decidí ver para entender de lo que estoy hablando y vino a mi mente con lágrimas en mis ojos otro recuerdo todavía más difícil. Las miradas de angustia y desesperación de animales de pocos meses de edad, hambrientxs, sedientxs y heridxs, sucixs y oliendo horrible que conectaron con nosotrxs a través de las rejas de camiones en donde fueron hacinadxs para transportar hacia el matadero. Visitando las entradas de los mataderos que es hasta donde podemos llegar sin violar las leyes que protegen a estas empresas dedicadas a la violencia institucionalizada, se pueden escuchar los perturbadores gritos de dolor que emiten lxs cerdxs mientras son asesinadxs.
 
@@ -33,9 +38,9 @@ En Colombia tenemos a Fernando Vallejo y a Carolina Sanín quienes al parecer di
 
 ![piensa con libertad y empatía](../assets/images/posts/piensa-con-libertad-y-empatia-landscape.jpg){:class="p-space-img"}
 
-Que este tipo de veganxs y sus discursos tengan tanta visibilidad y popularidad prueba que podemos liberarnos de una ideología de opresión y violencia mientras seguimos bajo la influencia de otras. El veganismo interseccional y la educación dirigida a entender diferentes sistemas de dominación, explotación y discriminación de las que somos víctimas y victimarixs en mayor o menor medida nosotrxs mismxs son fundamentales si queremos detener la ola ecofacista y autodestructiva dentro del veganismo.
+Que este tipo de veganxs y sus discursos tengan tanta visibilidad y popularidad prueba que podemos liberarnos de una ideología de opresión y violencia mientras seguimos bajo la influencia de otras. El veganismo interseccional y la educación dirigida a entender diferentes sistemas de dominación, explotación y discriminación de las que somos víctimas y victimarixs en mayor o menor medida son fundamentales si queremos detener la ola ecofacista y autodestructiva dentro del veganismo.
 
-Con tristeza y desilusión debo decir que estamos en un momento de la historia en el que la mayoría de la población pasa una buena parte de su tiempo consumiendo información personalizada al detalle con el objetivo de extraer reacciones de cada “usuaria o usuario” generada y/o seleccionada por algoritmos programados para maximizar el “engagement” dentro de plataformas de marketing disfrazadas de redes sociales. Nuestra población que ya venía con un déficit en educación de calidad y ya era víctima de los intereses oscuros de propietarios de medios de comunicación corporativos e instituciones dedicadas a suprimir el pensamiento crítico para continuar el dominio del pensamiento mágico, ahora además es adicta a sus celulares y a consumir y crear información diseñada para generar reacciones emocionales y pasar rápidamente sin ningún análisis.
+Con preocupación debo decir que estamos en un momento de la historia en el que la mayoría de la población pasa una buena parte de su tiempo consumiendo información personalizada al detalle con el objetivo de extraer reacciones de cada “usuaria o usuario” generada y/o seleccionada por algoritmos programados para maximizar el “engagement” dentro de plataformas de marketing disfrazadas de redes sociales. Nuestra población que ya venía con un déficit en educación de calidad y ya era víctima de los intereses oscuros de propietarios de medios de comunicación corporativos e instituciones dedicadas a imponer el pensamiento mágico, ahora además es adicta a sus celulares y a consumir y crear información diseñada para generar reacciones emocionales y pasar rápidamente sin ningún análisis. No veo mucha disposición para la honestidad intelectual y el pensamiento crítico necesarios para cuestionar ideologías que justifican nuestros propios privilegios. Es clave entender esta dificultad y buscar como atravezar burbujas mediáticas.
 
 La situación podría empeorar si triunfan iniciativas encaminadas a reemplazar la educación pública, integral y que no descarta lo presencial por una exclusivamente técnica, completamente virtual y privada.
 
