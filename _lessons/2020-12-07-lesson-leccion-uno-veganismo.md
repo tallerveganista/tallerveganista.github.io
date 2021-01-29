@@ -93,7 +93,7 @@ Si somos veganxs porque rechazamos la violencia que se deriva de apropiarnos de 
 
 La siguiente lección será una introducción a la nutrición basada en plantas y a partir de la tercera lección, conoceremos el horror que hay detrás de las diferentes industrias de explotación animal. También entenderemos el sistema de creencias absurdas y tradiciones que normalizan la violencia.
 
-Hasta donde tengo noticia, estos son los primeros documentales para la promoción del veganismo de la historia, predecesores del auge de documentales que vivimos ahora. El lenguaje visual de cada uno es tan de su época que hasta parecen *mockumentales*, pero los argumentos a favor del veganismo todavía funcionan.
+Hasta donde tengo noticia, estos son los primeros documentales para la promoción del veganismo de la historia, predecesores del auge de documentales que vivimos ahora. El lenguaje visual de cada uno es tan de su época que hasta parecen *mockumentales*, pero los argumentos a favor del veganismo todavía funcionan, menos el del "poder del consumidor" que no se sostiene teniendo en cuenta que el auge del veganismo no ha disminuido la producción ganadera y pesquera.
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/VlTYjaQLy2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
