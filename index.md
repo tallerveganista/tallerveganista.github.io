@@ -9,7 +9,7 @@ published: true
 header-heading: Veganismo<span class="break hidden-lg"></span> sin miedo
 header-text: >-
   Oponerse a la explotación y la violencia contra animales es luchar por
-  sociedad justa. Acá está toda la información que necesitas para unirte a esta
+  una sociedad justa. Acá está toda la información que necesitas para unirte a esta
   lucha desde tus hábitos de vida y tu participación ciudadana.
 header-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 what-heading: ¿Qué es Taller Veganista?
