@@ -39,7 +39,7 @@ Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de
 
 [¿Por qué no ser vegano? &nbsp; &#124; &nbsp; Macakiux &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
-Una pequeña anotación sobre el video: Miguel menciona que salvamos aniamles pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera, lxs únicxs que salvan animales son quienes les rescatan y/o cuidan en santuarios o en sus lugares de residencia.
+Una pequeña anotación sobre el video: Miguel menciona que salvamos animales pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera, lxs únicxs que salvan animales son quienes les rescatan y/o cuidan en santuarios o en sus lugares de residencia.
 {: class="caption-no-link"}
 
 No necesitamos consumir cadáveres ni secreciones de animales, vestirnos con sus pieles, experimentar con sus cuerpos, usarles como herramientas de trabajo, medios de transporte u obligarlos a realizar actos para nuestro entretenimiento. La relación de dominación y explotación que tenemos con otros animales no es consecuencia de una necesidad de supervivencia sino de un condicionamiento cultural.
