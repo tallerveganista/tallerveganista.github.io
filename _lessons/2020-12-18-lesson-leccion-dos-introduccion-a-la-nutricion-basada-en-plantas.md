@@ -39,7 +39,7 @@ Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda
 Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](/nutricionistas-veganxs-en-Colombia/){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
 
 ![Niña comiendo pasta, ensalada y frutas.](../assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg)
-[ Alex Green &nbsp; &#124; &nbsp; Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
+[Alex Green &nbsp; &#124; &nbsp; Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
 
 ## Información básica sobre nutrición basada en plantas
 
