@@ -6,16 +6,24 @@ categories:
 tags:
   - highlight-article
   - article
-title: ¿El mejor discurso que jamás escucharás, o veganismo para posicionar psicópatas?
+title: >-
+  ¿El mejor discurso que jamás escucharás, o veganismo para posicionar
+  psicópatas?
 date: '2021-02-02'
 excerpt: >-
-  La imagen de Gary Yourofsky como un pionero del activismo que ha dedicado su vida por los animales y un ejemplo a seguir, es promovida por cuanto grupo de activismo anti-interseccional existe, que al hacerlo trabaja consciente o inconscientemente para aumentar la influencia mediática de este auto declarado misántropo que no pierde oportunidad para promover el odio contra nuestra especie y sus fantasías violentas.
+  La imagen de Gary Yourofsky como un pionero del activismo que ha dedicado su
+  vida por los animales y un ejemplo a seguir, es promovida por cuanto grupo de
+  activismo anti-interseccional existe, que al hacerlo trabaja consciente o
+  inconscientemente para aumentar la influencia mediática de este auto declarado
+  misántropo que no pierde oportunidad para promover el odio contra nuestra
+  especie y sus fantasías violentas.
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/gary-yourofsky-rambo-landscape.jpg
 image: /assets/images/posts/gary-yourofsky-rambo-square.jpg
 permalink: /veganismo-para-posicionar-psicópatas/
 description: >-
-  Análisis de las declaraciones desafortunadas de una de las figuras más reconocidas dentro del activismo antiespecista anti-interseccional.
+  Análisis de las declaraciones desafortunadas de una de las figuras más
+  reconocidas dentro del activismo antiespecista anti-interseccional.
 published: true
 ---
 Dice la leyenda que cuando “El mejor discurso que jamás escucharás” fue traducido al hebreo y promovido por activistas en Israel, la población vegana de ese país alcanzó el 8%. Si esa historia es cierta tendríamos que replantear la relación entre consumo individual y producción, que quienes promueven el veganismo como un problema de oferta y demanda defienden, porque la producción ganadera de Israel continuó creciendo como si nada, luego de que este señor apareció en la escena en el 2013, y ha crecido de manera estable en Australia después de la aparición de Anonymous for the Voiceless en 2016. Sin comprobar si este video fue crucial o no en un incremento de la población vegana, si el incremento es real o si fue relevante, la noticia se propagó y le alcanzó a lxs seguidores de este enajenado, para posicionarlo como un líder dentro del movimiento.
@@ -97,7 +105,7 @@ Este genio no tiene en cuenta que los movimientos sociales están compuestos por
 Lxs defensores de derechos humanos arriesgan sus vidas por el bienestar de sus comunidades y al igual que en los movimientos anti-racistas, dentro de cualquier movimiento por los derechos humanos vamos a encontrar a veganxs trabajando y arriesgando sus vidas. Este tipo de mensajes pone en grave riesgo la seguridad de activistas veganxs o no, al vilificarles y disimuladamente justificar cuando algún terrorista decida acabar con sus vidas. Tanto en en Medio Oriente como en Colombia, activistas por los derechos humanos son asesinados a diario.
 Hay más pero no quiero seguir escuchando a este psicópata, si revisan los videos pueden notar el tono rabioso y lenguaje corporal amenazante de esta celebridad del veganismo que nos habla como si estuviese a punto de pegarnos un puño.
 
-O los movimientos de activismo anti-interseccional apoyan este tipo de ideas, o no han hecho el trabajo de revisar el contenido que crean las celebridades que recomiendan, cualquiera que sea la razón, impulsar a este personaje dentro de sus medios es inaceptable. Al intentar denunciar la ideología violenta de Gary Yourofsky ante uno de estos grupos que lo recomiendan, la respuesta fue que ellxs no pueden revisar cada declaración de cada creador de contenido y que lo que promueven es “El mejor discurso que jamás escucharás”, no al autor. La respuesta no tiene en cuenta que están enviando a sus estudiantes a un video en Youtube al que seguramente le pondrán like y se suscribirán al canal, para seguir viendo y compartiendo el odio de este desquiciado que fue recomendado por unos mentores en quienes depositan su confianza. Lxs activistas entusiastas de las redes sociales, al parecer no saben como funcionan.
+O los movimientos de activismo anti-interseccional apoyan este tipo de ideas, o no han hecho el trabajo de revisar el contenido que crean las celebridades que recomiendan, cualquiera que sea la razón, impulsar a este personaje dentro de sus medios es inaceptable. Al intentar denunciar la ideología violenta de Gary Yourofsky ante uno de estos grupos que lo recomiendan, la respuesta fue que ellxs no pueden revisar cada declaración de cada creador de contenido y que lo que promueven es “El mejor discurso que jamás escucharás”, no al autor. La respuesta no tiene en cuenta que están enviando a sus estudiantes a un video en Youtube al que seguramente le pondrán like y se suscribirán al canal, para seguir viendo y compartiendo el odio de este desquiciado que fue recomendado por mentorxs en quienes depositan su confianza. Lxs activistas entusiastas de las redes sociales, al parecer no saben como funcionan.
 
 Al antiespecismo no le faltan figuras con un mínimo de calidad humana y madurez que nos representen adecuadamente, tampoco contenido más interesante que el discurso de un energúmeno. A cambio de un video prescindible, estos movimientos anti-interseccionales están promoviendo a un desquiciado violento y ridículo como nuestro representante. Dudo mucho que esta situación le convenga al antiespecismo y a los animales.
 
