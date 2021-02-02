@@ -13,7 +13,7 @@ excerpt: >-
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/gary-yourofsky-rambo-landscape.jpg
 image: /assets/images/posts/gary-yourofsky-rambo-square.jpg
-permalink: /el-mejor-discurso-que-jamas-escucharas-o-veganismo-para-posicionar-psicopatas/
+permalink: /veganismo-para-posicionar-psicópatas/
 description: >-
   Análisis de las declaraciones desafortunadas de una de las figuras más reconocidas dentro del activismo antiespecista anti-interseccional.
 published: true
