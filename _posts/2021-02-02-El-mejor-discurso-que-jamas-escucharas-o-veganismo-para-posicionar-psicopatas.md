@@ -40,7 +40,7 @@ Haré un repaso por las fantasías violentas que este influenciador poderoso den
 
 ### Gary Yourofsky y sus fantasias de abuso sexual, tortura y asesinato
 
-*“En el fondo, honestamente espero que la opresión, tortura y asesinato vuelvan a cada humano indiferente multiplicadas por diez. Espero que los hijos accidentalmente le disparen a sus padres en excursiones de caza, mientras los carnívoros sufren ataques cardíacos que los maten lentamente.* ***Toda mujer envuelta en piel debería soportar una violación tan cruel que le deje cicatrices para siempre. Mientras cada hombre atrincherado en piel debería sufrir una violación anal tan horrorosa que lo convierta en destripado.*** *Todo vaquero de rodeo y matador debería ser corneado hasta la muerte, mientras abusadores de circos son aplastados por elefantes y mutilados por tigres. Por último, la ironía debería asomar su cabeza esotérica en forma de investigadores que experimentan con animales contrayendo enfermedades debilitantes y extinguiéndose dolorosamente porque los dólares destinados a la investigación, que se pudieron usar para tratarlos, se desperdiciaron en la barbárica y anti científica práctica de la vivisección.”*
+*“En el fondo, honestamente espero que la opresión, tortura y asesinato vuelvan a cada humano indiferente multiplicadas por diez. Espero que los hijos accidentalmente le disparen a sus padres en excursiones de caza, mientras los carnívoros sufren ataques cardíacos que los maten lentamente.* *Toda mujer envuelta en piel debería soportar una violación tan cruel que le deje cicatrices para siempre. Mientras cada hombre atrincherado en piel debería sufrir una violación anal tan horrorosa que lo convierta en destripado.* *Todo vaquero de rodeo y matador debería ser corneado hasta la muerte, mientras abusadores de circos son aplastados por elefantes y mutilados por tigres. Por último, la ironía debería asomar su cabeza esotérica en forma de investigadores que experimentan con animales contrayendo enfermedades debilitantes y extinguiéndose dolorosamente porque los dólares destinados a la investigación, que se pudieron usar para tratarlos, se desperdiciaron en la barbárica y anti científica práctica de la vivisección.”*
 
 [Rape Accusations, Violence, Erika and George Carlin! Wait. What? &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/4ykzTPvy4_Y?t=553){:target='_blank' class="caption"}
 
@@ -76,7 +76,7 @@ El comentario demuestra un desconocimiento de la historia que raya lo infantil. 
 
 ### El racismo disfrazado de misantropía de Gary Yourofsky
 
-*“La última mentira que se ha esparcido sobre mi es que soy un racista, porque en una calmada y sobria evaluación de la situación entre Israel y Palestina, dije que* ***los palestinos son el grupo de gente más psicótica del planeta”***
+*“La última mentira que se ha esparcido sobre mi es que soy un racista, porque en una calmada y sobria evaluación de la situación entre Israel y Palestina, dije que* *los palestinos son el grupo de gente más psicótica del planeta”*
 
 [Palestinians, Blacks and Other Hypocrites &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/pqhUIns86cA?t=636){:target='_blank' class="caption"}
 
