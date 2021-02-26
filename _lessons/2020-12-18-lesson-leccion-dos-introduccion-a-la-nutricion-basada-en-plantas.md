@@ -47,11 +47,11 @@ La dieta más adecuada para nuestra especie es una donde todas las calorías ven
 
 ### ¿Cómo obtener los nutrientes necesarios?
 
-Necesitamos nutrientes, no alimentos específicos. No necesitamos cadáveres sino proteínas, hierro y otros nutrientes, no necesitamos leche de animales de otras especies sino calcio. Mejor que pensar en reemplazar partes de animales y secreciones con algo parecido pero de origen vegetal, es entender que nutrientes necesitamos y cómo los podemos obtener.
+Necesitamos nutrientes, no alimentos específicos. No necesitamos cadáveres sino proteínas, hierro y otros nutrientes. No necesitamos leche de animales de otras especies sino calcio. Mejor que pensar en reemplazar partes de animales y secreciones con algo parecido pero de origen vegetal, es entender que nutrientes necesitamos y cómo los podemos obtener.
 
 ### Proteínas
 
-Las [proteínas](https://nutritionstudies.org/es/de-donde-obtienes-tu-proteina/){:target="_blank" class="link"} se pueden entender muy por encima como: "nutrientes con funciones variadas formados por cadenas de aminoácidos". Hay miles de aminoácidos pero los que tienen que ver con nuestra especie son 20. De estos 20, 11 son fabricados por nuestro cuerpo y 9 debemos ingerirlos. A esos 9 se les llama aminoácidos esenciales.
+Las [proteínas](https://nutritionstudies.org/es/de-donde-obtienes-tu-proteina/){:target="_blank" class="link"} se pueden entender muy por encima como: "nutrientes con funciones variadas formados por cadenas de aminoácidos". Hay miles de aminoácidos, pero los que tienen que ver con nuestra especie son 20. De estos 20, 11 son fabricados por nuestro cuerpo y 9 debemos ingerirlos. A esos 9 se les llama aminoácidos esenciales.
 
 Es casi imposible sufrir una deficiencia de proteínas si la dieta no restringe calorías, por eso tanto veganxs como no veganxs generalmente excedemos los requerimientos diarios de aminoácidos esenciales. Se recomienda consumir 0.8 gramos por cada kilo de nuestro peso ideal según la altura, y aumentar la cantidad si estamos buscando aumentar la masa muscular. Antes que sacar cuentas es mejor comer lo suficiente, variado y listo.
 
