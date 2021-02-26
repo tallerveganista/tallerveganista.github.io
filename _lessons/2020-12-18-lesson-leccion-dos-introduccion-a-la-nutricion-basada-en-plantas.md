@@ -138,7 +138,7 @@ El doctor Michael Greger tenía pegada en su nevera una lista con los alimentos 
 
 Podemos revisar cuáles alimentos necesitamos para tener en cuenta en el momento de comprar comida y usar la aplicación durante el día para saber si estamos comiendo lo que necesitamos mientras nos acostumbramos a una dieta a base de plantas.
 
-Un plato bien balanceado puede ser: un cuarto de leguminosas, un cuarto de cereales integrales, la mitad de vegetales de la familia crucífera, hojas verdes y otros vegetales, una ensalada para acompañar, una fruta como postre y un vaso de agua.
+Un plato bien balanceado puede ser: un cuarto de leguminosas, un cuarto de cereales integrales, la mitad de vegetales de la familia crucífera, hojas verdes y otros vegetales, una fruta como postre y un vaso de agua.
 
 Además de comer lo mejor que podamos, incluir algo de ejercicio diario, exposición al sol o un suplemento de vitamina D, recordar la suplementación de vitamina B12 y ya está. El doctor Greger recomienda no obsesionarse con chequear todos los alimentos porque hay días en los que no podemos comer así de bien. Si un día no comemos bien, al otro día podemos intentar hacerlo mejor y así.
 
