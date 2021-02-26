@@ -97,7 +97,7 @@ El hierro hemo es proporcionado por comida de origen animal y no está presente 
 
 ### Yodo
 
-Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo, la disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo mujeres embarazadas y personas que siguen una dieta en la que se ha eliminado completamente la sal.
+Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo. La disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo mujeres embarazadas y personas que siguen una dieta en la que se ha eliminado completamente la sal.
 
 ### Calcio
 
