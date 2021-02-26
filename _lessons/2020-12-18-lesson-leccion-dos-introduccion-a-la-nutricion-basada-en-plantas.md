@@ -2,44 +2,40 @@
 layout: lesson
 lesson-number: Lección 2
 tags:
-  - lesson
+- lesson
 title: Introducción a la nutrición basada en plantas
 category: lesson
 date: 2020-12-29
-excerpt: >-
-  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
-  plantas y recursos para planear fácilmente.
-recipe-introduction: >-
-  Revisa los ingredientes que necesitarás y las preparaciones previas antes de
-  empezar las recetas. Hoy presentamos dos opciones para almuerzos.
+excerpt: Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada
+  en plantas y recursos para planear fácilmente.
+recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas
+  antes de empezar las recetas. Hoy presentamos dos opciones para almuerzos.
 author: Alejandro Narváez Isaza
-image: >-
-  /assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas-square.jpg
-alt-image: 'Niña comiendo pasta, ensalada y frutas.'
-permalink: /leccion-introduccion-a-la-nutrición-basada-en-plantas/
-description: >-
-  Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en
-  plantas y recursos para facilitar la planeación de una dieta adecuada.
-published: true
----
- La dieta americana estándar (*Standard American Diet. SAD* ⎯ *sad* = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
+image: "/assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas-square.jpg"
+alt-image: Niña comiendo pasta, ensalada y frutas.
+permalink: "/leccion-introduccion-a-la-nutrición-basada-en-plantas/"
+description: Observaciones sobre la dieta estándar, datos básicos sobre nutrición
+  basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
 
-Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista algunxs de lxs más destacadxs en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética *"Academy of Nutrition and Dietetics"* sobre las dietas a base de plantas es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades y que son adecuadas para cualquier etapa de la vida. Menciona además que deben acompañarse de suplementos de vitamina B12.
+---
+La dieta americana estándar (_Standard American Diet. SAD_ ⎯ _sad_ = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana, con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
+
+Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista algunxs de lxs más destacadxs en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética _"Academy of Nutrition and Dietetics"_ sobre las dietas a base de plantas, es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, y que son adecuadas para cualquier etapa de la vida. Menciona además que deben acompañarse de suplementos de vitamina B12.
 
 [Posición de la Academia de Nutrición y Dietétetica: Dietas Vegetarianas. <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
-La historia de nuestro amigx ex-vegetarianx no es evidencia de que alimentarse a base de plantas no funcione sino de que se alimentó mal y seguramente todavía lo hace aunque ahora incluya cadáveres en su dieta. Independientemente de que la dieta incluya o no partes de, o cosas que salen de animales, si nos alimentamos mal seguramente sufriremos deficiencias y enfermedades. Es muy probable que quienes siguen una dieta estándar tengan una deficiencia de fibra dietaria sin saberlo.
+La historia de nuestro amigx ex-vegetarianx no es evidencia de que alimentarse a base de plantas no funcione sino de que se alimentó mal y seguramente todavía lo hace, aunque ahora incluya cadáveres en su dieta. Independientemente de que la dieta incluya o no partes de, o cosas que salen de animales, si nos alimentamos mal seguramente sufriremos deficiencias y enfermedades. Es muy probable que quienes siguen una dieta estándar tengan una deficiencia de fibra dietaria sin saberlo.
 
 ### Lxs veganxs somos una clase de vegetarianxs :/ y los programas de 21, 22 y 30 días.
 
-Los que seguimos una dieta a base de plantas estamos catalogados como vegetarianxs estrictos en el lenguaje profesional porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetarianx para referirse tanto a vegetarianxs como a veganxs (vegetarianxs estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianxs y veganxs, o de vegetarianxs o veganxs. También hay problemas de traducción. En *“The Game Changers”*, los subtítulos y doblaje dicen vegetarianx cuando el documetal claramente habla de nutrición a base de plantas exclusivamente. El programa *“Vegan Kickstart”* del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
+Los que seguimos una dieta a base de plantas estamos catalogados como vegetarianxs estrictos en el lenguaje profesional, porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetarianx para referirse tanto a vegetarianxs como a veganxs (vegetarianxs estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianxs y veganxs, o de vegetarianxs o veganxs. También hay problemas de traducción, en _“The Game Changers”_, los subtítulos y doblaje dicen vegetarianx cuando el documetal claramente habla de nutrición a base de plantas exclusivamente, el programa _“Vegan Kickstart”_ del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
 
-Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese período. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y tampoco estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio. Teniendo en cuenta esas limitaciones decidimos cubrir los temas que consideramos necesarios sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que inscribirse y completar un programa es tener claro porque queremos ser veganxs, donde encontrar la información pertinente para hacerlo correctamente y contar con un acompañamiento si es necesario.
+Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese período. Estos números están basados en el tiempo necesario para que se vean resultados y la creencia en que durante ese tiempo se puede crear un hábito, la creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida y tampoco estamos muy seguros de que los programas funcionen para todxs porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días para hacer un ejercicio. Teniendo en cuenta esas limitaciones decidimos cubrir los temas que consideramos necesarios, sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que inscribirse y completar un programa es tener claro porque queremos ser veganxs, donde encontrar la información pertinente para hacerlo correctamente y contar con un acompañamiento si es necesario.
 
 Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista veganx](/nutricionistas-veganxs-en-Colombia/){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
 
 ![Niña comiendo pasta, ensalada y frutas.](../assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg)
-[Alex Green &nbsp; &#124; &nbsp; Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
+[Alex Green   |   Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
 
 ## Información básica sobre nutrición basada en plantas
 
@@ -73,17 +69,17 @@ La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede
 
 #### Fuentes de omega 3:
 
-- Nueces sin procesar
-- Semillas de chía
-- Semillas de linaza molida (La absorción de omega 3 a partir de este alimento es de 90%)
+* Nueces sin procesar
+* Semillas de chía
+* Semillas de linaza molida (La absorción de omega 3 a partir de este alimento es de 90%)
 
 #### Fuentes de omega 6 (Evitar)
 
-- Pollo
-- Postres a base de harina refinada
-- Aderezos de mala calidad
-- Papas fritas
-- Nueces mixtas con aceites vegetales horneados (De paquete de mecato)
+* Pollo
+* Postres a base de harina refinada
+* Aderezos de mala calidad
+* Papas fritas
+* Nueces mixtas con aceites vegetales horneados (De paquete de mecato)
 
 Aunque no es requerido se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día y que provenga de microalgas.
 
@@ -109,13 +105,13 @@ Los lácteos tienen mucho calcio pero también un montón hormonas de crecimient
 
 Algunos alimentos de origen vegetal que contienen suficiente calcio son:
 
-- Avena
-- Leche de soya
-- Brócoli
-- Kale
-- Tempeh
-- Manzana
-- Coles de Bruselas.
+* Avena
+* Leche de soya
+* Brócoli
+* Kale
+* Tempeh
+* Manzana
+* Coles de Bruselas.
 
 Se puede aumentar la absorción de hierro, calcio y zinc, consumiendo ajo y cebolla.
 
@@ -134,7 +130,7 @@ Es necesario consumir suplementos de vitamina B12. 50 microgramos diarios ó 250
 Generalmente se asocia una dieta baja en carbohidratos con una dieta saludable, pero restringir carbohidratos no es recomendable. Los carbohidratos que se deben evitar son los simples que son los que vienen de harinas refinadas, aceites refinados, azúcares, etc. Los carbohidratos complejos que vienen de cereales integrales y otros alimentos de origen vegetal son necesarios y se deben incluir.
 
 ![Aplicación de la docena diaria](../assets/images/lessons/docena-diaria-dr-greger.jpg)
-[ Ella Olson &nbsp; &#124; &nbsp; Pexels](https://www.pexels.com/@ella-olsson-572949){:target='_blank' class="caption"}
+[ Ella Olson   |   Pexels](https://www.pexels.com/@ella-olsson-572949){:target='_blank' class="caption"}
 
 ## Planear más fácilmente con la Docena Diaria
 
@@ -149,10 +145,10 @@ Además de comer lo mejor que podamos, incluir algo de ejercicio diario, exposic
 Video sobre la Docena Diaria. Recuerda configurar los subtítulos para Español.
 
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/g0UmVKA-4F8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/g0UmVKA-4F8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[La Docena Diaria del Dr. Greger &nbsp; &#124; &nbsp; Nutrition Facts](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="caption"}
+[La Docena Diaria del Dr. Greger   |   Nutrition Facts](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="caption"}
 
 He visto casos de personas a las que definitivamente no les gusta el sabor de los vegetales, frutas, cereales y leguminosas. Esto suena como una excusa infantil, pero puede ser un problema de crianza que va a requerir un esfuerzo extra y firmeza en la motivación. No sabría cómo ayudarles pero puedo decir que como lxs acostumbraron a disfrutar de comer unas cosas pueden acostumbrarse ustedes mismxs a disfrutar de comer otras, tener un poco de creatividad para sazonar, voluntad para explorar diferentes sabores y paciencia para permitir que sus papilas gustativas cambien.
 
