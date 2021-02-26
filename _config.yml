@@ -39,12 +39,6 @@ plugins:
 plugins:
   - jekyll-sitemap
 
-plugins:
-  - jekyll-analytics
-
-plugins:
-  - jekyll-sitemap
-
 defaults:
   -
     scope:
@@ -67,11 +61,6 @@ collections:
     output: true
   professionals:
     output: true
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-GHCQ1QXCSX        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 #Include Brave
 include: [.well-known]
