@@ -121,7 +121,7 @@ La vitamina D se obtiene a partir de la exposición al sol que puede ser veinte 
 
 ### Vitamina B12
 
-Esta vitamina es muy importante para proteger el sistema nervioso, no se encuentra en animales ni plantas sino en microorganismos, bacterias y hongos.
+Esta vitamina es muy importante para proteger el sistema nervioso. No se encuentra en animales ni plantas sino en microorganismos, bacterias y hongos.
 
 Es necesario consumir suplementos de vitamina B12. 50 microgramos diarios ó 2500 en una sola dosis semanal.
 
