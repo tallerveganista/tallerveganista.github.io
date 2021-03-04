@@ -55,7 +55,7 @@ En 1949, Leslie J. Cross advirtió que la palabra veganismo no tenía una defini
 
 [Artículo completo](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"} sobre la definición de veganismo y ebook sobre la historia de la Sociedad Vegana. (En Inglés).
 
-Dentro de la definición más o menos oficial, caben quienes se hacen veganes por salud y por reducir su impacto ambiental individual. Las razones por las que alguien decide hacerse vegane no son exclusivas ni excluyentes, aunque su motivación influye en la manera en la que entiende el veganismo y la posibilidad de mantenerse vegane o abandonar después de un tiempo. No importa si hemos llegado al veganismo por motivos de salud o de reducción del impacto ambiental, pero es necesario entender el antiespecismo, o rechazar la violencia contra les animales para quedarse.
+Dentro de la definición más o menos oficial, caben quienes se hacen veganes por salud y por reducir su impacto ambiental individual. Las razones por las que alguien decide hacerse vegane no son exclusivas ni excluyentes, aunque su motivación influye en la manera en la que entiende el veganismo y la posibilidad de mantenerse vegane o abandonar después de un tiempo. No importa si hemos llegado al veganismo por motivos de salud o de reducción del impacto ambiental, pero es necesario entender el antiespecismo, o rechazar la violencia contra los animales para quedarse.
 
 ### Veganes por salud
 
@@ -75,7 +75,7 @@ La motivación ambiental tiene dos problemas graves. El primero es que dentro de
 
 La pregunta entonces deja de ser si consumir como lo hacemos es apoyar un sistema de explotación que no es ético, y se convierte en qué tan sostenible es la producción de un cadáver o una secreción. Así no pasa nada con "darse un gusto" después de hacer tantos "sacrificios" por "el ambiente" (sacrificios que como van las cosas, serán en vano).
 
-El segundo problema de la motivación ambiental, es que el tema es tan complejo y tiene tantas variables, que al final no sabemos si realmente vale la pena hacernos veganes como una acción individual efectiva para combatir la crisis climática y ambiental, o si es suficiente con reducir el consumo de cadáveres, o si más debemos bien evitar consumir cadáveres, pero seguir consumiendo secreciones... Se abren posibilidades sobre variables infinitas que difícilmente podemos entender, y que no necesariamente dejan por fuera continuar con la explotación a les animales.
+El segundo problema de la motivación ambiental, es que el tema es tan complejo y tiene tantas variables, que al final no sabemos si realmente vale la pena hacernos veganes como una acción individual efectiva para combatir la crisis climática y ambiental, o si es suficiente con reducir el consumo de cadáveres, o si más debemos bien evitar consumir cadáveres, pero seguir consumiendo secreciones... Se abren posibilidades sobre variables infinitas que difícilmente podemos entender, y que no necesariamente dejan por fuera continuar con la explotación a los animales.
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/wNQ5wvGmnEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
