@@ -6,8 +6,7 @@ tags:
 title: Introducción a la nutrición basada en plantas
 category: lesson
 date: 2020-12-29
-excerpt: Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada
-  en plantas y recursos para planear fácilmente.
+excerpt: Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en plantas y recursos para planear fácilmente.
 recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas
   antes de empezar las recetas. Hoy presentamos dos opciones para almuerzos.
 author: Alejandro Narváez Isaza
@@ -20,13 +19,13 @@ description: Observaciones sobre la dieta estándar, datos básicos sobre nutric
 ---
 La dieta americana estándar (_Standard American Diet. SAD_ ⎯ _sad_ = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana, con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
-Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista algunes de les más destacadxs en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética _"Academy of Nutrition and Dietetics"_ sobre las dietas a base de plantas, es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, y que son adecuadas para cualquier etapa de la vida. Menciona además que deben acompañarse de suplementos de vitamina B12.
+Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil sino que es la opción más saludable según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista algunes de les más destacades en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética _"Academy of Nutrition and Dietetics"_ sobre las dietas a base de plantas, es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, y que son adecuadas para cualquier etapa de la vida. Menciona además que deben acompañarse de suplementos de vitamina B12.
 
 [Posición de la Academia de Nutrición y Dietétetica: Dietas Vegetarianas. <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
 La historia de nuestro amigue ex-vegetariane no es evidencia de que alimentarse a base de plantas no funcione sino de que se alimentó mal y seguramente todavía lo hace, aunque ahora incluya cadáveres en su dieta. Independientemente de que la dieta incluya o no partes de, o cosas que salen de animales, si nos alimentamos mal seguramente sufriremos deficiencias y enfermedades. Es muy probable que quienes siguen una dieta estándar tengan una deficiencia de fibra dietaria sin saberlo.
 
-### Les veganes somos una clase de vegetarianxs :/ y los programas de 21, 22 y 30 días.
+### Les veganes somos una clase de vegetarianes :/ y los programas de 21, 22 y 30 días.
 
 Quienes seguimos una dieta a base de plantas estamos catalogades como vegetarianes estrictos en el lenguaje profesional, porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetariane para referirse tanto a vegetarianes como a veganes (vegetarianes estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianes y veganes, o de vegetarianes o veganes. También hay problemas de traducción, en _“The Game Changers”_, los subtítulos y doblaje dicen vegetariane cuando el documetal claramente habla de nutrición a base de plantas exclusivamente, el programa _“Vegan Kickstart”_ del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
 
@@ -97,11 +96,11 @@ El hierro hemo es proporcionado por comida de origen animal y no está presente 
 
 ### Yodo
 
-Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo. La disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo mujeres embarazadas y personas que siguen una dieta en la que se ha eliminado completamente la sal.
+Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo. La disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo personas en gestación y quienes siguen una dieta en la que se ha eliminado completamente la sal.
 
 ### Calcio
 
-Los lácteos tienen mucho calcio pero también un montón hormonas de crecimiento diseñadas para que ternerxs crezcan rápidamente, pero que en humanxs favorece la formación de cánceres como el de próstata y mamas.
+Los lácteos tienen mucho calcio pero también un montón hormonas de crecimiento diseñadas para que terneros crezcan rápidamente, pero que en humanos favorece la formación de cánceres como el de próstata y mamas.
 
 Algunos alimentos de origen vegetal que contienen suficiente calcio son:
 

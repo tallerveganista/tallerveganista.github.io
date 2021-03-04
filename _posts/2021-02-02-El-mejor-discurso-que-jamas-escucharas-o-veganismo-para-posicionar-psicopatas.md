@@ -86,7 +86,7 @@ Uno de sus estudiantes afroamericanos le dijo que los animales vivían como reye
 
 *“La gente negra ha venido marchando en las calles de Estados Unidos porque un puñado de policías psicóticos los han venido asesinando con casi total impunidad. Al final del día estos activistas se van a su casa a comer animales asesinados”*
 
-Hay veganes y activistas antiespecistas dentro le la población afroamericana que son constantemente ignorades por activistas veganes anti-interseccionales, quienes se atreven a hablar de “les negres” como si fueran todes lo mismo. La legitimidad del movimiento anti-racista se sigue sosteniendo aún suponiendo que en las marchas contra la brutalidad policial y el racismo institucional no hay negres veganes. Gary Yourofsky remueve de consideración moral a quienes que marchan por la reivindicación de sus derechos, porque su supuesta hipocresía descalifica una causa justa. Su postura no es muy diferente a la de cualquier suprematista blanco.
+Hay veganes y activistas antiespecistas dentro de la población afroamericana que son constantemente ignorades por activistas veganes anti-interseccionales, quienes se atreven a hablar de “los negros” como si fueran todes lo mismo. La legitimidad del movimiento anti-racista se sigue sosteniendo aún suponiendo que en las marchas contra la brutalidad policial y el racismo institucional no hay negres veganes. Gary Yourofsky remueve de consideración moral a quienes trabajan por la reivindicación de sus derechos, porque su supuesta hipocresía descalifica una causa justa. Su postura no es muy diferente a la de cualquier suprematista blanco.
 
 ### La misantropía de Gary Yourofsky
 
@@ -94,7 +94,7 @@ Hay veganes y activistas antiespecistas dentro le la población afroamericana qu
 
 [Palestinians, Blacks and Other Hypocrites &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/pqhUIns86cA?t=23){:target='_blank' class="caption"}
 
-Este genio no tiene en cuenta que los movimientos sociales están compuestos por humanes, y que el diminuto movimiento antiespecista no va a atraer a más activistas, ni conseguir aliados gritando que odiamos a la humanidad. La misantropía es literalmente una ideología de odio que puede tener consecuencias peligrosas y no debería ser normalizada.
+Este genio no tiene en cuenta que los movimientos sociales están compuestos por humanos, y que el diminuto movimiento antiespecista no va a atraer a más activistas, ni conseguir aliados gritando que odiamos a la humanidad. La misantropía es literalmente una ideología de odio que puede tener consecuencias peligrosas y no debería ser normalizada.
 
 ### La hostilidad contra activistas de derechos humanos de Gary Yourofsky
 
@@ -104,7 +104,7 @@ Este genio no tiene en cuenta que los movimientos sociales están compuestos por
 
 Les defensores de derechos humanos arriesgan sus vidas por el bienestar de sus comunidades, y al igual que en los movimientos anti-racistas, dentro de cualquier movimiento por los derechos humanos vamos a encontrar a veganes trabajando y arriesgando sus vidas. Este tipo de mensajes pone en grave riesgo la seguridad de activistas veganes o no, al vilificarles y disimuladamente justificar cuando algún terrorista decida acabar con sus vidas. Tanto en en Medio Oriente como en Colombia, activistas por los derechos humanos son asesinados a diario.
 
-Hay más pero no quiero seguir escuchando a este psicópata, si revisan los videos pueden notar el tono rabioso y lenguaje corporal amenazante de esta celebridad del veganismo que nos habla como si estuviese a punto de pegarnos un puño.
+Hay más pero no quiero seguir escuchando a este psicópata. Si revisan los videos pueden notar el tono rabioso y lenguaje corporal amenazante de esta celebridad del veganismo que nos habla como si estuviese a punto de pegarnos un puño.
 
 O los movimientos de activismo anti-interseccional apoyan este tipo de ideas, o no han hecho el trabajo de revisar el contenido que crean las celebridades que recomiendan. Cualquiera que sea la razón, impulsar a este personaje dentro de sus medios es inaceptable. Al intentar denunciar la ideología violenta de Gary Yourofsky ante uno de estos grupos que lo recomiendan, la respuesta fue que elles no pueden revisar cada declaración de cada creador o creadora de contenido, y que lo que promueven es “El mejor discurso que jamás escucharás”, no al autor. La respuesta no tiene en cuenta que están enviando a sus estudiantes a un video en Youtube al que seguramente le pondrán like y se suscribirán al canal, para seguir viendo y compartiendo el odio de este desquiciado que fue recomendado por mentores en quienes depositan su confianza. Les activistas entusiastas de las redes sociales, al parecer no saben como funcionan.
 

@@ -32,7 +32,7 @@ lessons-text: >-
   Lecciones en las que aprenderás sobre consideraciones éticas relativas al
   veganismo, nutrición a base de plantas, impacto ambiental de las industrias de
   explotación animal, y activismo. Tendrás la posibilidad de conocer a más
-  veganxs de la ciudad.
+  veganes de la ciudad.
 lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 description: >-
   Toda la información que necesitas para unirte a la lucha antiespecista desde
