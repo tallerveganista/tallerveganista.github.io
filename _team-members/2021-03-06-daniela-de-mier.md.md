@@ -1,11 +1,10 @@
 ---
 tags:
 - member
-image: "/assets/images/members/jessica-cardoso.jpg"
-excerpt: Soy estudiante de comunicación social, amante a descubrir lugares y culturas,
-  ya que creo que el mundo es más de lo que nos quieren mostrar. <a href="https://www.instagram.com/exploraconjessie"
-  target="_blank" class="link">@exploraconjessie</a>
-name: Jessica Cardozo
+image: "/uploads/148649561_853157515477380_2808035155482037471_n.jpg"
+excerpt: Soy nutricionista de la universidad tal. <a href="https://www.healthline.com/nutrition/foods-that-help-you-heal"
+  target="_blank" class="link">healmyfoods</a>
+name: Daniela de Mier
 title: 2021-03-06-daniela-de-mier.md
 published: false
 
