@@ -2,7 +2,8 @@
 layout: what
 title: ¿Qué es Taller Veganista?
 author: Alejandro Narváez Isaza
-permalink: /que-es-taller-veganista/
+permalink: "/que-es-taller-veganista/"
+
 ---
 Taller Veganista es una iniciativa local dedicada a ayudar a las personas que están interesadas en ser veganas pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque pro-interseccional.
 {:class="p-big"}
@@ -13,4 +14,4 @@ Los que hemos podido ver la violencia que necesariamente hay que ejercer contra 
 
 Queremos evitar que quienes tienen empatía y voluntad de actuar se desanimen de experimentar el veganismo por no contar con información adecuada y apoyo social. Además que tengan todas las herramientas para mantenerse veganxs con una buena fundamentación teórica y ética.
 
-En este sitio encontrarás lecciones sobre como transitar al veganismo de forma correcta; entendiendo porque es importante hacerlo, actividades relacionadas con veganismo y artículos para compartir nuestro conocimiento y opiniones. Esperamos que sea útil y agradable :)
+En este sitio encontrarás lecciones sobre como transitar al veganismo de forma correcta; entendiendo porque es importante hacerlo, actividades relacionadas con veganismo y artículos para compartir nuestro conocimiento y opiniones. Esperamos que sea útil y agradable.
