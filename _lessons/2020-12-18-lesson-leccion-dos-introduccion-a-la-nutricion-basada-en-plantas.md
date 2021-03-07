@@ -145,7 +145,7 @@ Video sobre la Docena Diaria. Recuerda configurar los subtítulos para Español.
 <iframe src="https://www.youtube.com/embed/g0UmVKA-4F8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[La Docena Diaria del Dr. Greger   |   Nutrition Facts](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="caption"}
+[La Docena Diaria del Dr. Greger &nbsp; &#124; &nbsp; Nutrition Facts](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="caption"}
 
 He visto casos de personas a las que definitivamente no les gusta el sabor de los vegetales, frutas, cereales y leguminosas. Esto suena como una excusa infantil, pero puede ser un problema de crianza que va a requerir un esfuerzo extra y firmeza en la motivación. No sabría cómo ayudarles pero puedo decir que como les acostumbraron a disfrutar de comer unas cosas pueden acostumbrarse a disfrutar de comer otras, tener un poco de creatividad para sazonar, voluntad para explorar diferentes sabores y paciencia para permitir que sus papilas gustativas cambien.
 
