@@ -22,9 +22,9 @@ description: >-
   reconocidas dentro del activismo antiespecista anti-interseccional.
 published: true
 ---
-Dice la leyenda que cuando “El mejor discurso que jamás escucharás” fue traducido al hebreo y promovido por activistas en Israel, la población vegana de ese país alcanzó el 8%. Si esa historia es cierta tendríamos que replantear la relación entre consumo individual y producción, que quienes promueven el veganismo como un problema de oferta y demanda defienden, porque la producción ganadera de Israel continuó creciendo como si nada, luego de que este señor apareció en la escena en el 2013, y ha crecido de manera estable en Australia después de la aparición de Anonymous for the Voiceless en 2016. Sin comprobar si este video fue crucial o no en un incremento de la población vegana, si el incremento es real o si fue relevante, la noticia se propagó y le alcanzó a les seguidores de este enajenado, para posicionarlo como un líder dentro del movimiento.
+Dice la leyenda que cuando “El mejor discurso que jamás escucharás” fue traducido al hebreo y promovido por activistas en Israel, la población vegana de ese país alcanzó el 8%. Si esa historia es cierta tendríamos que replantear la relación entre consumo individual y producción, que quienes promueven el veganismo como un problema de oferta y demanda defienden, porque la producción ganadera de Israel continuó creciendo como si nada luego de que este señor apareció en la escena en el 2013, y ha crecido de manera estable en Australia después de la aparición de Anonymous for the Voiceless en 2016. Sin comprobar si este video fue crucial o no en un incremento de la población vegana, si el incremento es real o si fue relevante, la noticia se propagó y le alcanzó a les seguidores de este enajenado, para posicionarlo como un líder dentro del movimiento.
 
-![Gary Yourofsky y Anonymous for the Voiceless versus estadísticas de producción ganadera](../assets/images/posts/yourofsky-av-vs-production.jpg)
+![Gary Yourofsky y *Anonymous for the Voiceless* versus estadísticas de producción ganadera](../assets/images/posts/yourofsky-av-vs-production.jpg)
 
 [FAOSTAT・Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#compare){:target='_blank' class="caption"}
 
@@ -76,13 +76,13 @@ El comentario demuestra un desconocimiento de la historia que raya lo infantil. 
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=636){:target='_blank' class="caption"}
 
-Uno de sus estudiantes afroamericanos le dijo que los animales vivían como reyes y reinas. Este señor respondió que lastimosamente viven como *“Burguer Kings”* y *“Dairy Queens”* e inmediatamente después le preguntó *“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”* y *“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?*
+Uno de sus estudiantes afroamericanos le dijo que los animales no humanos vivían como reyes y reinas. Este señor respondió que lastimosamente viven como *“Burguer Kings”* y *“Dairy Queens”* e inmediatamente después le preguntó *“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”* y *“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?*
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=729){:target='_blank' class="caption"}
 
 *“La gente negra ha venido marchando en las calles de Estados Unidos porque un puñado de policías psicóticos los han venido asesinando con casi total impunidad. Al final del día estos activistas se van a su casa a comer animales asesinados”*
 
-Hay veganes y activistas antiespecistas dentro de la población afroamericana que son constantemente ignorades por activistas veganes anti-interseccionales, quienes se atreven a hablar de “los negros” como si fueran todes lo mismo. La legitimidad del movimiento anti-racista se sigue sosteniendo aún suponiendo que en las marchas contra la brutalidad policial y el racismo institucional no hay negres veganes. Gary Yourofsky remueve de consideración moral a quienes trabajan por la reivindicación de sus derechos, porque su supuesta hipocresía descalifica una causa justa. Su postura no es muy diferente a la de cualquier suprematista blanco.
+Hay veganes y activistas antiespecistas dentro de la población afroamericana que son constantemente ignorades por activistas veganes anti-interseccionales, quienes se atreven a hablar de “los negros” como si fueran todes lo mismo. La legitimidad del movimiento anti-racista se sigue sosteniendo aún suponiendo que en las acciones contra la brutalidad policial y el racismo institucional no hay negres veganes. Gary Yourofsky remueve de consideración moral a quienes trabajan por la reivindicación de sus derechos, porque su supuesta hipocresía descalifica una causa justa. Su postura no es muy diferente a la de cualquier suprematista blanco.
 
 ### La misantropía de Gary Yourofsky
 
@@ -90,7 +90,7 @@ Hay veganes y activistas antiespecistas dentro de la población afroamericana qu
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=23){:target='_blank' class="caption"}
 
-Este genio no tiene en cuenta que los movimientos sociales están compuestos por humanos, y que el diminuto movimiento antiespecista no va a atraer a más activistas, ni conseguir aliados gritando que odiamos a la humanidad. La misantropía es literalmente una ideología de odio que puede tener consecuencias peligrosas y no debería ser normalizada.
+Este genio no tiene en cuenta que los movimientos sociales están compuestos por animales humanos, y que el diminuto movimiento antiespecista no va a atraer a más activistas, ni conseguir aliados gritando que odiamos a la humanidad. La misantropía es literalmente una ideología de odio que puede tener consecuencias peligrosas y no debería ser normalizada.
 
 ### La hostilidad contra activistas de derechos humanos de Gary Yourofsky
 
