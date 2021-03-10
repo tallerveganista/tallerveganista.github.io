@@ -897,6 +897,19 @@ blockquote{
   }
 }
 
+.after-caption-link{
+  margin-top: -1.2rem !important;
+}
+
+.reference{
+  display: inline-block;
+  margin-bottom: 1rem;
+  &:hover{
+    text-decoration: underline;
+    color: $dark;
+  }
+}
+
 .recipes{
   & h3{
     margin: 0 0 1rem 0;

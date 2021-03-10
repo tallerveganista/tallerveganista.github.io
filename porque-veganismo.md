@@ -28,10 +28,10 @@ La parte de posible y practicable está muy bien porque tiene en cuenta las limi
 
 Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si sabemos que alguien lo hace. Quienes hemos pasado tiempo con animales de estas especies sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todes son alguien y no algo.
 
-![Gallina en una granja industrial・Jo -Anne McArthur・We Animals archive](/assets/images/why-veganism-article.jpg)
-[Hens confined in a battery cage on a factory farm・Jo -Anne McArthur &nbsp;・We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
+![Gallinas confinadas en una jaula en una granja industrial・Jo -Anne McArthur・We Animals archive](/assets/images/why-veganism-article.jpg)
+[Gallinas confinadas en una jaula en una granja industrial・Jo -Anne McArthur・We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
 
-Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de nuestra propia vida es el sistema nervioso central. Los animales que se han destinado para la explotación también tienen dicho sistema, entonces podemos asegurar que experimentan sensaciones de placer o dolor. Ejercer violencia en su contra les produce sufrimiento. Elles no entregan sus vidas voluntariamente, ni escogen convertirse en máquinas que producen bienes de consumo, no trabajan ni realizan actos de entretenimiento, o se someten a experimentos por gusto. Para usar animales debemos someterles, encerrarles en contra de su voluntad y asesinarles. Todos actos de violencia innecesaria.
+Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de nuestra propia vida es el sistema nervioso central. Los animales que se han destinado para la explotación también tienen dicho sistema, entonces podemos asegurar que experimentan sensaciones de placer o dolor. Ejercer violencia en su contra les produce sufrimiento. Elles no entregan sus vidas voluntariamente, ni escogen convertirse en máquinas que producen bienes de consumo, no trabajan, ni realizan actos de entretenimiento, o se someten a experimentos por gusto. Para usar animales debemos someterles, encerrarles en contra de su voluntad y asesinarles. Todos actos de violencia innecesaria.
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de
 [¿Por qué no ser vegano?・Macakiux・Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
 Una pequeña anotación sobre el video: Miguel menciona que salvamos animales pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera, sólamente salvan animales quienes les rescatan y/o cuidan en santuarios o sus lugares de residencia.
-{: class="caption-no-link"}
+{: class="caption-no-link after-caption-link"}
 
 No necesitamos consumir cadáveres ni secreciones de animales, vestirnos con sus pieles, experimentar con sus cuerpos, usarles como herramientas de trabajo, medios de transporte u obligarles a realizar actos para nuestro entretenimiento. La relación de dominación y explotación que tenemos con otros animales no es consecuencia de una necesidad de supervivencia sino de un condicionamiento cultural.
 

@@ -32,7 +32,7 @@ Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda
 Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, apoyarse en la aplicación de la [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista vegane](/nutricionistas-veganxs-en-Colombia/){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
 
 ![Niña comiendo pasta, ensalada y frutas.](../assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg)
-[Alex Green   |   Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
+[Alex Green・Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
 
 ## Información básica sobre nutrición basada en plantas
 
@@ -127,7 +127,7 @@ Es necesario consumir suplementos de vitamina B12. 50 microgramos diarios ó 250
 Generalmente se asocia una dieta baja en carbohidratos con una dieta saludable, pero restringir carbohidratos no es recomendable. Los carbohidratos que se deben evitar son los simples que son los que vienen de harinas refinadas, aceites refinados, azúcares, etc. Los carbohidratos complejos que vienen de cereales integrales y otros alimentos de origen vegetal son necesarios y se deben incluir.
 
 ![Aplicación de la docena diaria](../assets/images/lessons/docena-diaria-dr-greger.jpg)
-[ Ella Olson   |   Pexels](https://www.pexels.com/@ella-olsson-572949){:target='_blank' class="caption"}
+[ Ella Olson・Pexels](https://www.pexels.com/@ella-olsson-572949){:target='_blank' class="caption"}
 
 ## Planear más fácilmente con la Docena Diaria
 
@@ -145,7 +145,7 @@ Video sobre la Docena Diaria. Recuerda configurar los subtítulos para Español.
 <iframe src="https://www.youtube.com/embed/g0UmVKA-4F8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[La Docena Diaria del Dr. Greger &nbsp; &#124; &nbsp; Nutrition Facts](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="caption"}
+[La Docena Diaria del Dr. Greger・Nutrition Facts](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="caption"}
 
 He visto casos de personas a las que definitivamente no les gusta el sabor de los vegetales, frutas, cereales y leguminosas. Esto suena como una excusa infantil, pero puede ser un problema de crianza que va a requerir un esfuerzo extra y firmeza en la motivación. No sabría cómo ayudarles pero puedo decir que como les acostumbraron a disfrutar de comer unas cosas pueden acostumbrarse a disfrutar de comer otras, tener un poco de creatividad para sazonar, voluntad para explorar diferentes sabores y paciencia para permitir que sus papilas gustativas cambien.
 

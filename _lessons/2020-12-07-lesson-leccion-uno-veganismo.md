@@ -80,7 +80,7 @@ El segundo problema de la motivación ambiental, es que el tema es tan complejo 
 [26 Formas de Luchar contra el Cambio Climático・QuantumFracture・Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"}
 
 Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia, reducir el consumo de cadáveres bovinos, o reemplazarlos por cadáveres de otras especies es aceptable y suficiente. Como el presentador no tiene ningún problema con la violencia, ni cree necesario hacer algo al respecto, repite el mito de que el veganismo es exigente, peligroso y aburrido.
-{: class="caption-no-link"}
+{: class="caption-no-link after-caption-link"}
 
 ### Veganxs por antiespecismo
 
