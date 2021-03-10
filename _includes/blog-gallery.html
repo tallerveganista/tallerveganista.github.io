@@ -14,7 +14,7 @@
                   </figure>
                 </div>
                 <div class="col-xs-12 col-sm-6">
-                  <p class="category">{{ post.categories | join: ' &nbsp | &nbsp ' }}</p>
+                  <p class="category">{{ post.categories | join: '・' }}</p>
                   <h2 class="hidden-lg">{{ post.title }}</h2>
                   <h4 class="hidden-xs hidden-sm visible-lg">{{ post.title }}</h4>
                   <p class="visible-xs visible-sm hidden-lg articles-exerpt">{{ post.excerpt | truncate: 126}}</p>

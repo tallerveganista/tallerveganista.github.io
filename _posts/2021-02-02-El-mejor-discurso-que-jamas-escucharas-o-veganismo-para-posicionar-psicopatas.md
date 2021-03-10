@@ -26,9 +26,9 @@ Dice la leyenda que cuando “El mejor discurso que jamás escucharás” fue tr
 
 ![Gary Yourofsky y Anonymous for the Voiceless versus estadísticas de producción ganadera](../assets/images/posts/yourofsky-av-vs-production.jpg)
 
-[FAOSTAT &nbsp; &#124; &nbsp; Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#compare){:target='_blank' class="caption"}
+[FAOSTAT・Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#compare){:target='_blank' class="caption"}
 
-[La caída en la producción de ganado bovino en Australia entre el 2015 y el 2017 se debe a un corte del 80% de las exportaciones de Australia a Indonesia &nbsp; &#124; &nbsp; Quit the Vegan Movement, Part 02 // S03 E04 // Are We Winning &nbsp; &#124; &nbsp; The Cranky Vegan &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=LZrsrkF13Dw&list=PLDi86oKRn2xuu8vr0WiN_jENdDD56BAPo&index=4){:target='_blank' class="caption"}
+[La caída en la producción de ganado bovino en Australia entre el 2015 y el 2017 se debe a un corte del 80% de las exportaciones de Australia a Indonesia・Quit the Vegan Movement, Part 02 // S03 E04 // Are We Winning・The Cranky Vegan・Youtube](https://www.youtube.com/watch?v=LZrsrkF13Dw&list=PLDi86oKRn2xuu8vr0WiN_jENdDD56BAPo&index=4){:target='_blank' class="caption"}
 
 La imagen de Gary Yourofsky como un pionero del activismo que ha dedicado su vida por los animales y un ejemplo a seguir, es promovida por cuanto grupo de activismo anti-interseccional existe, que al hacerlo trabaja consciente o inconscientemente para aumentar la influencia mediática de este auto declarado misántropo que no pierde oportunidad para promover el odio contra nuestra especie y sus fantasías violentas. Miles de veganes alrededor del mundo interiorizan su ideología de odio y elaboran argumentos para justificar las desafortunadas declaraciones de esta celebridad infame del veganismo.
 
@@ -38,7 +38,7 @@ Haré un repaso por las fantasías violentas que este influenciador poderoso den
 
 *“En el fondo, honestamente espero que la opresión, tortura y asesinato vuelvan a cada humano indiferente multiplicadas por diez. Espero que los hijos accidentalmente le disparen a sus padres en excursiones de caza, mientras los carnívoros sufren ataques cardíacos que los maten lentamente.* *Toda mujer envuelta en piel debería soportar una violación tan cruel que le deje cicatrices para siempre. Mientras cada hombre atrincherado en piel debería sufrir una violación anal tan horrorosa que lo convierta en destripado.* *Todo vaquero de rodeo y matador debería ser corneado hasta la muerte, mientras abusadores de circos son aplastados por elefantes y mutilados por tigres. Por último, la ironía debería asomar su cabeza esotérica en forma de investigadores que experimentan con animales contrayendo enfermedades debilitantes y extinguiéndose dolorosamente porque los dólares destinados a la investigación, que se pudieron usar para tratarlos, se desperdiciaron en la barbárica y anti científica práctica de la vivisección.”*
 
-[Rape Accusations, Violence, Erika and George Carlin! Wait. What? &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/4ykzTPvy4_Y?t=553){:target='_blank' class="caption"}
+[Rape Accusations, Violence, Erika and George Carlin! Wait. What?・Gary Yourofsky・Youtube](https://youtu.be/4ykzTPvy4_Y?t=553){:target='_blank' class="caption"}
 
 En sociedades con altos índices de violencia sexual, la posibilidad de que alguien vistiendo piel sufra de abuso sexual es lo suficientemente alta como para que la fantasía violenta de Yourofsky se haya cumplido varias veces. Para defenderse de acusaciones por promover la violencia sexual y demostrar que está en contra de la violación declaró:
 
@@ -46,7 +46,7 @@ En sociedades con altos índices de violencia sexual, la posibilidad de que algu
 
 *Creo que su pene y bolas deberían ser arrancadas lentamente con un removedor de cutícula y luego creo que dos brochetas deberían introducirse entre las cuencas de sus ojos, arrastrarlo a otra habitación. Luego deberían remojar sus bolas y pene en diarrea y vómito. Deberían darle la opción de comer eso a cambio de salvar sus vidas. Y si lo comen, Yo tomaría una pistola, la pondría entre sus ojos y diría: solo estaba bromeando.”*
 
-[Rape Accusations, Violence, Erika and George Carlin! Wait. What? &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/4ykzTPvy4_Y?t=17){:target='_blank' class="caption"}
+[Rape Accusations, Violence, Erika and George Carlin! Wait. What?・Gary Yourofsky・Youtube](https://youtu.be/4ykzTPvy4_Y?t=17){:target='_blank' class="caption"}
 
 Este señor todavía está convencido de que con este comentario reparó su reputación, lo que demuestra que tiene problemas mentales serios y necesita ayuda psicológica urgente.
 
@@ -56,29 +56,29 @@ Este señor todavía está convencido de que con este comentario reparó su repu
 
 *“Pasará en un futuro muy cercano que alguien entrará en un matadero o un laboratorio de vivisección con pistolas y le dirá a los trabajadores del matadero: “Quita tus cuchillos de las gargantas de estos cerdos ahora mismo o te voy a disparar. Somos los defensores. Tal vez te gustaría llamarlo violencia, pero ¡oye! te lo estás buscando. ¿Y toda esa mierda de que la violencia genera violencia? Cuando las fuerzas aliadas entraron a la Alemania Nazi y mataron Nazis para proteger Judíos, yo me pregunto: ¿Cuál fue la violencia que pasó después de eso?”*
 
-[Does Violence Have a Place in Animal Liberation? &nbsp; &#124; &nbsp; Bite Size Vegan &nbsp; &#124; &nbsp; Youtube](https://youtu.be/4En39iyK4DA?t=177){:target='_blank' class="caption"}
+[Does Violence Have a Place in Animal Liberation?・Bite Size Vegan・Youtube](https://youtu.be/4En39iyK4DA?t=177){:target='_blank' class="caption"}
 
 El comentario demuestra un desconocimiento de la historia que raya lo infantil. Durante la post-guerra nunca se trataron las causas que provocaron el conflicto, y después de la guerra brotaron innumerables enfrentamientos armados alrededor del mundo de los que aún sufrimos consecuencias. Es ingenuo decir que el imperialismo y la supremacía racial están erradicados cuando todas las grandes potencias los practican.
 
 *“Ustedes no se oponen a la violencia, solo se oponen a para quién yo propongo que sean violentos. Podemos matar a favor de judíos, podemos matar a favor de niños, pero nadie quiere matar a favor de gallinas, vacas y cerdos. Creo que estos animales estarían vehementemente en desacuerdo y yo también.”*
 
-[Does Violence Have a Place in Animal Liberation? &nbsp; &#124; &nbsp; Bite Size Vegan &nbsp; &#124; &nbsp; Youtube](https://youtu.be/4En39iyK4DA?t=330){:target='_blank' class="caption"}
+[Does Violence Have a Place in Animal Liberation?・Bite Size Vegan・Youtube](https://youtu.be/4En39iyK4DA?t=330){:target='_blank' class="caption"}
 
 ### Gary Yourofsky legitimando la tortura y el asesinato
 
 *“No me pidas que tenga empatía por los victimarios, mi corazón está suficientemente dolido por las víctimas, no voy a llorar por un victimario que está siendo torturado y asesinado. Que se jodan.”*
 
-[Does Violence Have a Place in Animal Liberation? &nbsp; &#124; &nbsp; Bite Size Vegan &nbsp; &#124; &nbsp; Youtube](https://youtu.be/4En39iyK4DA?t=415){:target='_blank' class="caption"}
+[Does Violence Have a Place in Animal Liberation?・Bite Size Vegan・Youtube](https://youtu.be/4En39iyK4DA?t=415){:target='_blank' class="caption"}
 
 ### El racismo disfrazado de misantropía de Gary Yourofsky
 
 *“La última mentira que se ha esparcido sobre mi es que soy un racista, porque en una calmada y sobria evaluación de la situación entre Israel y Palestina, dije que* *los palestinos son el grupo de gente más psicótica del planeta”*
 
-[Palestinians, Blacks and Other Hypocrites &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/pqhUIns86cA?t=636){:target='_blank' class="caption"}
+[Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=636){:target='_blank' class="caption"}
 
 Uno de sus estudiantes afroamericanos le dijo que los animales vivían como reyes y reinas. Este señor respondió que lastimosamente viven como *“Burguer Kings”* y *“Dairy Queens”* e inmediatamente después le preguntó *“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”* y *“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?*
 
-[Palestinians, Blacks and Other Hypocrites &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/pqhUIns86cA?t=729){:target='_blank' class="caption"}
+[Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=729){:target='_blank' class="caption"}
 
 *“La gente negra ha venido marchando en las calles de Estados Unidos porque un puñado de policías psicóticos los han venido asesinando con casi total impunidad. Al final del día estos activistas se van a su casa a comer animales asesinados”*
 
@@ -88,7 +88,7 @@ Hay veganes y activistas antiespecistas dentro de la población afroamericana qu
 
 *“Soy un misántropo, no un racista, odio a todos los seres humanos. Palestinos e israelitas, todos los humanos son una plaga psicótica para este planeta. Blancos, negros, hombres, mujeres, heterosexuales, homosexuales, demócratas… Mierda, hasta odio a los veganos”*
 
-[Palestinians, Blacks and Other Hypocrites &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/pqhUIns86cA?t=23){:target='_blank' class="caption"}
+[Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=23){:target='_blank' class="caption"}
 
 Este genio no tiene en cuenta que los movimientos sociales están compuestos por humanos, y que el diminuto movimiento antiespecista no va a atraer a más activistas, ni conseguir aliados gritando que odiamos a la humanidad. La misantropía es literalmente una ideología de odio que puede tener consecuencias peligrosas y no debería ser normalizada.
 
@@ -96,7 +96,7 @@ Este genio no tiene en cuenta que los movimientos sociales están compuestos por
 
 *“No soy un hipócrita como los activistas por derechos humanos que están en constante violación de los principios de equidad cada segundo de cada día”*
 
-[Palestinians, Blacks and Other Hypocrites &nbsp; &#124; &nbsp; Gary Yourofsky &nbsp; &#124; &nbsp; Youtube](https://youtu.be/pqhUIns86cA?t=575){:target='_blank' class="caption"}
+[Palestinians, Blacks and Other HypocritesvGary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=575){:target='_blank' class="caption"}
 
 Les defensores de derechos humanos arriesgan sus vidas por el bienestar de sus comunidades, y al igual que en los movimientos anti-racistas, dentro de cualquier movimiento por los derechos humanos vamos a encontrar a veganes trabajando y arriesgando sus vidas. Este tipo de mensajes pone en grave riesgo la seguridad de activistas veganes o no, al vilificarles y disimuladamente justificar cuando algún terrorista decida acabar con sus vidas. Tanto en en Medio Oriente como en Colombia, activistas por los derechos humanos son asesinados a diario.
 

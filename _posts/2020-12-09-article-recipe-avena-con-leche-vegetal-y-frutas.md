@@ -50,7 +50,7 @@ date: 2020-12-9
   <iframe src="https://www.youtube.com/embed/SrKjL3yVU6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 </div>
 
-<a class="caption" href="https://www.youtube.com/watch?v=SrKjL3yVU6w" target="_blank">8 Leches vegetales muy fáciles de hacer &nbsp; &#124; &nbsp; Las Recetas de MJ &nbsp; &#124; &nbsp; Youtube</a>
+<a class="caption" href="https://www.youtube.com/watch?v=SrKjL3yVU6w" target="_blank">8 Leches vegetales muy fáciles de hacer・Las Recetas de MJ・Youtube</a>
 
 <p class="post-content-p post-content-space">Guarda la okara (residuo que queda al colar la leche) para preparar quesos más adelante. Acá otro video sobre leches vegetales y quesos.</p>
 
@@ -58,7 +58,7 @@ date: 2020-12-9
 	<iframe src="https://www.youtube.com/embed/caIojdZGe_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<a class="caption" href="https://www.youtube.com/watch?v=caIojdZGe_c">4 Leches vegetales + 2 quesos. Muy fácil &nbsp; &#124; &nbsp; Cocina Veggikinga &nbsp; &#124; &nbsp; Youtube</a>
+<a class="caption" href="https://www.youtube.com/watch?v=caIojdZGe_c">4 Leches vegetales + 2 quesos. Muy fácil・Cocina Veggikinga・Youtube</a>
 
 <p class="post-content-p post-content-space">La avena se remoja y se deja una hora en la nevera, o desde la noche anterior. También se puede revolver con agua hirviendo.</p>
 

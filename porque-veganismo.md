@@ -28,8 +28,8 @@ La parte de posible y practicable está muy bien porque tiene en cuenta las limi
 
 Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación si sabemos que alguien lo hace. Quienes hemos pasado tiempo con animales de estas especies sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Todes son alguien y no algo.
 
-![Gallina en una granja industrial &#124; Jo -Anne McArthur &#124; We Animals archive](/assets/images/why-veganism-article.jpg)
-[Hens confined in a battery cage on a factory farm &nbsp; &#124; &nbsp; Jo -Anne McArthur &nbsp; &#124; &nbsp; We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
+![Gallina en una granja industrial・Jo -Anne McArthur・We Animals archive](/assets/images/why-veganism-article.jpg)
+[Hens confined in a battery cage on a factory farm・Jo -Anne McArthur &nbsp;・We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
 
 Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de nuestra propia vida es el sistema nervioso central. Los animales que se han destinado para la explotación también tienen dicho sistema, entonces podemos asegurar que experimentan sensaciones de placer o dolor. Ejercer violencia en su contra les produce sufrimiento. Elles no entregan sus vidas voluntariamente, ni escogen convertirse en máquinas que producen bienes de consumo, no trabajan ni realizan actos de entretenimiento, o se someten a experimentos por gusto. Para usar animales debemos someterles, encerrarles en contra de su voluntad y asesinarles. Todos actos de violencia innecesaria.
 
@@ -37,7 +37,7 @@ Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de
   <iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[¿Por qué no ser vegano? &nbsp; &#124; &nbsp; Macakiux &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
+[¿Por qué no ser vegano?・Macakiux・Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
 Una pequeña anotación sobre el video: Miguel menciona que salvamos animales pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera, sólamente salvan animales quienes les rescatan y/o cuidan en santuarios o sus lugares de residencia.
 {: class="caption-no-link"}
@@ -52,6 +52,6 @@ El condicionamiento cultural es una ideología dominante e invisible que Melanie
   <iframe src="https://www.youtube.com/embed/f1veVP829JI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Beyond Carnism and Toward Rational, Authentic Food Choices &nbsp; &#124; &nbsp; Melanie Joy &nbsp; &#124; &nbsp; Ted München &nbsp; &#124; &nbsp; Youtube](https://www.youtube.com/watch?v=f1veVP829JI&feature=emb_logo){:target='_blank' class="caption"}
+[Beyond Carnism and Toward Rational, Authentic Food Choices・Melanie Joy・Ted München・Youtube](https://www.youtube.com/watch?v=f1veVP829JI&feature=emb_logo){:target='_blank' class="caption"}
 
 Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.

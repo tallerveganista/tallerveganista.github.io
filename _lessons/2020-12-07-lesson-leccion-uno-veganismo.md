@@ -30,15 +30,15 @@ Durante la década de 1830, la palabra _vegetariano_ se usaba para referirse a u
 Entre los que se oponían al uso de productos de origen animal estaba Mr Donald Watson, quien experimentaba con una dieta crudivegana (no recomendable a menos que se cuente con asesoría profesional), e intentó sin éxito formar un grupo de vegetarianos sin lácteos _"Non-dairy vegetarians"_, dentro de la Sociedad Vegetariana. La Sociedad decidió que era mejor enfocar sus energías en abolir el consumo de carne y le sugirió a Watson fundar una organización aparte. En noviembre de 1944, Elsie Shringley, Donald Watson y otras cuatro personas se reunieron en el _Attic Club_ del distrito de Holborn, en Londres, para discutir la fundación de una nueva organización.
 
 ![Ternero y fotos históricas](../assets/images/lessons/leccion-01-ternero-fotos-de-historia.jpg)
-[ HAN Mengqi   |   Unsplash](https://unsplash.com/@hanmengqi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target='_blank' class="caption"}
+[ HAN Mengqi・Unsplash](https://unsplash.com/@hanmengqi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target='_blank' class="caption"}
 
 El nombre _"Non-dairy vegetarians"_ es muy largo, incómodo y no deja claro la oposición a considerar los huevos y otras secreciones como comida. Donald Watson y Dorothy Morgan se basaron en las ideas de Mr G.A. Henderson y Fay K. Henderson: _"Allvega, Allvegan"_, para proponer el nombre _"Vegan"_. Entre las propuestas de otros miembros estaban: _"Dairyban", "Vitan", "Benevore", "Sanivore" y "Beaumangeur"_.
 
 La palabra _vegan_ está formada por las primeras y últimas letras de la palabra _vegetarian_ porque el veganismo surge del vegetarianismo y es su conclusión lógica. Donald Watson fue la primera persona en usar la palabra en una publicación, _The Vegan News_ - de 1944, y Fay K. Henderson la primera en publicar un libro de cocina con la palabra en el título, _Vegan Recipes_ - de 1946.
 
-![The Vegan News #1 | Donald Watson | Vegan Recipes | Fay K. Henderson](../assets/images/lessons/leccion-01-vegan-news-vegan-recipes.jpg)
+![The Vegan News #1・Donald Watson / Vegan Recipes・Fay K. Henderson](../assets/images/lessons/leccion-01-vegan-news-vegan-recipes.jpg)
 
-[The Vegan News #1   |   Donald Watson, ](https://web.archive.org/web/20130226003431/http://www.ukveggie.com/vegan_news/vegan_news_1.pdf){:target='_blank' class="caption"} [Vegan Recipes   |   Fay K. Henderson](https://www.happycow.net/blog/vegan-recipes/){:target='_blank' class="caption"}
+[The Vegan News #1・Donald Watson, ](https://web.archive.org/web/20130226003431/http://www.ukveggie.com/vegan_news/vegan_news_1.pdf){:target='_blank' class="caption"} [Vegan Recipes・Fay K. Henderson](https://www.happycow.net/blog/vegan-recipes/){:target='_blank' class="caption"}
 
 "Vega" era una palabra reconocida entre les vegetarianes de los años 30, ya que _"The Vega"_ fue el nombre de uno de los restaurantes vegetarianos con mejor reputación en Londres durante esa década. _The Vega_ fue fundado por Jenny y Walter Fleiss, quienes tenían un restaurante con el mismo nombre en Colonia y que cerraron para migrar a Londres, al enterarse de que Walter era el número 17 en la lista negra de la Gestapo.
 
@@ -77,7 +77,7 @@ El segundo problema de la motivación ambiental, es que el tema es tan complejo 
 <iframe src="https://www.youtube.com/embed/wNQ5wvGmnEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[26 Formas de Luchar contra el Cambio Climático   |   QuantumFracture   |   Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"}
+[26 Formas de Luchar contra el Cambio Climático・QuantumFracture・Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"}
 
 Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia, reducir el consumo de cadáveres bovinos, o reemplazarlos por cadáveres de otras especies es aceptable y suficiente. Como el presentador no tiene ningún problema con la violencia, ni cree necesario hacer algo al respecto, repite el mito de que el veganismo es exigente, peligroso y aburrido.
 {: class="caption-no-link"}
@@ -95,12 +95,12 @@ Hasta donde tengo noticia, estos son los primeros documentales para la promoció
 <iframe src="https://www.youtube.com/embed/VlTYjaQLy2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[OpenDoor   |   The Vegan Society   |   1976   |   Youtube](https://www.youtube.com/watch?v=VlTYjaQLy2o&list=PL4qbpZDdKQPkIvWmOM3BSfeFURNQJaHWO&index=14){:target='_blank' class="caption"}
+[OpenDoor・The Vegan Society・1976・Youtube](https://www.youtube.com/watch?v=VlTYjaQLy2o&list=PL4qbpZDdKQPkIvWmOM3BSfeFURNQJaHWO&index=14){:target='_blank' class="caption"}
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ce5lY9lXmK0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Truth or Dairy   |   The Vegan Society   |   1994   |   Youtube](https://www.youtube.com/watch?v=ce5lY9lXmK0&list=PL4qbpZDdKQPkIvWmOM3BSfeFURNQJaHWO&index=15){:target='_blank' class="caption"}
+[Truth or Dairy・The Vegan Society・1994・Youtube](https://www.youtube.com/watch?v=ce5lY9lXmK0&list=PL4qbpZDdKQPkIvWmOM3BSfeFURNQJaHWO&index=15){:target='_blank' class="caption"}
 
 Gracias a Eduardo Arias González, de [Taller Agosto](http://talleragosto.com/){:target='_blank' class="link"}, por ayudarme a revisar el texto de esta lección.

@@ -37,7 +37,7 @@ Un caso evidente de asimilación corporativa de un movimiento social es el de Ni
 <iframe src="https://www.youtube.com/embed/ZkFUU-xJM6I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Jim Carrey in Real Time with Bill Maher   |   Real Time With Bill Malher   |   HBO](https://www.youtube.com/watch?v=ZkFUU-xJM6I){:target='_blank' class="caption"}
+[Jim Carrey in Real Time with Bill Maher・Real Time With Bill Malher・HBO](https://www.youtube.com/watch?v=ZkFUU-xJM6I){:target='_blank' class="caption"}
 
 Nike tomó una posición a favor de la lucha antiracista pero es una corporación que ha hecho su fortuna a punta de comercializar productos hechos por la mano de obra prácticamente esclava de trabajadores y trabajadoras en _sweatshops,_ ubicados en zonas de libre comercio donde la legislación sobre los derechos laborales o no aplica o es inútil, y la fuerza laboral: _— personas viviendo en condiciones precarias que les obligan a tomar trabajos mal pagos para sobrevivir —_; es sometida a toda clase de abusos que suelen ser reforzados violentamente por guardias privados o la policía y el ejército de sus países. Países ubicados en Asia o en Centro América, donde el origen étnico de la mayoría de su población no es precisamente europeo.
 

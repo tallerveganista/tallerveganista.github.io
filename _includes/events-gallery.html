@@ -15,7 +15,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-6">
                   <p class="author-date">{% assign m = event.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ event.event-date | date: "%d" }} / {{ event.event-date | date: "%Y" }}</p>
-                  <p class="category">{{ event.categories | join: ' &nbsp | &nbsp ' }}</p>
+                  <p class="category">{{ event.categories | join: '・' }}</p>
                   <h2 class="hidden-lg">{{ event.title }}</h2>
                   <h4 class="hidden-xs hidden-sm visible-lg">{{ event.title }}</h4>
                   <p class="visible-xs visible-sm hidden-lg">{{ event.excerpt | truncate: 126 }}</p>
