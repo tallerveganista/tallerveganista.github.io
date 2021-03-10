@@ -12,7 +12,7 @@ author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-03-la-industria-del-huevo-square.jpg"
 alt-image: Una ave yace muerta en una cinta transportadora en una granja industrial en España, 2009・Jo-Anne McArthur・Animal Equality.
 permalink: "/leccion-la-industria-del-huevo/"
-description: Características de la especie Gallus Gallus Domesticus, datos sobre la industria del huevo en Colombia y algunos datos sobre la industria avícola.
+description: Características de la especie <i>Gallus Gallus Domesticus,</i> datos sobre la industria del huevo en Colombia y algunos datos sobre la industria avícola.
 ---
 <p class="highlight-text p-big center-lg">
   <span class="icon icon-warning"></span> Este artículo contiene imágenes de víctimas de violencia.
