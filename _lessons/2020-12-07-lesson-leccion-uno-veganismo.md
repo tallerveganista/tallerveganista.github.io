@@ -38,7 +38,7 @@ La palabra _vegan_ está formada por las primeras y últimas letras de la palabr
 
 ![The Vegan News #1 | Donald Watson | Vegan Recipes | Fay K. Henderson](../assets/images/lessons/leccion-01-vegan-news-vegan-recipes.jpg)
 
-[The Vegan News #1   |   Donald Watson, ](https://web.archive.org/web/20130226003431/http://www.ukveggie.com/vegan_news/vegan_news_1.pdf){:target='_blank' class="caption"}[Vegan Recipes   |   Fay K. Henderson](https://www.happycow.net/blog/vegan-recipes/){:target='_blank' class="caption"}
+[The Vegan News #1   |   Donald Watson, ](https://web.archive.org/web/20130226003431/http://www.ukveggie.com/vegan_news/vegan_news_1.pdf){:target='_blank' class="caption"} [Vegan Recipes   |   Fay K. Henderson](https://www.happycow.net/blog/vegan-recipes/){:target='_blank' class="caption"}
 
 "Vega" era una palabra reconocida entre les vegetarianes de los años 30, ya que _"The Vega"_ fue el nombre de uno de los restaurantes vegetarianos con mejor reputación en Londres durante esa década. _The Vega_ fue fundado por Jenny y Walter Fleiss, quienes tenían un restaurante con el mismo nombre en Colonia y que cerraron para migrar a Londres, al enterarse de que Walter era el número 17 en la lista negra de la Gestapo.
 
