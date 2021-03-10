@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Veganismo sin miedo
+title: Liberación colectiva
 image: assets/images/taller-veganista-cover.png
 permalink: "/"
 alt-why-image: Cerdo enjaulado
 alt-what-image: Animales en clase
-header-heading: Veganismo<span class="break hidden-lg"></span> sin miedo
+header-heading: Liberación colectiva
 header-text: Oponerse a la explotación y la violencia contra animales es luchar por
   una sociedad justa. Acá está toda la información que necesitas para unirte a esta
   lucha desde tus hábitos de vida y tu participación ciudadana.

@@ -12,11 +12,11 @@ recipe-introduction: Revisa los ingredientes que necesitarás y las preparacione
   antes de empezar las recetas. Hoy presentamos dos opciones para desayunos.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-01-veganismo-square.jpg"
-alt-image: Ternero descansando cómodamente, y retratos de fundadorxs de la Sociedad
+alt-image: Ternero descansando cómodamente, y retratos de fundadores y fundadoras de la Sociedad
   Vegana.
 permalink: "/leccion-veganismo/"
 description: 'Origen de la palabra veganismo y anotaciones sobre las motivaciones
-  para hacerse veganx.   '
+  para hacerse vegane.   '
 
 ---
 Antes de leer esta lección, recomiendo leer [¿Porqué Veganismo?](/porque-veganismo/){:class="link"}
@@ -51,7 +51,7 @@ En 1949, Leslie J. Cross advirtió que la palabra veganismo no tenía una defini
 
 [Artículo completo](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"} sobre la definición de veganismo y ebook sobre la historia de la Sociedad Vegana. (En Inglés).
 
-Dentro de la definición más o menos oficial, caben quienes se hacen veganes por salud y por reducir su impacto ambiental individual. Las razones por las que alguien decide hacerse vegane no son exclusivas ni excluyentes, aunque su motivación influye en la manera en la que entiende el veganismo y la posibilidad de mantenerse vegane o abandonar después de un tiempo. No importa si hemos llegado al veganismo por motivos de salud o de reducción del impacto ambiental, pero es necesario entender el antiespecismo, o rechazar la violencia contra los animales para quedarse.
+Dentro de la definición más o menos oficial, caben quienes se hacen veganes por salud y por reducir su impacto ambiental individual. Las razones por las que alguien decide hacerse vegane no son exclusivas ni excluyentes, aunque su motivación influye en la manera en la que entiende el veganismo y la posibilidad de mantenerse vegane o abandonar después de un tiempo. No importa si hemos llegado al veganismo por motivos de salud o de reducción del impacto ambiental, pero es necesario entender el antiespecismo, o rechazar la violencia para quedarse.
 
 ### Veganes por salud
 
@@ -59,13 +59,13 @@ El veganismo entendido como una dieta que seguimos por salud y bienestar individ
 
 Sin embargo, quienes son veganes por salud podrían ser personas que están buscando la dieta perfecta para sus objetivos de transformación física, o aliviar sus problemas. Podrían ignorar que hay víctimas de por medio en la producción de bienes de consumo hechos con cuerpos y secreciones de animales, porque la información que consultan es únicamente nutricional. Entonces, cuando se pone de moda una nueva dieta, se enferman de algo, o no llegan a sus objetivos por una razón u otra, son los primeros en abandonar el veganismo, demostrando que ni entendieron de que se trata. También podrían practicar dietas extremas con ayunos y restricciones, para sufrir problemas más adelante y decir que son consecuencia del veganismo.
 
-Cuando la motivación es únicamente el bienestar individual, no pasa nada con consumir de vez en cuando algo hecho con cadáveres o secreciones de animales, porque sería como "darse un gusto" o "romper un poquito la dieta".
+Cuando la motivación es únicamente el bienestar individual, no pasa nada con consumir de vez en cuando algo hecho con cadáveres o secreciones de animales no humanos, porque sería como "darse un gusto" o "romper un poquito la dieta".
 
 Hay que anotar que no a todos nos interesa la salud y el bienestar individual. Yo empecé a medio interesarme por mi salud cuando tenía ya treinta y ahora que tengo cuarenta, me importa pero no lo suficiente para hacer dieta, contar calorías y ese tipo de cosas. Hay una percepción negativa generalizada hacia las dietas como algo que hacen personas superficiales que no aceptan su propio cuerpo, están obsesionadas con su propio bienestar, se creen mejor que todes y son fastidiosas. Quienes crean contenido para promover el veganismo suelen no tener en cuenta eso y usan lenguajes visuales que apelan únicamente a quienes les interesa dejar unas costumbres que les conectan socialmente y les producen placer, para adoptar otras como un sacrificio por su propio bienestar y apariencia física. En este proyecto nos enfocamos en lo básico para que seamos veganes sin miedo de afectar negativamente nuestra salud. Llegar a objetivos de transformación física, sentirse con energía adicional, o sacar exámenes de salud perfectos, es opcional. Eso está muy bien, pero el veganismo eso otra cosa.
 
 ### Veganes por reducir su impacto ambiental individual
 
-Yo me hice vegano porque quería reducir mi huella de carbono y consumir menos agua. Ahora mi motivación principal es el antiespecismo, pero reducir el impacto ambiental es un problema ético también, porque "el ambiente" no es algo abstracto ni separable de nuestra vida y la de otras especies. Proteger nuestros ecosistemas no es un favor ni algo lindo. Es lo mínimo que deberíamos hacer por respeto a todos los demás seres que habitan o habitarán la tierra y para tener una oportuindad de sobrevivir como especie. Si yo reduzco mis emisiones siendo vegano pero las aumento con otros comportamientos, o no soy cuidadoso con los residuos que produce lo que consumo, quienes sufrirán las consecuencias serán otras especies, y las poblaciones vulnerables de la nuestra. Estamos pasando por una crisis ambiental y climática apocalíptica que afecta a todes quienes vivimos en este planeta. Ser veganes no nos da permiso de ser irresponsables en otras áreas o negarnos a participar en la defensa de nuestros ecosistemas.
+Yo me hice vegano porque quería reducir mi huella de carbono y consumir menos agua. Ahora mi motivación principal es el antiespecismo, pero reducir el impacto ambiental es un problema ético también, porque "el ambiente" no es algo abstracto ni separable de nuestra vida y la de otras especies. Proteger nuestros ecosistemas es fundamental para proteger la vida de todos los demás seres que habitan o habitarán la tierra y para tener una oportuindad de sobrevivir como especie. Si yo reduzco mis emisiones siendo vegane pero las aumento con otros comportamientos, o no soy cuidadoso con los residuos que produce lo que consumo, quienes sufrirán las consecuencias serán otras especies, y las poblaciones vulnerables de la nuestra. Estamos pasando por una crisis ambiental y climática apocalíptica que afecta a todes quienes vivimos en este planeta. Ser veganes no nos da permiso de ser irresponsables en otras áreas o negarnos a participar en la defensa de nuestros ecosistemas.
 
 La motivación ambiental tiene dos problemas graves. El primero es que dentro de esa lógica el reduccionismo es aceptable. _Día sin carne, vegetarianismo, etc..._ Ideas como alimentar con algas a las vacas para que no produzcan metano y explotarlas de ecológicamente, o fabricar un material biodegradable parecido al plástico a partir de caparazones de cangrejos y otras maquinaciones espantosas que involucran animales como materia prima también son aceptables.
 
@@ -79,7 +79,7 @@ El segundo problema de la motivación ambiental, es que el tema es tan complejo 
 
 [26 Formas de Luchar contra el Cambio Climático・QuantumFracture・Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"}
 
-Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia, reducir el consumo de cadáveres bovinos, o reemplazarlos por cadáveres de otras especies es aceptable y suficiente. Como el presentador no tiene ningún problema con la violencia, ni cree necesario hacer algo al respecto, repite el mito de que el veganismo es exigente, peligroso y aburrido.
+Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra animales no humanos, reducir el consumo de cadáveres bovinos, o reemplazarlos por cadáveres de otras especies es aceptable y suficiente. Como el presentador no tiene ningún problema con la violencia, ni cree necesario hacer algo al respecto, repite el mito de que el veganismo es exigente, peligroso y aburrido.
 {: class="caption-no-link after-caption-link"}
 
 ### Veganxs por antiespecismo

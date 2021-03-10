@@ -22,7 +22,7 @@ No todes les veganes aceptan esta definición al pie de la letra. A mi forma de 
 
 Mientras que fundamentar la ética propia en creencias y costumbres es opcional y peligroso, porque nos deja vulnerables a dogmas sin sentido y todo tipo de manipulaciones, actuar con base en empatía y argumentos lógicos sería lo correcto y lo mínimo que deberíamos hacer, o si no es posible en el momento, al menos crear las condiciones para avanzar lo que se pueda en esa dirección. Política porque no estamos buscando únicamente dejar de participar individualmente en un sistema de explotación, injusto y extremadamente violento, sino que el sistema se detenga. Aunque decidamos no hacer parte directamente, la máquina asesina sigue funcionando sin nosotres. No tiene sentido pensar que va a detenerse únicamente porque un sector minoritario de la población deja de consumir. Ampliar la definición de veganismo para que incluya una posición activa en contra de la violencia, podría comprometer a más veganes a organizarnos para actuar colectivamente, e impulsar cambios culturales y políticos necesarios.
 
-La parte de posible y practicable está muy bien porque tiene en cuenta las limitaciones que cada cual podría tener por el nivel de conocimiento y la capacidad que tenga de actuar en consecuencia con sus propias decisiones. Otres la entienden como una oportunidad para justificar la participación directa en la explotación de animales ante cualquier dificultad. No todes les veganes pensamos igual, y nuestras diferencias generan discusiones que siempre enseñan algo. Tomamos la decisión de ser veganes porque estamos dispuestes a cuestionar el sistema de creencias convencional y tenemos la disciplina para actuar en consecuencia hasta donde podemos.
+La parte de posible y practicable está muy bien porque tiene en cuenta las limitaciones que cada cual podría tener por el nivel de conocimiento y la capacidad que tenga de actuar en consecuencia con sus propias decisiones. Otres la entienden como una oportunidad para justificar la participación directa en la explotación de animales no humanos ante cualquier dificultad. No todes les veganes pensamos igual, y nuestras diferencias generan discusiones que siempre enseñan algo. Tomamos la decisión de ser veganes porque nos atrevemos a cuestionar el sistema de creencias convencional y tenemos la disciplina para actuar en consecuencia hasta donde podemos.
 
 ### ¿Entonces porqué veganismo?
 
@@ -31,7 +31,7 @@ Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler 
 ![Gallinas confinadas en una jaula en una granja industrial・Jo -Anne McArthur・We Animals archive](/assets/images/why-veganism-article.jpg)
 [Gallinas confinadas en una jaula en una granja industrial・Jo -Anne McArthur・We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
 
-Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de nuestra propia vida es el sistema nervioso central. Los animales que se han destinado para la explotación también tienen dicho sistema, entonces podemos asegurar que experimentan sensaciones de placer o dolor. Ejercer violencia en su contra les produce sufrimiento. Elles no entregan sus vidas voluntariamente, ni escogen convertirse en máquinas que producen bienes de consumo, no trabajan, ni realizan actos de entretenimiento, o se someten a experimentos por gusto. Para usar animales debemos someterles, encerrarles en contra de su voluntad y asesinarles. Todos actos de violencia innecesaria.
+Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de nuestra propia vida es el sistema nervioso central. Los animales no humanos que se han destinado para la explotación también tienen dicho sistema, entonces podemos asegurar que experimentan sensaciones de placer o dolor. Ejercer violencia en su contra les produce sufrimiento. Elles no entregan sus vidas voluntariamente, ni escogen convertirse en máquinas que producen bienes de consumo, no trabajan, ni realizan actos de entretenimiento, o se someten a experimentos por gusto. Para usar animales debemos someterles, encerrarles en contra de su voluntad y asesinarles. Todos actos de violencia innecesaria.
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,10 +39,10 @@ Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de
 
 [¿Por qué no ser vegano?・Macakiux・Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
-Una pequeña anotación sobre el video: Miguel menciona que salvamos animales pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera, sólamente salvan animales quienes les rescatan y/o cuidan en santuarios o sus lugares de residencia.
+Una pequeña anotación sobre el video: Mike menciona que salvamos animales pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera, sólamente salvan animales quienes les rescatan y/o cuidan en santuarios o sus lugares de residencia.
 {: class="caption-no-link after-caption-link"}
 
-No necesitamos consumir cadáveres ni secreciones de animales, vestirnos con sus pieles, experimentar con sus cuerpos, usarles como herramientas de trabajo, medios de transporte u obligarles a realizar actos para nuestro entretenimiento. La relación de dominación y explotación que tenemos con otros animales no es consecuencia de una necesidad de supervivencia sino de un condicionamiento cultural.
+No necesitamos consumir cadáveres ni secreciones de animales no humanos, vestirnos con sus pieles, experimentar con sus cuerpos, usarles como herramientas de trabajo, medios de transporte u obligarles a realizar actos para nuestro entretenimiento. La relación de dominación y explotación que tenemos con otros animales no humanos no es consecuencia de una necesidad de supervivencia sino de un condicionamiento cultural.
 
 ### Veganismo y antiespecismo como oposición al carnismo
 
