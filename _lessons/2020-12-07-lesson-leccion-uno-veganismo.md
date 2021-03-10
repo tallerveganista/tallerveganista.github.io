@@ -32,7 +32,7 @@ Entre los que se oponían al uso de productos de origen animal estaba Mr Donald 
 ![Ternero y fotos históricas](../assets/images/lessons/leccion-01-ternero-fotos-de-historia.jpg)
 [ HAN Mengqi   |   Unsplash](https://unsplash.com/@hanmengqi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target='_blank' class="caption"}
 
-El nombre _"Non-dairy vegetarians"_ es muy largo, incómodo y no deja claro la oposición a considerar los huevos y otras secreciones como comida. Donald Watson y Dorothy Morgan se basaron en las ideas de Mr G.A. Henderson y su esposa Fay K. Henderson: _"Allvega, Allvegan"_, para proponer el nombre _"Vegan"_. Entre las propuestas de otros miembros estaban: _"Dairyban", "Vitan", "Benevore", "Sanivore" y "Beaumangeur"_.
+El nombre _"Non-dairy vegetarians"_ es muy largo, incómodo y no deja claro la oposición a considerar los huevos y otras secreciones como comida. Donald Watson y Dorothy Morgan se basaron en las ideas de Mr G.A. Henderson y Fay K. Henderson: _"Allvega, Allvegan"_, para proponer el nombre _"Vegan"_. Entre las propuestas de otros miembros estaban: _"Dairyban", "Vitan", "Benevore", "Sanivore" y "Beaumangeur"_.
 
 La palabra _vegan_ está formada por las primeras y últimas letras de la palabra _vegetarian_ porque el veganismo surge del vegetarianismo y es su conclusión lógica. Donald Watson fue la primera persona en usar la palabra en una publicación, _The Vegan News_ - de 1944, y Fay K. Henderson la primera en publicar un libro de cocina con la palabra en el título, _Vegan Recipes_ - de 1946.
 
