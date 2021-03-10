@@ -6,9 +6,9 @@ permalink: "/"
 alt-why-image: Cerdo enjaulado
 alt-what-image: Animales en clase
 header-heading: Liberación colectiva
-header-text: Oponerse a la explotación y la violencia contra animales es luchar por
-  una sociedad justa. Acá está toda la información que necesitas para unirte a esta
-  lucha desde tus hábitos de vida y tu participación ciudadana.
+header-text: Oponerse a la explotación y la violencia es luchar por
+  una sociedad justa. Acá está toda la información que necesitas para unirte a la
+  lucha por la liberación colectiva desde tus hábitos de vida y tu participación ciudadana.
 header-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 what-heading: "¿Qué es Taller Veganista?"
 what-image: "/assets/images/animales-en-clase.png"
