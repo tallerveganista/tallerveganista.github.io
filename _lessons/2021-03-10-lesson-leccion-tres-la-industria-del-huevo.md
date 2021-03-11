@@ -91,7 +91,7 @@ En tiendas ecológicas y supermercados, se comercializan huevos de "gallinas fel
 
 [Gallinas en Pastoreo, Sistema Gallina Feliz・TvAgro](https://www.youtube.com/watch?v=dgUFCejv0Lg){:target='_blank' class="caption"}
 
-En este video nos muestran "gallinas felices" con el pico mutilado y nos cuentan que la "duración" de las aves es de dos años y unos meses de producción.{: class="caption-no-link after-caption-link"}
+En este video nos muestran "gallinas felices" con el pico mutilado y nos cuentan que la duración de las aves es de dos años y unos meses de producción.{: class="caption-no-link after-caption-link"}
 
 ### Algunos datos sobre la historia de la industria avícola
 
