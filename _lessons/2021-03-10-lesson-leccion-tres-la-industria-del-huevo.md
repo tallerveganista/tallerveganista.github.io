@@ -91,8 +91,7 @@ En tiendas ecológicas y supermercados, se comercializan huevos de "gallinas fel
 
 [Gallinas en Pastoreo, Sistema Gallina Feliz・TvAgro](https://www.youtube.com/watch?v=dgUFCejv0Lg){:target='_blank' class="caption"}
 
-En este video nos muestran "gallinas felices" con el pico mutilado y nos cuentan que la "duración" de las aves es dos años y unos meses de producción.
-{: class="caption-no-link after-caption-link"}
+En este video nos muestran "gallinas felices" con el pico mutilado y nos cuentan que la "duración" de las aves es de dos años y unos meses de producción. {: class="caption-no-link after-caption-link"}
 
 ### Algunos datos sobre la historia de la industria avícola
 
@@ -105,11 +104,11 @@ En 1932 se publica el libro _“Battery Brooding”_ de Milton H. Arnt. Un manua
 ![Gallinas en jaulas en una granja industrial](../assets/images/lessons/leccion-03-gallinas-en-jaulas-industriales.jpg)
 [Gallinas en jaulas en una granja industrial・Jo-Anne McArthur・Animal Equality](https://www.weanimalsarchive.org/#/gallery/40;imageid=9505){:target='_blank' class="caption"}
 
-Durante 1946, la USDA junto con A&P Grocery Company y otros socios en la industria trabajaron para promocionar un concurso nacional de crianza de gallinas para crear una raza que produzca más pechuga con la menor cantidad de alimento posible y probar su viabilidad en periodos de dos años.
+Durante 1946, la USDA junto con _A&P Grocery Company_ y otros socios en la industria trabajaron para promocionar un concurso nacional de crianza de gallinas para crear una raza que produzca más pechuga con la menor cantidad de alimento posible y probar su viabilidad en periodos de dos años.
 
 En 1951 la FDA aprueba el uso de antibióticos en la crianza de aves. Tras la preocupación por una posible escasez de comida luego de dos guerras mundiales, en 1950, investigadores de la compañía _American Cyanamid_, probando los resultados de incluir vitamina B12 en el alimento de las gallinas, accidentalmente incluyeron un lote con el antibiótico Aureomicina del que la vitamina se producía. Las aves crecieron 50% más rápido y en el año siguiente se aprobó el uso del antibiótico como un estimulante de crecimiento.
 
-En 1954 se funda el _National Chicken Council_ para influenciar las políticas y promover la producción de gallinas para carne, en 1976, se crea el _American Egg Board_ para posicionar los huevos de gallina como proteína “saludable” y parte de la canasta familiar básica. Durante 1960 y 2019 el consumo de pollo se triplicó.
+En 1954 se funda el _National Chicken Council_ para influenciar las políticas y promover la producción de gallinas para carne, en 1976, se crea el _American Egg Board_ para posicionar los huevos de gallina como proteína “saludable” y parte de la canasta familiar básica. Entre 1960 y 2019 el consumo de pollo se triplicó.
 
 La práctica de matar a los polluelos recién nacidos se popularizó durante los sesenta cuando se desarrollaron razas especializadas.
 
