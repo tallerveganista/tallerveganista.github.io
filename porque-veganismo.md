@@ -4,7 +4,7 @@ title: ¿Por qué veganismo?
 date: '2020-11-26 11:48:00 -0500'
 author: Alejandro Narváez Isaza
 permalink: /porque-veganismo/
-image: assets/images/lessons/leccion-01-ternero-fotos-de-historia.jpg
+image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
 published: true
 description: 'Definición de veganismo, y argumentos básicos sobre porque ser veganx.'
 ---
