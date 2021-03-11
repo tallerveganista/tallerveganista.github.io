@@ -12,8 +12,8 @@ recipe-introduction: Revisa los ingredientes que necesitarás y las preparacione
   antes de empezar las recetas. Hoy presentamos dos opciones para desayunos.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-01-veganismo-square.jpg"
-alt-image: Ternero descansando cómodamente, y retratos de fundadores y fundadoras de la Sociedad
-  Vegana.
+alt-image: Ternero descansando cómodamente, y retratos de fundadores y fundadoras
+  de la Sociedad Vegana.
 permalink: "/leccion-veganismo/"
 description: 'Origen de la palabra veganismo y anotaciones sobre las motivaciones
   para hacerse vegane.   '
@@ -82,7 +82,7 @@ El segundo problema de la motivación ambiental, es que el tema es tan complejo 
 Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra animales no humanos, reducir el consumo de cadáveres bovinos, o reemplazarlos por cadáveres de otras especies es aceptable y suficiente. Como el presentador no tiene ningún problema con la violencia, ni cree necesario hacer algo al respecto, repite el mito de que el veganismo es exigente, peligroso y aburrido.
 {: class="caption-no-link after-caption-link"}
 
-### Veganxs por antiespecismo
+### Veganes por antiespecismo
 
 Si somos veganes porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran de nuestra propiedad, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día.
 {:class="p-big"}
