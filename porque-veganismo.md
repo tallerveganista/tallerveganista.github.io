@@ -6,7 +6,7 @@ author: Alejandro Narváez Isaza
 permalink: /porque-veganismo/
 image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
 published: true
-description: 'Definición de veganismo, y argumentos básicos sobre porque ser veganx.'
+description: 'Definición de veganismo, y argumentos básicos sobre porque ser vegane.'
 ---
 Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece, así ese alguien sea de otra especie.
 {:class="p-big center-lg why-big-text"}
