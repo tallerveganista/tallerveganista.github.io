@@ -6,9 +6,9 @@ permalink: "/"
 alt-why-image: Cerdo enjaulado
 alt-what-image: Animales en clase
 header-heading: Liberación colectiva
-header-text: Oponerse a la explotación y la violencia es luchar por
-  una sociedad justa. Acá está toda la información que necesitas para unirte a la
-  lucha por la liberación colectiva desde tus hábitos de vida y tu participación ciudadana.
+header-text: Oponerse a la explotación y la violencia es luchar por una sociedad justa.
+  Acá está toda la información que necesitas para unirte a la lucha por la liberación
+  colectiva desde tus hábitos de vida y tu participación ciudadana.
 header-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 what-heading: "¿Qué es Taller Veganista?"
 what-image: "/assets/images/animales-en-clase.png"
@@ -24,7 +24,7 @@ why-text: Porque ningún ser que siente y tiene una experiencia subjetiva de su 
   nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más
   me pertenece, así ese alguien sea de otra especie.
 why-button: Texto completo
-lessons-text: Lecciones en las que aprenderás sobre consideraciones éticas relativas
+lessons-text: Diez lecciones en las que aprenderás sobre consideraciones éticas relativas
   al veganismo, nutrición a base de plantas, impacto ambiental de las industrias de
   explotación animal, y activismo. Tendrás la posibilidad de conocer a más veganes
   de la ciudad.
