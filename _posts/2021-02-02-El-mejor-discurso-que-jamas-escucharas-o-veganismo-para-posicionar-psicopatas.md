@@ -73,7 +73,7 @@ _“No me pidas que tenga empatía por los victimarios, mi corazón está sufici
 
 _“La última mentira que se ha esparcido sobre mi es que soy un racista, porque en una calmada y sobria evaluación de la situación entre Israel y Palestina, dije que_ _los palestinos son el grupo de gente más psicótica del planeta”_
 
-[Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=636){:target='_blank' class="caption"}
+[Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://www.youtube.com/watch?v=pqhUIns86cA&t=636s){:target='_blank' class="caption"}
 
 Una de sus estudiantes afroamericanas le dijo que los animales no humanos vivían como reyes y reinas. Este señor respondió que lastimosamente viven como _“Burguer Kings”_ y _“Dairy Queens”_ e inmediatamente después le preguntó _“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”_ y _“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?_
 
