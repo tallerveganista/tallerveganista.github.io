@@ -1,7 +1,7 @@
 ---
 layout: why
 title: ¿Por qué veganismo?
-date: 2020-11-26 11:48:00 -0500
+date: 2020-11-26T11:48:00.000-05:00
 author: Alejandro Narváez Isaza
 permalink: "/porque-veganismo/"
 image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
@@ -54,4 +54,4 @@ El condicionamiento cultural es una ideología dominante e invisible que Melanie
 
 [Beyond Carnism and Toward Rational, Authentic Food Choices・Melanie Joy・Ted München・Youtube](https://www.youtube.com/watch?v=f1veVP829JI&feature=emb_logo){:target='_blank' class="caption"}
 
-Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero si tenemos suficiente acceso a alimentos de origen vegetal no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
+Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero si tenemos suficiente acceso a alimentos de origen vegetal, no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
