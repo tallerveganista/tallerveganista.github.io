@@ -1,12 +1,12 @@
 ---
 layout: why
 title: ¿Por qué veganismo?
-date: '2020-11-26 11:48:00 -0500'
+date: 2020-11-26 11:48:00 -0500
 author: Alejandro Narváez Isaza
-permalink: /porque-veganismo/
+permalink: "/porque-veganismo/"
 image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
-published: true
-description: 'Definición de veganismo, y argumentos básicos sobre porque ser vegane.'
+description: Definición de veganismo, y argumentos básicos sobre porque ser vegane.
+
 ---
 Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece, así ese alguien sea de otra especie.
 {:class="p-big center-lg why-big-text"}
@@ -16,7 +16,7 @@ Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vid
 Para que sepamos de lo que estamos hablando, empecemos con la definición más o menos oficial que propone la organización [The Vegan Society:](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}
 
 > "Una forma de vida que busca excluir, hasta donde sea posible y practicable, todas las formas de explotación de, o crueldad contra los animales para comida, ropa o cualquier otro propósito; y por extensión, promueve el desarrollo y uso de alternativas libres de animales para el beneficio de los animales, los humanos y el ambiente. En términos dietarios denota la práctica de prescindir de todos los productos derivados total o parcialmente de animales."
-{: class="p-big"}
+> {: class="p-big"}
 
 No todes les veganes aceptan esta definición al pie de la letra. A mi forma de vida me suena a que soy aficionado a algo y lo hago porque es mi gusto personal, entonces cambiaría esa parte por postura ética y política sustentada en empatía y argumentos lógicos. Nuestra ética propia está fundamentada en la empatía y en argumentos que pueden y deben ponerse a prueba, cuestionarse y refutarse si es necesario, pero que si sobreviven a un análisis crítico y riguroso deberíamos aceptar como válidos, al menos hasta que alguien logre demostrar que no lo son.
 
@@ -34,7 +34,7 @@ Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler 
 Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de nuestra propia vida es el sistema nervioso central. Los animales no humanos que se han destinado para la explotación también tienen dicho sistema, entonces podemos asegurar que experimentan sensaciones de placer o dolor. Ejercer violencia en su contra les produce sufrimiento. Elles no entregan sus vidas voluntariamente, ni escogen convertirse en máquinas que producen bienes de consumo, no trabajan, ni realizan actos de entretenimiento, o se someten a experimentos por gusto. Para usar animales debemos someterles, encerrarles en contra de su voluntad y asesinarles. Todos actos de violencia innecesaria.
 
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [¿Por qué no ser vegano?・Macakiux・Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
@@ -46,12 +46,12 @@ No necesitamos consumir cadáveres ni secreciones de animales no humanos, vestir
 
 ### Veganismo y antiespecismo como oposición al carnismo
 
-El condicionamiento cultural es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― *Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo*. ― El carnismo es el sistema de creencias que soporta el especismo que es una forma de discriminación que consiste en tratar a animales de unas especies como dignos de consideración moral, mientras se domina y explota a animales de otras, a pesar de que sus intereses pueden ser equivalentes.
+El condicionamiento cultural es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― _Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo_. ― El carnismo es el sistema de creencias que soporta el especismo que es una forma de discriminación que consiste en tratar a animales de unas especies como dignos de consideración moral, mientras se domina y explota a animales de otras, a pesar de que sus intereses pueden ser equivalentes.
 
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/f1veVP829JI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/f1veVP829JI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [Beyond Carnism and Toward Rational, Authentic Food Choices・Melanie Joy・Ted München・Youtube](https://www.youtube.com/watch?v=f1veVP829JI&feature=emb_logo){:target='_blank' class="caption"}
 
-Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
+Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero si tenemos suficiente acceso a alimentos de origen vegetal no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
