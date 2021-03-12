@@ -97,7 +97,7 @@ Este héroe del veganismo no tiene en cuenta que los movimientos sociales están
 
 _“No soy un hipócrita como los activistas por derechos humanos que están en constante violación de los principios de equidad cada segundo de cada día”_
 
-[Palestinians, Blacks and Other HypocritesvGary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=575){:target='_blank' class="caption"}
+[Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=575){:target='_blank' class="caption"}
 
 Les defensores de derechos humanos arriesgan sus vidas por el bienestar de sus comunidades, y al igual que en los movimientos anti-racistas, dentro de cualquier movimiento por los derechos humanos vamos a encontrar a veganes trabajando y arriesgando sus vidas. Este tipo de mensajes pone en grave riesgo la seguridad de activistas veganes o no, al vilificarles y disimuladamente justificar cuando algún terrorista decida acabar con sus vidas. Tanto en en Medio Oriente como en Colombia, activistas por los derechos humanos son asesinades a diario.
 
