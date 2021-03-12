@@ -7,7 +7,7 @@ tags:
   - highlight-article
   - article
 title: >-
-  ¿El mejor discurso que jamás escucharás, o veganismo para posicionar fundamentalistas violentos?
+  ¿El mejor discurso que jamás escucharás, o veganismo para posicionar matones?
 date: '2021-02-02'
 excerpt: >-
   La imagen de Gary Yourofsky como un pionero del activismo que ha dedicado su vida por los animales y un ejemplo a seguir, es promovida por cuanto grupo de activismo anti-interseccional existe, que al hacerlo trabaja consciente o inconscientemente para aumentar la influencia mediática de este auto declarado
@@ -15,7 +15,7 @@ excerpt: >-
 author: Alejandro Narváez Isaza
 image-landscape: /assets/images/posts/gary-yourofsky-rambo-landscape.jpg
 image: /assets/images/posts/gary-yourofsky-rambo-square.jpg
-permalink: /veganismo-para-posicionar-psicópatas/
+permalink: /veganismo-para-posicionar-matones/
 description: >-
   Análisis de las declaraciones desafortunadas de una de las figuras más
   reconocidas dentro del activismo antiespecista anti-interseccional.
