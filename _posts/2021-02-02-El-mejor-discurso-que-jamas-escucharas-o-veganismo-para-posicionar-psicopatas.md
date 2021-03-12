@@ -75,7 +75,7 @@ _“La última mentira que se ha esparcido sobre mi es que soy un racista, porqu
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=636){:target='_blank' class="caption"}
 
-Uno de sus estudiantes afroamericanos le dijo que los animales no humanos vivían como reyes y reinas. Este señor respondió que lastimosamente viven como _“Burguer Kings”_ y _“Dairy Queens”_ e inmediatamente después le preguntó _“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”_ y _“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?_
+Una de sus estudiantes afroamericanas le dijo que los animales no humanos vivían como reyes y reinas. Este señor respondió que lastimosamente viven como _“Burguer Kings”_ y _“Dairy Queens”_ e inmediatamente después le preguntó _“¿Qué desayunaste esta mañana? ¿Cadáver de vaca, cadáver de negro o cadáver de judío?”_ y _“¿De qué están hechos tus zapatos? ¿de piel de vaca, de piel de negro o de piel de judío?_
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=729){:target='_blank' class="caption"}
 
