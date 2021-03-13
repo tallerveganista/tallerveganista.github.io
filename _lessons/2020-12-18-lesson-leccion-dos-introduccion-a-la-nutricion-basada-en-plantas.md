@@ -6,14 +6,17 @@ tags:
 title: Introducción a la nutrición basada en plantas
 category: lesson
 date: 2020-12-29
-excerpt: Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en plantas y recursos para planear fácilmente.
+excerpt: Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada
+  en plantas y recursos para planear fácilmente.
 recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas
   antes de empezar las recetas. Hoy presentamos dos opciones para almuerzos.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas-square.jpg"
 alt-image: Niña comiendo pasta, ensalada y frutas.
 permalink: "/leccion-introduccion-a-la-nutrición-basada-en-plantas/"
-description: Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
+description: Observaciones sobre la dieta estándar, datos básicos sobre nutrición
+  basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
+
 ---
 La dieta americana estándar (_Standard American Diet. SAD_ ⎯ _sad_ = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Nuestra dieta estándar es cada vez más parecida a la dieta americana, con un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
@@ -23,7 +26,7 @@ Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni dif�
 
 La historia de nuestro amigue ex-vegetariane no es evidencia de que alimentarse a base de plantas no funcione sino de que se alimentó mal y seguramente todavía lo hace, aunque ahora incluya cadáveres en su dieta. Independientemente de que la dieta incluya o no partes de, o cosas que salen de animales, si nos alimentamos mal seguramente sufriremos deficiencias y enfermedades. Es muy probable que quienes siguen una dieta estándar tengan una deficiencia de fibra dietaria sin saberlo.
 
-### Les veganes somos una clase de vegetarianes :/ y los programas de 21, 22 y 30 días.
+### Les veganes somos una clase de vegetarianes y los programas de 21, 22 y 30 días.
 
 Quienes seguimos una dieta a base de plantas estamos catalogades como vegetarianes estrictos en el lenguaje profesional, porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetariane para referirse tanto a vegetarianes como a veganes (vegetarianes estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianes y veganes, o de vegetarianes o veganes. También hay problemas de traducción, en _“The Game Changers”_, los subtítulos y doblaje dicen vegetariane cuando el documetal claramente habla de nutrición a base de plantas exclusivamente, el programa _“Vegan Kickstart”_ del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
 
