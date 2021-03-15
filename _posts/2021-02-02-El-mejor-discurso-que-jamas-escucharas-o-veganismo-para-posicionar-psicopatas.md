@@ -91,7 +91,7 @@ _“Soy un misántropo, no un racista, odio a todos los seres humanos. Palestino
 
 [Palestinians, Blacks and Other Hypocrites・Gary Yourofsky・Youtube](https://youtu.be/pqhUIns86cA?t=23){:target='_blank' class="caption"}
 
-Este héroe del veganismo no tiene en cuenta que los movimientos sociales están compuestos por animales humanos, y que el diminuto movimiento antiespecista no va a atraer a más activistas, ni conseguir aliados gritando que odiamos a la humanidad. La misantropía es literalmente odio descontrolado que puede tener consecuencias peligrosas y no debería ser normalizado.
+Este héroe del veganismo no tiene en cuenta que los movimientos sociales están compuestos por animales humanos, y que el diminuto movimiento antiespecista no va a atraer a más activistas, ni conseguir aliades gritando que odiamos a la humanidad. La misantropía es literalmente odio descontrolado que puede tener consecuencias peligrosas y no debería ser normalizado.
 
 ### La hostilidad contra activistas de derechos humanos de Gary Yourofsky
 
