@@ -29,9 +29,9 @@ Dice la leyenda que cuando “El mejor discurso que jamás escucharás” fue tr
 
 [La caída en la producción de ganado bovino en Australia entre el 2015 y el 2017 se debe a un corte del 80% de las exportaciones de Australia a Indonesia・Quit the Vegan Movement, Part 02 // S03 E04 // Are We Winning・The Cranky Vegan・Youtube](https://www.youtube.com/watch?v=LZrsrkF13Dw&list=PLDi86oKRn2xuu8vr0WiN_jENdDD56BAPo&index=4){:target='_blank' class="caption"}
 
-La imagen de Gary Yourofsky como un pionero del activismo que ha dedicado su vida por los animales y un ejemplo a seguir, es promovida por cuanto grupo de activismo anti-interseccional existe, que al hacerlo trabaja consciente o inconscientemente para aumentar la influencia mediática de este auto declarado misántropo que no pierde oportunidad para promover el odio contra nuestra especie y sus fantasías violentas. Miles de veganes alrededor del mundo interiorizan su ideología de odio y elaboran argumentos para justificar las desafortunadas declaraciones de esta celebridad infame del veganismo.
+La imagen de Gary Yourofsky como un pionero del activismo que ha dedicado su vida por los animales y un ejemplo a seguir, es promovida por cuanto grupo de activismo anti-interseccional existe, que al hacerlo trabaja consciente o inconscientemente para aumentar la influencia mediática de este auto declarado misántropo que no pierde oportunidad para promover el odio contra nuestra especie y sus fantasías violentas. Miles de veganes alrededor del mundo interiorizan su ideología de odio y elaboran argumentos para justificar las desafortunadas declaraciones de esta celebridad del veganismo.
 
-Haré un repaso por las fantasías violentas que este influenciador poderoso dentro de nuestra burbuja mediática, ha expresado durante su desastrosa carrera. Los textos contienen descripciones gráficas de asesinato, tortura, abuso sexual, racismo y misantropía violenta. Advierto que el contenido es ofensivo y desagradable.
+Haré un repaso por las fantasías violentas que este influenciador poderoso dentro de nuestra burbuja mediática, ha expresado durante su carrera. Los textos contienen descripciones gráficas de asesinato, tortura, abuso sexual, racismo y misantropía violenta. Advierto que el contenido es ofensivo y desagradable.
 
 ### Gary Yourofsky y sus fantasias de abuso sexual, tortura y asesinato
 
