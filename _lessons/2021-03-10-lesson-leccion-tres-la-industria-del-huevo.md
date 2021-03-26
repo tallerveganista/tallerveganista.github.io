@@ -6,16 +6,14 @@ tags:
 title: La industria del huevo
 category: lesson
 date: 2021-03-10
-excerpt: Características de la especie <i>Gallus Gallus Domesticus,</i> datos sobre
-  la industria del huevo en Colombia y algunos datos sobre la industria avícola.
-recipe-introduction: 
+excerpt: Características de la especie <i>Gallus Gallus Domesticus,</i> datos sobre la industria del huevo en Colombia y algunos datos sobre la industria avícola.
+recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas antes de empezar las recetas.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-03-la-industria-del-huevo-square.jpg"
 alt-image: Una ave yace muerta en una cinta transportadora en una granja industrial
   en España, 2009・Jo-Anne McArthur・Animal Equality.
 permalink: "/leccion-la-industria-del-huevo/"
-description: Características de la especie <i>Gallus Gallus Domesticus,</i> datos
-  sobre la industria del huevo en Colombia y algunos datos sobre la industria avícola.
+description: Características de la especie <i>Gallus Gallus Domesticus,</i> datos sobre la industria del huevo en Colombia y algunos datos sobre la industria avícola.
 
 ---
 <p class="highlight-text p-big center-lg">
