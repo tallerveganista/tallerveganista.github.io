@@ -9,7 +9,7 @@ lesson-id: lesson-two-recipe-one
 categories:
   - Recetas
   - Lección 3
-tags: ['recipe','article','highlight-article']
+tags: ['recipe','article','blog-gallery']
 excerpt: >-
   Especial para reconfortar los días de frío. Una preparación diferente pero sencilla y nutritiva.
 author: Luisa Avellaneda
