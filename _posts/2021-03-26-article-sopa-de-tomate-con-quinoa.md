@@ -32,9 +32,9 @@ date: 2021-03-26
   <li>230 gr de arvejas</li>
   <li>170 gr de quinoa</li>
   <li>1 cebolla morada</li>
-  <li>Avena en hojuelas</li>
   <li>1/2 cdita de paprika</li>
   <li>3 dientes de ajo</li>
+  <li>3 cm de jengibre</li>
   <li>1 ají</li>
   <li>5 tomates chonto</li>
   <li>1 cda de pasta de tomate</li>
