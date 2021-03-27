@@ -44,6 +44,10 @@ Una pequeña anotación sobre el video: Mike menciona que salvamos animales pero
 
 No necesitamos consumir cadáveres ni secreciones de animales no humanos, vestirnos con sus pieles, experimentar con sus cuerpos, usarles como herramientas de trabajo, medios de transporte u obligarles a realizar actos para nuestro entretenimiento. La relación de dominación y explotación que tenemos con otros animales no humanos no es consecuencia de una necesidad de supervivencia sino de un condicionamiento cultural.
 
+### La declaración de conciencia de Cambridge
+
+dfd
+
 ### Veganismo y antiespecismo como oposición al carnismo
 
 El condicionamiento cultural es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― _Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo_. ― El carnismo es el sistema de creencias que condiciona a la población para que consuma algunos animales. Es la ideología que soporta el especismo que es una forma de discriminación que consiste en tratar a animales de unas especies como dignos de consideración moral, mientras se domina y explota a animales de otras, a pesar de que sus intereses pueden ser equivalentes.
