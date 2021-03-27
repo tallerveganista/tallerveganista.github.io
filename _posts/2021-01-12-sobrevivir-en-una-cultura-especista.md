@@ -1,26 +1,23 @@
 ---
 layout: post
 categories:
-  - Autocuidado
+- Autocuidado
 tags:
-  - article
-  - blog-gallery
+- article
+- blog-gallery
 title: Sobrevivir en una cultura especista
-date: '2021-01-12'
-excerpt: >-
-  El carnismo es una ideología dominante e invisible, eso quiere decir que la
-  mayoría piensa y actúa según esta ideología sin saber que lo hace y que la
-  mayoría fuimos adoctrinados según sus principios. Quienes nos educaron no
-  tenían y probablemente a la fecha todavía no tienen idea de que son parte de
-  un sistema de adoctrinamiento.
+date: 2021-01-12
+excerpt: El carnismo es una ideología dominante e invisible, eso quiere decir que
+  la mayoría piensa y actúa según esta ideología sin saber que lo hace y que la mayoría
+  fuimos adoctrinados según sus principios. Quienes nos educaron no tenían y probablemente
+  a la fecha todavía no tienen idea de que son parte de un sistema de adoctrinamiento.
 author: Alejandro Narváez Isaza
-image-landscape: /assets/images/posts/piensa-con-libertad-y-empatia-landscape.jpg
-image: /assets/images/posts/piensa-con-libertad-y-empatia-square.jpg
-permalink: /sobrevivir-en-una-cultura-especista/
-description: >-
-  Reflexiones sobre porque la mayoría de las personas son especistas y
+image-landscape: "/assets/images/posts/piensa-con-libertad-y-empatia-landscape.jpg"
+image: "/assets/images/posts/piensa-con-libertad-y-empatia-square.jpg"
+permalink: "/sobrevivir-en-una-cultura-especista/"
+description: Reflexiones sobre porque la mayoría de las personas son especistas y
   argumentos a favor del veganismo interseccional.
-published: true
+
 ---
 El carnismo es una ideología dominante e invisible, eso quiere decir que la mayoría piensa y actúa según esta ideología sin saber que lo hace y que la mayoría fuimos adoctrinados según sus principios. Quienes nos educaron no tenían y probablemente a la fecha todavía no tienen idea de que son parte de un sistema de adoctrinamiento.
 
@@ -32,13 +29,13 @@ La violencia que necesariamente se ejerce hacia los animales no humanos que deci
 
 Sentir rabia, indignación y tristeza es normal. Al escribir esto recordé un montón de imágenes de violencia contra los animales no humanos que decidí ver para entender la gravedad de la situación y vino a mi otro recuerdo todavía más difícil. Las miradas de angustia y desesperación de animales de pocos meses de edad, hambrientes, sedientes y herides, sucies y oliendo horrible que conectaron con nosotres a través de las rejas de camiones en donde fueron hacinades para transportar hacia el matadero. Visitando las entradas de los mataderos que es hasta donde podemos llegar sin violar las leyes que protegen a estas empresas dedicadas a la violencia institucionalizada, se pueden escuchar los perturbadores gritos de dolor que emiten les cerdes mientras son asesinades.
 
-Tristeza, rabia, indignación, decepción, culpa, odio, alienación y toda clase de emociones difíciles son el precio que pagamos por ejercer nuestro derecho a pensar, activar nuestra empatía y cuestionar el sistema. Sin embargo no podemos dejarnos dominar por estas emociones. Es necesario mantener la cordura, tratar de entender las razones que llevan a personas que por lo general no son malvadas a ser parte de la barbarie por acción, omisión, ignorancia o impotencia, entender que la violencia contra los animales no humanos responde a una ideología de la que la mayoría no es consciente y que despertar esa conciencia es un proceso complejo que pasa por generar espacios de reflexión libres de acusaciones, insultos, humillación intelectual y acciones que pongan a la defensiva a quienes pueden ser nuestres aliades en la lucha contra los verdaderos opresores. Un número preocupante de veganes nos hemos dejado llevar por la ira y la misantropía para terminar hiriendo la dignidad de otras personas. Algunes hemos podido reflexionar y reconocer nuestro error para hacer un esfuerzo encaminado a transformar el resentimiento en disciplina para estudiar, rigurosidad para argumentar, empatía y pensamiento estratégico, mientras que otres han decidido eliminar la empatía hacia su propia especie. En una cultura violenta que venera el poder y premia la agresividad, no es una sorpresa que personajes que promueven la venganza e indiferencia ante el sufrimiento humano alcancen niveles de influencia considerables y tengan a su disposición plataformas con acceso a millones de seguidores desde donde promueven el activismo por los derechos de los animales no humanos como un activismo en contra de, o incompatible con los derechos humanos. Es muy probable que el primer contacto con el activismo hecho por veganes sea contenido de activistas y creadores de contenido como Gary Yourofsky, Vegan Gains, Ask Yourself, Freele, e instituciones como *Anonymous for the Voiceless*. En mi caso fue así y no tuve la capacidad para no dejarme influenciar por sus discursos.
+Tristeza, rabia, indignación, decepción, culpa, odio, alienación y toda clase de emociones difíciles son el precio que pagamos por ejercer nuestro derecho a pensar, activar nuestra empatía y cuestionar el sistema. Sin embargo no podemos dejarnos dominar por estas emociones. Es necesario mantener la cordura, tratar de entender las razones que llevan a personas que por lo general no son malvadas a ser parte de la barbarie por acción, omisión, ignorancia o impotencia, entender que la violencia contra los animales no humanos responde a una ideología de la que la mayoría no es consciente y que despertar esa conciencia es un proceso complejo que pasa por generar espacios de reflexión libres de acusaciones, insultos, humillación intelectual y acciones que pongan a la defensiva a quienes pueden ser nuestres aliades en la lucha contra los verdaderos opresores. Un número preocupante de veganes nos hemos dejado llevar por la ira y la misantropía para terminar hiriendo la dignidad de otras personas. Algunes hemos podido reflexionar y reconocer nuestro error para hacer un esfuerzo encaminado a transformar el resentimiento en disciplina para estudiar, rigurosidad para argumentar, empatía y pensamiento estratégico, mientras que otres han decidido eliminar la empatía hacia su propia especie. En una cultura violenta que venera el poder y premia la agresividad, no es una sorpresa que personajes que promueven la venganza e indiferencia ante el sufrimiento humano alcancen niveles de influencia considerables y tengan a su disposición plataformas con acceso a millones de seguidores desde donde promueven el activismo por los derechos de los animales no humanos como un activismo en contra de, o incompatible con los derechos humanos. Es muy probable que el primer contacto con el activismo hecho por veganes sea contenido de activistas y creadores de contenido como Gary Yourofsky, Vegan Gains, Ask Yourself, Freele, e instituciones como _Anonymous for the Voiceless_. En mi caso fue así y no tuve la capacidad para no dejarme influenciar por sus discursos.
 
 En Colombia tenemos a Fernando Vallejo y a Carolina Sanín quienes al parecer disfrutan de humillar, insultar y apabullar a no veganes, sin tener en cuenta que podrían usar su influencia generando espacios en donde más personas puedan acceder a las ideas que sustentan el veganismo desde una argumentación rigurosa y disciplinada que invite a reflexionar.
 
 ![piensa con libertad y empatía](../assets/images/posts/piensa-con-libertad-y-empatia-landscape.jpg){:class="p-space-img"}
 
-Que este tipo de veganes y sus discursos tengan tanta visibilidad y popularidad prueba que podemos liberarnos de una ideología de opresión y violencia mientras seguimos bajo la influencia de otras. El veganismo pro-interseccional, y la educación dirigida a entender diferentes sistemas de dominación, explotación y discriminación de las que somos víctimas y victimaries en mayor o menor medida, son fundamentales si queremos detener la ola ecofacista y autodestructiva dentro del veganismo.
+Que este tipo de veganes y sus discursos tengan tanta visibilidad y popularidad, prueba que podemos liberarnos de una ideología de opresión y violencia mientras seguimos bajo la influencia de otras. El veganismo pro-interseccional, y la educación dirigida a entender diferentes sistemas de dominación, explotación y discriminación de las que somos víctimas y victimaries en mayor o menor medida, son fundamentales si queremos detener la ola ecofacista y autodestructiva dentro del veganismo.
 
 Con preocupación debo decir que estamos en un momento de la historia en el que la mayoría de la población pasa una buena parte de su tiempo consumiendo información personalizada al detalle con el objetivo de extraer reacciones de cada “usuaria o usuario”, generada y/o seleccionada por algoritmos programados para maximizar el “engagement” dentro de plataformas de marketing disfrazadas de redes sociales. Nuestra población que ya venía con un déficit en educación de calidad y ya era víctima de los intereses oscuros de propietarios de medios de comunicación corporativos, e instituciones dedicadas a imponer el pensamiento mágico, ahora además es adicta a sus celulares y a consumir y crear información diseñada para generar reacciones emocionales y pasar rápidamente sin ningún análisis. No veo mucha disposición para la honestidad intelectual y el pensamiento crítico necesarios para cuestionar ideologías que justifican nuestros propios privilegios. Es clave entender esta dificultad y buscar como atravezar burbujas mediáticas.
 
@@ -48,4 +45,4 @@ Internet y el conjunto de tecnologías desarrolladas para aprovechar la red tien
 
 Sobrevivir en una cultura especista implica disciplina, autocontrol, humildad, capacidad para escuchar y analizar, cuidado de la salud mental y solidaridad. Entender las ideas detrás del especismo y otros ejercicios de opresión, desarrollar habilidad para generar espacios de reflexión que permitan una comunicación respetuosa, saber cuando hablar, cuando escuchar, entender conceptos en lugar de memorizar discursos y puntos, no pretender introducir el veganismo a la fuerza en cualquier conversación, autocrítica, entender nuestras limitaciones y paciencia para dejar pensar, entendiendo que una deprogramación ideológica es un proceso complejo que necesita unos tiempos. Debemos estar abiertes a escuchar y aceptar que nosotres también podríamos estar programados ya no por el carnismo sino por alguna otra ideología de dominación que no vemos.
 
-Es muy útil también encontrar o crear comunidades donde podamos compartir y cuidarnos entre todes sin aislarnos ni alienar a los demás, especialmente a quienes a pesar de no ser veganes hacen parte de otros movimientos de resistencia que es importante entender y apoyar porque se enfrentan a ideologías opresoras que también nos afectan.
+Es muy útil también encontrar o crear comunidades donde podamos compartir y cuidarnos entre todes sin aislarnos ni alienar a los demás, especialmente a quienes a pesar de no ser veganes hacen parte de otros movimientos de resistencia que es importante entender y apoyar, porque se enfrentan a ideologías opresoras que también nos afectan.
