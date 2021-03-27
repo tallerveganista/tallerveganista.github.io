@@ -57,7 +57,7 @@ _“Pasará en un futuro muy cercano que alguien entrará en un matadero o un la
 
 [Does Violence Have a Place in Animal Liberation?・Bite Size Vegan・Youtube](https://youtu.be/4En39iyK4DA?t=177){:target='_blank' class="caption"}
 
-El comentario demuestra un desconocimiento de la historia que raya lo infantil. Durante la post-guerra nunca se trataron las causas que provocaron el conflicto, y después de la guerra brotaron innumerables enfrentamientos armados alrededor del mundo de los que aún sufrimos consecuencias. Es ingenuo decir que el imperialismo y la supremacía racial están erradicados cuando todas las grandes potencias los practican.
+El comentario demuestra un desconocimiento de la historia que raya lo infantil. Durante la post-guerra nunca se trataron las causas que provocaron el conflicto, y brotaron innumerables enfrentamientos armados alrededor del mundo de los que aún sufrimos consecuencias. Es ingenuo decir que el imperialismo y la supremacía racial están erradicados cuando todas las grandes potencias los practican.
 
 _“Ustedes no se oponen a la violencia, solo se oponen a para quién yo propongo que sean violentos. Podemos matar a favor de judíos, podemos matar a favor de niños, pero nadie quiere matar a favor de gallinas, vacas y cerdos. Creo que estos animales estarían vehementemente en desacuerdo y yo también.”_
 
