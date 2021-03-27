@@ -58,7 +58,7 @@ Sabemos más allá de toda duda razonable que los animales no humanos experiment
 
 Aunque está comprobado que los peces están en capacidad para percibir sensaciones, (lo que los haría dignos de consideración moral así no sean conscientes), en la declaración no se incluyen peces debido a que en el momento no tenían datos suficientes para hacerlo, no porque la capacidad de conciencia en peces esté descartada.
 
-<div class="video-wrapper"><iframe src="https://www.youtube.com/watch?v=57E-Lawrvx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div class="video-wrapper"><iframe src="https://www.youtube.com/embed/57E-Lawrvx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 [FiRe 2015: The Cambridge Declaration on Consciousness・Youtube](https://www.youtube.com/watch?v=57E-Lawrvx0 "FiRe 2015: The Cambridge Declaration on Consciousness"){:target='_blank' class="caption"}
 
