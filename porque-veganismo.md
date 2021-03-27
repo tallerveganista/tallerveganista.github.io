@@ -54,9 +54,7 @@ El condicionamiento cultural es una ideología dominante e invisible que Melanie
 
 Esta es una presentación en la que la autora introduce las ideas principales de su libro. Recuerda activar los subtítulos en Español.
 
-<div class="video-wrapper">
-<iframe src="[https://www.youtube.com/embed/o0VrZPBskpg]()" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div class="video-wrapper"> <iframe src="https://www.youtube.com/embed/o0VrZPBskpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 [Toward Rational, Authentic Food Choices・Melanie Joy・Ted München・Youtube](https://www.youtube.com/watch?v=o0VrZPBskpg){:target='_blank' class="caption"}
 
