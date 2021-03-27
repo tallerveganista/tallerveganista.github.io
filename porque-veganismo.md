@@ -44,11 +44,29 @@ Una pequeña anotación sobre el video: Mike menciona que salvamos animales pero
 
 No necesitamos consumir cadáveres ni secreciones de animales no humanos, vestirnos con sus pieles, experimentar con sus cuerpos, usarles como herramientas de trabajo, medios de transporte u obligarles a realizar actos para nuestro entretenimiento. La relación de dominación y explotación que tenemos con otros animales no humanos no es consecuencia de una necesidad de supervivencia sino de un condicionamiento cultural.
 
+### Declaración de Cambridge sobre la conciencia
+
+La declaración de Cambridge sobre la conciencia en animales no humanos _"Cambridge Declaration on Consciousness_ in Non-Human Animals_"_ fue proclamada públicamente durante el evento de cierre de la conferencia "_Francis Crick Memorial"_ en la universidad de Cambridge, Inglaterra, sobre conciencia en animales humanos y no humanos. La declaración presenta algunas observaciones derivadas del estudio de los sustratos neurobiológicos de la experiencia consciente y comportamientos relacionados con la conciencia en animales humanos y no humanos, para declarar que:
+
+> _"La ausencia de un neocórtex no parece impedir que un organismo pueda experimentar estados afectivos. Las pruebas convergentes indican que los animales no humanos tienen los sustratos neuroanatómicos, neuroquímicos y neurofisiológicos de los estados de conciencia junto con la capacidad de exhibir comportamientos intencionales. En consecuencia, el peso de las pruebas indica que los humanos no son los únicos que poseen los sustratos neurológicos que generan la conciencia. Los animales no humanos, incluidos todos los mamíferos y las aves, y muchas otras criaturas, como los pulpos, también poseen estos sustratos neurológicos"_
+
+[Cambridge Declaration on Consciousness・Phillip Low Foundation](https://philiplow.foundation/consciousness/ "Cambridge Declaration on Counsciousness"){:target='_blank' class="caption"}
+
+Phillip Low escribió la Declaración de Cambridge sobre la conciencia _"Cambridge Declaration on Consciousness",_ con las ediciones de Aak Panksepp, Diana Reiss, David Edelman, Bruno Van Swinderen, Philip Low, y Christof Koch. La declaración fue firmada por todes les asistentes al evento, incluyendo la asistente de Stephen Hawking quien firmó a su nombre.
+
+Sabemos más allá de toda duda razonable que los animales no humanos experimentan sensaciones, emociones y estados de conciencia, entendiendo conciencia como: _"capacidad para percibir la propia existencia y la del mundo al alrededor"_. La evidencia cuestiona la idea creacionista de que por pertenecer a nuestra especie y poseer "alma" y conciencia tenemos el derecho a someter a animales de otras especies. Declarar a los animales como personas no humanas a las que se les deberían garantizar algunos derechos básicos tiene sentido, y la única razón para que sea ético tomar la vida de algún animal no humano sería por defensa propia o supervivencia. No habría ninguna razón éticamente válida para usar animales no humanos como mercancía.
+
+Aunque está comprobado que los peces están en capacidad para percibir sensaciones, lo que los haría dignos de consideración moral así no sean conscientes, en la declaración no se incluyen peces debido a que en el momento no tenían datos suficientes para hacerlo, no porque la capacidad de conciencia en peces esté descartada.
+
+<div class="video-wrapper"><iframe src="https://www.youtube.com/watch?v=57E-Lawrvx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+
+[FiRe 2015: The Cambridge Declaration on Consciousness・Youtube](https://www.youtube.com/watch?v=57E-Lawrvx0 "FiRe 2015: The Cambridge Declaration on Consciousness"){:target='_blank' class="caption"}
+
 ### Veganismo y antiespecismo como oposición al carnismo
 
-El condicionamiento cultural es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― _Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo_. ― El carnismo es el sistema de creencias que condiciona a la población para que consuma algunos animales. Es la ideología que soporta el especismo que es una forma de discriminación que consiste en tratar a animales de unas especies como dignos de consideración moral, mientras se domina y explota a animales de otras, a pesar de que sus intereses pueden ser equivalentes.
+El condicionamiento cultural detrás de nuestra relación de dominación y explotación con animales de otras especies es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― _Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo_. ― El carnismo es el sistema de creencias que condiciona a la población para que consuma algunos animales, es la ideología que soporta el especismo que es una forma de discriminación que consiste en tratar a animales de unas especies como dignos de consideración moral, mientras se domina y explota a animales de otras, a pesar de que sus intereses pueden ser equivalentes.
 
-Esta es una presentación en la que la autora introduce las ideas principales de su libro. Recuerda activar los subtítulos en Español.
+La autora introduce las ideas principales de su libro en esta presentación. Recuerda activar los subtítulos en Español.
 
 <div class="video-wrapper"> <iframe src="https://www.youtube.com/embed/o0VrZPBskpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
