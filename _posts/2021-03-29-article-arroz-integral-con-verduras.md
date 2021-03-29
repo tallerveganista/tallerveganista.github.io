@@ -5,7 +5,7 @@ published: true
 layout: recipe
 lesson-url: /leccion-la-industria-del-huevo/
 lesson-number: Lección 3
-lesson-id: lesson-two-recipe-one
+lesson-id: lesson-two-recipe-two
 categories:
   - Recetas
   - Lección 3
