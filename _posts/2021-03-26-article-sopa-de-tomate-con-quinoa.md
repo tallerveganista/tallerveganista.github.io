@@ -3,7 +3,7 @@ published: true
 layout: post
 published: true
 layout: recipe
-lesson-url: /leccion-veganismo/
+lesson-url: /leccion-la-industria-del-huevo/
 lesson-number: Lección 3
 lesson-id: lesson-two-recipe-one
 categories:
