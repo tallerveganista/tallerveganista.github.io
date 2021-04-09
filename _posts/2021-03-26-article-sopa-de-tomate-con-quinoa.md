@@ -55,7 +55,3 @@ date: 2021-03-26
 </ol>
 
 <p class="post-content-p post-content-space">Para complentar recomiendo servir con aguacate y cilantro 💚😋.</p>
-
-<p>Para más recetas visítame en instagram <a class="link" target="_blank" href="[https://www.instagram.com/saluda_lu/](https://www.instagram.com/saluda_lu/ "https://www.instagram.com/saluda_lu/")">@saluda_lu</a></p>
-
-<p>Para más recetas visítame en Instagram [@saluda_lu](https://www.instagram.com/saluda_lu/)</p>
