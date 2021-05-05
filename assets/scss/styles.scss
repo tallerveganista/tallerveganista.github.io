@@ -552,6 +552,7 @@ blockquote{
   & p{
     font-family: $sans-serif;
     font-weight: $bold;
+    font-size: $small-text;
     & span{
       font-size: $small-text;
       margin: 0 .5rem;
@@ -588,7 +589,7 @@ blockquote{
 }
 
 .alert{
-  background-color: $brand;
+  background-color: $brand-2;
   color: $dark;
 }
 
