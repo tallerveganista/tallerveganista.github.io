@@ -5,7 +5,7 @@ categories:
 - Activismo
 tags:
 - article
-- highlight-article
+- blog-gallery
 title: ¿El mejor discurso que jamás escucharás, o veganismo para posicionar matones?
 date: 2021-02-02
 excerpt: La imagen de Gary Yourofsky como un pionero del activismo que ha dedicado
