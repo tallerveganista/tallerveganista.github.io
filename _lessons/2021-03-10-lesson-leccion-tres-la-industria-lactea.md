@@ -130,7 +130,7 @@ Desde el parto hasta que la cría es separada de su madre, se deja que la cría 
 
 Luego de separarla de su cría, la vaca es integrada a la línea de producción para ser ordeñada dos veces diarias. Desde día primero al cien se presenta el pico de producción que va declinando progresivamente.
 
-![Un trabajador conecta una pezonera a las ubres de una vaca para ordeñarla en una lechería en Chile](../assets/images/lessons/leccion-04-ordeño.jpg)
+![Un trabajador conecta una pezonera a las ubres de una vaca para ordeñarla en una lechería en Chile](../assets/images/lessons/leccion-04-ordeno.jpg)
 [Un trabajador conecta una pezonera a las ubres de una vaca para ordeñarla en una lechería en Chile ・ Gabriela Penela・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=dairy+chile&assetType=default){:target='_blank' class="caption"}
 
 #### Ordeño
