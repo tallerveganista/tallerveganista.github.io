@@ -16,7 +16,7 @@ description: Características de la especie <i>Bos Taurus,</i> y prácticas est�
 
 ---
 <p class="highlight-text p-big center-lg">
-<span class="icon icon-warning"></span> Este artículo contiene imágenes de abuso sexual.
+<span class="icon icon-warning"></span> Este artículo contiene imágenes de tortura y abuso sexual.
 </p>
 
 Vacas y toros domesticados pertenecen a la especie *Bos Taurus,* son animales sociales que interactúan de maneras complejas y pueden desarrollar relaciones colaborativas. En libertad podrían pasar el tiempo paseando, buscando comida, socializando y masticando, son curiosas y dedican más tiempo cuidando a integrantes de sus manadas que tengan heridas o enfermedades que a quienes estén bien. La especie *Aurochs,* de donde viene la especie *Bos Taurus,* fue domesticada hace unos diez mil años cerca de lo que ahora es la India y criada selectivamente hasta llegar a las razas cebú *Taurus Indicus* modernas. Otras poblaciones fueron domesticadas en el Medio oriente y Asia, creando las razas taurinas o "sin joroba" de hoy *Taurus Taurus.*
@@ -61,6 +61,12 @@ Una placa plástica que se cuelga de la oreja y es aplica perforando la oreja de
 #### Placa metálica
 
 Una placa que se dobla sobre la piel de la oreja.
+
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/RasYxu8ewr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[Marcación mediante hierro caliente・Ganadería Colombia S.A.](https://www.youtube.com/watch?v=RasYxu8ewr4){:target='_blank' class="caption"}
 
 #### Hierro candente
 
