@@ -24,7 +24,7 @@ date: 2021-06-28
 <img src="../assets/images/posts/receta-picado-de-garbanzos-landscape.jpg">
 </figure>
 
-<p>Anímate preparar algo rico, económico y saludable como éste picado súper sencillo con ensalada de remolacha que te hace recordar la comida de las abuelas.</p>
+<p class="post-content-p post-content-space">Anímate preparar algo rico, económico y saludable como éste picado súper sencillo con ensalada de remolacha que te hace recordar la comida de las abuelas.</p>
 
 <h3>Ingredientes (2 a 3 porciones)</h3>
 

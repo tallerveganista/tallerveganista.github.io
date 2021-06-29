@@ -25,7 +25,7 @@ date: 2021-03-26
 <img src="../assets/images/posts/receta-sopa-de-tomate-con-quinoa-landscape.jpg">
 </figure>
 
-<p>Especial para reconfortar los días de frío. Una preparación diferente pero sencilla y nutritiva.</p>
+<p class="post-content-p post-content-space">Especial para reconfortar los días de frío. Una preparación diferente pero sencilla y nutritiva.</p>
 
 <h3>Ingredientes (4 porciones)</h3>
 

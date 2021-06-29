@@ -26,7 +26,7 @@ date: 2021-03-29
 <img src="../assets/images/posts/receta-arroz-integral-con-verduras-landscape.jpg">
 </figure>
 
-<p>Nutritivo, fácil y rico. Una receta que te salvará en esos días agitados y que podrás guardar sin problema para llevar al trabajo. Además podrás darle un toque diferente y más aromático utilizando las hojas del apio 😉.</p>
+<p class="post-content-p post-content-space">Nutritivo, fácil y rico. Una receta que te salvará en esos días agitados y que podrás guardar sin problema para llevar al trabajo. Además podrás darle un toque diferente y más aromático utilizando las hojas del apio 😉.</p>
 
 <h3>Ingredientes (4-5 porciones)</h3>
 
