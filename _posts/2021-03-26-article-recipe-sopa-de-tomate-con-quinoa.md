@@ -2,7 +2,7 @@
 layout: recipe
 lesson-url: "/leccion-la-industria-del-huevo/"
 lesson-number: Lección 3
-lesson-id: lesson-two-recipe-one
+lesson-id: lesson-three-recipe-one
 categories:
 - Recetas
 - Lección 3
@@ -54,6 +54,6 @@ date: 2021-03-26
 <li>Luego licuar o procesar una parte de la sopa. Calentar y revolver otro poco.</li>
 </ol>
 
-<p class="post-content-p post-content-space">Para complentar recomiendo servir con aguacate y cilantro 💚😋.</p>
+<p>Para complentar recomiendo servir con aguacate y cilantro 💚😋.</p>
 
-<p>Para más recetas visítame en instagram <a class="link" target="_blank" href="https://www.instagram.com/saluda_lu">@saluda_lu</a></p>
+<p class="post-content-p post-content-space">Para más recetas visítame en instagram <a class="link" target="_blank" href="https://www.instagram.com/saluda_lu">@saluda_lu</a></p>

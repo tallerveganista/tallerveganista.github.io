@@ -7,7 +7,7 @@ title: La industria láctea
 category: lesson
 date: 2021-06-21
 excerpt: Características de la especie <i>Bos Taurus,</i> y prácticas estándar de la industria láctea en Colombia.
-recipe-introduction:
+recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas antes de empezar las recetas.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-04-la-industria-lactea-square.jpg"
 alt-image:
