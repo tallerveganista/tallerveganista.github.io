@@ -46,7 +46,7 @@ El material de apoyo para zootecnistas es una buena fuente de información para 
 Hay tres sistemas, el extensivo o tradicional (pastoreo o traspatio), el semi intensivo y el intensivo. El más rentable y recomendado es el intensivo con aves encerradas en galpones. Pueden estar en jaulas o en el piso, pero en todo caso la idea es tener la mayor cantidad de gallinas posible por metro cuadrado para optimizar el espacio. De 4 a 6 ponedoras o de 10 a 12 pollos. En este sistema se somete a los animales a hasta 17 horas de luz artificial para incrementar la producción de sus cuerpos.
 
 ![Producción de pollos y huevos en la granja avícola del grupo ZAO Agrosila](../assets/images/lessons/leccion-03-polluelos-a-punto-de-ser-triturados-por-una-maquina.jpg)
-[Polluelos a punto de ser triturados por una máquina・"Sacrificio" de pollos・Anónimos por los Derechos de los Animales・Usar la foto y agregar el crédito no implica que apoyemos a esta organización ni al gobierno de Israel.](https://www.flickr.com/photos/animal_il/8144748206/){:target='_blank' class="caption"}
+[Polluelos a punto de ser triturados por una máquina・"Sacrificio" de pollos・Anónimos por los Derechos de los Animales・Usar la foto y agregar el crédito no implica que apoyemos a esta organización ni al régimen de ocupación Israelita.](https://www.flickr.com/photos/animal_il/8144748206/){:target='_blank' class="caption"}
 
 #### Asesinato de polluelos
 
