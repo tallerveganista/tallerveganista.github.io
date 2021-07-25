@@ -18,6 +18,6 @@ Queremos evitar que quienes tienen empatía y voluntad de actuar se desanimen de
 
 En este sitio encontrarás lecciones sobre como transitar al veganismo de forma correcta; entendiendo porque es importante hacerlo, actividades relacionadas con antiespecismo y veganismo, además de artículos para compartir nuestro conocimiento y opiniones. Esperamos que sea útil y agradable.
 
-"No lucho contra los facsistas porque vaya a ganar. Lucho contra los fascistas porque son fascistas"
+> "No lucho contra los facsistas porque vaya a ganar. Lucho contra los fascistas porque son fascistas" {: class="p-big"}
 
 Chris Hedges (Vegano)
