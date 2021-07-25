@@ -23,4 +23,4 @@ En este sitio encontrarás lecciones sobre como transitar al veganismo de forma 
 >
 > {: class="p-big"}
 
-Chris Hedges (Vegano){:class="caption"}
+<p class="caption">Chris Hedges (Vegano)</p>
