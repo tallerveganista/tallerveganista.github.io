@@ -84,8 +84,7 @@ Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminu
 
 ### Veganes por antiespecismo
 
-Si somos veganes porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran de nuestra propiedad, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día.
-{:class="p-big"}
+Si somos veganes porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran mercancía, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día. {:class="p-big"}
 
 La siguiente lección será una introducción a la nutrición basada en plantas y a partir de la tercera lección, conoceremos el horror que hay detrás de las diferentes industrias de explotación animal. También entenderemos el sistema de creencias absurdas y tradiciones que normalizan la violencia.
 
