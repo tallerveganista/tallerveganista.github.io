@@ -5,7 +5,7 @@ tags:
 - lesson
 title: Introducción a la nutrición basada en plantas
 category: lesson
-date: 2020-12-29
+date: 2020-12-18
 excerpt: Observaciones sobre la dieta estándar, datos básicos sobre nutrición basada
   en plantas y recursos para planear fácilmente.
 recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas
