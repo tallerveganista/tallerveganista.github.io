@@ -41,7 +41,7 @@ Al igual que cualquier otra ave, las gallinas ponen huevos como parte de su cicl
 
 El material de apoyo para zootecnistas es una buena fuente de información para entender cuáles son las prácticas estándar en la industria local. En este caso consultamos el [Manual de gallinas ponedoras](https://fdocuments.es/document/manual-de-gallina-ponedora-sena.html){:target='_blank' class="link"} del Servicio Nacional de Aprendizaje.
 
-#### Sistemas de producción avicola
+#### Sistemas de producción avícola
 
 Hay tres sistemas, el extensivo o tradicional (pastoreo o traspatio), el semi intensivo y el intensivo. El más rentable y recomendado es el intensivo con aves encerradas en galpones. Pueden estar en jaulas o en el piso, pero en todo caso la idea es tener la mayor cantidad de gallinas posible por metro cuadrado para optimizar el espacio. De 4 a 6 ponedoras o de 10 a 12 pollos. En este sistema se somete a los animales a hasta 17 horas de luz artificial para incrementar la producción de sus cuerpos.
 
@@ -67,7 +67,7 @@ A no poder vivir en libertad, ni según la organización social propia de su esp
 
 Las gallinas que dejan de ser productivas son vendidas para la producción de sopas de gallina y alimento para mascotas.
 
-### El mito huevo como fuente de proteína accesible para personas de bajos recursos
+### El mito del huevo como fuente de proteína accesible para personas de bajos recursos
 
 En la lección anterior aprendimos que podemos obtener la cantidad necesaria de proteínas sin consumir cadáveres o secreciones, y que podemos alimentarnos muy bien con un presupuesto limitado, sin embargo la industria avícola con su poder mediático y presupuesto para contratar agencias de publicidad, más la ayuda de instituciones académicas y gubernamentales han posicionado el mito del huevo como fuente de proteína accesible para gente necesitada. En Colombia el arroz con huevo es un símbolo de la clase trabajadora porque es lo que se come cuando no hay mercado. En el canal de Youtube [Estrato Medio,](https://www.youtube.com/channel/UCuekDajifVRHHSsju_EaKZA){:target='_blank' class="link"} en donde por lo demás hay un muy buen trabajo de análisis de la actualidad nacional, les creadores de contenido promueven este símbolo sin tener en cuenta que el huevo es producto de la explotación, tortura y asesinato de animales no humanos que sienten y valoran sus vidas igual que nosotres.
 
