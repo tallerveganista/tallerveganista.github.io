@@ -6,20 +6,23 @@ tags:
 title: La industria láctea
 category: lesson
 date: 2021-06-21
-excerpt: Características de la especie <i>Bos Taurus,</i> y prácticas estándar de la industria láctea en Colombia.
-recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas antes de empezar las recetas.
+excerpt: Características de la especie <i>Bos Taurus,</i> y prácticas estándar de
+  la industria láctea en Colombia.
+recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas
+  antes de empezar las recetas.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-04-la-industria-lactea-square.jpg"
-alt-image:
+alt-image: 
 permalink: "/leccion-la-industria-láctea/"
-description: Características de la especie <i>Bos Taurus,</i> y prácticas estándar de la industria láctea en Colombia.
+description: Características de la especie <i>Bos Taurus,</i> y prácticas estándar
+  de la industria láctea en Colombia.
 
 ---
 <p class="highlight-text p-big center-lg">
 <span class="icon icon-warning"></span> Este artículo contiene imágenes de tortura y abuso sexual.
 </p>
 
-Vacas y toros domesticados pertenecen a la especie *Bos Taurus,* son animales sociales que interactúan de maneras complejas y pueden desarrollar relaciones colaborativas. En libertad podrían pasar el tiempo paseando, buscando comida, socializando y masticando, son curiosas y dedican más tiempo cuidando a integrantes de sus manadas que tengan heridas o enfermedades que a quienes estén bien. La especie *Aurochs,* de donde viene la especie *Bos Taurus,* fue domesticada hace unos diez mil años cerca de lo que ahora es la India y criada selectivamente hasta llegar a las razas cebú *Taurus Indicus* modernas. Otras poblaciones fueron domesticadas en el Medio oriente y Asia, creando las razas taurinas o "sin joroba" de hoy *Taurus Taurus.*
+Vacas y toros domesticados pertenecen a la especie _Bos Taurus,_ son animales sociales que interactúan de maneras complejas y pueden desarrollar relaciones colaborativas. En libertad podrían pasar el tiempo paseando, buscando comida, socializando y masticando, son curiosas y dedican más tiempo cuidando a integrantes de sus manadas que tengan heridas o enfermedades que a quienes estén bien. La especie _Aurochs,_ de donde viene la especie _Bos Taurus,_ fue domesticada hace unos diez mil años cerca de lo que ahora es la India y criada selectivamente hasta llegar a las razas cebú _Taurus Indicus_ modernas. Otras poblaciones fueron domesticadas en el Medio oriente y Asia, creando las razas taurinas o "sin joroba" de hoy _Taurus Taurus._
 
 Como cualquier especie de la clase mamífero, las vacas producen leche cuando paren una cría, y la leche es para alimentarle. Una vaca o una cabra propiedad de humanos tiene el sistema reproductivo colonizado y transformado en una máquina que produce leche para la venta. La clave del negocio es que el animal produzca la mayor cantidad de leche posible durante su vida, y para lograr ese objetivo es necesario someterle a cuantos embarazos resista que serían entre cinco y ocho, usualmente por medio de inseminaciones artificiales. En nuestra cultura esta práctica no se percibe como un acto de bestialismo y abuso sexual sino como un procedimiento normal. También es importante evitar que las crías consuman la leche que el cuerpo de sus madres produjo para alimentarles y esto no se percibe como un robo sino como producción legítima.
 
@@ -41,7 +44,7 @@ Las crías hembras son criadas para repetir el ciclo de sus madres y los machos 
 
 ## La industria de la leche de vaca en Colombia
 
-Algunos procedimientos estándar de la industria ganadera en Colombia según el *Módulo de manejo bovino* de Fedegán, el *Método integral para la gestión de la producción de lechería especializada, en el trópico alto cundinamarqués* del SENA, más las Cartillas *Ordeño manual* y *Ordeño con equipo mecánico, e Inseminación artificial* del SENA, la revista *Laguna Lechera* los sitio web *Contexto Ganadero* y *Producción Animal*
+Algunos procedimientos estándar de la industria ganadera en Colombia según el _Módulo de manejo bovino_ de Fedegán, el _Método integral para la gestión de la producción de lechería especializada, en el trópico alto cundinamarqués_ del SENA, más las Cartillas _Ordeño manual_ y _Ordeño con equipo mecánico, e Inseminación artificial_ del SENA, la revista _Laguna Lechera_ los sitio web _Contexto Ganadero_ y _Producción Animal_
 
 ### Identificación
 
@@ -98,7 +101,7 @@ Si el crecimiento de los cuernos no se atrofia en las primeras semanas, los cuer
 
 #### Descornación con la técnica de Barnes
 
-Se mutila el cuerno con un dispositivo llamado *descornador de Barnes*. En ocasiones se puede ocasionar un sangrado profuso que debe tratarse realizando una hemostasia por pinzamiento de la arteria corunal. Se debe proteger la herida contra infecciones.
+Se mutila el cuerno con un dispositivo llamado _descornador de Barnes_. En ocasiones se puede ocasionar un sangrado profuso que debe tratarse realizando una hemostasia por pinzamiento de la arteria corunal. Se debe proteger la herida contra infecciones.
 
 #### Elastro-amputación
 
@@ -120,7 +123,6 @@ Los toros de las razas usadas para la producción lechera son grandes y agresivo
 </div>
 
 [Como Realizar el Proceso de Inseminación Artificial en Bovinos・TvAgro](https://www.youtube.com/watch?v=13Y-oGONdBA){:target='_blank' class="caption"}
-
 
 Los embarazos de las vacas duran nueve meses y normalmente paren una sola cría. Entre los 6 y 22 meses de nacidas, dependiendo de su raza, son preñadas por primera vez, para continuar pariendo cada 12 o 13 meses durante el resto de sus vidas. Después de cada parto hay un periodo de entre 60 y 115 días antes de repetir el proceso mediante monta o inseminación artificial. A la inseminación se le llama "servicio" y en algunas ocasiones es necesario más de un "servicio" por cada preñez.
 
@@ -164,7 +166,7 @@ Para amplificar la producción de leche y la ganancia económica, en algunas gra
 
 Usualmente no estamos conscientes de que la leche es un alimento que las madres mamíferas producen para alimentar a sus crías durante su periodo de lactancia. No tiene ningún sentido consumir leche luego de ese período y menos cuando esta leche es de otra especie, sin embargo estamos constantemente expuestos a publicidad que manipula datos nutricionales y tradiciones culturales que nos impiden develar el absurdo y la crueldad detrás de los lácteos.
 
-Podemos mencionar también el mito hinduista de la diosa Kamadhenu, madre de todas las vacas, que a su vez son generosas y nos comparten su leche; el mito explica porque la mayoría de hinduhistas y practicantes de yoga continúan consumiendo lácteos. Aunque debo expresar mi agradecimiento con los y las hinduistas que han montado restaurantes vegetarianos con opciones veganas, prestando un servicio muy valioso para nosotres. No puedo dejar de decir que me aterra como el pensamiento mágico logra que personas con buenas intenciones, desinformen a la comunidad y afirmen su participación activa en la crueldad contra vacas y cabras, mientras se rodean de un halo de santidad que raya en lo ridículo.
+Podemos mencionar también el mito hinduista de la diosa Kamadhenu, madre de todas las vacas, que a su vez son generosas y nos comparten su leche; el mito explica porque la mayoría de hinduhistas y practicantes de yoga continúan consumiendo lácteos. Aunque debo expresar mi agradecimiento con los y las hinduistas que han montado restaurantes vegetarianos con opciones veganas, prestando un servicio muy valioso para nosotres. No puedo dejar de decir que me aterra como el pensamiento mágico logra que personas con buenas intenciones, desinformen a la comunidad y afirmen su participación activa en la crueldad contra vacas y cabras, mientras se rodean de un halo de santidad que molesta un poco.
 
 Contrario a la creencia popular y la de las instituciones gubernamentales que desperdician dinero financiando la ganadería con nuestros impuestos, el consumo de leche de otras especies no solamente es completamente innecesario sino que causa enfermedades que nuestra cultura ha normalizado. En la siguiente lección veremos porque los lácteos son tan perjudiciales para la salud, y porque muchas personas tienen problemas para dejar de consumirlos.
 
