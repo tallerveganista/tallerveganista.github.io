@@ -1153,6 +1153,12 @@ blockquote{
   }
 }
 
+.professional-links{
+  & li{
+    list-style-type: none !important;
+  }
+}
+
 
 // Footer
 

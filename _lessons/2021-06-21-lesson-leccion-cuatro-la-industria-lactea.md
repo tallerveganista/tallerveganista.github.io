@@ -12,7 +12,7 @@ recipe-introduction: Revisa los ingredientes que necesitarás y las preparacione
   antes de empezar las recetas.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-04-la-industria-lactea-square.jpg"
-alt-image: 
+alt-image:
 permalink: "/leccion-la-industria-láctea/"
 description: Características de la especie <i>Bos Taurus,</i> y prácticas estándar
   de la industria láctea en Colombia.
@@ -37,14 +37,14 @@ Cuando se deja a las crías más tiempo con sus madres en un intento por minimiz
 ![Todavía mojado de nacimiento, un ternero es alejado de su madre a las jaulas de terneros en una lechería en España](../assets/images/lessons/leccion-04-ternero-alejado-de-su-madre.jpg)
 [Todavía mojado de nacimiento, un ternero es alejado de su madre a las jaulas de terneros en una lechería en España ・Jo-Anne McArthur・Animal Equality / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=dairy+spain&assetType=default){:target='_blank' class="caption"}
 
-Las crías hembras son criadas para repetir el ciclo de sus madres y los machos al no tener valor para la industria de la leche son vendidos para ser levantados y asesinados por su carne de "ternera".
+Las hembras son criadas para repetir el ciclo de sus madres y los machos al no tener valor para la industria de la leche son vendidos para ser levantados y asesinados por su carne de "ternera".
 
 ![Ternera confinada en aislamiento en una lechería en Chile, asoma su cabeza, arriba del corral se ve una pizarra con su número de identificación y el nombre de su padre](../assets/images/lessons/leccion-04-ternera-encerrada.jpg)
-[Ternera confinada en aislamiento en una lechería en Chile, asoma su cabeza, arriba del corral se ve una pizarra con su número de identificación y el nombre de su padre ・ Gabriela Penela・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=dairy+chile&assetType=default){:target='_blank' class="caption"}
+[Ternera confinada en aislamiento en una lechería en Chile, asoma su cabeza, arriba del corral se ve una pizarra con su número de identificación y el nombre de su padre・Gabriela Penela・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=dairy+chile&assetType=default){:target='_blank' class="caption"}
 
 ## La industria de la leche de vaca en Colombia
 
-Algunos procedimientos estándar de la industria ganadera en Colombia según el _Módulo de manejo bovino_ de Fedegán, el _Método integral para la gestión de la producción de lechería especializada, en el trópico alto cundinamarqués_ del SENA, más las Cartillas _Ordeño manual_ y _Ordeño con equipo mecánico, e Inseminación artificial_ del SENA, la revista _Laguna Lechera_ los sitio web _Contexto Ganadero_ y _Producción Animal_
+Algunos procedimientos estándar de la industria ganadera en Colombia según el _Módulo de manejo bovino_ de Fedegán, el _Método integral para la gestión de la producción de lechería especializada, en el trópico alto cundinamarqués_ del SENA, más las Cartillas _Ordeño manual_ y _Ordeño con equipo mecánico, e Inseminación artificial_ del SENA, la revista _Laguna Lechera_ los sitios web _Contexto Ganadero_ y _Producción Animal_
 
 ### Identificación
 
