@@ -55,6 +55,10 @@ $micro-line-height: 1.6rem;
 
 // Styles
 
+::selection, -moz-selection{
+  color: $dark;
+  background: $brand-2;
+}
 
 @font-face {
   font-family: 'League Spartan Variable';
