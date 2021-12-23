@@ -70,7 +70,7 @@ Las acciones individuales son importantes, pero no podemos olvidar que quienes t
 
 [Pentagon Fuel Use, Climate Change, and the Costs of War・Neta C. Crawford・Boston University](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2019/Pentagon%20Fuel%20Use,%20Climate%20Change%20and%20the%20Costs%20of%20War%20Final.pdf){:target='_blank' class="caption"}
 
-La motivación ambiental tiene dos problemas graves. El primero es que dentro de esa lógica el reduccionismo _Día sin carne, vegetarianismo, etc..._ son más que suficiente, cuando ni el veganismo es suficiente, y que ideas como alimentar con algas a las vacas para que no produzcan metano y explotarlas ecológicamente, fabricar un material biodegradable parecido al plástico a partir de caparazones de cangrejos, y demás maquinaciones espantosas que involucran a animales como materia prima, pasan como acciones éticamente válidas.
+La motivación ambiental tiene dos problemas graves. El primero es que dentro de esa lógica el reduccionismo _Día sin carne, vegetarianismo, etc..._ es más que suficiente, cuando ni el veganismo lo es, y que ideas como alimentar con algas a las vacas para que no produzcan metano y explotarlas ecológicamente, fabricar un material biodegradable parecido al plástico a partir de caparazones de cangrejos, y demás maquinaciones espantosas que involucran a animales como materia prima, pasan como acciones éticamente válidas.
 
 La pregunta entonces deja de ser si consumir como lo hacemos es apoyar un sistema de explotación que no es ético, y se convierte en qué tan sostenible es la producción de un cadáver o una secreción. Así no pasa nada con "darse un gusto" después de hacer tantos "sacrificios" por "el ambiente" (sacrificios que como van las cosas, serán en vano).
 
