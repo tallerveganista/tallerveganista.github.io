@@ -81,7 +81,7 @@ La industria avícola obviamente está defendiendo sus intereses económicos y n
 
 ### El mito de las gallinas felices
 
-En tiendas ecológicas y supermercados, se comercializan huevos de "gallinas felices". Una etiqueta que tranquiliza la conciencia de quienes consumen, y permite que el producto tenga un valor más alto. Esta etiqueta es engañosa porque la principal motivación no es la "felicidad" de los animales explotados sino mejorar la reputación de los productores y supuestamente la calidad del producto. En una granja de "gallinas felices", las gallinas tienen acceso a espacios al aire libre, una cama de paja, su alimentación está basada en restos de comida más lo que puedan encontrar pastoreando y en algunos casos cuidos catalogados como ecológicos. Ahi termina la diferencia porque el resto de prácticas se mantienen. Despique, asesinato de polluelos y "descarte" de las gallinas que van disminuyendo su producción. Este sistema es insostenible para satisfacer la demanda porque por cada gallina se requiere de un metro cuadrado.
+En tiendas ecológicas y supermercados, se comercializan huevos de "gallinas felices". Una etiqueta que tranquiliza la conciencia de quienes consumen, y permite que el producto tenga un valor más alto. Esta etiqueta es engañosa porque la principal motivación no es la "felicidad" de los animales explotados sino mejorar la reputación de los productores y supuestamente la calidad del producto. En una granja de "gallinas felices", las gallinas tienen acceso a espacios al aire libre, una cama de paja, su alimentación está basada en restos de comida más lo que puedan encontrar pastoreando, y en algunos casos cuidos catalogados como ecológicos. Ahi termina la diferencia porque el resto de prácticas se mantienen. Despique, asesinato de polluelos y "descarte" de las gallinas que van disminuyendo su producción. Este sistema es insostenible para satisfacer la demanda porque por cada gallina se requiere de un metro cuadrado.
 
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/dgUFCejv0Lg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -113,6 +113,7 @@ La práctica de matar a los polluelos recién nacidos se popularizó durante los
 ### Referencias
 
 * [Chicken・Britanica](https://www.britannica.com/animal/chicken){:target='_blank' class="reference"}
+* [Manual de gallinas ponedoras・Servicio Nacional de Aprendizaje](https://fdocuments.es/document/manual-de-gallina-ponedora-sena.html){:target='_blank' class="reference"}
 * [Facts & Stats・United Eggs Producers](https://unitedegg.com/facts-stats/){:target='_blank' class="reference"}
 * [Evolution of U.S. Egg Farming・United Eggs Producers](https://unitedegg.com/about/evolution-of-u-s-egg-farming//){:target='_blank' class="reference"}
 * [Chickens・Farm Sanctuary](https://www.farmsanctuary.org/chickens/){:target='_blank' class="reference"}
