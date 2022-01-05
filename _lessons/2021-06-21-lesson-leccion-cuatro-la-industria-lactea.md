@@ -164,7 +164,7 @@ Para amplificar la producción de leche y la ganancia económica, en algunas gra
 
 ## ¿Necesitamos consumir leche de otras especies?
 
-Usualmente no estamos conscientes de que la leche es un alimento que las madres mamíferas producen para alimentar a sus crías durante su periodo de lactancia. No tiene ningún sentido consumir leche luego de ese período y menos cuando esta leche es de otra especie, sin embargo estamos constantemente expuestos a publicidad que manipula datos nutricionales y tradiciones culturales que nos impiden develar el absurdo y la crueldad detrás de los lácteos.
+Usualmente las personas no están conscientes de que la leche es un alimento que las madres mamíferas producen para alimentar a sus crías durante su periodo de lactancia. No tiene ningún sentido consumir leche luego de ese período y menos cuando esta leche es de otra especie, sin embargo estamos constantemente expuestos a publicidad que manipula datos nutricionales y tradiciones culturales que nos impiden develar el absurdo y la crueldad detrás de los lácteos.
 
 Puedo mencionar también el mito hinduista de la diosa Kamadhenu, madre de todas las vacas, que a su vez son generosas y nos comparten su leche; el mito explica porque la mayoría de hinduhistas y practicantes de yoga continúan consumiendo lácteos. Aunque los y las hinduistas que han montado restaurantes vegetarianos con opciones veganas prestan un servicio muy valioso, me aterra ver como el pensamiento mágico logra que personas con buenas intenciones, desinformen a la comunidad y afirmen su participación activa en la crueldad contra vacas y cabras, mientras hablan de conciencia y espiritualidad.
 
