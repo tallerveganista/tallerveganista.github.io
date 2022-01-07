@@ -96,12 +96,12 @@ Tiene sentido evolutivo que nuestros instintos nos impulsen a buscar comidas con
 
 ### Referencias
 
-* [Health Concerns About Dairy・Comité de Médicos por una Medicina Responsable](https://www.pcrm.org/news/exam-room-podcast/dangers-dairy){:target='_blank' class="reference"}
+* [Health Concerns About Dairy・Comité de Médicos por una Medicina Responsable](https://www.pcrm.org/good-nutrition/nutrition-information/health-concerns-about-dairy){:target='_blank' class="reference"}
 * [Dangers of Dairy・Comité de Médicos por una Medicina Responsable](https://www.pcrm.org/news/exam-room-podcast/dangers-dairy){:target='_blank' class="reference"}
 * [Five Frightful Facts About Cheese・Comité de Médicos por una Medicina Responsable](https://www.pcrm.org/news/blog/five-frightful-facts-about-cheese){:target='_blank' class="reference"}
 * [What the Dairy Industry Doesn't Want You to Know・Dr. Neal Barnard](https://www.youtube.com/watch?v=cW8LzJuFgm8){:target='_blank' class="reference"}
 * [Provisional Mortality Data — United States, 2020・Publimed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030985/){:target='_blank' class="reference"}
-* [How Many SARS-CoV-2-Infected People Require Hospitalization? Using Random Sample Testing to Better Inform Preparedness Efforts・Publimed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030985/){:target='_blank' class="reference"}
+* [How Many SARS-CoV-2-Infected People Require Hospitalization? Using Random Sample Testing to Better Inform Preparedness Efforts・Publimed](https://pubmed.ncbi.nlm.nih.gov/33729203/){:target='_blank' class="reference"}
 * [Updates: Billionaire Wealth, U.S. Job Losses and Pandemic Profiteers・ Inequality.org](https://inequality.org/great-divide/updates-billionaire-pandemic/){:target='_blank' class="reference"}
 * [Los 20 más ricos del mundo aumentaron 30% su fortuna en 2021・El Espectador](https://www.elespectador.com/economia/macroeconomia/los-20-mas-ricos-del-mundo-aumentaron-30-su-fortuna-en-2021/){:target='_blank' class="reference"}
 * [Cae el número de hogares urbanos que come tres veces al día, según el DANE・El Espectador](https://www.elespectador.com/economia/macroeconomia/cae-el-numero-de-hogares-urbanos-que-come-tres-veces-al-dia-segun-el-dane/ ){:target='_blank' class="reference"}
