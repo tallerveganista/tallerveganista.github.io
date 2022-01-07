@@ -12,7 +12,7 @@ recipe-introduction: Revisa los ingredientes que necesitarás y las preparacione
   antes de empezar las recetas.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-04-la-industria-lactea-square.jpg"
-alt-image:
+alt-image: Ternera confinada en aislamiento en una lechería en Chile, asoma su cabeza, arriba del corral se ve una pizarra con su número de identificación y el nombre de su padre.
 permalink: "/leccion-la-industria-láctea/"
 description: Características de la especie <i>Bos Taurus,</i> y prácticas estándar
   de la industria láctea en Colombia.

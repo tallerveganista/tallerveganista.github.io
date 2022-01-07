@@ -37,7 +37,7 @@ Lo que nos permite experimentar sensaciones y tener una experiencia subjetiva de
 <iframe src="https://www.youtube.com/embed/m2dtEhHxpXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[¿Por qué no ser vegano?・Macakiux・Youtube](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
+[¿Por qué no ser vegano?・Macakiux](https://www.youtube.com/watch?v=m2dtEhHxpXA){:target='_blank' class="caption"}
 
 <p class="caption-no-link after-caption-link">Una pequeña anotación sobre el video: Mike menciona que salvamos animales pero no tenemos suficiente influencia todavía como para disminuir la producción ganadera y pesquera. Sólamente salvan animales quienes les rescatan y/o cuidan en santuarios o sus lugares de residencia. Tampoco sabemos con certeza si otros humanos fueron explotados en la producción de nuestra comida, o si la producción pertenece a monocultivos que destruyen ecosistemas. El veganismo es un comienzo pero el problema de la explotación y destrucción ambiental es más complejo. Tesla pertenece a Elon Musk, un billonario explotador, racista y pro-imperialista que apoyó el violento golpe de estado contra Evo Morales. Sus autos eléctricos supuestamente reducen emisiones pero definitivamente están manchados de sangre y explotación.</p>
 
@@ -69,6 +69,8 @@ La autora introduce las ideas principales de su libro en esta presentación. Rec
 
 <div class="video-wrapper"> <iframe src="https://www.youtube.com/embed/o0VrZPBskpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
-[Toward Rational, Authentic Food Choices・Melanie Joy・Ted München・Youtube](https://www.youtube.com/watch?v=o0VrZPBskpg){:target='_blank' class="caption"}
+[Toward Rational, Authentic Food Choices・Melanie Joy・Ted München](https://www.youtube.com/watch?v=o0VrZPBskpg){:target='_blank' class="caption"}
+
+*Incrusto y hago links a videos de Youtube únicamente porque no puedo encontrarlos en otra fuente. No porque quiera apoyar o legitimar a esta plataforma propiedad de Alphabet (Google), que extrae y usa irresponsablemente datos de las personas que usan sus servicios, manipula y censura a favor del establecimiento.*
 
 Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero si tenemos suficiente acceso a alimentos de origen vegetal, no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
