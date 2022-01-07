@@ -6,13 +6,13 @@ tags:
 title: ¿Porqué consumir lácteos es perjudicial para la salud?
 category: lesson
 date: 2022-01-06
-excerpt: Riesgos para la salud relacionados con el consumo de lácteos y cuestionamientos a los mitos que la industria a posicionado.
+excerpt: Riesgos para la salud relacionados con el consumo de lácteos y cuestionamientos a los mitos que la industria ha posicionado.
 recipe-introduction:
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-05-peligros-de-los-lacteos-square.jpg"
 alt-image:
 permalink: "/leccion-peligros-de-los-lácteos/"
-description: Riesgos para la salud relacionados con el consumo de lácteos y cuestionamientos a los mitos que la industria a posicionado en nuestra cultura.
+description: Riesgos para la salud relacionados con el consumo de lácteos y cuestionamientos a los mitos que la industria ha posicionado en nuestra cultura.
 ---
 La idea de que los lácteos son saludables y necesarios está muy bien posicionada pero no podría estar más lejos de la realidad. Lo que demuestra la evidencia es que además de otros problemas, los lácteos son la principal fuente de grasa saturada en la dieta, por tanto su consumo contribuye con el desarrollo de enfermedades cardiovasculares, diabetes tipo 1 y 2, y Alzheimer. Hay una relación directa entre el consumo de lácteos y el incremento en el riesgo de sufrir cánceres reproductivos.
 
