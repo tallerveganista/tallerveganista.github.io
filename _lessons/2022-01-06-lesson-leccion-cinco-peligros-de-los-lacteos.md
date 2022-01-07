@@ -64,35 +64,56 @@ La recomendación de las pirámides alimenticias tradicionales es de tres porcio
 
 Un estudio publicado en la Revista Británica de Cáncer,  _British Journal of Cancer_ demostró que las personas estudiadas que evitaron consumir lácteos debido a que presentaban intolerancia a la lactosa, tuvieron una menor incidencia en cáncer de pulmón, cáncer de mama y cáncer de ovarios que sus familiares que no evitaron los lácteos. El estudio sugiere que evitar la grasa saturada y hormonas extra que se encuentran en los lácteos, es una medida protectora contra ciertos tipos de cáncer.
 
-En Colombia, las campañas genéricas están a cargo de _Asoleche._ Recomiendan comer cinco veces al día, e incluir una porción de lácteos en cada comida porque según la asociación, los lácteos son un "superalimento". También recurren a manipular el patriotismo, la imagen de la finca tradicional, y la solidaridad con las campesinas y campesinas del país para promover el consumo de lácteos.
+## Intoleracia a la lactosa
 
-<div class="video-wrapper">
-<iframe src="https://www.youtube.com/embed/xCRxGI6OU4k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Bebés, niños y niñas producen encimas que rompen la lactosa que es el azúcar que se encuentra en la leche materna y la leche de vaca, pero cuando vamos creciendo, muchos de nosotros perdemos esa capacidad.
 
-[Consume lácteos Colombianos・Asoleche・Sociedad de Agricultores y Ganaderos SAGAN・Ministerio de Agrigultura y Desarrollo Rural](https://www.youtube.com/watch?v=xCRxGI6OU4k){:target='_blank' class="caption"}
+Entre 60% a 70% de las personas en Estados Unidos, son intolerantes a la lactosa. Al revisar la información sobre grupos étnicos aparte, vemos que la intolerancia a la lactosa se presenta en 95% de Asiáticos americanos, entre 80% y 100% de nativos americanos, entre 60% y 80% de afroamericanos y judíos asquenazí, de 50% a 80% de latinoamericanos y 15% de caucásicos. Cuando el cuerpo no produce la encima que rompe la lactosa, este azúcar queda en el sistema digestivo llenándose de bacterias. No es una enfermedad mortal, pero sí disminuye la calidad de vida, al causar malestar estomacal, diarrea y gases.
 
-Según datos de la encuesta _Pulso Social,_ del _Departamento Administrativo Nacional de Estadística (DANE),_ en un 30,5% de los hogares del país, no se puede comer ni tres veces al día. Mientras tanto, un gobierno criminal e incompetente malgasta dinero público en publicidad para promover productos nocivos para la salud, provenientes de grandes conglomerados empresariales no necesariamente locales; y tiene el descaro de usar la imagen de las campesinas y campesinos a quienes maltrata económica y físicamente.
+## Contaminantes
 
-<div class="video-wrapper">
-<iframe src="https://www.youtube.com/embed/cW8LzJuFgm8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Los lácteos contienen contaminantes que van desde hormonas a pesticidas. La leche naturalmente contiene hormonas y factores de crecimiento producidos dentro del cuerpo de una vaca, más hormonas artificiales agregadas como la hormona de crecimiento bovino (rBGH), con la que se alimenta a las vacas para incrementar su producción de leche.
 
-[What the Dairy Industry Doesn't Want You to Know・Dr. Neal Barnard・En Inglés sin subtítulos](https://www.youtube.com/watch?v=cW8LzJuFgm8&feature=emb_logo){:target='_blank' class="caption"}
+Para tratar la mastitis se usan antibióticos, y trazas de esos antibióticos se han encontrado en muestras de leche y lácteos. Desafortunadamente, los antibióticos son usados frecuentemente porque la mastitis es muy común, debido a las prácticas encaminadas a que las vacas produzcan más leche de la que naturalmente producen.
 
-## ¿Porqué a algunas personas les cuesta tanto trabajo dejar los lácteos?
+En la leche también se encuentran pesticidas, bifenilos policlorados (PCB's) y dioxinas. Los lácteos contribuyen con entre un cuarto y la mitad de el consumo total de dioxinas, que se van acumulando en el cuerpo con el tiempo. Eventualmente esto puede afectar los sistemas inmune, reproductivo y nervioso. Los PCB's y las dioxinas también se han vinculado con el cáncer.
 
-En el 2015, la Universidad de Michigan hizo una encuesta para averiguar cuáles eran las comidas más difíciles de dejar, o de disminuir en la dieta, y con cuáles comidas las personas pierden el control y consumen más de lo que deberían. En la medición de las comidas más adictivas, las cinco primeras posiciones fueron ocupadas por:
+Otros contaminantes que pueden encontrarse en la leche son la melamina, frecuentemente encontrada en plásticos y que es dañina para los riñones y el tracto urinario; Además de otras toxinas causantes de cáncer como las aflatoxinas.
 
-1. Pizza
-2. Chocolate
-3. Papas Fritas
-4. Galletas
-5. Helado
+## Proteína de la leche y diabetes
 
-Para el Doctor Barnard, la razón por la que la pizza es la comida más adictiva es la cantidad de queso que contiene. Muchas personas que intentan llevar una dieta a base de plantas tienen problemas para dejar de consumir queso debido a que han desarrollado una adicción a este producto.
+El consumo de productos lácteos en la infancia está vinculado con el desarrollo de diabetes tipo 1, que hace que las personas que lo sufren dependan de inyectarse insulina. Quienes tienen una predisposición genética hacia la diabetes, tienen un aumento en el riesgo de sufrir de diabetes si se introducen lácteos en sus dietas de manera temprana. Adicionalmente, la Asociación Americana de Pediatras _American Academy of Pediatrics_observó un 30% de reducción de incidencia de diabetes tipo 1, en bebés a que no se expusieron a la proteína de la leche de vaca, al menos durante los primeros tres meses de sus vidas.
 
-Tiene sentido evolutivo que nuestros instintos nos impulsen a buscar comidas con un alto contenido en calorías, grasa y sal, porque consumir buenas cantidades de calorías y grasa nos ayudaría a sobrevivir en caso de no encontrar suficiente comida, y porque la sal, aunque necesaria solía ser difícil de encontrar. Además de la grasa y calorías contenidas en la leche, a los productos lácteos más adictivos como el helado y el queso se les agrega sal y/o azúcar; aparte de esto, los lácteos contienen unos componentes similares a los opioides llamados caseomorfinas, que se adhieren a los mismos receptores cerebrales que las drogas adictivas. Al igual que los opioides, cuando las caseomorfinas se adhieren a los receptores, el cerebro libera dopamina, produciendo una sensación de placer y recompensa que es menos fuerte que la de los opioides, pero que puede ser bastante adictiva. En el proceso de secado del queso la caseína es concentrada, aumentando el nivel de caseomorfinas y su efecto. Las caseomorfinas funcionan muy bien para asegurar que bebés de mamíferos consuman la cantidad de leche que necesitan para crecer hasta que puedan sobervivir con otros alimentos y se les pueda destetar, pero para los humanos el consumo de caseomorfinas continúa luego del destete con la leche de animales de otras especies. La industria láctea y las entidades gubernamentales que promocionan sus productos saben que debido a la ingesta de caseomorfinas existe un ahnelo por los lácteos que pueden impulsar desde el mercadeo.
+## Riesgos de salud para bebés, niños y niñas
+
+Las proteínas de la leche, el azúcar, la grasa y grasa saturada en los productos lácteos, puede producir obesidad, diabetes y enfermedades cardíacas. Mientras algunos profesionales recomiendan consumir leche baja en grasa para reducir el riesgo de obesidad, un estudio publicado en los Archivos de enfermedades en la niñez _Archives of Disease in Childhood,_ mostró que quienes consumieron leche baja en grasa, no redujeron la posibilidad de sufrir de obesidad, en comparación con quienes consumieron leche con la grasa completa.
+
+La leche de vaca no es recomendada para bebés, La Academia Americana de Pediatría recomienda que a los bebés de menos de un año no se les alimente con leche de vaca, no solamente es el hierro en la leche de vaca difícil de absorber para los bebes, sino que también esta leche puede causar sangrados microscópicos en sus intestinos.
+
+Los cólicos también están relacionados con el consumo de leche de vaca. Más del 28% de los bebés sufren de cólicos durante su primer mes de vida, y los pediatras encontraron hace bastante tiempo que la causa era generalmente esta leche. También saben que las madres lactantes pueden tener bebés con cólicos si ellas la consumen, porque las proteínas de la leche de vaca pasan a través del torrente sanguíneo hasta su leche, y de ahí al bebé, causando los síntomas.
+
+Adicionalmente, niños y niñas que consumen leche de vaca son más susceptibles a desarrollar alergias y a sufrir de estreñimiento crónico.
+
+## Cuestionando mitos sobre los lácteos
+
+Cuando conocemos los riesgos asociados con consumir lácteos, podemos cuestionar algunas creencias que se han posicionado alrededor de su consumo.
+
+### ¿Son necesarios los lácteos para el crecimiento de niñas y niños?
+
+La leche de vaca promueve en humanos crecimiento pero en partes de nuestro cuerpo que no queremos que crezcan. Al contener la hormona de crecimiento bovino (rBGH) dentro de sus componentes, la leche estimula anormalidades en el crecimiento celular, lo que en otras palabras se conoce como cáncer.
+
+### ¿La leche nos protege contra la osteoporosis?
+
+Incrementar el consumo de leche no reduce el riesgo de osteoporosis. Para reducir el riesgo de sufrir esta enfermedad, es necesario reducir el consumo de sodio, muy alto en el queso, la comida rápida y la de paquetes, además aumentar el consumo de calcio de fuentes vegetales como Frijoles de ojo negro (Black Eyed Peas), Kale, Broccoli, y hacer ejercicio regularmente.
+
+### ¿Necesitamos leche para obtener vitamina D?
+
+La leche sin fortificación no tiene nada de vitamina D, y de la suplementada sólo del 10% a 15% de la vitamina D dietaria se puede absorber. La mejor manera de obtener vitamina D, es a través de la exposición al sol. En caso de no tener acceso a la luz solar, se recomienda una suplementación. Los hongos contienen vitamina D2, pero no reemplazarían la luz solar o los suplementos.
+
+### ¿Consumir leche ayuda a reducir el peso corporal?
+
+Un meta-análisis encontró que no hay evidencia para argumentar que incrementar el consumo de lácteos disminuye la grasa corporal y favorece la reducción del peso en el largo plazo como afirmaban las campañas publicitarias y mediáticas de la industria.
+
 
 ### Referencias
 
@@ -104,7 +125,6 @@ Tiene sentido evolutivo que nuestros instintos nos impulsen a buscar comidas con
 * [How Many SARS-CoV-2-Infected People Require Hospitalization? Using Random Sample Testing to Better Inform Preparedness Efforts・Publimed](https://pubmed.ncbi.nlm.nih.gov/33729203/){:target='_blank' class="reference"}
 * [Updates: Billionaire Wealth, U.S. Job Losses and Pandemic Profiteers・ Inequality.org](https://inequality.org/great-divide/updates-billionaire-pandemic/){:target='_blank' class="reference"}
 * [Los 20 más ricos del mundo aumentaron 30% su fortuna en 2021・El Espectador](https://www.elespectador.com/economia/macroeconomia/los-20-mas-ricos-del-mundo-aumentaron-30-su-fortuna-en-2021/){:target='_blank' class="reference"}
-* [Cae el número de hogares urbanos que come tres veces al día, según el DANE・El Espectador](https://www.elespectador.com/economia/macroeconomia/cae-el-numero-de-hogares-urbanos-que-come-tres-veces-al-dia-segun-el-dane/ ){:target='_blank' class="reference"}
 * ["Go Ahead, Get Omicron" Urges Israel's Former Health Minister・The Jimmy Dore Show](https://rokfin.com/post/66210/Go-Ahead-Get-Omicron-Urges-Israels-Former-Health-Minister){:target='_blank' class="reference"}
 
 *Usar artículos de El Espectador como referencia no implica que esté apoyando o legitimando a este medio de la facción "liberal" del establecimiento colombiano.*
