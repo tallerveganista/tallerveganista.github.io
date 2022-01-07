@@ -112,7 +112,7 @@ La leche sin fortificación no tiene nada de vitamina D, y de la suplementada s�
 
 ### ¿Consumir leche ayuda a reducir el peso corporal?
 
-Un meta-análisis encontró que no hay evidencia para argumentar que incrementar el consumo de lácteos disminuye la grasa corporal y favorece la reducción del peso en el largo plazo como afirmaban las campañas publicitarias y mediáticas de la industria que fueron retiradas cuando el Comité de Médicos por una Medicina Responsable las denunció por su contenido fraudulento.
+Un meta-análisis encontró que no hay evidencia para argumentar que incrementar el consumo de lácteos disminuye la grasa corporal y favorece la reducción del peso en el largo plazo como afirmaban las campañas publicitarias y mediáticas de la industria que fueron suspendidas cuando el Comité de Médicos por una Medicina Responsable las denunció y logró demostrar que su contenido es fraudulento.
 
 En la siguiente lección conoceremos cómo la industria láctea posiciona sus productos con campañas engañosas y estudios amañados, y entenderemos porque los lácteos son tan adictivos.
 
