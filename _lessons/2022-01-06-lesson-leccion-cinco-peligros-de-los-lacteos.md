@@ -86,7 +86,7 @@ El consumo de productos lácteos en la infancia está vinculado con el desarroll
 
 ## Riesgos de salud para bebés, niños y niñas
 
-Las proteínas de la leche, el azúcar, la grasa y grasa saturada en los productos lácteos, puede producir obesidad, diabetes y enfermedades cardíacas. Mientras algunos profesionales recomiendan consumir leche baja en grasa para reducir el riesgo de obesidad, un estudio publicado en los Archivos de enfermedades en la niñez _Archives of Disease in Childhood,_ mostró que quienes consumieron leche baja en grasa, no redujeron la posibilidad de sufrir de obesidad, en comparación con quienes consumieron leche con la grasa completa.
+Las proteínas de la leche, el azúcar, la grasa y grasa saturada en los productos lácteos, puede producir obesidad, diabetes y enfermedades cardíacas. Mientras algunos profesionales recomiendan consumir leche baja en grasa para reducir el riesgo de obesidad, un estudio publicado en los Archivos de enfermedades en la niñez _Archives of Disease in Childhood,_ mostró que quienes consumieron leche baja en grasa no redujeron la posibilidad de sufrir de obesidad, en comparación con quienes consumieron leche con la grasa completa.
 
 La leche de vaca no es recomendada para bebés, La Academia Americana de Pediatría recomienda que a los bebés de menos de un año no se les alimente con leche de vaca, no solamente es el hierro en la leche de vaca difícil de absorber para los bebes, sino que también esta leche puede causar sangrados microscópicos en sus intestinos.
 
