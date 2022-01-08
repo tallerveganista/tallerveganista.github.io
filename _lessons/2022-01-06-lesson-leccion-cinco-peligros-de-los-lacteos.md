@@ -108,11 +108,11 @@ Incrementar el consumo de leche no reduce el riesgo de osteoporosis. Para reduci
 
 ### ¿Necesitamos leche para obtener vitamina D?
 
-La leche sin fortificación no tiene nada de vitamina D, y de la suplementada sólo del 10% a 15% de la vitamina D dietaria se puede absorber. La mejor manera de obtener vitamina D, es a través de la exposición al sol. En caso de no tener acceso a la luz solar, se recomienda una suplementación. Los hongos contienen vitamina D2, pero no reemplazarían la luz solar o los suplementos.
+La leche sin fortificación no tiene nada de vitamina D, y de la suplementada sólo del 10% a 15% de la vitamina D dietaria se puede absorber. La mejor manera de obtener vitamina D, es a través de la exposición al sol. En caso de no tener acceso a la luz solar, se recomienda una suplementación. Una fuente de vitamina D en alimentos estaría en los hongos, que contienen vitamina D2, aunque adquirir esta vitamina por ese medio no reemplazaría a la luz solar o a los suplementos.
 
 ### ¿Consumir leche ayuda a reducir el peso corporal?
 
-Un meta-análisis encontró que no hay evidencia para argumentar que incrementar el consumo de lácteos disminuye la grasa corporal y favorece la reducción del peso en el largo plazo como afirmaban las campañas publicitarias y mediáticas de la industria que fueron suspendidas cuando el Comité de Médicos por una Medicina Responsable las denunció y logró demostrar que su contenido es fraudulento.
+Un meta-análisis encontró que no hay evidencia para argumentar que incrementar el consumo de lácteos disminuye la grasa corporal, y favorece la reducción del peso en el largo plazo, como afirmaban las campañas publicitarias y mediáticas de la industria, que fueron suspendidas cuando el Comité de Médicos por una Medicina Responsable las denunció y logró demostrar que su contenido es fraudulento.
 
 En la siguiente lección conoceremos cómo la industria láctea posiciona sus productos con campañas engañosas y estudios amañados, y entenderemos porque los lácteos son tan adictivos.
 
