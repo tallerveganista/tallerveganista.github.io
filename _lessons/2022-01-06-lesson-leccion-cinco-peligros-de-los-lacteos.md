@@ -82,7 +82,7 @@ Otros contaminantes que pueden encontrarse en la leche son la melamina, frecuent
 
 ## Proteína de la leche y diabetes
 
-El consumo de productos lácteos en la infancia está vinculado con el desarrollo de diabetes tipo 1, que hace que las personas que lo sufren dependan de inyecciones de insulina. Quienes tienen una predisposición genética hacia la diabetes, son expuestos a un aumento en el riesgo de sufrir de diabetes si se introducen lácteos en sus dietas de manera temprana. Adicionalmente, la Asociación Americana de Pediatras, _American Academy of Pediatrics_ observó un 30% de reducción de incidencia de diabetes tipo 1, en bebés a quienes no expusieron a la proteína de la leche de vaca al menos durante los primeros tres meses de sus vidas.
+El consumo de productos lácteos en la infancia está vinculado con el desarrollo de diabetes tipo 1, que hace que las personas que lo sufren dependan de inyecciones de insulina. Quienes tienen una predisposición genética hacia la diabetes, son expuestas y expuestos a un aumento en el riesgo de sufrir de diabetes si se introducen lácteos en sus dietas de manera temprana. Adicionalmente, la Asociación Americana de Pediatras, _American Academy of Pediatrics_ observó un 30% de reducción de incidencia de diabetes tipo 1, en bebés a quienes no expusieron a la proteína de la leche de vaca al menos durante los primeros tres meses de sus vidas.
 
 ## Riesgos de salud para bebés, niños y niñas
 
