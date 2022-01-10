@@ -126,6 +126,6 @@ En la siguiente lección conoceremos cómo la industria láctea posiciona sus pr
 * [How Many SARS-CoV-2-Infected People Require Hospitalization? Using Random Sample Testing to Better Inform Preparedness Efforts・Publimed](https://pubmed.ncbi.nlm.nih.gov/33729203/){:target='_blank' class="reference"}
 * [Updates: Billionaire Wealth, U.S. Job Losses and Pandemic Profiteers・ Inequality.org](https://inequality.org/great-divide/updates-billionaire-pandemic/){:target='_blank' class="reference"}
 * [Los 20 más ricos del mundo aumentaron 30% su fortuna en 2021・El Espectador](https://www.elespectador.com/economia/macroeconomia/los-20-mas-ricos-del-mundo-aumentaron-30-su-fortuna-en-2021/){:target='_blank' class="reference"}
-* ["Go Ahead, Get Omicron" Urges Israel's Former Health Minister・The Jimmy Dore Show](https://rokfin.com/post/66210/Go-Ahead-Get-Omicron-Urges-Israels-Former-Health-Minister){:target='_blank' class="reference"}
+* ["Go Ahead, Get Omicron" Urges Israel's Former Health Minister・The Jimmy Dore Show](https://rumble.com/vro4q8-go-ahead-get-omicron-urges-israels-former-health-minister.html){:target='_blank' class="reference"}
 
 *Usar artículos de El Espectador como referencia no implica que esté apoyando o legitimando a este medio de la facción "liberal" del establecimiento colombiano.*
