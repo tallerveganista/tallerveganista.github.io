@@ -28,7 +28,6 @@ lessons-text: Diez lecciones en las que aprenderás sobre consideraciones ética
   a la explotación animal, nutrición a base de plantas, impacto ambiental de la ganadería y la pesca, y activismo. Tendrás la posibilidad de conocer a más personas veganas
   de la ciudad.
 lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
-description: Toda la información que necesitas para unirte a la lucha antiespecista
-  desde tus hábitos de vida y tu participación ciudadana.
+description: Oponerse a la explotación y la violencia es luchar por una sociedad justa. Acá está toda la información que necesitas para unirte a la lucha por la liberación colectiva, desde tus hábitos de vida y tu participación ciudadana.
 
 ---
