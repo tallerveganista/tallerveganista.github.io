@@ -71,6 +71,6 @@ La autora introduce las ideas principales de su libro en esta presentación. Rec
 
 [Toward Rational, Authentic Food Choices・Melanie Joy・Ted München](https://www.youtube.com/watch?v=o0VrZPBskpg){:target='_blank' class="caption"}
 
-*Incrusto y hago links a videos de Youtube únicamente porque no puedo encontrarlos en otra fuente. No porque quiera apoyar o legitimar a esta plataforma propiedad de Alphabet (Google), que extrae y usa irresponsablemente datos de las personas que usan sus servicios, manipula y censura a favor del establecimiento.*
+*Incrusto y hago links a videos de Youtube únicamente porque no puedo encontrarlos en otra fuente. No porque quiera apoyar o legitimar a esta plataforma propiedad de Alphabet (Google), que extrae y usa irresponsablemente datos de las personas que usan sus servicios, manipula y censura a favor del establecimiento.*{:class="caption"}
 
-Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero si tenemos suficiente acceso a alimentos de origen vegetal, no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
+Vivir en una cultura especista hace que dejar de participar directamente en la violencia sistemática contra los animales requiera de un aprendizaje adicional, pero si tenemos suficiente acceso a alimentos de origen vegetal y algo de tiempo para cocinar, no es nada del otro mundo. El objetivo de este proyecto es usar nuestra experiencia para facilitar el proceso de aprendizaje y apoyar a quienes quieren experimentar el veganismo.
