@@ -26,7 +26,7 @@ layout: basic-structure
                 <!-- col end -->
                 <div class="col-xs-12 col-sm-6 col-lg-6">
                   <p class="author-date">{% assign m = event.event-date | date: "%-m" %} {% case m %} {% when '1' %}Enero {% when '2' %}Febrero {% when '3' %}Marzo {% when '4' %}Abril {% when '5' %}Mayo {% when '6' %}Junio {% when '7' %}Julio {% when '8' %}Agosto {% when '9' %}Septiembre {% when '10' %}Octubre {% when '11' %}Noviembre {% when '12' %}Diciembre {% endcase %} {{ event.event-date | date: "%d" }} / {{ event.event-date | date: "%Y" }}</p>
-                  <p class="category">{{ event.categories | join: ' &nbsp | &nbsp ' }}</p>
+                  <p class="category">{{ event.categories | join: '&nbsp | &nbsp' }}</p>
                   <h2>{{ event.title }}</h2>
                   <p>{{ event.excerpt | truncate: 320 }}</p>
                 </div>

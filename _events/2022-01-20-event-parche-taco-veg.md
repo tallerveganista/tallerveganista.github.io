@@ -2,6 +2,7 @@
 layout: event
 categories:
   - Comida afuera
+  - Restaurantes
 tags:
   - highlight-event
   - event
