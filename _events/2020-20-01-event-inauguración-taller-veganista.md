@@ -3,7 +3,7 @@ layout: event
 categories:
   - Comida afuera
 tags:
-  - highlight-event
+  - events-gallery
   - event
 title: 'Picnic, inauguración Taller Veganista'
 date: '2020-12-02'
