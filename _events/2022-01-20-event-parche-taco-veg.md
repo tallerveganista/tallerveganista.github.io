@@ -14,7 +14,7 @@ excerpt: >-
 image-landscape: /assets/images/events/parche-taco-veg-taller-veganista.jpg
 image: /assets/images/events/parche-taco-veg-taller-veganista-square.jpg
 permalink: /parche-en-taco-veg/
-description: Evento de inauguración del proyecto Taller Veganista.
+description: La idea es relajarse un rato, compartir y comer algo vegano y mexicano en Taco Veg. Hay tacos, mazorquitas, burritos, nachos, quesadillas y bebidas. Recomendados los nachos, pero todo es rico.
 published: true
 ---
 
