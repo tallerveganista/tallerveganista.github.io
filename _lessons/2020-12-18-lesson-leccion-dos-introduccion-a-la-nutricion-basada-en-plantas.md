@@ -85,7 +85,7 @@ Aunque no es requerido, se recomienda tomar suplementos de Omega 3. - DHA y EPA 
 
 ### Hierro y zinc
 
-En una dieta a base de plantas se puede consumir más hierro y zinc que una dieta estándar, pero la asimilación depende de evitar inhibidores como el café, el vino y el té, cuyo consumo debe evitarse al menos una hora antes de una comida.
+En una dieta a base de plantas, se puede consumir más hierro y zinc que una dieta estándar, pero la asimilación depende de evitar inhibidores como el café, el vino y el té, cuyo consumo debe evitarse al menos una hora antes de una comida.
 
 La absorción se puede mejorar con promotores que serían cítricos, nueces y granos integrales, vegetales de hoja verde, cebolla y ajo.
 
