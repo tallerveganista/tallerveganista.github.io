@@ -61,7 +61,7 @@ Este mito tiene su origen en los estudios de Thomas B. Osborne y Lafayette Mende
 
 Consumir proteínas de origen animal conlleva un exceso del aminoácido metionina, exceso que promueve un envejecimiento acelerado. Las especies animales con una expectativa de vida menor, son las que tienen una concentración mayor de metionina en sus tejidos.
 
-Todas las proteínas contienen algo de aminoácidos esenciales y no es necesario consumir grandes cantidades de aminoácidos en cada comida porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
+Todas las proteínas contienen algo de aminoácidos esenciales, y no es necesario consumir grandes cantidades de aminoácidos en cada comida, porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
 
 ### Ácidos grasos. Omega 3 y omega 6
 
@@ -81,7 +81,7 @@ La enzima que metaboliza estos ácidos grasos es la Delta-6 Desaturase que puede
 * Papas fritas
 * Nueces mixtas con aceites vegetales horneados (De paquete de mecato)
 
-Aunque no es requerido se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día y que provenga de microalgas.
+Aunque no es requerido, se recomienda tomar suplementos de Omega 3. - DHA y EPA de mínimo 250ml por día, y que provenga de microalgas.
 
 ### Hierro y zinc
 
