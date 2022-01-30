@@ -137,11 +137,11 @@ Generalmente se asocia una dieta baja en carbohidratos con una dieta saludable, 
 
 El doctor Michael Greger tenía pegada en su nevera una lista con los alimentos que trataba de incluir a diario en su dieta, e iba chequeando una vez los consumía. Esta práctica evolucionó en el desarrollo de la aplicación La [Docena Diaria](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="link"} que es básicamente la lista del doctor Greger para chequear en nuestros teléfonos y simplificar la tarea de planear nuestra alimentación.
 
-Podemos revisar cuáles alimentos necesitamos para tener en cuenta en el momento de comprar comida y usar la aplicación durante el día para saber si estamos comiendo lo que necesitamos mientras nos acostumbramos a una dieta a base de plantas.
+Podemos revisar cuáles alimentos necesitamos para tener en cuenta en el momento de comprar comida, y usar la aplicación durante el día para saber si estamos comiendo lo que necesitamos, mientras nos acostumbramos a una dieta a base de plantas.
 
 Un plato bien balanceado puede ser: un cuarto de leguminosas, un cuarto de cereales integrales, la mitad de vegetales de la familia crucífera, hojas verdes y otros vegetales, una fruta como postre y un vaso de agua.
 
-Además de comer lo mejor que podamos, incluir algo de ejercicio diario, exposición al sol o un suplemento de vitamina D, recordar la suplementación de vitamina B12 y ya está. El doctor Greger recomienda no obsesionarse con chequear todos los alimentos porque hay días en los que no podemos comer así de bien. Si un día no comemos bien, al otro día podemos intentar hacerlo mejor y así.
+Además de comer lo mejor que podamos, incluir algo de ejercicio diario, exposición al sol o un suplemento de vitamina D, recordar la suplementación de vitamina B12 y ya está. El doctor Greger recomienda no obsesionarse con chequear todos los alimentos, porque hay días en los que no podemos comer así de bien. Si un día no comemos bien, al otro día podemos intentar hacerlo mejor y así.
 
 Video sobre la Docena Diaria. Recuerda configurar los subtítulos para Español.
 
