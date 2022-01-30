@@ -59,7 +59,7 @@ Es casi imposible sufrir una deficiencia de proteínas, si la dieta no restringe
 
 Este mito tiene su origen en los estudios de Thomas B. Osborne y Lafayette Mendel en 1909. En el estudio alimentaron a unas ratas albinas con proteína de leche, y a otras con proteína de trigo. Las ratas alimentadas con proteína de leche crecieron más rápido y eran más grandes. Concluyeron que existían diferencias entre el valor biológico de la proteína animal y vegetal, determinando que las proteínas animales son completas y de alto valor biológico, mientras que las vegetales incompletas con valor biológico limitado. Esta clasificación fue desmentida en 1950 porque nuestras necesidades nutricionales y expectativa de vida es muy distinta a la de las ratas, crecemos más lento porque vivimos más tiempo, y nuestras demandas metabólicas son diferentes.
 
-Consumir proteínas de origen animal conlleva un exceso del aminoácido metionina, exceso que promueve un envejecimiento acelerado. Las especies animales con una expectativa de vida menor son las que tienen una concentración mayor de metionina en sus tejidos.
+Consumir proteínas de origen animal conlleva un exceso del aminoácido metionina, exceso que promueve un envejecimiento acelerado. Las especies animales con una expectativa de vida menor, son las que tienen una concentración mayor de metionina en sus tejidos.
 
 Todas las proteínas contienen algo de aminoácidos esenciales y no es necesario consumir grandes cantidades de aminoácidos en cada comida porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
 
