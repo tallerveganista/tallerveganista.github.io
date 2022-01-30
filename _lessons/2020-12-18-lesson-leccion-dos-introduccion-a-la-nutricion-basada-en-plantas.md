@@ -39,11 +39,11 @@ Una buena aproximación sería no tener miedo al cambio, comer bastante y variad
 
 ## Información básica sobre nutrición basada en plantas
 
-Buena parte del contenido para esta sección está sustentado en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender. Yo no soy nutricionista, entonces puedo comenter algunas imprecisiones, pero les dejo las referencias, para que sigan investigando.
+Buena parte del contenido para esta sección, está sustentado en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender. Yo no soy nutricionista, entonces puedo comenter algunas imprecisiones, pero les dejo las referencias, para que sigan investigando.
 
 ### ¿Cuál es la dieta más adecuada?
 
-La dieta más adecuada para nuestra especie es una donde todas las calorías vengan de frutas, semillas, verduras, cereales integrales y legumbres. Alta en fibra y baja en alimentos procesados. Una alimentación basada en plantas bien llevada puede ayudar a prevenir el 80% de las enfermedades crónicas y degenerativas, como también detener el progreso de enfermedades cardiovasculares y diabetes.
+La dieta más adecuada para nuestra especie, es una donde todas las calorías vengan de frutas, semillas, verduras, cereales integrales y legumbres. Alta en fibra y baja en alimentos procesados. Una alimentación basada en plantas bien llevada puede ayudar a prevenir el 80% de las enfermedades crónicas y degenerativas, como también detener el progreso de enfermedades cardiovasculares y diabetes.
 
 ### ¿Cómo obtener los nutrientes necesarios?
 
