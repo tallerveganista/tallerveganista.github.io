@@ -2,7 +2,7 @@
 <div class="wrapper container-fluid">
   <!-- row -->
     <ul class="row events-gallery">
-      {% for event in site.events %}
+      {% for event in site.events reversed %}
         {% if event.tags contains 'events-gallery' %}
           <li class="col-xs-12 col-sm-12 col-lg-6" uk-scrollspy="cls: uk-animation-fade; delay: 100">
             <a href="{{ event.url }}">
