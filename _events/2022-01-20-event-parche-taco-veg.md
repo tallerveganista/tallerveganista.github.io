@@ -4,7 +4,7 @@ categories:
   - Comida afuera
   - Restaurantes
 tags:
-  - highlight-event
+  - events-gallery
   - event
 title: 'Parche en Taco Veg'
 date: '2022-01-20'
