@@ -21,7 +21,7 @@ description: Análisis de las declaraciones desafortunadas de una de las figuras
   reconocidas dentro del activismo antiespecista anti-interseccional.
 
 ---
-Dice la leyenda que cuando “El mejor discurso que jamás escucharás” fue traducido al hebreo y promovido por activistas en Israel, la población vegana de ese territorio usurpado violentamente al que llaman país, alcanzó el 8%. Si esa historia es cierta tendríamos que replantear la relación entre consumo individual y producción, que quienes promueven el veganismo como un problema de oferta y demanda defienden, porque la producción ganadera de Israel continuó creciendo como si nada luego de que este señor apareció en la escena en el 2013, y ha crecido de manera estable en Australia después de la aparición de _Anonymous for the Voiceless_ en 2016. Sin comprobar si el video de “El mejor discurso que jamás escucharás” fue crucial o no, en un incremento de la población vegana, si el incremento es real o si fue relevante, la noticia se propagó y le alcanzó a quienes siguen a esta celebridad, para posicionarlo como un líder dentro del movimiento.
+Dice la leyenda que cuando “El mejor discurso que jamás escucharás” fue traducido al hebreo y promovido por activistas en Israel, la población vegana de ese territorio usurpado violentamente al que llaman país, alcanzó el 8%. Si esa historia es cierta tendríamos que replantear la relación entre consumo individual y producción, que quienes promueven el veganismo como un problema de oferta y demanda defienden, porque la producción ganadera de Israel continuó creciendo como si nada luego de que este personaje apareció en la escena en el 2013, y ha crecido de manera estable en Australia después de la aparición de _Anonymous for the Voiceless_ en 2016. Sin comprobar si el video de “El mejor discurso que jamás escucharás” fue crucial o no, en un incremento de la población vegana, si el incremento es real o si fue relevante, la noticia se propagó y le alcanzó a quienes siguen a esta celebridad, para posicionarlo como un líder dentro del movimiento.
 
 ![Gary Yourofsky y ](../assets/images/posts/yourofsky-av-vs-production.jpg)
 
@@ -47,7 +47,7 @@ _Creo que su pene y bolas deberían ser arrancadas lentamente con un removedor d
 
 [Rape Accusations, Violence, Erika and George Carlin! Wait. What?・Gary Yourofsky](https://youtu.be/4ykzTPvy4_Y?t=17){:target='_blank' class="caption"}
 
-Este señor todavía está convencido de que con este comentario reparó su reputación, lo que demuestra su ideología violenta y su total desconexión con los derechos humanos.
+El héroe del veganismo todavía está convencido de que con este comentario reparó su reputación, lo que demuestra su ideología violenta y su total desconexión con los derechos humanos.
 
 ![Gary Yourofsky y la violencia como estrategia para la liberación animal](../assets/images/posts/gary-yourofsky-rambo-landscape.jpg){:class="p-space-img"}
 
@@ -83,7 +83,7 @@ _“La gente negra ha venido marchando en las calles de Estados Unidos porque un
 
 Hay veganas, veganos y activistas antiespecistas dentro de la población afroamericana que son constantemente ignorados por activistas veganos anti-interseccionales, quienes se atreven a hablar de “los negros” como si fueran todos y todas lo mismo. La legitimidad del movimiento anti-racista se sigue sosteniendo, aún suponiendo que en las acciones contra la brutalidad policial y el racismo institucional no hay personas veganas. Gary Yourofsky remueve de consideración moral a quienes trabajan por la reivindicación de sus derechos, porque su supuesta hipocresía descalifica una causa justa. Su postura no es muy diferente a la de cualquier suprematista blanco.
 
-También hay grupos de activismo por los derechos de los animales en Palestina como la [Palestinian Animal League.](https://pal.ps/en/){:target='_blank' class="link"} Negar la existencia de personas veganas y movimientos por los derechos de los animales no humanos en Palestina, es instrumentalizar el veganismo para justificar el _apartheid_ al que el régimen de ocupación israelita tiene sometida a esta población, y deslegitimar una causa justan. Tampoco tiene mucho sentido porque básicamente en todas las culturas y en todos los países se utilizan a los animales como recursos. Si analizamos las cifras, los países "desarrollados" son responsables por más muertes de animales tanto por ganadería y pesca como por impacto ambiental de su población, que los países "subdesarrollados".
+También hay grupos de activismo por los derechos de los animales en Palestina como la [Palestinian Animal League.](https://pal.ps/en/){:target='_blank' class="link"} Negar la existencia de personas veganas y movimientos por los derechos de los animales no humanos en Palestina, es instrumentalizar el veganismo para justificar el _apartheid_ al que el régimen de ocupación israelita tiene sometida a esta población, y deslegitimar una causa justa. Tampoco tiene mucho sentido porque básicamente en todas las culturas y en todos los países se utilizan a los animales como recursos. Si analizamos las cifras, los países "desarrollados" son responsables por más muertes de animales tanto por ganadería y pesca como por impacto ambiental de su población, que los países "subdesarrollados".
 
 ### La misantropía de Gary Yourofsky
 
