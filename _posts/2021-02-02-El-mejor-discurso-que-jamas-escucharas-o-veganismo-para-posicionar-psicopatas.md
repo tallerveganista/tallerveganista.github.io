@@ -47,7 +47,7 @@ _Creo que su pene y bolas deberían ser arrancadas lentamente con un removedor d
 
 [Rape Accusations, Violence, Erika and George Carlin! Wait. What?・Gary Yourofsky](https://youtu.be/4ykzTPvy4_Y?t=17){:target='_blank' class="caption"}
 
-El héroe del veganismo todavía está convencido de que con este comentario reparó su reputación, lo que demuestra su ideología violenta y su total desconexión con los derechos humanos.
+El héroe del veganismo todavía está convencido de que con este comentario reparó su reputación, lo que demuestra su ideología violenta y su total desconexión con la realidad y los derechos humanos.
 
 ![Gary Yourofsky y la violencia como estrategia para la liberación animal](../assets/images/posts/gary-yourofsky-rambo-landscape.jpg){:class="p-space-img"}
 
