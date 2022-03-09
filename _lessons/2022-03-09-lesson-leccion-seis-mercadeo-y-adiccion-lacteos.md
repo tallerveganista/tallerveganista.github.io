@@ -86,9 +86,9 @@ El único recurso que funcionó fue la queja ante la Comisión Federal del Comer
 
 En Colombia, las campañas genéricas están a cargo de _Asoleche._ Recomiendan comer cinco veces al día, e incluir una porción de lácteos en cada comida porque, según la asociación, los lácteos son un "superalimento". También recurren a manipular con el patriotismo, la imagen de la finca tradicional, y la solidaridad con las campesinas y campesinos del país para promover el consumo de lácteos.
 
-Según datos de la encuesta Pulso Social, del DANE, en un 30,5% de los hogares del país, no se puede comer ni tres veces al día. Mientras tanto, un gobierno criminal e incompetente malgasta dinero público en publicidad para promover productos nocivos para la salud, provenientes de grandes conglomerados empresariales no necesariamente locales; y tiene el descaro de usar la imagen de las campesinas y campesinos a quienes maltrata económica y físicamente.
+Según datos de la encuesta Pulso Social, del _Departamento Administrativo Nacional de Estadística_ (DANE), en un 30,5% de los hogares del país, no se puede comer ni siquiera tres veces al día. Mientras tanto, un gobierno criminal e incompetente malgasta dinero público en publicidad para promover productos nocivos para la salud, provenientes de grandes conglomerados empresariales no necesariamente locales; y además tiene el descaro de usar la imagen de las campesinas y campesinos a quienes maltrata económica y físicamente.
 
-## ¿Porqué a algunas personas les cuesta tanto trabajo dejar los lácteos?
+## ¿Por qué a algunas personas les cuesta tanto trabajo dejar los lácteos?
 
 En el 2015, la Universidad de Michigan hizo una encuesta para averiguar cuáles eran las comidas más difíciles de dejar, o de disminuir en la dieta, y con cuáles comidas las personas pierden el control y consumen más de lo que deberían. En la medición de las comidas más adictivas, las cinco primeras posiciones fueron ocupadas por:
 

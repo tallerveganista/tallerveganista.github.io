@@ -3,7 +3,7 @@ layout: lesson
 lesson-number: Lección 5
 tags:
 - lesson
-title: ¿Porqué consumir lácteos es perjudicial para la salud?
+title: ¿Por qué consumir lácteos es perjudicial para la salud?
 category: lesson
 date: 2022-01-06
 excerpt: Riesgos para la salud relacionados con el consumo de lácteos y cuestionamientos a los mitos que la industria ha posicionado.
