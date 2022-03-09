@@ -36,7 +36,7 @@ Las mediciones de las ventas de la leche venían mostrando un mercado rezagado p
 
 [Recopilación de publicidad impresa con fotos de celebridades y dibujos de personajes ficticios para la campaña _Got Milk?_](https://www.flickr.com/photos/gotmilk/with/21242551/){:target='_blank' class="caption"}
 
-Los programas federales y estatales financiaron una avalancha de publicidad que vimos años después. Dentro de las campañas destacadas está la de _Got Milk?_ en los noventa y la década del 2000, de la agencia _Goodby Silverstein & Partners,_ patrocinada por la Junta de Procesadores de Leche de California _California Milk Processor Board._  Una campaña de 20 años que le atribuyó un montón de beneficios milagrosos y mentirosos a la leche, e involucró a la mayoría de celebridades y personajes ficticios populares de la época. Actualmente, el comité promueve el consumo de leche con la campaña _Milk Life._
+Los programas federales y estatales financiaron una avalancha de publicidad que vimos años después. Dentro de las campañas destacadas está la de _Got Milk?_ en los noventa y la década del 2000, de la agencia _Goodby Silverstein & Partners_ y patrocinada por la Junta de Procesadores de Leche de California _California Milk Processor Board._  Una campaña de 20 años que le atribuyó un montón de beneficios milagrosos y mentirosos a la leche, e involucró a la mayoría de celebridades y personajes ficticios populares de la época. Actualmente, el comité promueve el consumo de leche con la campaña _Milk Life._
 
 [Los mejores comerciales de _Got Milk?_ <span class="icon icon-long-arrow-right-light"></span>](https://www.youtube.com/watch?v=eph6_fz49rc&list=PLn-LUAr95FNL9lka95kbeBPMyaIbyykSt){:class="link no-underline" target="_blank"}
 
