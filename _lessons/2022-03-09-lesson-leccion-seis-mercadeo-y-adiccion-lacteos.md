@@ -90,7 +90,7 @@ Según datos de la encuesta Pulso Social, del _Departamento Administrativo Nacio
 
 ## ¿Por qué a algunas personas les cuesta tanto trabajo dejar los lácteos?
 
-En el 2015, la Universidad de Michigan hizo una encuesta para averiguar cuáles eran las comidas más difíciles de dejar, o de disminuir en la dieta, y con cuáles comidas las personas pierden el control y consumen más de lo que deberían. En la medición de las comidas más adictivas, las cinco primeras posiciones fueron ocupadas por:
+En 2015, la Universidad de Michigan hizo una encuesta para averiguar cuáles eran las comidas más difíciles de dejar, o de disminuir en la dieta, y con cuáles comidas las personas pierden el control y consumen más de lo que deberían. En la medición de las comidas más adictivas, las cinco primeras posiciones fueron ocupadas por:
 
 1. Pizza
 2. Chocolate
