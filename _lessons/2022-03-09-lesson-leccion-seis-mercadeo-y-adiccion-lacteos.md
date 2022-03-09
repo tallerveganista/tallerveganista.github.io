@@ -16,7 +16,7 @@ description: La industria de la leche aprovecha las tradiciones y la adicción a
 ---
 La industria de la leche es un negocio gigante que ha aprovechado las tradiciones y la adicción que generan sus productos, para diseñar campañas de mercadeo que han logrado posicionarlos como necesarios y saludables.
 
-Generalmente las personas veganas que hacen activismo por los animales creen que quienes no practican el veganismo son indiferentes y/o crueles con los animales, sin tratar de entender la propaganda que soporta el carnismo y el especismo. Enfrentan un problema cultural como un problema de consumo individual, y tal vez esa sea una de las razones por las que no han tenido éxito. Analizar cómo funciona el mercadeo de la industria láctea, así sea en un contexto distinto al nuestro, es necesario para mejorar nuestras estrategias y entender que las personas directamente responsables de la tragedia de la ganadería y la pesca no son precisamente nuestras vecinas y vecinos que consumen sus productos.
+Generalmente, las personas veganas que hacen activismo por los animales creen que quienes no practican el veganismo son indiferentes y/o crueles con los animales, sin tratar de entender la propaganda que soporta el carnismo y el especismo. Enfrentan un problema cultural como un problema de consumo individual, y tal vez esa sea una de las razones por las que no han tenido éxito. Analizar cómo funciona el mercadeo de la industria láctea, así sea en un contexto distinto al nuestro, es necesario para mejorar nuestras estrategias y entender que las personas directamente responsables de la tragedia de la ganadería y la pesca no son precisamente nuestras vecinas y vecinos que consumen sus productos.
 
 ## ¿Porqué la población en general cree que debe consumir lácteos?
 
