@@ -24,7 +24,7 @@ la información para esta sección está basada en la entrevista a Mark Kennedy 
 
 Los lácteos solían ser productos genéricos que las personas consumían sin fijarse en la marca, por lo que diferentes productores se unían para hacer campañas de publicidad conjuntas, promocionando estos productos sin una marca específica. Aportar para las campañas era voluntario al principio, y luego obligatorio para evitar que algunos productores pudiesen beneficiarse sin aportar.
 
-Durante la Gran Depresión, el gobierno federal se involucró con el mercadeo de _commodities_, para ayudar a varias industrias en problemas, y mucho más adelante, puso en marcha los programas de control  _checkoff programs,_ para promover ciertas industrias. La industria láctea se beneficia de dos de estos; uno para los lácteos en general puesto en marcha en 1984, y otro para la leche líquida implementado en 1993. Las corporaciones de la industria deben aportar dinero para que una entidad haga publicidad a nombre del gremio.
+Durante la Gran Depresión, el gobierno federal se involucró con el mercadeo de _commodities_, para ayudar a varias industrias en problemas, y mucho más adelante, puso en marcha los programas de control  _checkoff programs,_ para promover ciertas industrias. La industria láctea se beneficia de dos de estos: uno para los lácteos en general puesto en marcha en 1984, y otro para la leche líquida implementado en 1993. Las corporaciones de la industria deben aportar dinero para que una entidad haga publicidad a nombre del gremio.
 
 [Programa de control para lácteos. <span class="icon icon-long-arrow-right-light"></span>](https://www.ams.usda.gov/rules-regulations/research-promotion/dairy){:class="link no-underline" target="_blank"}
 
@@ -36,7 +36,7 @@ Las mediciones de las ventas de la leche venían mostrando un mercado rezagado p
 
 [Recopilación de publicidad impresa con fotos de celebridades y dibujos de personajes ficticios para la campaña _Got Milk?_](https://www.flickr.com/photos/gotmilk/with/21242551/){:target='_blank' class="caption"}
 
-Los programas federales y estatales, financiaron una avalancha de publicidad que vimos años después. Dentro de las campañas destacadas está la de _Got Milk?_ en los noventa y la década del 2000, de la agencia _Goodby Silverstein & Partners,_ patrocinada por la Junta de Procesadores de Leche de California _California Milk Processor Board._  Una campaña de 20 años que le atribuyó un montón de beneficios milagrosos y mentirosos a la leche, e involucró a la mayoría de celebridades y personajes ficticios populares de la época. Actualmente, el comité promueve el consumo de leche con la campaña _Milk Life._
+Los programas federales y estatales financiaron una avalancha de publicidad que vimos años después. Dentro de las campañas destacadas está la de _Got Milk?_ en los noventa y la década del 2000, de la agencia _Goodby Silverstein & Partners,_ patrocinada por la Junta de Procesadores de Leche de California _California Milk Processor Board._  Una campaña de 20 años que le atribuyó un montón de beneficios milagrosos y mentirosos a la leche, e involucró a la mayoría de celebridades y personajes ficticios populares de la época. Actualmente, el comité promueve el consumo de leche con la campaña _Milk Life._
 
 [Los mejores comerciales de _Got Milk?_ <span class="icon icon-long-arrow-right-light"></span>](https://www.youtube.com/watch?v=eph6_fz49rc&list=PLn-LUAr95FNL9lka95kbeBPMyaIbyykSt){:class="link no-underline" target="_blank"}
 
