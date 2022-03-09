@@ -60,7 +60,7 @@ El Comité de Médicos por una Medicina responsable analizó los beneficios que 
 
 A cambio de unos cien mil dólares, los restaurantes aceptan agregar más queso a sus preparaciones, y ofrecer nuevos productos con este ingrediente, diseñados por el programa y puestos a prueba con grupos de investigación de mercadeo _focus groups_, lo que a su vez ayuda a mejorar las ventas de los restaurantes.
 
-Otra estrategia fue financiar estudios que indiquen que consumir lácteos contribuye con la pérdida de peso, e inyectar esa idea en la opinión pública. Las campañas publicitarias y mediáticas sostenían que sí las personas consumían tres porciones de lácteos al día, podrían regular su peso corporal, porque los nutrientes de la leche ayudan a quemar calorías.
+Otra estrategia fue financiar estudios que indiquen que consumir lácteos contribuye con la pérdida de peso, e inyectar esa idea en la opinión pública. Las campañas publicitarias y mediáticas sostenían que si las personas consumían tres porciones de lácteos al día, podrían regular su peso corporal, porque los nutrientes de la leche ayudan a quemar calorías.
 
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/_e4VJGXI6ys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
