@@ -76,7 +76,7 @@ Otra estrategia fue financiar estudios que indiquen que consumir lácteos contri
 
 La campaña estuvo basada en estudios nada rigurosos del doctor Michael Zemel, en donde no se revelaban variables clave como si los sujetos bajaban su ingestión de calorías, o si hacían ejercicio. En 2005, El Comité de Estudios por una Medicina Responsable denunció el caso ante la Comisión Federal del Comercio  _Federal Trade Commission_ (FTC), quienes regulan la publicidad en televisión, radio e impresos. También llevó el caso ante la  Administración de Comida y Medicamentos _Food and Drug Administration_ (FDA), que se encarga de regular los empaques de ciertos productos. Adicionalmente, el comité demandó a las compañías que patrocinan las campañas, y a la corporación _Dairy Management Inc_, responsable de ejecutar el programa gubernamental.
 
-El único recurso que funcionó fue la queja ante la Comisión Federal del Comercio _Federal Trade Commission_ (FTC). La Comisión acordó con el programa de control, que la campaña se iba a suspender hasta que el programa pudiese contar con más evidencia que respalde sus afirmaciones. Después de más de diez años, la campaña no se ha retomado.
+El único recurso que funcionó fue la queja ante la Comisión Federal del Comercio _Federal Trade Commission_ (FTC). La Comisión acordó con el programa de control que la campaña se iba a suspender hasta que el programa pudiese contar con más evidencia que respalde sus afirmaciones. Después de más de diez años, la campaña no se ha retomado.
 
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/W8wa0NF_GJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
