@@ -54,7 +54,7 @@ También se destaca la campaña "_Milk - it does a body good_", patrocinada por 
 
 [Milk Boy in A Mirror・America's Dairy Farmers, National Dairy Board.](https://www.youtube.com/watch?v=0G6JymgFusw){:target='_blank' class="caption"}
 
-## Cómo el gobierno se asoció con restaurantes para promover el consumo de queso.
+## Cómo el gobierno de Estados Unidos se asoció con restaurantes de comida rápida para promover el consumo de queso.
 
 El Comité de Médicos por una Medicina responsable analizó los beneficios que se le atribuyen a los lácteos en las campañas, y encontró que eran falsos. El Comité reclamó a la Central de Datos sobre Comida _Food Data Central_ (FDC) acerca de los engaños publicitarios perpetuados por la industria láctea. Como parte de la estrategia, el comité obtuvo del Departamento de Agricultura de Estados Unidos _U.S. Department of Agriculture_ (USDA), una gran cantidad de información sobre las campañas, que incluye contratos, estrategias de promoción, presentaciones... revelada por medio de una petición acogida dentro de la ley de Libertad de la Información _Freedom of Information Act._ Dentro de esta información, el comité encontró que, a mediados de los noventa, el programa para promover los lácteos exploró por fuera de la idea de vender productos genéricos, y buscó alianzas con marcas de restaurantes de comida rápida.
 
