@@ -20,7 +20,7 @@ Generalmente, las personas veganas que hacen activismo por los animales creen qu
 
 ## ¿Porqué la población en general cree que debe consumir lácteos?
 
-la información para esta sección está basada en la entrevista a Mark Kennedy - Vicepresidente de asuntos legales del Comité de Médicos por una Medicina Responsable, dentro del capítulo "Peligros de los lácteos" [_Dangers of Dairy,_](https://www.pcrm.org/news/exam-room-podcast/dangers-dairy){:target='_blank' class="link"} del podcast _The Exam Room_ del mismo comité.
+la información para esta sección está basada en la entrevista a Mark Kennedy - Vicepresidente de asuntos legales del Comité de Médicos por una Medicina Responsable, dentro del capítulo [_Dangers of Dairy,_](https://www.pcrm.org/news/exam-room-podcast/dangers-dairy){:target='_blank' class="link"} del podcast [_The Exam Room,_](https://www.pcrm.org/podcast){:target='_blank' class="link"} del mismo comité.
 
 Los lácteos solían ser productos genéricos que las personas consumían sin fijarse en la marca, por lo que diferentes productores se unían para hacer campañas de publicidad conjuntas, promocionando estos productos sin una marca específica. Aportar para las campañas era voluntario al principio, y luego obligatorio para evitar que algunos productores pudiesen beneficiarse sin aportar.
 
