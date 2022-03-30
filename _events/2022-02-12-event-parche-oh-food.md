@@ -4,7 +4,7 @@ categories:
   - Comida afuera
   - Restaurantes
 tags:
-  - highlight-event
+  - events-gallery
   - event
 title: 'Parche en Oh! Food'
 date: '2022-02-12'
@@ -22,4 +22,4 @@ Vamos a conocer Oh! Foods, un restaurante en Envigado, especializado en comida c
 
 Sábado 19 de febrero. Calle 46E Sur 39D - 30, Envigado. 7:30 p.m.
 
-<a class="link" href="https://www.meetup.com/taller-veganista/events/283949839/" target="_blank">meetup.com/taller-veganista/events/283949839/</a>
+<a class="link" href="https://www.meetup.com/taller-veganista/events/283949839/" target="_blank">meetup.com/taller-veganista/events/283949839</a>
