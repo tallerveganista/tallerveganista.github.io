@@ -43,16 +43,17 @@ $medium-italic: 600i;
 $bold: 700;
 $bold-italic: 700i;
 
-$big-text: 1.424rem;
-$medium-text: 1.266rem;
+$big-text: 1.802rem;
+$medium-text: 1.424rem;
 $small-text: 1.125rem;
-$micro-text: 0.889rem;
+$micro-text: 1rem;
+$small-medium-text: 1.266rem;
 
-$big-line-height: 2.2784rem;
-$medium-line-height: 2.0256rem;
-$small-line-height: 1.8rem;
+$big-line-height: 2.6307375rem;
+$medium-line-height: 2.078675rem;
+$small-line-height: 1.6425rem;
 $micro-line-height: 1.6rem;
-
+$small-medium-line-height: 1.8478125rem;
 // Styles
 
 ::selection, -moz-selection{
@@ -236,37 +237,31 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1{
-  // h1-xs: 39,81px / 47px
-  font-size: 2.488125rem;
-  line-height: 2.9375rem;
+  font-size: 2.566rem;
+  line-height: 3.207265625rem;
 }
 
 h2{
-  // h2-xs: 33.18px / 39px
-  font-size: 2.07375rem;
-  line-height: 2.4375rem;
+  font-size: 2.281rem;
+  line-height: 2.850859375rem;
 }
 
 h3{
-  // h3-xs: 27.65px / 33px
-  font-size: 1.728125rem;
-  line-height: 2.0625rem;
+  font-size: 1.802rem;
+  line-height: 2.252578125rem;
 }
 
 h4{
-  // h4-xs: 23.04px / 27px
-  font-size: 1.44rem;
-  line-height: 1.6875rem;
+  font-size: 1.602rem;
+  line-height: 2.002265625rem;
 }
 
 h5{
-  // h5-xs: 19.2px / 23.04px
-  font-size: 1.2rem;
-  line-height: 1.69155rem;
+  font-size: 1.424rem;
+  line-height: 1.779765625rem;
 }
 
 p{
-  // p-xs: 16px / 25.6px
   font-size: $medium-text;
   line-height: $medium-line-height;
   margin: 0;
@@ -274,14 +269,17 @@ p{
 }
 
 .p-big{
-  // p-xs-big: 19.2px / 30.2px
   font-size: $big-text;
   line-height: $big-line-height;
   font-weight: $regular;
 }
 
+.p-small-medium{
+  font-size: $small-medium-text;
+  line-height: $small-medium-text;
+}
+
 .p-small{
-  // p-xs-small: 13.33px
   font-size: $small-text;
   line-height: $small-line-height;
 }
@@ -336,7 +334,7 @@ blockquote{
 }
 
 .button-big, .link-big{
-  font-size: $big-text;
+  font-size: $medium-text;
 }
 
 .link-big{
@@ -509,16 +507,17 @@ blockquote{
   font-size: $micro-text;
   line-height: $micro-line-height;
   // font-weight: $bold;
+}
+
+.caption{
+  text-decoration: underline;
   &:hover{
-    text-decoration: underline;
-    color: $dark;
+    color: $gray-3;
   }
 }
 
 .caption-no-link{
-  &:hover{
-    text-decoration: none;
-  }
+  text-decoration: none;
 }
 
 // Nav
@@ -833,7 +832,7 @@ blockquote{
   margin-left: 0;
   margin-right: 0;
   & li{
-    margin-bottom: 2.5rem;
+    margin-bottom: 3rem;
     & figure{
       margin: 0 0 1rem 0;
     }
@@ -852,7 +851,7 @@ blockquote{
       margin: 0;
     }
     & h2, h4{
-      margin: 0 0 1rem 0;
+      margin: 0 0 0.5rem 0;
     }
   }
   & a{
@@ -874,7 +873,7 @@ blockquote{
 }
 
 .articles-exerpt{
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
 
 .content-lessons{
@@ -895,7 +894,7 @@ blockquote{
 .lessons-gallery{
   margin: 0 0 2.5rem 0;
   & li{
-    margin: 0 0 2rem 0;
+    margin: 0 0 3rem 0;
     & a{
       color: inherit;
       &:hover{
@@ -1187,7 +1186,7 @@ footer{
     & a{
       font-family: $sans-serif;
       font-weight: $bold;
-      font-size: $medium-text;
+      font-size: $small-medium-text;
       color: $bright;
       &:hover{
         color: $brand-2;
@@ -1198,7 +1197,7 @@ footer{
     }
   }
   & p{
-    margin: 0 0 1rem 0;
+    margin: 0 0 1.5rem 0;
   }
   & .link{
     color: $bright;

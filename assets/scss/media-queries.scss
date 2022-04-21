@@ -40,15 +40,17 @@ $medium-italic: 600i;
 $bold: 700;
 $bold-italic: 700i;
 
-$big-text: 1.424rem;
-$medium-text: 1.266rem;
+$big-text: 1.802rem;
+$medium-text: 1.424rem;
 $small-text: 1.125rem;
 $micro-text: 1rem;
+$small-medium-text: 1.266rem;
 
-$big-line-height: 2.2784rem;
-$medium-line-height: 2.0256rem;
-$small-line-height: 1.8rem;
+$big-line-height: 2.6307375rem;
+$medium-line-height: 2.078675rem;
+$small-line-height: 1.6425rem;
 $micro-line-height: 1.6rem;
+$small-medium-line-height: 1.8478125rem;
 
 // xs - Up to 768px
 @media only screen and (max-width: 48em){
@@ -72,33 +74,28 @@ $micro-line-height: 1.6rem;
   }
   // Headings
   h1{
-    // h1-xs: 47,78px / 57px
-    font-size: 2.98625rem;
-    line-height: 3.5625rem;
+    font-size: 3.247rem;
+    line-height: 4.059140625rem;
   }
   h2{
-    // h2-xs: 39,81px / 47px
-    font-size: 2.488125rem;
-    line-height: 2.9375rem;
+    font-size: 2.566rem;
+    line-height: 3.207265625rem;
   }
   h3{
-    // h3-xs: 33,18px / 39px
-    font-size: 2.07375rem;
-    line-height: 2.4375rem;
+    font-size: 2.281rem;
+    line-height: 2.850859375rem;
   }
   h4{
-    // h4-xs: 27,65px / 33px
-    font-size: 1.728125rem;
-    line-height: 2.0625rem;
+    font-size: 1.802rem;
+    line-height: 2.252578125rem;
   }
   h5{
-    // h4-xs: 23.04px / 27px
-    font-size: 1.44rem;
-    line-height: 1.6875rem;
+    font-size: 1.602rem;
+    line-height: 2.002265625rem;
   }
   // Buttons
   .button-big, .link-big{
-    font-size: $big-text;
+    font-size: $medium-text;
   }
   .button{
     & .visible-sm{
@@ -110,7 +107,7 @@ $micro-line-height: 1.6rem;
     padding: 1rem 0 .5rem 0;
     & li{
       & a{
-        font-size: $big-text;
+        font-size: $small-medium-text;
       }
     }
   }
@@ -204,12 +201,6 @@ $micro-line-height: 1.6rem;
     }
     & .preview-events-and-articles{
       margin: 0;
-    }
-    & .preview-event-article{
-      & h4{
-        font-size: 1.728125rem;
-        line-height: 2.0625rem;
-      }
     }
     & .preview-event{
       padding: 0;
@@ -305,7 +296,7 @@ $micro-line-height: 1.6rem;
         & a{
           font-family: $sans-serif;
           font-weight: $bold;
-          font-size: $medium-text;
+          font-size: $small-medium-text;
           color: $bright;
           &:hover{
             color: $brand-2;
@@ -321,7 +312,7 @@ $micro-line-height: 1.6rem;
           margin-right: 0;
         }
         & a{
-          font-size: $medium-text;
+          font-size: $small-medium-text;
         }
       }
     }
@@ -406,11 +397,6 @@ $micro-line-height: 1.6rem;
   }
   .content-event-article{
     margin: 0 0 4.5rem 0;
-  }
-  .lessons-gallery{
-    & li{
-      margin: 0 0 4rem 0;
-    }
   }
 
   .content-what{
