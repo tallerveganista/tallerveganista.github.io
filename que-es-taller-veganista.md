@@ -6,7 +6,7 @@ permalink: "/que-es-taller-veganista/"
 date: 2021-07-25
 
 ---
-Taller Veganista es una iniciativa local dedicada a ayudar a las personas que están interesadas en ser veganas pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque pro-interseccional, anti-imperialista y anti-capitalista.
+Taller Veganista es una iniciativa local dedicada a ayudar a las personas que están interesadas en practicar el veganismo pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque pro-interseccional, anti-imperialista y anti-capitalista.
 {:class="p-big"}
 
 Los negocios de explotación a animales no humanos tienen a su favor tradiciones culturales, textos religiosos, pseudociencia, pensamiento mágico infantil, y nuestra relación con la comida, también un poder económico enorme que les permite moldear leyes, influir medios de comunicación de gran alcance, e invertir millones de dólares en publicidad, piezas editoriales y campañas de manipulación en redes sociales para defender el consumo de sus productos. La falta de curiosidad intelectual y disciplina para el pensamiento crítico, tan normales en nuestra cultura, puede hacernos incapaces de reconocer una realidad contraria a la narrativa impuesta, aunque la tengamos ante nuestros ojos. Además encajamos mejor en la sociedad si no reconocemos dichas realidades, entonces hay un interés propio en no hacerlo. Cuestionar el pensamiento tradicional y el nefasto sistema económico en el que vivimos, no nos hace más exitosos ni populares pero si nos devuelve algo de dignidad y humanidad.

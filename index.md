@@ -13,7 +13,7 @@ header-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> 
 what-heading: "¿Qué es Taller Veganista?"
 what-image: "/assets/images/animales-en-clase.png"
 what-text: Taller Veganista es una iniciativa local dedicada a ayudar a las personas
-  que están interesadas en ser veganas pero no saben cómo hacerlo, tienen dificultades,
+  que están interesadas en practicar el veganismo pero no saben cómo hacerlo, tienen dificultades,
   preguntas o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos
   información valiosa desde un enfoque pro-interseccional, anti-imperialista y anti-capitalista.
 what-button: Más información
