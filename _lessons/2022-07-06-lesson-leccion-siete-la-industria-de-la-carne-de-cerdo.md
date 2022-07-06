@@ -18,7 +18,7 @@ description: Características de la especie <i>Sus Scrofa Domesticus,</i> práct
 <span class="icon icon-warning"></span> Este artículo contiene imágenes violentas y sangrientas.
 </p>
 
-Cerdas y cerdos pertenecen a la especie _Sus Scrofa Domesticus_, mamíferos artilodáctilos de la familia _Suidae_. La domesticación de esta especie se origina en China y el Medio Oriente hace unos 10.000 años aunque cuenta con una mezcla genética variada, como resultado de constantes cruces con jabalíes salvajes.
+Cerdas y cerdos pertenecen a la especie _Sus Scrofa Domesticus_, mamíferos artilodáctilos de la familia _Suidae_. La domesticación de esta especie se origina en China y el Medio Oriente hace unos 10.000 años, sin embargo cuenta con una mezcla genética variada, como resultado de constantes cruces con jabalíes salvajes.
 
 Cuando las condiciones de vida permiten su desarrollo neuronal, son animales sociales y alegres. Corren, juegan, se relajan, se acurrucan, y se revuelcan en el lodo para refrescarse debido a que no tienen glándulas sudoríparas. Quienes han pasado tiempo con animales de esta especie saben que no son muy diferentes a perras y perros con quienes solemos compartir nuestras vidas. Son emocionalmente sensibles, les gusta jugar, muestran curiosidad, y disfrutan de bocadillos y mimos. Su expectativa de vida en libertad es de unos diez a quince años, mientras que en cautiverio sus vidas son arrebatadas en unos dos años.
 
@@ -49,11 +49,11 @@ Datos relevantes para la industria sobre características de los cuerpos de cerd
 
 ### Selección de animales para criar
 
-Los animales son seleccionados según criterios de retorno de inversión, dependiendo de varios factores. Se escogen entre diversas razas que se han desarrollado a partir de la crianza selectiva. Los machos son seleccionados para reproducción entre siete u ocho meses cuando pesan entre 110 y 120 kilogramos, y para la selección de las hembras la edad es de cinco a siete meses cuando pesan entre 100 y 110 kilogramos.
+Los animales son seleccionados según criterios de retorno de inversión, entre diversas razas desarrolladas a partir de la crianza selectiva. Los machos se destinan para reproducción entre siete u ocho meses cuando pesan entre 110 y 120 kilogramos, y para escoger las hembras la edad es de cinco a siete meses cuando pesan entre 100 y 110 kilogramos.
 
 ### Ciclo reproductivo
 
-El ciclo de gestación de una cerda es de aproximadamente 115 días. Posteriormente lacta durante unos 49 a 63 días, cuando se realiza el destete. Las cerdas se dejan recuperar durante siete días, momento en el que entran en celo de nuevo, y se aprovecha para que sean inseminadas por el reproductor, o artificialmente. Si no queda preñada se repite el "servicio" en 21 días. A partir del sexto parto disminuye el tamaño de la camada.
+El ciclo de gestación de una cerda es de aproximadamente 115 días. Posteriormente lacta durante unos 49 a 63 días, cuando se realiza el destete. Se dejan recuperar durante siete días, momento en el que entra en celo de nuevo, y es inseminada por el reproductor, o artificialmente. Si no queda preñada se repite el "servicio" en 21 días. A partir del sexto parto disminuye el tamaño de la camada.
 
 ![Una cerda en una jaula de gestación, antes de ser inseminada. Confinadas en estas jaulas, las cerdas únicamente pueden pararse o acostarse, no pueden voltearse.](../assets/images/lessons/leccion-07-cerda-inseminacion.jpg)
 [Una cerda en una jaula de gestación, antes de ser inseminada. Confinadas en estas jaulas, las cerdas únicamente pueden pararse o acostarse, no pueden voltearse・Andrew Skowron / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM15932&assetType=default){:target='_blank' class="caption"}
@@ -61,18 +61,18 @@ El ciclo de gestación de una cerda es de aproximadamente 115 días. Posteriorme
 ![Una cerda preñada yace en un suelo con heces y orina, en una jaula en la que no puede darse vuelta, en una granja industrial del norte de Italia, donde miles de cerdas viven en estas condiciones.](../assets/images/lessons/leccion-07-cerda-prenada.jpg)
 [Una cerda preñada yace en un suelo con heces y orina, en una jaula en la que no puede darse vuelta, en una granja industrial del norte de Italia, donde miles de cerdas viven en estas condiciones・Jo-Anne McArthur / Essere Animali / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM4917&assetType=default){:target='_blank' class="caption"}
 
-Durante la gestación, se mantiene a las cerdas estabuladas en corrales de piso de concreto, o jaulas de gestación de 0,6 metros de ancho por 2,1 metros de largo. Un poco más grandes que el tamaño de la cerda, por lo que su movimiento está tan limitado que no puede siquiera voltearse. El confinamiento se alterna con potreros de pastoreo, que pueden recibir entre 40 y 50 cerdas por hectárea, dependiendo de las condiciones del pasto.
+Durante la gestación, las cerdas son estabuladas en corrales de piso de concreto, o jaulas de gestación de 0,6 metros de ancho por 2,1 metros de largo. Un poco más grandes que el tamaño de la cerda, por lo que su movimiento está tan limitado que no puede siquiera voltearse. El confinamiento se alterna con potreros de pastoreo, que pueden recibir entre 40 y 50 cerdas por hectárea, dependiendo de las condiciones del pasto.
 
 ![Una cerda y sus crías en la jaula de parto. Las cerdas no pueden darse la vuelta, sólo pueden levantarse y tumbarse en el suelo.](../assets/images/lessons/leccion-07-cerda-lactancia.jpg)
 [Una cerda y sus crías en la jaula de parto. Las cerdas no pueden darse la vuelta, sólo pueden levantarse y tumbarse en el suelo・Andrew Skowron / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM15942&assetType=default){:target='_blank' class="caption"}
 
 ### Lactancia
 
-Durante la lactancia, las cerdas son confinadas en jaulas que constriñen sus movimientos para evitar que aplasten a las crías accidentalmente o les ataquen. En un periodo de unos dos o tres días, cuando la cerda les acepta, se deja a las crías mamar cada dos horas durante el día y cada tres horas durante la noche.
+Mientras pasa la etapa de lactancia, las cerdas son confinadas en jaulas que constriñen sus movimientos para evitar que aplasten a sus crías accidentalmente o les ataquen. En un periodo de unos dos o tres días, cuando la cerda les acepta, se deja a las crías mamar cada dos horas durante el día y cada tres horas durante la noche.
 
 ### Corte de colmillos
 
-Se realiza en camadas grandes, para evitar que las crías lesionen a la madre, o se lesionen mutuamente. Se cortan los ocho colmillos con tijeras, cortafríos o un cortaúñas previamente desinfectado. El corte se realiza cerca de la encía, y se debe tener cuidado para no lastimarla, dejar picos o aristas, o astillar los dientes.
+Es practicado en camadas grandes, para evitar que las crías lesionen a la madre, o se lesionen mutuamente. Se cortan los ocho colmillos con tijeras, cortafríos o un cortaúñas previamente desinfectado. El corte se realiza cerca de la encía, y se debe tener cuidado para no lastimarla, dejar picos o aristas, o astillar los dientes.
 
 ### Corte de cola
 
@@ -83,15 +83,15 @@ Esta práctica se reserva para cocheras en donde se presenta canibalismo, (frecu
 
 ### Identificación
 
-Se identifica a las crías mediante chapetas, tatuajes o muescas en las orejas. La ubicación de la muesca representa una unidad, decena o centena.
+Para identificar a las crías se usan chapetas, tatuajes o muescas en las orejas. La ubicación de la muesca representa una unidad, decena o centena.
 
 ### Castración
 
-Los machos que no son seleccionados para reproducción, son castrados entre los 10 y 15 días de edad, proceso realizado generalmente entre dos personas. Una sujeta al animal de las patas traseras, y la otra ejecuta la operación. Inicia con el lavado y desinfección del escroto con alcohol, o una solución rebajada de creolina, y continúa  con una incisión en la parte anterior del escroto hacia la línea media, a continuación se empuja cada testículo a través de la herida, separándolo de las envolturas y extrayendo una buena sección del cordón espermático que se liga antes de ser cortado, o se raspa para que se rompa sin causar hemorragia. Luego se desinfecta la herida y se controlan signos posteriores de hemorragia.
+Los machos que no son seleccionados para reproducción, son castrados entre los 10 y 15 días de edad, proceso realizado generalmente entre dos personas. Una sujeta al animal de las patas traseras, y la otra ejecuta la operación. Inicia con el lavado y desinfección del escroto con alcohol, o una solución rebajada de creolina, y continúa  con una incisión en la parte anterior del escroto hacia la línea media. A continuación se empuja cada testículo a través de la herida, separándolo de las envolturas y extrayendo una buena sección del cordón espermático que se liga antes de ser cortado, o se raspa para que se rompa sin causar hemorragia. Luego se desinfecta la herida y se controlan signos posteriores de hemorragia.
 
 ### Destete
 
-A partir de los 56 días generalmente se ejecuta el destete. La cerda es llevada a un corral diferente, y se conserva a las crías en la misma cochera. En producciones pequeñas, lechonas y lechones se venden al momento del destete si no se cuenta con las instalaciones para engordar a dos o más ejemplares.
+A partir de los 56 días generalmente, las crías son destetadas. La madre es llevada a un corral diferente, y se conserva a sus crías en la misma cochera. En producciones pequeñas, lechonas y lechones se venden al momento del destete si no se cuenta con las instalaciones para engordar a dos o más ejemplares.
 
 ![Cerdas y cerdos en una granja industrial.](../assets/images/lessons/leccion-07-cerdos-industrial.jpg)
 [Cerdas y cerdos en una granja industrial・Jo-Anne McArthur / Oikeutta Elaimille / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM264&assetType=default){:target='_blank' class="caption"}
@@ -102,7 +102,7 @@ Se recomienda mantener a los animales en confinamiento en el mismo corral, para 
 
 ### Reproductores
 
-Los cerdos seleccionados para reproducción se mantienen en un área de cinco a seis metros cuadrados por macho, y se les permite un área de ejercicio de cien metros cuadrados. En caso de que no tengan área de ejercicio se mantienen entre ocho y diez metros cuadrados.
+Los cerdos seleccionados para reproducción son alojados en un área de cinco a seis metros cuadrados por macho, y se les permite un área de ejercicio de cien metros cuadrados. En caso de que no tengan área de ejercicio viven entre ocho y diez metros cuadrados.
 
 ![Carga de cerdos para su transporte en una granja ecológica familiar.](../assets/images/lessons/leccion-07-cerdos-venta.jpg)
 [Carga de cerdos para su transporte en una granja ecológica familiar・Jo-Anne McArthur / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM4014&assetType=default){:target='_blank' class="caption"}
@@ -115,22 +115,22 @@ Las cerdas y cerdos se venden cuando alcanzan unos 80, 90 o más kilogramos de p
 
 #### Selección de la víctima
 
-La salud del ejemplar se evalúa observando su piel, vigor, movimientos, mirada y fosas nasales. Es preferible matar animales relativamente jóvenes, por la calidad de su carne, y que no estén muy gordas o gordos para evitar una cantidad excesiva de grasa, debido a que la demanda por carnes magras es mayor. Según el manual, está prohibido sacrificar animales en mal estado de salud, o con sospecha de enfermedades infecto-contagiosas; aunque si observamos a los animales que llegan a los mataderos, es común encontrar lesiones, tumores y otros indicios de enfermedades.
+La salud del ejemplar es evaluada observando su piel, vigor, movimientos, mirada y fosas nasales. Es preferible matar animales relativamente jóvenes, por la calidad de su carne, y que no estén muy gordas o gordos para evitar una cantidad excesiva de grasa, debido a que la demanda por carnes magras es mayor. Según el manual, está prohibido sacrificar animales en mal estado de salud, o con sospecha de enfermedades infecto-contagiosas; aunque si observamos a los animales que llegan a los mataderos, es común encontrar lesiones, tumores y otros indicios de enfermedades.
 
-Es recomendable matar a cerdos castrados debido a que quienes no han sido mutilados dejan un olor desagradable en la carne, que permanece hasta después de ser procesada. En caso de asesinar cerdos sin castrar deben ser menores de cinco meses de edad. Las hembras se matan siempre y cuando no estén en gestación, lactando, o recuperándose de la lactancia.
+Es recomendable matar a cerdos castrados debido a que quienes no han sido mutilados dejan un olor desagradable en la carne, que permanece hasta después de ser procesada. En caso de asesinar cerdos sin castrar, deben ser menores de cinco meses de edad. Las hembras se matan siempre y cuando no estén en gestación, lactando, o recuperándose de la lactancia.
 
-Es una mala práctica matar cerdas o cerdos de menos de 70 kilogramos de peso en pié, porque se presentan pérdidas económicas.
+Es una mala práctica matar cerdas o cerdos de menos de 70 kilogramos de peso en pié, porque no es rentable.
 
 #### Estabulado
 
-Una vez se selecciona al ejemplar, se separa del resto de la manada y se somete a estabulación. Durante el estabulado se suspende todo suministro de alimentos durante un tiempo de ayuno que depende de la edad y el tamaño. Por lo general la deprivación es de 24 horas, con suministro de abundante agua.  El ayuno permite facilitar el asesinato y limpieza de las viseras.
+Una vez se selecciona al ejemplar, se separa del resto de la manada y se somete a estabulación. Durante el estabulado es suspendido todo suministro de alimentos durante un tiempo de ayuno que depende de la edad y el tamaño. Por lo general la deprivación es de 24 horas, con suministro de abundante agua.  El ayuno permite facilitar el asesinato y limpieza de las viseras.
 
 ![Cerdas y cerdos en camino al matadero.](../assets/images/lessons/leccion-07-cerdos-transporte.jpg)
 [Cerdas y cerdos en camino al matadero・Jo-Anne McArthur / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM299&assetType=default){:target='_blank' class="caption"}
 
 #### Transporte
 
-Transportar cerdas y cerdos durante el mismo día del asesinato se debería evitar, sin embargo si es necesario llevarles a otro lugar, se recomienda seguir las precauciones pertinentes para impedir golpes y malos tratos que incluyen usar lazos para amarrarles. El manual menciona que los golpes dañan la calidad de la carne porque causan moretones y magullamientos.
+Transportar cerdas y cerdos durante el mismo día del asesinato se debería evitar, sin embargo si es necesario llevarles a otro lugar, es recomendable seguir las precauciones pertinentes para impedir golpes y malos tratos que incluyen usar lazos para amarrarles. El manual menciona que los golpes dañan la calidad de la carne porque causan moretones y magullamientos.
 
 #### Pasos del asesinato "sacrificio", y desmembramiento
 
@@ -139,24 +139,24 @@ Transportar cerdas y cerdos durante el mismo día del asesinato se debería evit
 
 ##### 1. Supresión de la conciencia
 
-Para facilitar el degollamiento se deja al animal inconsciente. En mataderos tradicionales se realiza mediante un golpe fuerte en el cráneo con un martillo pesado, y en mataderos más actualizados se usa una pistola especial para sacrificio, o un insensibilizador eléctrico.
+Para facilitar el degollamiento es necesario dejar al animal inconsciente. En mataderos tradicionales ejecutan la supresión mediante un golpe fuerte en el cráneo con un martillo pesado, y en mataderos más actualizados se usa una pistola especial para sacrificio, o un insensibilizador eléctrico.
 
-La pistola expulsa un tornillo en el cráneo que deja inconsciente al animal. Se dispara en la intersección entre las líneas imaginarias que se trazarían entre las orejas y su ojo opuesto.
+La pistola expulsa un tornillo en el cráneo que deja inconsciente al animal. Es disparado en la intersección entre las líneas imaginarias que se trazarían entre las orejas y su ojo opuesto.
 
-El procedimiento para suspender la conciencia es violento, doloroso y no siempre funciona. Es frecuente que los animales sigan conscientes cuando se degollan o se acuchillan en el corazón.
+El procedimiento es violento, doloroso y no siempre funciona. Es frecuente que los animales sigan conscientes cuando se degollan o se acuchillan en el corazón.
 
 ![Seis cerdos cuelgan por las patas desangrándose tras ser degollados en un matadero de Chile.](../assets/images/lessons/leccion-07-cerdos-degollados.jpg)
 [Seis cerdos cuelgan por las patas desangrándose tras ser degollados en un matadero de Chile・Gabriela Penela / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM18541&assetType=default){:target='_blank' class="caption"}
 
 ##### 2. Degüello y sangrado
 
-Se cortan las venas y arterias del cuello con una incisión de 12 a 15 centímetros que va desde el extremo superior del esternón, hasta el centro del cuello, o se hace un corte que llegue directamente al corazón.
+las venas y arterias del cuello son cortadas con una incisión de 12 a 15 centímetros que va desde el extremo superior del esternón, hasta el centro del cuello, o se hace un corte que llegue directamente al corazón.
 
 El objetivo es que la sangre fluya copiosamente por las degolladuras. Se recoge con un recipiente limpio en el que previamente se ha depositado sal, vinagre y cebolla. Al finalizar el degüello, el recipiente es llevado a un lugar frío y limpio, o a un refrigerador.
 
 ##### 3. Depilado y separación de patas
 
-Con el cadáver sobre una mesa, se depila con un cuchillo, lavando con agua hirviendo para facilitar el desprendimiento de la epidermis. La temperatura no puede ser demasiado elevada porque puede provocar la cocción de la piel durante el proceso, y que de dicha piel se desprendan pedazos.
+El cadáver es dispuesto sobre una mesa, y se depila con un cuchillo, lavando con agua hirviendo para facilitar el desprendimiento de la epidermis. La temperatura no puede ser demasiado elevada porque puede provocar la cocción de la piel durante el proceso, y que de dicha piel se desprendan pedazos.
 
 La depilación con llama está entrando en desuso porque afecta la calidad de la carne. Después del depilado se separan las patas a la altura de la coyuntura.
 
@@ -164,9 +164,9 @@ La depilación con llama está entrando en desuso porque afecta la calidad de la
 
 Luego de lavar y secar el cadáver, sigue un corte desde la altura del pecho, continuando por el vientre y terminando en en la unión de las piernas. El corte debe realizarse con precaución, para evitar cortar el estómago y los intestinos. El esternón se corta con una sierra.
 
-La sangre acumulada en la cavidad toráxica es extraída, y se deposita en el recipiente de degüello. Se halan la tráquea y esófago hacia atrás, luego se separa el diagragma de los costados y se continúa halando esófago y tráquea llevando corazón, pulmones, hígado, estómago, intestinos, riñones, aparato reproductor, y se depositan en un recipiente, evitando que las vieras se rompan y la carne se contamine con contenido intestinal.
+La sangre acumulada en la cavidad toráxica es extraída, y se deposita en el recipiente de degüello. Se halan la tráquea y esófago hacia atrás, luego es separado el diagragma de los costados y se continúa halando esófago y tráquea llevando corazón, pulmones, hígado, estómago, intestinos, riñones, aparato reproductor, que se depositan en un recipiente, evitando que las vieras se rompan y la carne se contamine con contenido intestinal.
 
-Después de separar y lavar las víceras, se remoja el estómago en agua caliente para desprender mucosas y otras adherencias que le dan una mala presentación a la carne. Para continuar se depositan los órganos en un recipiente con sal, vinagre y suficiente limón para conservarlos hasta que se utilicen. Si no se van a usar inmediatamente se llevan a un congelador. Finalmente se separa la cabeza del cuerpo, y se lavan y secan cabeza y cuerpo. A cadáveres de cerdas y cerdos sin cabeza, patas y víceras se les llama "canal". La canal se cuelga y se deja en un lugar limpio, frío y ventilado hasta el día siguiente para que enfríe y seque.
+Después de separar y lavar las víceras, se remoja el estómago en agua caliente para desprender mucosas y otras adherencias que le dan una mala presentación a la carne. Para continuar son depositados los órganos en un recipiente con sal, vinagre y suficiente limón para conservarlos hasta que se utilicen. Si no se usan inmediatamente van a un congelador. Finalmente es separada la cabeza del cuerpo, y se lavan y secan cabeza y cuerpo. A cadáveres de cerdas y cerdos sin cabeza, patas y víceras se les llama "canal". La canal se cuelga y se deja en un lugar limpio, frío y ventilado hasta el día siguiente para que enfríe y seque.
 
 ![Trabajadores de pie sobre los mostradores para procesar cerdos muertos en un matadero en Chile, mientras la sangre cubre el suelo.](../assets/images/lessons/leccion-07-trabajadores-explotacion.jpg)
 [Trabajadores de pie sobre los mostradores para procesar cerdos muertos en un matadero en Chile, mientras la sangre cubre el suelo・Gabriela Penela / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM18533&assetType=default){:target='_blank' class="caption"}
