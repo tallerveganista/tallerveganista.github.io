@@ -917,7 +917,7 @@ blockquote{
 }
 
 .reference{
-  display: inline-block;
+  display: block;
   margin-bottom: 1rem;
   &:hover{
     text-decoration: underline;
