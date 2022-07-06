@@ -15,7 +15,7 @@ permalink: "/la-industria-de-la-carne-de-cerdo/"
 description: Características de la especie <i>Sus Scrofa Domesticus,</i> prácticas estándar de la industria ganadera en Colombia, y consecuencias para quienes trabajan en mataderos.
 ---
 <p class="highlight-text p-big center-lg">
-<span class="icon icon-warning"></span> Este artículo contiene imágenes sangrientas.
+<span class="icon icon-warning"></span> Este artículo contiene imágenes violentas y sangrientas.
 </p>
 
 Cerdas y cerdos pertenecen a la especie _Sus Scrofa Domesticus_, mamíferos artilodáctilos de la familia _Suidae_, la domesticación de esta especie se origina en China y el Medio Oriente hace unos 10.000 años, aunque se ha mezclado continuamente con jabalíes salvajes, lo que ha creado una mezcla genética variada.
