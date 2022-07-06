@@ -12,7 +12,7 @@ author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-07-industria-de-la-carne-de-cerdo-square.jpg"
 alt-image:
 permalink: "/la-industria-de-la-carne-de-cerdo/"
-description: Características de la especie i>Sus Scrofa Domesticus,</i> prácticas estándar de la industria ganadera en Colombia, y consecuencias para quienes trabajan en mataderos.
+description: Características de la especie <i>Sus Scrofa Domesticus,</i> prácticas estándar de la industria ganadera en Colombia, y consecuencias para quienes trabajan en mataderos.
 ---
 <p class="highlight-text p-big center-lg">
 <span class="icon icon-warning"></span> Este artículo contiene imágenes sangrientas.
