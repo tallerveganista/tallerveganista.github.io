@@ -173,7 +173,7 @@ Luego de separar y lavar las víceras, se remoja el estómago en agua caliente p
 
 Es poco probable que quienes se ganan la vida con labores tan desagradables pertenezcan a las juntas directivas de las grandes compañías productoras de carne, o tengan una participación accionaria. Estos trabajos son tomados por personas de bajos recursos que son explotadas para mantener las ganancias de la industria, además de la demanda creciente por productos hechos con cadáveres. Su oficio les hace vulnerables a sufrir lesiones laborales como pérdida de dedos o extremidades, enfermedades respiratorias, infecciones bacterianas y estrés post-traumático.
 
-A quienes trabajan en mataderos se les contrata para matar animales como cerdos y vacas que son en gran parte criaturas amigables. Para realizar esta acción, las y los trabajadores deben desconectarse del acto, y del animal que tienen al frente. Esta distancia emocional puede causar fenómenos como violencia doméstica, aislamiento social, ansiedad, abuso de drogas y alcohol, y trastorno de estrés postraumático.
+A quienes trabajan en mataderos se les contrata para matar animales como cerdos y vacas que son en gran parte criaturas amigables. Para realizar esta acción, las y los trabajadores deben desconectarse del acto, y del animal que tienen al frente. Esta distancia emocional puede causar fenómenos como violencia doméstica, aislamiento social, ansiedad, abuso de drogas y alcohol, y trastorno de estrés post-traumático.
 
 Adicionalmente, en un estudio realizado en 2009 por la criminóloga Amy Fitzgerald, se encontró que el empleo en los mataderos aumenta las tasas totales de arrestos, los arrestos por delitos violentos, violación y otros delitos sexuales.
 
