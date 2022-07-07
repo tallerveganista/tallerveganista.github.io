@@ -53,7 +53,7 @@ Los animales son seleccionados según criterios de retorno de inversión, entre 
 
 ### Ciclo reproductivo
 
-El ciclo de gestación de una cerda es de aproximadamente 115 días. Posteriormente lacta durante unos 49 a 63 días, cuando se realiza el destete. Se dejan recuperar durante siete días, momento en el que entra en celo de nuevo, y es inseminada por el reproductor, o artificialmente. Si no queda preñada se repite el "servicio" en 21 días. A partir del sexto parto disminuye el tamaño de la camada.
+El ciclo de gestación de una cerda es de aproximadamente 115 días. Posteriormente lacta durante unos 49 a 63 días, cuando se realiza el destete. Se deja recuperar durante siete días, momento en el que entra en celo de nuevo, y es inseminada por el reproductor, o artificialmente. Si no queda preñada se repite el "servicio" en 21 días. A partir del sexto parto disminuye el tamaño de la camada.
 
 ![Una cerda en una jaula de gestación, antes de ser inseminada. Confinadas en estas jaulas, las cerdas únicamente pueden pararse o acostarse, no pueden voltearse.](../assets/images/lessons/leccion-07-cerda-inseminacion.jpg)
 [Una cerda en una jaula de gestación, antes de ser inseminada. Confinadas en estas jaulas, las cerdas únicamente pueden pararse o acostarse, no pueden voltearse・Andrew Skowron / We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM15932&assetType=default){:target='_blank' class="caption"}
