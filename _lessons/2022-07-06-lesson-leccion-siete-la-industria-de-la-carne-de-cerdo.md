@@ -141,7 +141,7 @@ Transportar cerdas y cerdos durante el mismo día del asesinato se debería evit
 
 Para facilitar el degollamiento es necesario dejar al animal inconsciente. En mataderos tradicionales ejecutan la supresión mediante un golpe fuerte en el cráneo con un martillo pesado, y en mataderos más actualizados se usa una pistola especial para sacrificio, o un insensibilizador eléctrico.
 
-La pistola expulsa un tornillo en el cráneo que deja inconsciente al animal. Es disparado en la intersección entre las líneas imaginarias que se trazarían entre las orejas y su ojo opuesto.
+La pistola expulsa un tornillo en el cráneo que deja inconsciente al animal. Es disparado en la intersección entre las líneas imaginarias que se trazarían entre las orejas y sus ojos opuestos.
 
 El procedimiento es violento, doloroso y no siempre funciona. Es frecuente que los animales sigan conscientes cuando se degollan o se acuchillan en el corazón.
 
