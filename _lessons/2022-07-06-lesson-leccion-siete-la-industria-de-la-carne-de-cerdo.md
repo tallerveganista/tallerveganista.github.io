@@ -177,7 +177,7 @@ Es poco probable que quienes se ganan la vida con labores tan desagradables pert
 
 A quienes trabajan en mataderos se les contrata para matar animales como cerdos y vacas que son en gran parte criaturas amigables. Para realizar esta acción, las y los trabajadores deben desconectarse del acto, y del animal que tienen al frente; esta distancia emocional puede causar fenómenos como violencia doméstica, aislamiento social, ansiedad, abuso de drogas y alcohol, y genera el tipo de estrés mencionado.
 
-Adicionalmente, de un estudio realizado en 2009 por la criminóloga Amy Fitzgerald, se puede concluir que el empleo en los mataderos aumenta las tasas totales de arrestos, los arrestos por delitos violentos, violación y otros delitos sexuales.
+Adicionalmente, de un [estudio realizado en 2009](https://www.researchgate.net/publication/249701326_Slaughterhouses_and_Increased_Crime_Rates_An_Empirical_Analysis_of_the_Spillover_From_The_Jungle_Into_the_Surrounding_Community){:target='_blank' class="link"} por la criminóloga Amy Fitzgerald, Linda Kalof y Thomas Dietz, se puede concluir que el empleo en los mataderos aumenta las tasas totales de arrestos, los arrestos por delitos violentos, violación y otros delitos sexuales.
 
 ### Referencias
 
