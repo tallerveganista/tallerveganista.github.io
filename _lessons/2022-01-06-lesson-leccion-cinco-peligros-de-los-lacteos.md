@@ -30,14 +30,6 @@ Por otro lado, una dieta a base de plantas, en combinación con ejercicio, no fu
 
 Al eliminar los lácteos de la dieta de pacientes con enfermedades cardiovasculares, 81% de pacientes estudiados mitigaron sus síntomas y experimentaron menos complicaciones, un resultado mucho más alto que el 10% a quienes les funcionan los medicamentos tan promovidos por la publicidad y los medios. Tiene sentido pensar que el tratamiento estándar para evitar, mitigar y curar enfermedades cardiovasculares debería ser una dieta a base de plantas.
 
-Gobiernos y medios a quienes les preocupa tanto la salud pública no están en una histeria colectiva publicando el conteo de las personas que mueren de ataques cardíacos diariamente, ni clausurando los establecimientos en donde se vende queso y chicharrón. Tampoco están imponiendo a la fuerza tratamientos para la reducción de la grasa saturada o tomando alguna medida drástica para proteger a la población de las enfermedades coronarias y el cáncer. Sin embargo, para "detener" a un virus que causa una enfermedad con un índice de hospitalización de un 0.89%, montaron un teatro de pánico y autoritarismo similar al de la guerra contra el terrorismo; nos confinaron a un arresto domiciliario de cinco meses en el que nuestra salud mental estuvo gravemente afectada, quebraron miles de empresas medianas y pequeñas, empeoró la situación de quienes trabajan en la calle informalmente, y más personas fueron condenadas a la pobreza, mientras que los billonarios de  _Surveilance Valley_ reportaron incrementos inusuales en sus ganancias. Ahora quieren forzarnos a un número indeterminado de inyecciones de drogas experimentales, por las que grandes farmacéuticas cobran billones del dinero público, cuando el virus que no pudo con la gente medianamente saludable va siendo reemplazado por una de sus mutaciones, a la que sin darse cuenta nombraron como un planeta de _Futurama_ donde vive una raza de alienígenas que asesinan humanos. A diferencia de los Omicronianos, la mutación causa una enfermedad que no asesina sino que se manifiesta con síntomas similares a los de una gripa fuerte, lo que marcaría el final de esta situación absurda si la histeria por el SARS-CoV-2, impulsada por la clase depredadora y sus medios de manipulación, fuese el resultado de una preocupación auténtica por cuidar la salud de la gentuza, y no la respuesta ante una oportunidad de oro para avanzar hacia el fascismo con el aplauso de _shitlibs_ en pánico y la covid-obediente izquierda de boutique.
-
-<div class="video-wrapper">
-<iframe src="https://www.youtube.com/embed/6x1U-dLybdM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-[T el extraterrestre・Futurama](https://www.youtube.com/watch?v=6x1U-dLybdM&list=PLGmsbB23-nRHTj9dapVsRQKuAiusipcaw){:target='_blank' class="caption"}
-
 ## Lácteos y cáncer de ovarios
 
 La lactosa es descompuesta en galactita, un azúcar que puede ser tóxico para las células de los ovarios. Quienes consumen más de un vaso de leche al día tienen un 73% más de riesgo de desarrollar cáncer de ovarios que quienes no.
@@ -126,6 +118,5 @@ En la siguiente lección conoceremos cómo la industria láctea posiciona sus pr
 * [How Many SARS-CoV-2-Infected People Require Hospitalization? Using Random Sample Testing to Better Inform Preparedness Efforts・Publimed](https://pubmed.ncbi.nlm.nih.gov/33729203/){:target='_blank' class="reference"}
 * [Updates: Billionaire Wealth, U.S. Job Losses and Pandemic Profiteers・ Inequality.org](https://inequality.org/great-divide/updates-billionaire-pandemic/){:target='_blank' class="reference"}
 * [Los 20 más ricos del mundo aumentaron 30% su fortuna en 2021・El Espectador](https://www.elespectador.com/economia/macroeconomia/los-20-mas-ricos-del-mundo-aumentaron-30-su-fortuna-en-2021/){:target='_blank' class="reference"}
-* ["Go Ahead, Get Omicron" Urges Israel's Former Health Minister・The Jimmy Dore Show](https://rumble.com/vro4q8-go-ahead-get-omicron-urges-israels-former-health-minister.html){:target='_blank' class="reference"}
 
 *Usar artículos de El Espectador como referencia no implica que esté apoyando o legitimando a este medio de la facción "liberal" del establecimiento colombiano.*
