@@ -154,3 +154,12 @@ Video sobre la Docena Diaria. Recuerda configurar los subtítulos para Español.
 He visto casos de personas a las que definitivamente no les gusta el sabor de los vegetales, frutas, cereales y leguminosas. Esto suena como una excusa infantil, pero puede ser un problema de crianza que va a requerir un esfuerzo extra y firmeza en la motivación. No sabría cómo ayudarles pero puedo decir que como les acostumbraron a disfrutar de comer unas cosas pueden acostumbrarse a disfrutar de comer otras, tener un poco de creatividad para sazonar, voluntad para explorar diferentes sabores y paciencia para permitir que sus papilas gustativas cambien.
 
 Yo no soy muy disciplinado pero me conformo con saber que estoy comiendo mucho mejor que cuando no era vegano hace cinco años. No tengo de que quejarme en cuanto a mi propia salud, y si por alguna razón llego a tener algún problema relacionado con mi alimentación, puedo asesorarme para encontrar una solución que no implique volver a patrocinar tres veces al día la violencia contra los animales. No encuentro ninguna lógica en la idea de que incluir cadáveres y secreciones en mi dieta va a mejorar mi salud. Todo lo contrario.
+
+### Referencias
+
+* [Position of the Academy of Nutrition and Dietetics: Vegetarian Diets・Publimed](https://www.happycow.net/blog/vegan-recipes/){:target='_blank' class="reference"}
+* [Principios de una alimentación vegana saludable・Alejandra Zuluaga・Udemy](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target='_blank' class="reference"}
+* [Making health habitual: the psychology of ‘habit-formation’ and general practice・Benjamin Gardner, Phillippa Lally, Jane Wardle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3505409/){:target='_blank' class="reference"}
+* [¿De dónde obtienes tu proteína?・Alan Goldhamer, D.C.・T. Colin Campbell Center for Nutrition Studies](https://nutritionstudies.org/es/de-donde-obtienes-tu-proteina//){:target='_blank' class="reference"}
+* [La seguridad del hierro hemo en comparación con el no hemo・Michael Greger M.D. FACLM・Nutrition Facts](https://nutritionfacts.org/es/video/la-seguridad-del-hemo-vs-hierro-no-hemo/){:target='_blank' class="reference"}
+* [La Docena Diaria del Dr. Greger・Michael Greger M.D. FACLM・Nutrition Facts](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target='_blank' class="reference"}

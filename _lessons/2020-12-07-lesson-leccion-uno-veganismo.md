@@ -118,7 +118,7 @@ Gracias a Eduardo Arias González, de [Taller Agosto](http://talleragosto.com/){
 * [Humans of CIA・Youtube](https://www.youtube.com/watch?v=X55JPbAMc9g){:target='_blank' class="reference"}
 * [Vegan Washing: How Israel Uses Veganism to Gloss Over Palestinian Oppression・Mint Press News](https://www.mintpressnews.com/vegan-washing-israel-veganism-palestinian-oppression/262707){:target='_blank' class="reference"}
 * [The Faux Generosity of the Super-Wealthy: Why Bill Gates is a Menace to Society・Mint Press News](https://www.mintpressnews.com/faux-generosity-how-bill-gates-bought-his-power-and-influence/263208/){:target='_blank' class="reference"}
-* [5 Ways Bill Gates Is Making the World a Little More Vegan・Livekindly](https://https://www.livekindly.co/how-bill-gates-making-world-vegan/){:target='_blank' class="reference"}
+* [5 Ways Bill Gates Is Making the World a Little More Vegan・Livekindly](https://www.livekindly.co/how-bill-gates-making-world-vegan/){:target='_blank' class="reference"}
 * [Jeff Bezos, Bill Gates, and Richard Branson Lead $90 Million Investment to Create Next Vegan Impossible Burger ・Veg News](https://vegnews.com/2019/2/jeff-bezos-bill-gates-and-richard-branson-lead-90-million-investment-to-create-next-vegan-impossible-burger){:target='_blank' class="reference"}
 
 *Los medios veganos con mayor visibilidad como Livekindly, Plant Based News, Totally Vegan Buzz, y Veg News, se dedican a promocionar el veganismo capitalista, haciendo propaganda a grandes corporaciones de comida rápida, y lavando la imagen de billonarios imperialistas, enemigos y explotadores de la clase trabajadora. Es vergonzoso, y justifica la idea de que el veganismo es una moda de personas privilegiadas con complejo de superioridad moral.*
