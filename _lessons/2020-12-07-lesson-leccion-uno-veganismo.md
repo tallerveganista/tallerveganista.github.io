@@ -85,8 +85,10 @@ Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminu
 
 ### Veganismo por antiespecismo
 
-Si somos veganas y veganos porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran mercancía, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día.
+Si practicamos el veganismo porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran mercancía, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día.
 {:class="p-big"}
+
+Para mi fue muy fácil hacerme vegano, pero he visto como las personas pueden tener dificultades, o no han terminado de resolver sus inquietudes, lo que no necesariamente significa que estén de acuerdo con que los cuerpos de los animales sean usados como mercancía, sino que todavía no entienden cómo practicar el veganismo. Es más importante entender la ideología y saber porqué tiene sentido unirse a la lucha por liberación animal. Hacerlo desde los hábitos de vida debería ser la consecuencia de entender porqué y saber cómo, nunca un requisito para apoyar la causa desde la participación ciudadana.
 
 La siguiente lección será una introducción a la nutrición basada en plantas, y a partir de la tercera lección, conoceremos el horror que hay detrás de las diferentes industrias de explotación animal. También entenderemos el sistema de creencias absurdas y tradiciones que normalizan la violencia.
 
@@ -119,4 +121,4 @@ Gracias a Eduardo Arias González, de [Taller Agosto](http://talleragosto.com/){
 * [5 Ways Bill Gates Is Making the World a Little More Vegan・Livekindly](https://https://www.livekindly.co/how-bill-gates-making-world-vegan/){:target='_blank' class="reference"}
 * [Jeff Bezos, Bill Gates, and Richard Branson Lead $90 Million Investment to Create Next Vegan Impossible Burger ・Veg News](https://vegnews.com/2019/2/jeff-bezos-bill-gates-and-richard-branson-lead-90-million-investment-to-create-next-vegan-impossible-burger){:target='_blank' class="reference"}
 
-*Los medios veganos con mayor visibilidad como Livekindly, Plant Based News, Totally Vegan Buzz, y Veg News, se dedican a promocionar el veganismo capitalista, haciendo propaganda a grandes corporaciones de comida rápida, y lavando la imagen de billonarios imperialistas, enemigos y explotadores de la clase trabajadora. Es vergonzoso, y justifica la idea de que el veganismo es una moda de "shitlibs" con complejo de superioridad moral.*
+*Los medios veganos con mayor visibilidad como Livekindly, Plant Based News, Totally Vegan Buzz, y Veg News, se dedican a promocionar el veganismo capitalista, haciendo propaganda a grandes corporaciones de comida rápida, y lavando la imagen de billonarios imperialistas, enemigos y explotadores de la clase trabajadora. Es vergonzoso, y justifica la idea de que el veganismo es una moda de personas privilegiadas con complejo de superioridad moral.*
