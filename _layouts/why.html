@@ -5,7 +5,7 @@ layout: basic-structure
 {% include header.html %}
 
 <!-- content -->
-<div class="content content-post" uk-scrollspy="cls: uk-animation-fade; delay: 100">
+<main class="content content-post" uk-scrollspy="cls: uk-animation-fade; delay: 100">
   <!-- wrapper -->
   <div class="wrapper container-fluid">
     <!-- row -->
@@ -21,14 +21,14 @@ layout: basic-structure
     <!-- row -->
     <div class="row article-container">
       <!-- col -->
-      <div class="col-xs-12 col-lg-offset-2 col-lg-8">
+      <article class="col-xs-12 col-lg-offset-2 col-lg-8">
         {{ content }}
         <a class="button brand-background button-big button-wide-xs" href="/lecciones/">Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora</a>
-      </div>
+      </article>
       <!-- col end -->
     </div>
     <!-- row end -->
   </div>
   <!-- wrapper end -->
-</div>
+</main>
 <!-- content end -->
