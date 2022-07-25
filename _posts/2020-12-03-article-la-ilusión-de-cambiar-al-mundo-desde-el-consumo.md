@@ -4,7 +4,7 @@ categories:
 - Activismo
 tags:
 - article
-- highlight-article
+- blog-gallery
 title: La ilusión de cambiar el mundo desde el consumo
 date: 2020-12-03
 excerpt: Cuando practicamos el veganismo nos excluimos de participar directamente en un sistema
