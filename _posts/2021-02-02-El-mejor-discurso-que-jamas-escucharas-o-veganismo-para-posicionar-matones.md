@@ -16,7 +16,7 @@ excerpt: La imagen de Gary Yourofsky como un pionero del activismo que ha dedica
 author: Alejandro Narváez Isaza
 image-landscape: "/assets/images/posts/gary-yourofsky-rambo-landscape.jpg"
 image: "/assets/images/posts/gary-yourofsky-rambo-square.jpg"
-permalink: "/misantropia-disfrazada-de-veganismo/"
+permalink: "/misantropía-disfrazada-de-veganismo/"
 description: Análisis de las declaraciones desafortunadas de una de las figuras más
   reconocidas dentro del activismo antiespecista anti-interseccional.
 
