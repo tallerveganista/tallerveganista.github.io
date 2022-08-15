@@ -182,7 +182,7 @@ Adicionalmente, de un [estudio realizado en 2009](https://www.researchgate.net/p
 ### Referencias
 
 * [Intelligent, Emotional Pigs・Farm Sanctuary](https://www.farmsanctuary.org/pigs/){:target='_blank' class="reference"}
-* [THINKING PIGS: Cognition, Emotion, and Personality・Lori Marino and Christina M. Colvin・Kimmela Center for Animal Advocacy・The Someone Project](https://www.farmsanctuary.org/pigs/){:target='_blank' class="reference"}
+* [THINKING PIGS: Cognition, Emotion, and Personality・Lori Marino and Christina M. Colvin・Kimmela Center for Animal Advocacy・The Someone Project](https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1000&context=mammal){:target='_blank' class="reference"}
 * [Manual de Porcinos・Sitio Argentino de Producción Animal, Dirección de Educación Agraria, Dirección Provincial de educación técnico profesional. Provincia de Buenos Aires.](https://www.produccion-animal.com.ar/produccion_porcina/00-produccion_porcina_general/160-MANUAL_DE_PORCINOS.pdf){:target='_blank' class="reference"}
 * [Manual de producción porcícola・Servicio Nacional de Aprendizaje (SENA)](https://repositorio.sena.edu.co/bitstream/handle/11404/4270/porcinos_2005.pdf?sequence=1&isAllowed=y){:target='_blank' class="reference"}
 * [Gestión integral en la producción porcina・Servicio Nacional de Aprendizaje (SENA)](https://repositorio.sena.edu.co/sitios/gestion_produccion_porcina){:target='_blank' class="reference"}
