@@ -96,7 +96,7 @@ La leche de vaca promueve en humanos crecimiento pero en partes de nuestro cuerp
 
 ### ¿La leche nos protege contra la osteoporosis?
 
-Incrementar el consumo de leche no reduce el riesgo de osteoporosis. Para reducir el riesgo de sufrir esta enfermedad, es necesario reducir el consumo de sodio, muy alto en el queso, la comida rápida y la de paquetes, además aumentar el consumo de calcio de fuentes vegetales como Frijoles de ojo negro (Black Eyed Peas), Kale, Broccoli, y hacer ejercicio regularmente.
+Incrementar el consumo de leche no reduce el riesgo de osteoporosis. Para reducir el riesgo de sufrir esta enfermedad, es necesario reducir el consumo de sodio, muy alto en el queso, la comida rápida y la de paquetes, además aumentar el consumo de calcio de fuentes vegetales como Frijoles de ojo negro (Black Eyed Peas), Kale, Brocoli, entre otros, y hacer ejercicio regularmente.
 
 ### ¿Necesitamos leche para obtener vitamina D?
 
