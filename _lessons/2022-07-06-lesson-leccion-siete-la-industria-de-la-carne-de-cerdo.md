@@ -98,7 +98,7 @@ A partir de los 56 días generalmente, las crías son destetadas. La madre es ll
 
 ### Crecimiento y engorde
 
-Se recomienda mantener a los animales en confinamiento en el mismo corral, para controlar más efectivamente las condiciones ambientales, alimentación y sanidad. Con el objetivo de obtener ejemplares con buen peso. Cuando alcanzan el peso indicado se envían al matadero.
+Se recomienda mantener a los animales en confinamiento en el mismo corral, para controlar más efectivamente las condiciones ambientales, alimentación y sanidad, con el objetivo de obtener ejemplares con buen peso. Cuando alcanzan el peso indicado se envían al matadero.
 
 ### Reproductores
 
@@ -164,7 +164,7 @@ La depilación con llama está entrando en desuso porque afecta la calidad de la
 
 Luego de lavar y secar el cadáver, sigue un corte desde la altura del pecho, continuando por el vientre y terminando en en la unión de las piernas. El corte debe realizarse con precaución, para evitar cortar el estómago y los intestinos. El esternón se corta con una sierra.
 
-La sangre acumulada en la cavidad toráxica es extraída, y se deposita en el recipiente de degüello. Se halan la tráquea y esófago hacia atrás, luego es separado el diagragma de los costados y se continúa halando esófago y tráquea llevando corazón, pulmones, hígado, estómago, intestinos, riñones, aparato reproductor, que se depositan en un recipiente, evitando que las vieras se rompan y la carne se contamine con contenido intestinal.
+La sangre acumulada en la cavidad toráxica es extraída, y se deposita en el recipiente de degüello. Se halan la tráquea y esófago hacia atrás, luego es separado el diagragma de los costados y se continúa halando esófago y tráquea llevando corazón, pulmones, hígado, estómago, intestinos, riñones, aparato reproductor, que se depositan en un recipiente, evitando que las víceras se rompan y la carne se contamine con contenido intestinal.
 
 Después de separar y lavar las víceras, se remoja el estómago en agua caliente para desprender mucosas y otras adherencias que le dan una mala presentación a la carne. Para continuar son depositados los órganos en un recipiente con sal, vinagre y suficiente limón para conservarlos hasta que se utilicen. Si no se usan inmediatamente van a un congelador. Finalmente es separada la cabeza del cuerpo, y se lavan y secan cabeza y cuerpo. A cadáveres de cerdas y cerdos sin cabeza, patas y víceras se les llama "canal". La canal se cuelga y se deja en un lugar limpio, frío y ventilado hasta el día siguiente para que enfríe y seque.
 
