@@ -80,7 +80,7 @@ Finalmente, los temas ambientales son tan complejos y tienen tantas variables, q
 
 [26 Formas de Luchar contra el Cambio Climático・QuantumFracture・Youtube](https://www.youtube.com/watch?v=wNQ5wvGmnEk){:target='_blank' class="caption"}
 
-Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra animales no humanos, reducir el consumo de cadáveres bovinos, o reemplazarlos por cadáveres de otras especies es aceptable y suficiente. Como el presentador no tiene ningún problema con la violencia, ni cree necesario hacer algo al respecto, y repite la idea de que el veganismo es exigente, peligroso y aburrido, seguramente sin siquiera haber intentado practicarlo.
+Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminuir la huella de carbono y consumo de recursos individuales, pero como el análisis no tiene en cuenta la violencia contra animales no humanos, reducir el consumo de cadáveres bovinos, o reemplazarlos por cadáveres de otras especies es aceptable y suficiente. Como el presentador no tiene ningún problema con la violencia, ni cree necesario hacer algo al respecto, repite la idea de que el veganismo es exigente, peligroso y aburrido, seguramente sin siquiera haber intentado practicarlo.
 {: class="caption-no-link after-caption-link"}
 
 ### Veganismo por antiespecismo
@@ -88,7 +88,7 @@ Acá se reconoce que seguir una dieta a base de plantas es efectivo para disminu
 Si practicamos el veganismo porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran mercancía, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día.
 {:class="p-big"}
 
-Para mi fue muy fácil hacerme vegano, pero he visto como las personas pueden tener dificultades, o no han terminado de resolver sus inquietudes, lo que no necesariamente significa que estén de acuerdo con que los cuerpos de los animales sean usados como mercancía, sino que todavía no entienden cómo practicar el veganismo. Es más importante entender la ideología y saber porqué tiene sentido unirse a la lucha por liberación animal. Hacerlo desde los hábitos de vida debería ser la consecuencia de entender porqué y saber cómo, nunca un requisito para apoyar la causa desde la participación ciudadana.
+Para mi fue muy fácil hacerme vegano, pero he visto como las personas pueden tener dificultades, o no han terminado de resolver sus inquietudes, lo que no necesariamente significa que estén de acuerdo con que los cuerpos de los animales sean usados como mercancía, sino que todavía no entienden cómo practicar el veganismo. Es más importante entender la ideología y saber porqué tiene sentido unirse a la lucha por la liberación animal. Hacerlo desde los hábitos de vida debería ser la consecuencia de entender porqué y saber cómo, nunca un requisito para apoyar la causa desde la participación ciudadana.
 
 La siguiente lección será una introducción a la nutrición basada en plantas, y a partir de la tercera lección, conoceremos el horror que hay detrás de las diferentes industrias de explotación animal. También entenderemos el sistema de creencias absurdas y tradiciones que normalizan la violencia.
 
