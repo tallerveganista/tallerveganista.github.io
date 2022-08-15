@@ -115,8 +115,3 @@ En la siguiente lección conoceremos cómo la industria láctea posiciona sus pr
 * [Five Frightful Facts About Cheese・Comité de Médicos por una Medicina Responsable](https://www.pcrm.org/news/blog/five-frightful-facts-about-cheese){:target='_blank' class="reference"}
 * [What the Dairy Industry Doesn't Want You to Know・Dr. Neal Barnard](https://www.youtube.com/watch?v=cW8LzJuFgm8){:target='_blank' class="reference"}
 * [Provisional Mortality Data — United States, 2020・Publimed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030985/){:target='_blank' class="reference"}
-* [How Many SARS-CoV-2-Infected People Require Hospitalization? Using Random Sample Testing to Better Inform Preparedness Efforts・Publimed](https://pubmed.ncbi.nlm.nih.gov/33729203/){:target='_blank' class="reference"}
-* [Updates: Billionaire Wealth, U.S. Job Losses and Pandemic Profiteers・ Inequality.org](https://inequality.org/great-divide/updates-billionaire-pandemic/){:target='_blank' class="reference"}
-* [Los 20 más ricos del mundo aumentaron 30% su fortuna en 2021・El Espectador](https://www.elespectador.com/economia/macroeconomia/los-20-mas-ricos-del-mundo-aumentaron-30-su-fortuna-en-2021/){:target='_blank' class="reference"}
-
-*Usar artículos de El Espectador como referencia no implica que esté apoyando o legitimando a este medio de la facción "liberal" del establecimiento colombiano.*
