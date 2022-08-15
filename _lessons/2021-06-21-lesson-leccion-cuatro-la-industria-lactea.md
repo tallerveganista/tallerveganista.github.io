@@ -168,7 +168,7 @@ Usualmente las personas no están conscientes de que la leche es un alimento que
 
 Puedo mencionar también el mito hinduista de la diosa Kamadhenu, madre de todas las vacas, que a su vez son generosas y nos comparten su leche; el mito explica porque la mayoría de hinduhistas y practicantes de yoga continúan consumiendo lácteos. Aunque los y las hinduistas que han montado restaurantes vegetarianos con opciones veganas prestan un servicio muy valioso, y a pesar de que no dudo de sus buenas intenciones, por apegarse a una creencia religiosa, desinforman a la comunidad y afirman su participación activa en la crueldad contra vacas y cabras.
 
-Contrario a la creencia popular y la de las instituciones gubernamentales que desperdician dinero financiando la ganadería con nuestros impuestos, el consumo de leche de otras especies no solamente es completamente innecesario sino que causa enfermedades que nuestra cultura ha normalizado. En la siguiente lección veremos porque los lácteos son tan perjudiciales para la salud, y en la siguiente analizaremos el marketing de la industria y entenderemos porque muchas personas tienen problemas para dejar de consumir.
+Contrario a la creencia popular y la de las instituciones gubernamentales que desperdician dinero financiando la ganadería con nuestros impuestos, el consumo de leche de otras especies no solamente es completamente innecesario sino que causa enfermedades que nuestra cultura ha normalizado. En la siguiente lección veremos porque los lácteos son tan perjudiciales para la salud, y en la que sigue después de esa, analizaremos el marketing de la industria y entenderemos porque muchas personas tienen problemas para dejar de consumir.
 
 ### Referencias
 
