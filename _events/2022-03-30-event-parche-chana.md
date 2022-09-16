@@ -4,7 +4,6 @@ categories:
   - Comida afuera
   - Restaurantes
 tags:
-  - highlight-event
   - event
 title: 'Parche en Chana'
 date: '2022-02-12'
