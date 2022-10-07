@@ -12,10 +12,7 @@ header-text: Oponerse a la explotación es luchar por una sociedad justa.
 header-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 what-heading: "¿Qué es Taller Veganista?"
 what-image: "/assets/images/animales-en-clase.png"
-what-text: Taller Veganista es una iniciativa local dedicada a ayudar a las personas
-  que están interesadas en practicar el veganismo pero no saben cómo hacerlo, tienen dificultades,
-  preguntas o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos
-  información valiosa desde un enfoque pro-interseccional, anti-imperialista y anti-capitalista.
+what-text: Taller Veganista es una iniciativa local dedicada a divulgar los argumentos que sustentan al movimiento de liberación animal / colectiva, y a ayudar a las personas que están interesadas en practicar el veganismo pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque pro-interseccional, anti-imperialista y anti-capitalista.
 what-button: Más información
 why-heading: "¿Porqué veganismo?"
 why-image: "/assets/images/cerdo-enjaulado.png"
