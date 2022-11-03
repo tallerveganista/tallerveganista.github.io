@@ -29,7 +29,7 @@ La inseminación artificial ofrece varias ventajas para la industria, previene l
 
 Practicas de bestialismo y abuso sexual normalizadas en nuestra cultura.
 
-### Vagina artificial
+#### Vagina artificial
 
 La vagina artificial es un tubo de plástico rígido recubierto en su interior por una capa de goma, formando una cámara que se llena de agua caliente. Para el procedimiento se usa como señuelo una vaca, un toro, o un maniquí, se permite al toro montar al señuelo pero se desvía el pene del toro. En el segundo intento del toro se acomoda la punta del pene desviado en la entrada de la vagina artificial para que el toro la penetre y eyacule.
 
@@ -41,7 +41,7 @@ Esta técnica está muy extendida debido a que si se realiza bien, se obtienen e
 
 [Extracción de semen de toro・Euskadi Directo](hhttps://www.youtube.com/watch?v=XDZRboWy3y4){:target='_blank' class="caption"}
 
-### Electroeyaculación
+#### Electroeyaculación
 
 Un electroeyaculador es algo similar a un vibrador que se inserta por el recto del toro para dar pulsos eléctricos leves en la próstata y vesículas seminales, provocando en el toro una erección y una eyaculación.
 
@@ -53,7 +53,7 @@ Como preparación, se recortan los pelos del orificio prepucial, y se limpia. Ta
 
 [Colecta de semen utilizando la Electroeyaculación・La Finca de hoy](https://www.youtube.com/watch?v=TGtbcFCsg2Y){:target='_blank' class="caption"}
 
-### Masaje transrectal
+#### Masaje transrectal
 
 La técnica requiere de una persona que efectúe el masaje y otra que recolecte el semen. Se mantiene al toro en una manga, se remueven las heces del recto y se aplica un masaje longitudinal repetitivo hacia adelante y atrás sobre la terminación de los canales deferentes de las vesículas seminales y la región de la próstata, introduciendo la mano y el antebrazo en el recto del toro hasta que el semen fluye hacia la uretra pélvica. La otra persona recolecta el semen con una probeta de vidrio.
 
@@ -65,19 +65,19 @@ Si el objetivo de la castración es facilitar el manejo del toro, se debe castra
 
 En la cartilla consultada no se menciona ningún tipo de anestesia para los procedimientos.
 
-### Castración a testículo descubierto
+#### Castración a testículo descubierto
 
 Un tipo de castración en la que se sacan los testículos con un bisturí.
 
 Después de inmovilizar al toro, lavar y desinfectar su escroto y áreas cercanas, se corta el escroto a tres o cuatro centímetros de su extremo con un bisturí desinfectado, o se hace un corte lateral de seis a diez centímetros en la zona de cada testículo, luego se hace un corte longitudinal de unos seis a siete centímetros de la túnica de dartos y la túnica vaginal parietal, para descubrir el testículo. Con el testículo descubierto, se observan unas membranas que unen la túnica con el testículo llamadas mesorquio; el mesorquio se perfora con el dedo índice y se rompe halando con firmeza para separar el testículo. A continuación se empuja hacia arriba la túnica vaginal y se desgarra el resto del mesorquio hasta la parte donde el cordón espermático se adelgaza, el cordón espermático se toma con una mano, y con la otra se hace torsión hasta lograr la compresión de todo el cordón; se sostiene con firmeza y se continúa la torsión para desprender el testículo sin cortar con navaja, o también se puede hacer un nudo con el cordón espermático y cortar. Para finalizar se introducen las túnicas y se acomodan dentro del escroto, luego se acomodan los cortes del escroto y se aplica antiséptico en la herida. El toro es dejado en observación durante 20 días.
 
-### Castración con pinzas de burdizo
+#### Castración con pinzas de burdizo
 
 Esta técnica se utiliza únicamente en animales menores de un año debido a que en adultos se corre el riesgo de producir inflamaciones y afectaciones graves, además se dificulta el corte del cordón espermático sin dañar la piel. Para la preparación, se sujeta e inmoviliza al toro, se lavan y desinfectan los materiales y manos de la persona que ejecutará la operación, así como el escroto del toro.
 
 Para localizar el cordón espermático se toma el testículo con ambas manos palpando el cordón con los dedos índice y pulgar, a continuación se colocan las pinzas alrededor del cordón espermático para prensarlo con el emasculador y se cierra tomando un mango con la mano libre mientras se sujeta el otro con la rodilla, se dejan las pinzas cerradas durante unos tres minutos, tiempo en el que se retira y se realiza la operación en el cordón del otro testículo. El toro pasa a observación durante ocho días y a los treinta días se revisa para comprobar la degradación de los testículos.
 
-### Castración con elastrador
+#### Castración con elastrador
 
 Este tipo de castración consiste en estrangular los testículos con una banda que se pone en la parte superior de los testículos usando una pinza llamada elastrador, también se puede usar para acortar el escroto, en una técnica llamada seudocastración, que se usa en hatos de carne, para que los testículos pierdan la función reproductiva sin perder la función hormonal. Se ejecuta en terneros entre después de los tres meses de edad, y antes de los cuatro.
 
@@ -95,11 +95,11 @@ Las víctimas se cargan al camión una mirando hacia el lado contrario de la otr
 
 también se usa el tábano para conducir a los animales por pasillos.
 
-### Inspección ante-mortem
+#### Inspección ante-mortem
 
 Se inspeccionan a los animales para detectar la presencia de enfermedades y separar animales sanos de enfermos. No se deben asesinar a animales sanos y enfermos al tiempo, se deben aislar a animales enfermos en corrales aislados hasta que se hayan asesinado y descuartizado a los animales sanos.
 
-### Reposo, limpieza y conducción
+#### Reposo, limpieza y conducción
 
 Las víctimas se mantienen mínimo doce y normalmente veinticuatro horas en su corral. Durante ese periodo únicamente se les proporciona agua, al terminar la etapa de reposo pasan a una manga donde se limpian con chorros de agua fría. El lavado remueve suciedades de la piel, posibilita que la sangre se concentre en grandes vasos sanguíneos, mejorando la sangría, lo que favorece la conservación de la carne y mejora su color; también retira parásitos externos y facilita el avance de los animales por las rampas de conducción. Después de la limpieza externa se lleva a las víctimas hasta la caja de insensibilización con ayuda del tábano eléctrico.
 
