@@ -23,7 +23,7 @@ Contrario a lo que podrían pensar quienes defienden el vegetarianismo, entendid
 
 En esta lección cubriré las prácticas que no mencioné en la lección sobre la industria láctea: extracción de semen, castración, transporte y asesinato (sacrificio). Hay patrones e ideas similares a las que se aplican a la producción de carne de cerdo.
 
-## Extracción de semen
+### Extracción de semen
 
 La inseminación artificial ofrece varias ventajas para la industria, previene la diseminación de enfermedades de transmisión sexual, permite que se pueda embarazar a más vacas con semen de animales seleccionados y reduce costos de mantenimiento de toros. Parte del proceso es la extracción del semen, que se realiza mediante diferentes metodologías.
 
@@ -57,7 +57,7 @@ Como preparación, se recortan los pelos del orificio prepucial, y se limpia. Ta
 
 La técnica requiere de una persona que efectúe el masaje y otra que recolecte el semen. Se mantiene al toro en una manga, se remueven las heces del recto y se aplica un masaje longitudinal repetitivo hacia adelante y atrás sobre la terminación de los canales deferentes de las vesículas seminales y la región de la próstata, introduciendo la mano y el antebrazo en el recto del toro hasta que el semen fluye hacia la uretra pélvica. La otra persona recolecta el semen con una probeta de vidrio.
 
-## Castración
+### Castración
 
 Se recomienda castrar a los bovinos cuando las condiciones de manejo no permiten tener a los toros en potreros separados hasta la venta.
 
@@ -87,7 +87,7 @@ Para acortar el escroto se pone la banda en la parte inferior del escroto y se e
 
 Se observan a los terneros diariamente para detectar anormalidades, inflamación, fiebre y falta de apetito durante 45 días.
 
-## Transporte y asesinato (sacrificio)
+### Transporte y asesinato (sacrificio)
 
 Si se deshidratan los animales, el proceso de desollado y enviscado se complica, entonces se suministran cantidades adecuadas de agua antes del transporte, se suspende la alimentación doce horas antes del embarque, y el suministro de agua dos o tres horas antes.
 
@@ -145,4 +145,4 @@ La industria recurre a eufemismos con los que busca normalizar la violencia que 
 
 * [Transporte de ganado bovino・José Ignacio Sánchecez Gómez / Sitio Argentino de Producción Animal](https://www.produccion-animal.com.ar/informacion_tecnica/comercializacion/34-transporte.pdf){:target='_blank' class="reference"}
 
-* [Transporte, sacrificio y faenado de ganado・Servicio Nacional de Aprendizaje SENA](https://repositorio.sena.edu.co/bitstream/handle/11404/3848/transporte_sacrificio_faenado_ganado.pdf){:target='_blank' class="reference"}
+* [Transporte, sacrificio y faenado de ganado・Servicio Nacional de Aprendizaje](https://repositorio.sena.edu.co/bitstream/handle/11404/3848/transporte_sacrificio_faenado_ganado.pdf){:target='_blank' class="reference"}
