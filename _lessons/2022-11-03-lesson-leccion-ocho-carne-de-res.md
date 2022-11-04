@@ -144,7 +144,7 @@ Después de la sangría se procede a desollar, descuartizar y eviscerar el cadá
 
 ...
 
-La industria recurre a eufemismos con los que busca normalizar la violencia que comete contra los animales. Palabras como "sacrificio" y "faenado" suenan inofensivas, cuando las acciones que describen son asesinato y descuartizamiento. La palabra "Insensibilización" para referirse a un golpe o perforación con la que se aturde a animales para que sean más fáciles de manejar, deja la impresión de que los animales no siente cuando se le mata, como si se les matara en un estado de anestesia. Un asesinato humanitario y limpio que aunque fuese cierto, por innecesario seguiría siendo éticamente inválido.
+La industria recurre a eufemismos con los que busca normalizar la violencia que comete contra los animales. Palabras como "sacrificio" y "faenado" suenan inofensivas, cuando las acciones que describen son asesinato y descuartizamiento. La palabra "insensibilización" para referirse a un golpe o perforación con la que se aturde a animales para que sean más fáciles de manejar, deja la impresión de que los animales no siente cuando se le mata como si se les matara en un estado de anestesia. Un asesinato humanitario y limpio que aunque fuese cierto, por innecesario seguiría siendo éticamente inválido.
 
 ### Referencias
 
