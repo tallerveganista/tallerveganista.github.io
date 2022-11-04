@@ -19,6 +19,9 @@ description: Prácticas que no quedaron cubiertas en la lección sobre la indust
 
 En la lección sobre [la industria láctea,](/leccion-la-industria-láctea){:class="link no-underline" target="_blank"} cubrí las características de las especies *Bos Taurus* y *Bos Indicus,* además de la mayoría de procedimientos estándar relacionados a la explotación de animales de estas especies. Aunque encontré con cierta facilidad material acerca de cómo criar vacas para extraer leche de sus cuerpos, hasta ahora no encuentro sobre cómo criar vacas y toros para carne exclusivamente. Al igual que en los manuales para la explotación de gallinas y pollos, en estos se mencionan razas mejor adaptadas para producir leche, otras para producir carne, o las que llaman de doble propósito. Estas razas han sido desarrolladas a partir de crianza selectiva que produce animales cuyas características resultan más rentables para la industria, no son la consecuencia de la adaptación al entorno.
 
+![Vacas lecheras llegan a un matadero en el área de Toronto, en un camión de sucio・Louise Jorgensen・Animal Sentience Project・We Animals Media](../assets/images/lessons/leccion-08-castracion-transporte-02.jpg)
+[Vacas lecheras llegan a un matadero en el área de Toronto, en un camión de sucio・Louise Jorgensen・Animal Sentience Project・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM25131&assetType=default){:target='_blank' class="caption"}
+
 Contrario a lo que podrían pensar quienes defienden el vegetarianismo entendido como de dejar de consumir cadáveres, pero seguir consumiendo secreciones y otros productos; no hay una división real entre la industria láctea y la industria de la carne, al menos desde la zootecnia. No sería rentable seguir alimentando a vacas que no producen, y adicionalmente como vimos en la lección sobre [la industria láctea,](/leccion-la-industria-láctea){:class="link no-underline" target="_blank"} es imposible colonizar el cuerpo de una vaca para convertirle en un medio de producción sin ejecutar maltratos y abusos a ella y sus crías. Ejercer propiedad sobre el cuerpo de alguien y administrar ese cuerpo para que produzca beneficios económicos, es una idea cuestionable éticamente, por lo que quienes quieren dejar de participar directamente en la industria financiando a través del consumo, hacen bien si intentan practicar el veganismo, o por lo menos entender la ideología que sostiene la práctica. Es preferible entender y promover la liberación animal así no se tenga éxito en la práctica del veganismo por la razón que sea, a asimliar y promover el vegetarianismo porque resulta más accesible. No me interesa revisar y controlar los hábitos de vida de nadie, pero tampoco puedo promover ideas que no están sustentadas en la realidad objetiva.
 
 En esta lección cubriré las prácticas que no mencioné en la lección sobre la industria láctea: extracción de semen, castración, transporte y asesinato (sacrificio). Hay patrones e ideas similares a las que se aplican a la producción de carne de cerdo.
@@ -65,11 +68,17 @@ Si el objetivo de la castración es facilitar el manejo del toro, se castra ante
 
 En la cartilla que consulté no hay mención de ningún tipo de anestesia para los procedimientos.
 
+![Castración a testículo descubierto・Castración de bovinos・Servicio Nacional de Aprendizaje](../assets/images/lessons/leccion-08-castracion-abierto.jpg)
+[Castración a testículo descubierto・Castración de bovinos・Servicio Nacional de Aprendizaje](https://repositorio.sena.edu.co/bitstream/handle/11404/486/vol6_castracion_bovinos_op.pdf?sequence=12){:target='_blank' class="caption"}
+
 #### Castración a testículo descubierto
 
 Un tipo de castración en la que se sacan los testículos con un bisturí.
 
 Después de inmovilizar al toro, lavar y desinfectar su escroto y áreas cercanas, se corta el escroto a tres o cuatro centímetros de su extremo con un bisturí desinfectado, o se hace un corte lateral de seis a diez centímetros en la zona de cada testículo, luego se hace un corte longitudinal de unos seis a siete centímetros de la túnica de dartos y la túnica vaginal parietal, para descubrir el testículo. Con el testículo descubierto, se observan unas membranas que unen la túnica con el testículo llamadas mesorquio; el mesorquio se perfora con el dedo índice para romperse halando con firmeza y separar el testículo. A continuación se empuja hacia arriba la túnica vaginal y se desgarra el resto del mesorquio hasta la parte donde el cordón espermático se adelgaza, el cordón espermático se toma con una mano y con la otra se hace torsión hasta lograr la compresión de todo el cordón; sosteniendo con firmeza se continúa con la torsión para desprender el testículo sin cortar con navaja, o también se puede hacer un nudo con el cordón espermático y cortar. Para finalizar se introducen las túnicas y se acomodan dentro del escroto, luego se acomodan los cortes del escroto y se aplica antiséptico en la herida. El toro es dejado en observación durante veinte días.
+
+![Castración con pinzas de burdizo・Castración de bovinos・Servicio Nacional de Aprendizaje](../assets/images/lessons/leccion-08-castracion-emasculador.jpg)
+[Castración con pinzas de burdizo・Castración de bovinos・Servicio Nacional de Aprendizaje](https://repositorio.sena.edu.co/bitstream/handle/11404/486/vol6_castracion_bovinos_op.pdf?sequence=12){:target='_blank' class="caption"}
 
 #### Castración con pinzas de burdizo
 
@@ -85,6 +94,9 @@ Para acortar el escroto se pone la banda en la parte inferior del escroto y se e
 
 Los terneros son observados diariamente para detectar anormalidades, inflamación, fiebre y falta de apetito, durante cuarenta y cinco días.
 
+![Ganado transportado por la frontera entre Turquía y Bulgaria・Jo-Anne McArthur・Eyes On Animals・We Animals Media](../assets/images/lessons/leccion-08-castracion-transporte-01.jpg)
+[Ganado transportado por la frontera entre Turquía y Bulgaria・Jo-Anne McArthur・Eyes On Animals・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM7933&assetType=default){:target='_blank' class="caption"}
+
 ### Transporte y asesinato (sacrificio)
 
 Si se deshidratan los animales, el proceso de desollado y enviscado es más complicado, entonces se suministran cantidades adecuadas de agua antes del transporte, se suspende la alimentación doce horas antes del embarque, y el suministro de agua dos o tres horas antes.
@@ -99,6 +111,9 @@ Una revisión para detectar la presencia de enfermedades y separar animales sano
 
 Las víctimas se mantienen mínimo doce y normalmente veinticuatro horas en su corral. Durante ese periodo únicamente se proporciona agua. Al terminar la etapa de reposo los animales se conducen a una manga donde se limpian con chorros de agua fría. El lavado remueve suciedades de la piel, posibilita que la sangre se concentre en grandes vasos sanguíneos, mejorando la sangría, lo que favorece la conservación de la carne y mejora su color; también retira parásitos externos y facilita el avance de los animales por las rampas de conducción. Después de la limpieza externa las víctimas son llevadas hasta la caja de insensibilización con ayuda del tábano eléctrico.
 
+![Una vaca cubierta en marcas de pintura es inmobilizada en el sistema de restricción del cuerpo mientras un trabajador se prepara para aturdirla con un perno cautivo en la cabeza・Gabriela Penela・We Animals Media](../assets/images/lessons/leccion-08-aturdimiento.jpg)
+[Una vaca cubierta en marcas de pintura es inmobilizada en el sistema de restricción del cuerpo mientras un trabajador se prepara para aturdirla con un perno cautivo en la cabeza・Gabriela Penela・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM17406&assetType=default){:target='_blank' class="caption"}
+
 #### Aturdimiento (Insensibilización)
 
 Conducen a la víctima a la caja de insensibilización donde se le dispara con una pistola de perno cautivo en el punto de la intersección entre las líneas imaginarias entre cada ojo y el cuerno opuesto, o se puede usar una técnica llamada apuntillado que consiste en clavar una puntilla en la parte anterior de la nuca, a nivel de la unión de la cabeza con el cuello.
@@ -109,6 +124,9 @@ Por último se abre la puerta lateral giratoria del cajón para que la vaca o el
 
 Un grillete es instalado en la pata izquierda de la víctima cuando está en el suelo, y se eleva hasta enganchar el grillete en el riel de sangría.
 
+![Un trabajador de matadero perfora la garganta de una vaca suspendida mientras otro trabajador ayuda a mantenerla en su sitio・Gabriela Penela・We Animals Media](../assets/images/lessons/leccion-08-sangria.jpg)
+[Un trabajador de matadero perfora la garganta de una vaca suspendida mientras otro trabajador ayuda a mantenerla en su sitio・Gabriela Penela・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM17408&assetType=default){:target='_blank' class="caption"}
+
 #### Sangría
 
 Degollamiento o corte para desangrar.
@@ -118,6 +136,9 @@ Sangría alta: un corte por detrás de la mandíbula inferior, seleccionando los
 Sangría baja: un corte realizado en el lado izquierdo de la unión del cuello y el pecho. Este corte genera un mayor sangrado pero deteriora la piel y disminuye su valor comercial.
 
 La sangre se recoge en recipientes metálicos limpios y se destina al consumo humano, la producción de harina de sangre o se usa como abono.
+
+![Un trabajador de matadero posa entre dos vacas muertas que están listas para ser desolladas・Gabriela Penela・We Animals Media](../assets/images/lessons/leccion-08-descuartizamiento.jpg)
+[Un trabajador de matadero posa entre dos vacas muertas que están listas para ser desolladas・Gabriela Penela・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM17388&assetType=default){:target='_blank' class="caption"}
 
 #### Descuartizamiento (Faenado)
 
