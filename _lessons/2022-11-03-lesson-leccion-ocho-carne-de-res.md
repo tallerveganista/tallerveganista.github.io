@@ -158,6 +158,6 @@ La industria recurre a eufemismos con los que busca normalizar la violencia que 
 
 * [Castración de bovinos・Servicio Nacional de Aprendizaje](https://repositorio.sena.edu.co/bitstream/handle/11404/486/vol6_castracion_bovinos_op.pdf?sequence=12){:target='_blank' class="reference"}
 
-* [Transporte de ganado bovino・José Ignacio Sánchecez Gómez / Sitio Argentino de Producción Animal](https://www.produccion-animal.com.ar/informacion_tecnica/comercializacion/34-transporte.pdf){:target='_blank' class="reference"}
+* [Transporte de ganado bovino・José Ignacio Sánchez Gómez / Sitio Argentino de Producción Animal](https://www.produccion-animal.com.ar/informacion_tecnica/comercializacion/34-transporte.pdf){:target='_blank' class="reference"}
 
 * [Transporte, sacrificio y faenado de ganado・Servicio Nacional de Aprendizaje](https://repositorio.sena.edu.co/bitstream/handle/11404/3848/transporte_sacrificio_faenado_ganado.pdf){:target='_blank' class="reference"}
