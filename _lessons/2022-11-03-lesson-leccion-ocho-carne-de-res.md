@@ -28,9 +28,7 @@ En esta lección cubriré las prácticas que no mencioné en la lección sobre [
 
 ### Extracción de semen
 
-La inseminación artificial ofrece varias ventajas para la industria, previene la diseminación de enfermedades de transmisión sexual, permite que se pueda embarazar a más vacas con semen de animales seleccionados y reduce costos de mantenimiento de toros. Parte del proceso es la extracción del semen, que se realiza mediante diferentes metodologías.
-
-Practicas de bestialismo y abuso sexual normalizadas en nuestra cultura.
+La inseminación artificial ofrece varias ventajas para la industria, previene la diseminación de enfermedades de transmisión sexual, permite que se pueda embarazar a más vacas con semen de animales seleccionados y reduce costos de mantenimiento de toros. Parte del proceso es la extracción del semen, que se realiza mediante diferentes metodologías que son practicas de bestialismo y abuso sexual normalizadas en nuestra cultura.
 
 #### Vagina artificial
 
@@ -82,7 +80,7 @@ Después de inmovilizar al toro, lavar y desinfectar su escroto y áreas cercana
 
 #### Castración con pinzas de burdizo
 
-Esta técnica se utiliza únicamente en animales menores de un año debido a que en adultos se corre el riesgo de producir inflamaciones y afectaciones graves, además se dificulta el corte del cordón espermático sin dañar la piel. Para la preparación, se sujeta e inmoviliza al toro, se lavan y desinfectan los materiales y manos de la persona que ejecutará la operación, así como el escroto del toro. Para localizar el cordón espermático se toma el testículo con ambas manos palpando el cordón con los dedos índice y pulgar, luego se acomodan las pinzas alrededor del cordón espermático para prensarlo con el emasculador que se cierra tomando un mango con la mano libre mientras se sujeta el otro con la rodilla, las pinzas permanecen cerradas durante unos tres minutos, tiempo en el que son retriadas y se realiza la operación en el cordón del otro testículo. El toro pasa a observación durante ocho días y a los treinta días es revisado para comprobar la degradación de los testículos.
+Esta técnica se utiliza únicamente en animales menores de un año debido a que en adultos se corre el riesgo de producir inflamaciones y afectaciones graves, además se dificulta el corte del cordón espermático sin dañar la piel. Para la preparación, se sujeta e inmoviliza al toro, se lavan y desinfectan los materiales y manos de la persona que ejecutará la operación, así como el escroto del toro. Para localizar el cordón espermático se toma el testículo con ambas manos palpando el cordón con los dedos índice y pulgar, luego se acomodan las pinzas alrededor del cordón espermático para prensarlo con el emasculador que se cierra tomando un mango con la mano libre mientras se sujeta el otro con la rodilla, las pinzas permanecen cerradas durante unos tres minutos, tiempo en el que son retiradas y se realiza la operación en el cordón del otro testículo. El toro pasa a observación durante ocho días y a los treinta días es revisado para comprobar la degradación de los testículos.
 
 #### Castración con elastrador
 
@@ -99,9 +97,9 @@ Los terneros son observados diariamente para detectar anormalidades, inflamació
 
 ### Transporte y asesinato (sacrificio)
 
-Si se deshidratan los animales, el proceso de desollado y enviscado es más complicado, entonces se suministran cantidades adecuadas de agua antes del transporte, se suspende la alimentación doce horas antes del embarque, y el suministro de agua dos o tres horas antes.
+Si se deshidratan los animales, el proceso de desollado y enviscerado es más complicado, entonces se suministran cantidades adecuadas de agua antes del transporte, se suspende la alimentación doce horas antes del embarque, y el suministro de agua dos o tres horas antes.
 
-Las víctimas son cargadas al camión una mirando hacia el lado contrario de la otra (cabeza cola), se bajan con la ayuda de un tábano eléctrico para evitar usar palos, piedras, hierros y otros objetos que lesionan las partes del animal donde se encuentran las carnes de mayor calidad, también se usa el tábano para conducir a los animales por pasillos.
+Las víctimas son cargadas al camión una mirando hacia el lado contrario de la otra (cabeza cola), se bajan con la ayuda de un tábano eléctrico para evitar usar palos, piedras, hierros y otros objetos que lesionan las partes del animal donde se encuentran las carnes de mayor calidad. También se usa el tábano para conducir a los animales por pasillos.
 
 #### Inspección ante-mortem
 
@@ -109,7 +107,7 @@ Una revisión para detectar la presencia de enfermedades y separar animales sano
 
 #### Reposo, limpieza y conducción
 
-Las víctimas se mantienen mínimo doce y normalmente veinticuatro horas en su corral. Durante ese periodo únicamente se proporciona agua. Al terminar la etapa de reposo los animales se conducen a una manga donde se limpian con chorros de agua fría. El lavado remueve suciedades de la piel, posibilita que la sangre se concentre en grandes vasos sanguíneos, mejorando la sangría, lo que favorece la conservación de la carne y mejora su color; también retira parásitos externos y facilita el avance de los animales por las rampas de conducción. Después de la limpieza externa las víctimas son llevadas hasta la caja de insensibilización con ayuda del tábano eléctrico.
+Las víctimas se mantienen mínimo doce y normalmente veinticuatro horas en su corral. Durante ese periodo únicamente se proporciona agua. Al terminar la etapa de reposo los animales se conducen a una manga donde se limpian con chorros de agua fría. El lavado remueve suciedades de la piel, posibilita que la sangre se concentre en grandes vasos sanguíneos mejorando la sangría, lo que favorece la conservación de la carne y mejora su color; también retira parásitos externos y facilita el avance de los animales por las rampas de conducción. Después de la limpieza externa las víctimas son llevadas hasta la caja de insensibilización con ayuda del tábano eléctrico.
 
 ![Una vaca cubierta en marcas de pintura es inmobilizada en el sistema de restricción del cuerpo mientras un trabajador se prepara para aturdirla con un perno cautivo en la cabeza・Gabriela Penela・We Animals Media](../assets/images/lessons/leccion-08-aturdimiento.jpg)
 [Una vaca cubierta en marcas de pintura es inmobilizada en el sistema de restricción del cuerpo mientras un trabajador se prepara para aturdirla con un perno cautivo en la cabeza・Gabriela Penela・We Animals Media](https://stock.weanimalsmedia.org/search/?searchQuery=WAM17406&assetType=default){:target='_blank' class="caption"}
