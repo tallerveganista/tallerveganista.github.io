@@ -129,7 +129,7 @@ Un grillete es instalado en la pata izquierda de la víctima cuando está en el 
 
 Degollamiento o corte para desangrar.
 
-Sangría alta: un corte por detrás de la mandíbula inferior, seleccionando los grandes vasos sanguíneos a nivel del cuelo.
+Sangría alta: un corte por detrás de la mandíbula inferior, seleccionando los grandes vasos sanguíneos a nivel del cuello.
 
 Sangría baja: un corte realizado en el lado izquierdo de la unión del cuello y el pecho. Este corte genera un mayor sangrado pero deteriora la piel y disminuye su valor comercial.
 
