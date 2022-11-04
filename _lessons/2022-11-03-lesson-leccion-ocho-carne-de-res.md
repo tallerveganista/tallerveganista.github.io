@@ -3,7 +3,7 @@ layout: lesson
 lesson-number: Lección 8
 tags:
 - lesson
-title: Carne de res
+title: La industria de la carne de res
 category: lesson
 date: 2022-11-03
 excerpt: Prácticas que no quedaron cubiertas en la lección sobre la industria láctea porque aplican exclusivamente a los machos, y una descripción breve del proceso de transporte y matanza.
@@ -11,13 +11,14 @@ recipe-introduction:
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-08-carne-de-res.jpg"
 alt-image:
-permalink: "/carne-de-res/"
+permalink: "/la-industria-de-la-carne-de-res/"
 description: Prácticas que no quedaron cubiertas en la lección sobre la industria láctea porque aplican exclusivamente a los machos, y una descripción breve del proceso de transporte y matanza.
+published: false
 ---
 <p class="highlight-text p-big center-lg">
 <span class="icon icon-warning"></span> Contiene imágenes sangrientas y de abuso sexual.</p>
 
-En la lección sobre [la industria láctea](/leccion-la-industria-láctea){:class="link no-underline" target="_blank"} cubrí las características de la especie *Bos Taurus,* y la mayoría de procedimientos estándar relacionados a la explotación de animales de esta especie. Debo anotar que aunque encontré con cierta facilidad material acerca de cómo criar vacas para extraer leche de sus cuerpos, hasta ahora no encontré material sobre cómo criar estos animales para carne exclusivamente. Al igual que en los manuales para la explotación de gallinas y pollos, se mencionan razas mejor adaptadas para producir leche (enviadas al matadero después de su ciclo productivo), razas mejor adaptadas para producir carne, o las que llaman de doble propósito. Estas razas han sido desarrolladas a partir de crianza selectiva que produce ejemplares cuyas características resultan más rentables para la industria, no consecuencia de cómo esta especie se adapta a su entorno.
+En la lección sobre [la industria láctea](/leccion-la-industria-láctea){:class="link no-underline" target="_blank"} cubrí las características de las especies *Bos Taurus,* y la mayoría de procedimientos estándar relacionados a la explotación de animales de esta especie. Debo anotar que aunque encontré con cierta facilidad material acerca de cómo criar vacas para extraer leche de sus cuerpos, hasta ahora no encontré material sobre cómo criar estos animales para carne exclusivamente. Al igual que en los manuales para la explotación de gallinas y pollos, se mencionan razas mejor adaptadas para producir leche (enviadas al matadero después de su ciclo productivo), razas mejor adaptadas para producir carne, o las que llaman de doble propósito. Estas razas han sido desarrolladas a partir de crianza selectiva que produce ejemplares cuyas características resultan más rentables para la industria, no consecuencia de cómo esta especie se adapta a su entorno.
 
 Contrario a lo que podrían pensar quienes defienden el vegetarianismo, entendido como de dejar de consumir cadáveres pero continuar consumiendo secreciones y otros productos; no hay una división real entre la industria láctea y la industria de la carne, por lo menos desde la zootecnia. No sería rentable seguir alimentando a vacas que no producen, y como vimos en la lección sobre la industria láctea, es imposible colonizar el cuerpo de una vaca para convertirle en un medio de producción sin ejecutar maltratos y abusos sobre ella y sus crías. El concepto de ejercer propiedad sobre el cuerpo de alguien es cuestionable, por lo que si una persona quiere dejar de participar directamente en la industria, debería intentar practicar el veganismo, o al menos entender la ideología que sostiene la práctica. Es preferible que una persona entienda y promueva la liberación animal así no pueda practicar el veganismo por un problema de adicción a los lácteos o de alguna otra naturaleza, a que una persona asimile y promueva el vegetarianismo porque le resulta más accesible. No somos la policía del consumo de nadie, pero tampoco podemos promover ideas que no están sustentadas en la realidad objetiva.
 
