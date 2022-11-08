@@ -21,9 +21,7 @@ why-text: Porque ningún ser que siente y tiene una experiencia subjetiva de su 
   nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más
   me pertenece, así ese alguien sea de otra especie.
 why-button: Texto completo
-lessons-text: Diez lecciones en las que aprenderás sobre consideraciones éticas relativas
-  a la explotación animal, nutrición a base de plantas, impacto ambiental de la ganadería y la pesca, y activismo. Tendrás la posibilidad de conocer a más personas veganas
-  de la ciudad.
+lessons-text: Diez lecciones sobre consideraciones éticas relativas a la liberación animal, veganismo, nutrición a base de plantas, impacto ambiental de las industrias de explotación animal y activismo. Puedes contar con nuestra ayuda y tendrás la posibilidad de conocer a personas con intereses similares.
 lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 description: Oponerse a la explotación es luchar por una sociedad justa. Acá está toda la información que necesitas para unirte a la lucha por la liberación colectiva, desde tus hábitos de vida y tu participación ciudadana.
 
