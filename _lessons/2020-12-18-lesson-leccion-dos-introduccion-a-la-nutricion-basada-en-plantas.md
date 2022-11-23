@@ -101,7 +101,7 @@ Consumir yodo es necesario para la salud de la tiroides y la regulación del met
 
 ### Calcio
 
-Los lácteos tienen mucho calcio pero también un montón hormonas de crecimiento diseñadas para que terneros crezcan rápidamente, pero que en humanos favorece la formación de cánceres como el de próstata y mamas.
+Los lácteos tienen mucho calcio pero también un montón de hormonas de crecimiento diseñadas para que terneros crezcan rápidamente, pero que en humanos favorece la formación de cánceres como el de próstata y mamas.
 
 Algunos alimentos de origen vegetal que contienen suficiente calcio son:
 
