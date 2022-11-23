@@ -74,7 +74,7 @@ A quienes siguen dietas a base de plantas podría no importarles si consumir pro
 
 Finalmente, los temas ambientales son tan complejos y tienen tantas variables, que al final no sabemos si realmente vale la pena practicar el veganismo como una acción individual efectiva para reducir el impacto ambiental individual, si es suficiente con reducir el consumo de cadáveres, o si más bien debemos evitar consumir cadáveres, pero seguir consumiendo secreciones... Se abren posibilidades sobre variables infinitas que difícilmente podemos entender, y que no necesariamente dejan por fuera continuar con la explotación a los animales. Además hay que tener cuidado con los discursos alrededor del colapso ambiental, porque esta puede ser otra crisis "bien manejada", desde donde se genera el pánico que suspende el pensamiento crítico y nos lleva a aceptar el totalitarismo como la salvación.
 
-### Veganismo por antiespecismo
+### Veganismo por rechazo a la violencia contra los animales
 
 Si practicamos el veganismo porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran mercancía, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día.
 {:class="p-big"}
