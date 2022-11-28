@@ -20,5 +20,3 @@ published: true
 Chana tiene un nuevo local más grande y más play, ubicado en Manila. Este restaurante es la nueva versión de Dharma, el primer restaurante vegano de Medellín.
 
 Sábado 2 de abril. Calle 12 4E - 22, Edificio Manila Center. 7:30 p.m.
-
-<a class="link" href="https://www.meetup.com/taller-veganista/events/284956897/" target="_blank">meetup.com/taller-veganista/events/284956897</a>

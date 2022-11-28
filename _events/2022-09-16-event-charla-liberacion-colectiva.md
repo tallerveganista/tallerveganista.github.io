@@ -20,5 +20,3 @@ published: true
 Vamos a hablar de liberación animal como vanguardia de los movimientos sociales y a comer pasabocas.
 
 Viernes 23 de Septiembre / 5:00 p.m. ∙ Sede de Polo Medellín. calle 54 Caracas #42-38 ∙ Media cuadra arriba de Profamilia.
-
-<a class="link" href="https://www.meetup.com/taller-veganista/events/288523629" target="_blank">meetup.com/taller-veganista/events/288523629</a>

@@ -21,5 +21,3 @@ published: true
 La idea es relajarse un rato, compartir y comer algo vegano y mexicano en Taco Veg. Hay tacos, mazorquitas, burritos, nachos, quesadillas y bebidas. Recomendados los nachos, pero todo es rico.
 
 Sábado 29 de enero. Taco Veg. Calle 10 # 35 - 14. 7:30 p.m.
-
-<a class="link" href="https://www.meetup.com/taller-veganista/events/283388991/" target="_blank">meetup.com/taller-veganista/events/275066359</a>
