@@ -50,7 +50,7 @@ En 1949, Leslie J. Cross advirtió que la palabra veganismo no tenía una defini
 
 [Artículo completo](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"} sobre la definición de veganismo y ebook sobre la historia de la Sociedad Vegana. (En Inglés).
 
-Dentro de la definición más o menos oficial, caben quienes practican el veganismo por salud y por reducir su impacto ambiental individual. Las razones por las que una persona decide hacerse vegana no son exclusivas ni excluyentes, aunque su motivación influye en la manera en la que entiende el veganismo y la posibilidad de mantenerse o abandonar después de un tiempo. No importa si hemos llegado al veganismo por motivos de salud o de reducción del impacto ambiental, pero es necesario entender el antiespecismo, o rechazar la explotación para quedarse.
+Dentro de la definición más o menos oficial, caben quienes practican el veganismo por salud y por reducir su impacto ambiental individual. Las razones por las que una persona decide hacerse vegana no son exclusivas ni excluyentes, aunque su motivación influye en la manera en la que entiende el veganismo y la posibilidad de mantenerse o abandonar después de un tiempo. No importa si hemos llegado al veganismo por motivos de salud o de reducción del impacto ambiental, pero es necesario rechazar la explotación para quedarse.
 
 ### Veganismo por salud
 
@@ -76,7 +76,7 @@ Finalmente, los temas ambientales son tan complejos y tienen tantas variables, q
 
 ### Veganismo por rechazo a la violencia contra los animales
 
-Si practicamos el veganismo porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran mercancía, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a ejercer el especismo tres veces al día.
+Si practicamos el veganismo porque rechazamos la violencia que se deriva de apropiarnos de los cuerpos de animales como si fueran mercancía, la idea de ejercer o financiar esa violencia cuando podemos no hacerlo, es inaceptable y desagradable. Cuando lo entendemos así, es bien difícil que se nos vuelva a pasar por la mente volver a financiar directamente las industrias de explotación animal tres veces al día.
 {:class="p-big"}
 
 Para mi fue muy fácil hacerme vegano, pero he visto como las personas pueden tener dificultades, o no han terminado de resolver sus inquietudes, lo que no necesariamente significa que estén de acuerdo con que los cuerpos de los animales sean usados como mercancía, sino que todavía no entienden cómo practicar el veganismo. Es más importante entender la ideología y saber porqué tiene sentido unirse a la lucha por la liberación animal. Hacerlo desde los hábitos de vida debería ser la consecuencia de entender porqué y saber cómo, nunca un requisito para apoyar la causa desde la participación ciudadana.

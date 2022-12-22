@@ -65,9 +65,9 @@ Aunque está comprobado que los peces están en capacidad para percibir sensacio
 
 [FiRe 2015: The Cambridge Declaration on Consciousness・Youtube](https://www.youtube.com/watch?v=57E-Lawrvx0 "FiRe 2015: The Cambridge Declaration on Consciousness"){:target='_blank' class="caption"}
 
-### Veganismo y antiespecismo como oposición al carnismo
+### Veganismo como oposición al carnismo
 
-El condicionamiento cultural detrás de nuestra relación de dominación y explotación con animales de otras especies es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― _Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo_. ― El carnismo es el sistema de creencias que condiciona a la población para que consuma algunos animales, es la ideología que soporta el especismo que es una forma de discriminación que consiste en tratar a animales de unas especies como dignos de consideración moral, mientras se domina y explota a animales de otras, a pesar de que sus intereses pueden ser equivalentes.
+El condicionamiento cultural detrás de nuestra relación de dominación y explotación con animales de otras especies es una ideología dominante e invisible que Melanie Joy define como carnismo en su libro ― _Por qué amamos a los perros, nos comemos a los cerdos y nos vestimos con las vacas. Una introducción al carnismo_. ― El carnismo es el sistema de creencias que condiciona a la población para que consuma algunos animales.
 
 La autora introduce las ideas principales de su libro en esta presentación. Recuerda activar los subtítulos en Español.
 
