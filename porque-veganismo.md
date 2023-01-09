@@ -8,7 +8,7 @@ image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
 description: Definición de veganismo, y argumentos básicos sobre porque practicar el veganismo.
 
 ---
-Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más me pertenece, así ese alguien sea de otra especie.
+Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más sea mercancía o medio de producción, así ese alguien sea de otra especie.
 {:class="p-big center-lg why-big-text"}
 
 ### ¿Qué es veganismo?

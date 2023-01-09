@@ -16,10 +16,7 @@ what-text: Taller Veganista es una iniciativa local dedicada a divulgar los argu
 what-button: Más información
 why-heading: "¿Porqué veganismo?"
 why-image: "/assets/images/cerdo-enjaulado.png"
-why-text: Porque ningún ser que siente y tiene una experiencia subjetiva de su propia
-  vida debería ser propiedad de alguien. Si mi vida y mi cuerpo no le pertenecen a
-  nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más
-  me pertenece, así ese alguien sea de otra especie.
+why-text: Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más sea mercancía o medio de producción, así ese alguien sea de otra especie.
 why-button: Texto completo
 lessons-text: Diez lecciones sobre consideraciones éticas relativas a la liberación animal, veganismo, nutrición a base de plantas, impacto ambiental de las industrias de explotación animal y activismo. Puedes contar con nuestra ayuda y tendrás la posibilidad de conocer a personas con intereses similares.
 lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
