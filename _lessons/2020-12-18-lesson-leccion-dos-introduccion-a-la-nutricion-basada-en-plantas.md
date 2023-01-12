@@ -24,7 +24,7 @@ Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni dif�
 
 [Posición de la Academia de Nutrición y Dietética: Dietas Vegetarianas. <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
-La historia de nuestra amiga o amigo ex-vegetariano que se enfermó, no es evidencia de que alimentarse a base de plantas no funcione sino de que se alimentó mal, y seguramente todavía lo hace, aunque ahora incluya cadáveres en su dieta. Independientemente de que la dieta incluya o no partes de, o cosas que salen de animales, si nos alimentamos mal seguramente sufriremos deficiencias y enfermedades. De hecho es muy probable que quienes siguen una dieta estándar tengan una deficiencia de fibra dietaria sin saberlo.
+La historia de nuestra amiga o amigo ex-vegetariano que se enfermó, no es evidencia de que alimentarse a base de plantas no funcione sino de que probablemente no contó con una asesoría adecuada para alimentarse bien, y seguramente todavía se alimenta mal, aunque ahora incluya cadáveres en su dieta. Independientemente de que la dieta incluya o no partes de, o cosas que salen de animales, si nos alimentamos mal seguramente sufriremos deficiencias y enfermedades. De hecho es muy probable que quienes siguen una dieta estándar tengan una deficiencia de fibra dietaria sin saberlo.
 
 ### El veganismo es una rama del vegetarianismo, y los programas de 21, 22 y 30 días.
 
