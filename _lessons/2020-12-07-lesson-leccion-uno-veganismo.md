@@ -113,8 +113,8 @@ Gracias a Eduardo Arias González, de [Taller Agosto](http://talleragosto.com/){
 * [70 Years Ago: Vegan Cookbook No. 1: 70 Vegans In The UK・Happy Cow Blog](https://www.happycow.net/blog/vegan-recipes/){:target='_blank' class="reference"}
 * [Pentagon Fuel Use, Climate Change, and the Costs of War・Neta C. Crawford・Boston University](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2019/Pentagon%20Fuel%20Use,%20Climate%20Change%20and%20the%20Costs%20of%20War%20Final.pdf){:target='_blank' class="reference"}
 * [Humans of CIA・Youtube](https://www.youtube.com/watch?v=X55JPbAMc9g){:target='_blank' class="reference"}
-* [Footprint Fantasy](https://grist.org/energy/footprint-fantasy/){:target='_blank' class="reference"}
-* [BP popularised “Carbon Footprint” to Greenwash and Guilt-trip. Here’s How.](https://www.greenisthenewblack.com/carbon-footprint-bp/){:target='_blank' class="reference"}
+* [Footprint Fantasy・Grist](https://grist.org/energy/footprint-fantasy/){:target='_blank' class="reference"}
+* [BP popularised “Carbon Footprint” to Greenwash and Guilt-trip. Here’s How・Green is the New Black](https://www.greenisthenewblack.com/carbon-footprint-bp/){:target='_blank' class="reference"}
 * [Vegan Washing: How Israel Uses Veganism to Gloss Over Palestinian Oppression・Mint Press News](https://www.mintpressnews.com/vegan-washing-israel-veganism-palestinian-oppression/262707){:target='_blank' class="reference"}
 * [US Department Of Defense Closer To Putting Plant-Based Meals On The Military Menu・Plant Based News](https://plantbasednews.org/lifestyle/food/department-defense-plant-based-meals-military/){:target='_blank' class="reference"}
 * [The Faux Generosity of the Super-Wealthy: Why Bill Gates is a Menace to Society・Mint Press News](https://www.mintpressnews.com/faux-generosity-how-bill-gates-bought-his-power-and-influence/263208/){:target='_blank' class="reference"}
