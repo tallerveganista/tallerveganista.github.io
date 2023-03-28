@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Liberación colectiva
+title: Sistema de producción a base de plantas y liberación animal
 image: assets/images/taller-veganista-cover.png
 permalink: "/"
 alt-why-image: Cerdo enjaulado

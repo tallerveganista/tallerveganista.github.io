@@ -1,6 +1,7 @@
 ---
 layout: what
 title: Sobre Taller Veganista
+image: assets/images/taller-veganista-cover.png
 author: Alejandro Narváez Isaza
 permalink: "/sobre-taller-veganista/"
 date: 2023-03-28
