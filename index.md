@@ -5,14 +5,12 @@ image: assets/images/taller-veganista-cover.png
 permalink: "/"
 alt-why-image: Cerdo enjaulado
 alt-what-image: Animales en clase
-header-heading: Liberación colectiva
-header-text: Oponerse a la explotación es luchar por una sociedad justa.
-  Acá está toda la información que necesitas para unirte a la lucha por la liberación
-  colectiva, desde tus hábitos de vida y tu participación ciudadana.
+header-heading: Sistema de producción a base de plantas y liberación animal
+header-text: Conoce la realidad de las industrias que ejecutan violencia sistematizada contra los animales para producir bienes de consumo, entiende porqué debemos oponernos a esa violencia y únete a la lucha por la liberación animal, desde tu participación política y/o tus hábitos de vida
 header-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
-what-heading: "¿Qué es Taller Veganista?"
+what-heading: "Sobre Taller Veganista"
 what-image: "/assets/images/animales-en-clase.png"
-what-text: Taller Veganista es una iniciativa local dedicada a divulgar los argumentos que sustentan al movimiento de liberación animal / colectiva, y a ayudar a las personas que están interesadas en practicar el veganismo pero no saben cómo hacerlo, tienen dificultades, preguntas, o no tienen con quién hablar. Compartimos nuestra experiencia y recopilamos información valiosa desde un enfoque pro-interseccional, anti-imperialista y anti-capitalista.
+what-text: Taller Veganista es un proyecto editorial dedicado a ampliar el conocimiento sobre los animales víctimas de violencia sistemática, y las prácticas estándar de las industrias que les explotan. Queremos ayudar a construir un marco teórico que permita definir de manera consciente la postura ideológica y/o los hábitos de vida, respecto a la apropiación de los cuerpos de los animales no humanos para fines comerciales y otros...
 what-button: Más información
 why-heading: "¿Porqué veganismo?"
 why-image: "/assets/images/cerdo-enjaulado.png"
