@@ -1,14 +1,14 @@
 ---
 layout: why
-title: ¿Por qué veganismo?
-date: 2020-11-26T11:48:00.000-05:00
+title: ¿Porqué liberación animal?
+date: 2023-03-29
 author: Alejandro Narváez Isaza
-permalink: "/porque-veganismo/"
+permalink: "/porque-liberacion-animal/"
 image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
 description: Definición de veganismo, y argumentos básicos sobre porque practicar el veganismo.
 
 ---
-Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más sea mercancía o medio de producción, así ese alguien sea de otra especie.
+El cuerpo de ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser modo de producción o mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo de alguien más sea un recurso para explotar, así ese alguien sea de otra especie.
 {:class="p-big center-lg why-big-text"}
 
 ### ¿Qué es veganismo?
