@@ -3,7 +3,7 @@ layout: why
 title: ¿Porqué liberación animal?
 date: 2023-03-29
 author: Alejandro Narváez Isaza
-permalink: "/porque-liberacion-animal/"
+permalink: "/porqué-liberación-animal/"
 image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
 description: Definición de veganismo, y argumentos básicos sobre porque practicar el veganismo.
 
