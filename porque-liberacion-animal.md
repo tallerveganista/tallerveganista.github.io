@@ -11,6 +11,8 @@ description: Definición de veganismo, y argumentos básicos sobre porque practi
 El cuerpo de ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser modo de producción o mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo de alguien más sea un recurso para explotar, así ese alguien sea de otra especie.
 {:class="p-big center-lg why-big-text"}
 
+<span class="icon icon-warning"></span> Este texto está siendo revisado, porque al iniciar el proyecto el enfoque estaba en la promoción de la práctica del veganismo, y ahora el enfoque está en la liberación animal. 
+
 ### ¿Qué es veganismo?
 
 Para que sepamos de lo que estamos hablando, empecemos con la definición más o menos oficial que propone la organización [The Vegan Society:](https://www.vegansociety.com/go-vegan/definition-veganism){:target='_blank' class="link"}
