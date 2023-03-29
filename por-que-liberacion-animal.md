@@ -1,11 +1,11 @@
 ---
 layout: why
-title: ¿Porqué liberación animal?
+title: ¿Por qué liberación animal?
 date: 2023-03-29
 author: Alejandro Narváez Isaza
-permalink: "/porqué-liberación-animal/"
+permalink: "/por-qué-liberación-animal/"
 image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
-description: Definición de veganismo, y argumentos básicos sobre porque practicar el veganismo.
+description:
 
 ---
 El cuerpo de ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser modo de producción o mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo de alguien más sea un recurso para explotar, así ese alguien sea de otra especie.
