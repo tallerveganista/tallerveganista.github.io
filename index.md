@@ -6,7 +6,7 @@ permalink: "/"
 alt-why-image: Cerdo enjaulado
 alt-what-image: Animales en clase
 header-heading: Sistema de alimentación a base de plantas y liberación animal
-header-text: Conoce la realidad de las industrias que ejecutan violencia sistematizada contra los animales, entiende porqué debemos oponernos a esa violencia y únete a la lucha por la liberación animal, desde tu participación política y/o tus hábitos de vida.
+header-text: Conoce la realidad de las industrias que ejecutan violencia sistematizada contra los animales, entiende porqué nos oponernos a esa violencia y únete a la lucha por la liberación animal, desde tu participación política y/o tus hábitos de vida.
 header-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
 what-heading: "Sobre Taller Veganista"
 what-image: "/assets/images/animales-en-clase.png"
