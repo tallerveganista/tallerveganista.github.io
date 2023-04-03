@@ -5,7 +5,7 @@ date: 2023-03-29
 author: Alejandro Narváez Isaza
 permalink: "/por-qué-liberación-animal/"
 image: assets/images/lessons/leccion-00-cerdo-enjaulado-square.jpg
-description:
+description: Las razones detras de la afirmación de que ningún ser que siente y tenga una experiencia subjetiva de su propia vida debería ser modo de producción o mercancía, declaración de Cambridge sobre la conciencia, concepto de carnismo y postura alternativa frente al activismo para la promoción del veganismo. 
 
 ---
 El cuerpo de ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser modo de producción o mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mí, no tiene sentido pensar que el cuerpo de alguien más sea un recurso para explotar, así ese alguien sea de otra especie.
