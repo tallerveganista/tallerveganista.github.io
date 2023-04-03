@@ -12,7 +12,7 @@ El cuerpo de ningún ser que siente y tiene una experiencia subjetiva de su prop
 {:class="p-big center-lg why-big-text"}
 
 
-Si alguien ejerce violencia contra un perro o un gato sabemos que le va a doler y nos causa una enorme indignación. Quienes hemos pasado tiempo con animales de estas especies sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Son alguien, no algo.
+Si una persona ejerce violencia contra un perro o un gato sabemos que la víctima va a sentir dolor y nos causa una enorme indignación. Quienes hemos pasado tiempo con animales de estas especies sabemos que tienen preferencias, estados de ánimo, afectos y otras características atribuibles a alguien con personalidad. En una cerda, una vaca, un pez o una gallina también se pueden observar esas características. Son alguien, no algo.
 
 ![Gallinas confinadas en una jaula en una granja industrial・Jo -Anne McArthur・We Animals archive](/assets/images/why-veganism-article.jpg)
 [Gallinas confinadas en una jaula en una granja industrial・Jo -Anne McArthur・We Animals Archive](https://www.weanimalsarchive.org/#/gallery/40;imageid=4158){:target='_blank' class="caption"}
