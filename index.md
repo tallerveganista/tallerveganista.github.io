@@ -12,9 +12,9 @@ what-heading: "Sobre Taller Veganista"
 what-image: "/assets/images/animales-en-clase.png"
 what-text: Taller Veganista es un proyecto editorial dedicado a ampliar el conocimiento sobre los animales víctimas de violencia sistemática, y las prácticas estándar de las industrias que les explotan. Queremos ayudar a construir un marco teórico que permita definir de manera consciente la postura ideológica y/o los hábitos de vida, respecto a la apropiación de los cuerpos de los animales no humanos para fines comerciales y otros...
 what-button: Más información
-why-heading: "¿Porqué veganismo?"
+why-heading: "¿Por qué liberación animal?"
 why-image: "/assets/images/cerdo-enjaulado.png"
-why-text: Porque ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mi, no tiene sentido pensar que el cuerpo y la vida de alguien más sea mercancía o medio de producción, así ese alguien sea de otra especie.
+why-text: El cuerpo de ningún ser que siente y tiene una experiencia subjetiva de su propia vida debería ser modo de producción o mercancía. Si mi vida y mi cuerpo no le pertenecen a nadie más que a mí, no tiene sentido pensar que el cuerpo de alguien más sea un recurso para explotar, así ese alguien sea de otra especie.
 why-button: Texto completo
 lessons-text: Diez lecciones sobre consideraciones éticas relativas a la liberación animal, veganismo, nutrición a base de plantas, impacto ambiental de las industrias de explotación animal y activismo. Puedes contar con nuestra ayuda y tendrás la posibilidad de conocer a personas con intereses similares.
 lessons-button: Empieza <span class="hidden-xs visible-sm">tu aprendizaje</span> ahora
