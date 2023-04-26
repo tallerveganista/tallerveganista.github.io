@@ -6,19 +6,31 @@ tags:
 title: Veganismo
 category: lesson
 date: 2020-12-07
-excerpt: Origen de la palabra veganismo y anotaciones sobre las motivaciones para
-  practicar el veganismo.
+excerpt: Qué es veganismo y cuál es el origen de esta ideología y práctica
 recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas
   antes de empezar las recetas. Hoy presentamos dos opciones para desayunos.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-01-veganismo-square.jpg"
-alt-image: Ternero descansando cómodamente, y retratos de fundadores y fundadoras
-  de la Sociedad Vegana.
+alt-image: Ternero descansando cómodamente, y retratos de fundadores y fundadoras de la Sociedad Vegana.
 permalink: "/leccion-veganismo/"
 description: 'Origen de la palabra veganismo y anotaciones sobre las motivaciones para practicar el veganismo.'
 
 ---
-Antes de leer esta lección, recomiendo leer [¿Porqué Veganismo?](/porque-veganismo/){:class="link"}
+Antes de leer esta lección, recomiendo leer [¿Por qué liberación animal?](/por-qué-liberación-animal/){:class="link"}
+
+Liberación animal y veganismo no son lo mismo, aunque en una sociedad donde los animales no sean explotados, la mayoría de las personas tendría que practicar el veganismo. Veganismo es la ideología opuesta al carnismo, y un conjunto de hábitos de vida que tienen como fin que las persona quien los sigue, evite participar directamente de la explotación y violencia en contra de los animales. La razón por la que se habla más veganismo que de liberación animal, es porque es común entre organizaciones que trabajan por la liberación animal, y entre quienes practican el veganismo, asumir la promoción del veganismo como única estrategia válida para liberación animal, suponiendo que como resultado de esta actividad, la mayoría de la población practicará el veganismo, y las industrias de explotación animal dejarán de ser rentables. Esa idea no tiene mucho sentido teniendo en cuenta el profundo arraigo de la ideología carnista y lo complicado o hasta imposible en la mayoría de ocasiones, que resulta tratar de convencer a una persona de que practique el veganismo, además de que esa práctica en bastantes casos no se mantiene durante toda la vida, debido a una fundamentación teórica ineficiente o nula, frustración ante lo inconveniente que puede resultar, y que no produzca resultados visibles en cuanto a la reducción de la violencia sistemática en contra de los animales explotados por las industrias.
+
+Es posible que enmarcar la violencia sistemática contra los animales no humanos como un problema de oferta y demanda tenga que ver con que las instituciones que promueven la práctica del veganismo actualmente, vienen del trabajo de personas de origen europeo y norteamericano, que no cuestionan la ideología capitalista, y que provienen de una cultura donde el individualismo está arraigado más profundamente que en la nuestra.
+
+Quienes nos oponemos a la explotación y violencia sistemática contra los animales, usualmente practicamos el veganismo para solidarizarnos con los animales y como una acción política individual con la que le decimos diariamente a las industrias de explotación animal, que no cuenten con nosotros para legitimar sus prácticas, consumiendo sus productos hechos con cuerpos y secresciones de animales. Dicha acción individual produce efectos considerables a nivel indivudual, que varían de persona en persona. En mi caso la práctica del veganismo fue la introducción hacia una postura crítica frente a un sistema explotador e injusto, además de la tendencia a intentar alinear mis hábitos de vida con mis valores, lo que no es posible en todas los casos.
+
+Lastimosamente las acciones individuales poco impacto tienen en el sistema, y la práctica del veganismo en ocasiones pasa por una demostración de una coherencia más bien ingenua que no se podría sostener en los casos de consumo de productos en los que humanas y humanos han sido víctimas de explotación y/o productos de empresas y corporaciones con modelos de negocio moralmente cuestionables que la mayoría de veganas y veganos consumen sin ninguna postura crítica al respecto (¿Porqué está mal consumir cadáveres y está bien legitimar y patrocinar a las plataformas de Meta?)
+
+El veganismo también puede ser en ocasiones nada más que una tendencia de consumo promocionada como responsable, pero domesticada por el capitalismo y despojada de cualquier intención revolucionaria.
+
+Para alcanzar la liberación animal, se necesitarían acciones colectivas y un movimiento social amplio y fuerte que necesariamente tendría que incluir a personas que no practican el veganismo por la razón que sea, pero que entienden el problema, practicarían el veganismo si las condiciones fuesen favorables, y apoyarían la liberación animal de la manera que puedan así sus hábitos de vida no estén alineados con sus valores.
+
+Sin embargo, cuando logramos alinear nuestros hábitos de vida con nuestras ideas, nos pueden tomar un poco más en serio y demostramos con nuestras vidas que las cosas pueden ser diferentes, además cuando se toque el tema de la liberación animal, inevitablemente en la conversación aparecera el veganismo, por lo que es importante entender qué es, de dónde viene y cómo se practica, independientemente de lo que cada persona decida hacer con ese conocimiento.
 
 ### Origen de la palabra veganismo
 
