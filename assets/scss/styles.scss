@@ -394,6 +394,11 @@ blockquote{
     color: $brand;
     -webkit-transition: $transition;
     transition: $transition;
+    & em{
+      color: $brand;
+      -webkit-transition: $transition;
+      transition: $transition;
+    }
   }
   & span{
     vertical-align: middle;
@@ -511,6 +516,11 @@ blockquote{
 
 .caption{
   text-decoration: underline;
+  & em{
+   &:hover{
+    color: $gray-3;
+   }
+  }
   &:hover{
     color: $gray-3;
   }
