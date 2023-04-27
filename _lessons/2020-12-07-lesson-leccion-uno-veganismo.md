@@ -92,7 +92,7 @@ Al acercarme a las publicaciones de la Sociedad Vegana, encontré unos documenta
 
 La siguiente lección será una introducción a la nutrición basada en plantas, y a partir de la tercera lección conoceremos las prácticas de las diferentes industrias de explotación animal deacuerdo a los manuales de zootecnia disponibles para ser consultados por cualquiera. Según [Paula Moreno](https://instagram.com/corazonanimalvegano){:target='_blank' class="link"}, veterinaria de la Universidad Nacional de Colombia, describen un escenario "ideal", que no se ajusta a una realidad todavía peor, Aunque las industrias hacen un esfuerzo considerable por ocultar sus prácticas, al mismo tiempo deben capacitar a quienes las ejecutan lo que les obliga a hacerlas evidentes, así sea en versiones suavizadas y llenas de eufemismos.
 
-*Los medios veganos con mayor visibilidad como Livekindly, Plant Based News, Totally Vegan Buzz, y Veg News, se dedican a promocionar el veganismo despojado de conciencia de clase, haciendo propaganda a grandes corporaciones de comida rápida, y lavando la imagen de billonarios imperialistas,  explotadores de la clase trabajadora. Es vergonzoso, y justifica la idea de que el veganismo es una moda para personas privilegiadas e ingenuas, con problemas de superioridad moral.*
+*Los medios veganos con mayor visibilidad como Livekindly, Plant Based News, Totally Vegan Buzz, y Veg News, se dedican a promocionar el veganismo despojado de conciencia de clase, haciendo propaganda a grandes corporaciones de comida rápida, y lavando la imagen de billonarios imperialistas, explotadores de la clase trabajadora.*
 
 ### Referencias
 
