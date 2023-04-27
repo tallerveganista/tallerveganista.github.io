@@ -18,9 +18,9 @@ description: Observaciones sobre la dieta estándar, datos básicos sobre nutric
   basada en plantas y recursos para facilitar la planeación de una dieta adecuada.
 
 ---
-La dieta americana estándar (_Standard American Diet. SAD_ ⎯ _sad_ = triste), es una manera pésima de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Sin embargo, nuestra dieta estándar es cada vez más parecida a la dieta americana, con un consumo desmesurado de productos de origen animal, casi siempre procesados industrialmente. Las consecuencias de esta dieta son evidentes. Sólo tenemos que observar a nuestros familiares mayores de treinta o cuarenta años, para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
+La dieta americana estándar (_Standard American Diet. SAD_ ⎯ _sad_ = triste), no es la mejor manera de alimentarse y prácticamente garantiza sufrir deficiencias y enfermedades. Sin embargo, nuestra dieta estándar es cada vez más parecida a la dieta estadounidense, que incluye un consumo desmesurado de productos de origen animal casi siempre procesados industrialmente. Las consecuencias de esta dieta son evidentes, sólo tenemos que observar a personas mayores de treinta o cuarenta años, para notar la variedad de achaques y enfermedades que se han normalizado en nuestra cultura.
 
-Seguir una dieta a base de plantas adecuada no solamente no es peligroso ni difícil, para quienes tengan un mínimo de bienestar material, y algo de tiempo para cocinar, sino que es la opción más saludable, según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista de algunos y algunas de quienes más se destacan mundialmente en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética _"Academy of Nutrition and Dietetics"_ sobre las dietas a base de plantas, es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, y que son adecuadas para cualquier etapa de la vida. Menciona además que deben acompañarse de suplementos de vitamina B12.
+Seguir una dieta a base de plantas adecuada no es peligroso ni difícil, para quienes tengan un mínimo de bienestar material, y algo de tiempo para cocinar, es la opción más saludable, según los resultados del trabajo de cada vez más profesionales de la salud. Puedes ver una lista de quienes más se destacan mundialmente en el artículo: [Profesionales de la salud que recomiendan seguir una dieta a base de plantas.](/profesionales-de-la-salud-que-recomiendan-dietas-a-base-de-plantas/){:target="_blank" class="link"} La posición de la Academia de Nutrición y Dietética _"Academy of Nutrition and Dietetics"_ sobre las dietas a base de plantas, es que si se planean apropiadamente traen beneficios para la prevención y tratamiento de algunas enfermedades, y que son adecuadas para cualquier etapa de la vida. Menciona además que deben acompañarse de suplementos de vitamina B12.
 
 [Posición de la Academia de Nutrición y Dietética: Dietas Vegetarianas. <span class="icon icon-long-arrow-right-light"></span>](https://pubmed.ncbi.nlm.nih.gov/27886704/){:class="link no-underline" target="_blank"}
 
@@ -30,16 +30,16 @@ La historia de nuestra amiga o amigo ex-vegetariano que se enfermó, no es evide
 
 A quienes seguimos una dieta a base de plantas nos llaman vegetarianos estrictos en el lenguaje profesional, porque el veganismo va más allá de una dieta. Debido a esto frecuentemente se usa la palabra vegetariano para referirse tanto a vegetarianas y vegetarianos, como a veganos y veganas (vegetarianos estrictos). Es bastante confuso porque a menudo nos encontramos con esa palabra y no sabemos si están hablando de vegetarianos y veganos, o de vegetarianos o veganos. También hay problemas de traducción. En _“The Game Changers”_, los subtítulos y doblaje dicen vegetariano, cuando el documetal claramente habla de nutrición a base de plantas exclusivamente, el programa _“Vegan Kickstart”_ del Comité de Médicos Por Una Medicina Responsable solía traducirse como “Vegetariano en 21 días”.
 
-Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese período. Estos números están basados en el tiempo necesario para que se vean resultados, y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida, y tampoco estamos muy seguros de que los programas funcionen para todas las personas que se inscriben, porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días a hacer un ejercicio. Teniendo en cuenta esas limitaciones, decidimos cubrir los temas que consideramos necesarios, sin proponer un rango de tiempo para estudiarlos. Tampoco es necesario inscribirse para acceder al contenido, seguir a perfiles o postear en redes sociales. Más que inscribirse y completar un programa, es tener claro porque queremos practicar el veganismo, donde encontrar la información pertinente para hacerlo correctamente, y contar con un acompañamiento si es necesario.
+Hay varios programas de 21, 22 o 30 días para que una persona no vegana aprenda lo que necesita para hacer su transición durante ese período. Estos números están basados en el tiempo necesario para que se vean resultados, y la creencia en que durante ese tiempo se puede crear un hábito. La creencia se basa en una teoría sobre la plasticidad del cerebro que ya está rebatida, y tampoco estamos muy seguros de que los programas funcionen para todas las personas que se inscriben, porque no siempre es posible dedicar una o dos horas diarias durante 21 o 30 días a hacer un ejercicio. El objetivo de este proyecto es dejar la información disponible para quién quiera aprender sobre diferentes temas relacionados con la liberación animal, dentro de ese aprendizaje está entender qué es el veganismo, y cómo transitar hacia una dieta a base de plantas. Aunque recomiendo adoptar el veganismo, no quiero presionar a nadie para que lo haga, ni esto es un programa para hacerlo en x días. La opción más sensata en todos los casos es tomarse el tiempo para leer cuidadosamente, cuestionar y analizar críticamente.
 
-Una buena aproximación sería no tener miedo al cambio, comer bastante y variado sin obsesionarse, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores, también es muy útil apoyarse en la aplicación de la [Docena Diaria,](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista que practique el veganismo;](/nutricionistas-que-practican-el-veganismo-en-Colombia/){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
+Una buena aproximación para transitar hacia una alimentación a base de plantas sería no tener miedo al cambio, comer bastante y variado sin obsesionarse ni complicarse demasiado, no restringir calorías, suspender temporalmente los objetivos de transformación física, no buscar la perfección ni desanimarse ante los errores. También es muy útil apoyarse en la aplicación de la [Docena Diaria,](https://nutritionfacts.org/es/video/la-docena-diaria-del-dr-greger-2/){:target="_blank" class="link"} y consultar con una o un [nutricionista que practique el veganismo;](/nutricionistas-que-practican-el-veganismo-en-Colombia/){:target="_blank" class="link"} en caso de encontrar problemas o tener requerimientos nutricionales específicos.
 
 ![Niña comiendo pasta, ensalada y frutas.](../assets/images/lessons/leccion-02-introduccion-a-la-nutricion-basada-en-plantas.jpg)
 [Alex Green・Pexels](https://www.pexels.com/@alex-green){:target='_blank' class="caption"}
 
 ## Información básica sobre nutrición basada en plantas
 
-Buena parte del contenido para esta sección, está sustentado en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender. Yo no soy nutricionista, entonces puedo comenter algunas imprecisiones, pero les dejo las referencias, para que sigan investigando.
+Buena parte del contenido para esta sección, está sustentado en el curso: [Principios de una alimentación vegana saludable](https://www.udemy.com/course/principios-de-una-alimentacion-vegana-saludable){:target="_blank" class="link"} de Alejandra Zuluaga. Alejandra hace un excelente trabajo presentando de manera muy clara información que no es necesariamente fácil de conseguir y entender. Yo no soy nutricionista, entonces puedo comenter algunas imprecisiones, pero dejo las referencias para seguir aprendiendo.
 
 ### ¿Cuál es la dieta más adecuada?
 
@@ -61,7 +61,7 @@ Este mito tiene su origen en los estudios de Thomas B. Osborne y Lafayette Mende
 
 Consumir proteínas de origen animal conlleva un exceso del aminoácido metionina, exceso que promueve un envejecimiento acelerado. Las especies animales con una expectativa de vida menor, son las que tienen una concentración mayor de metionina en sus tejidos.
 
-Todas las proteínas contienen algo de aminoácidos esenciales, y no es necesario consumir grandes cantidades de aminoácidos en cada comida, porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
+Todos los alimentos contienen algo de aminoácidos esenciales, y no es necesario consumir grandes cantidades de aminoácidos en cada comida, porque los músculos y el hígado pueden almacenarlos para distribuirlos cuando y donde sea necesario.
 
 ### Ácidos grasos. Omega 3 y omega 6
 
@@ -97,13 +97,13 @@ El hierro hemo es proporcionado por comida de origen animal y no está presente 
 
 ### Yodo
 
-Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo. La disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo personas en gestación y quienes siguen una dieta en la que se ha eliminado completamente la sal.
+Consumir yodo es necesario para la salud de la tiroides y la regulación del metabolismo. La disponibilidad del yodo en las plantas depende del suelo en el que fueron cultivadas, pero únicamente necesitarían suplementos de yodo mujeres en gestación y quienes siguen una dieta en la que se ha eliminado completamente la sal.
 
 ### Calcio
 
-Los lácteos tienen mucho calcio pero también un montón de hormonas de crecimiento diseñadas para que terneros crezcan rápidamente, pero que en humanos favorece la formación de cánceres como el de próstata y mamas.
+Los lácteos contienen calcio pero también un montón de hormonas de crecimiento diseñadas para que terneros crezcan rápidamente, que en humanos favorece la formación de cánceres como el de próstata y mamas.
 
-Algunos alimentos de origen vegetal que contienen suficiente calcio son:
+Algunos alimentos de origen vegetal que contienen suficiente calcio:
 
 * Avena
 * Leche de soya
@@ -153,7 +153,7 @@ Video sobre la Docena Diaria. Recuerda configurar los subtítulos para Español.
 
 He visto casos de personas a las que definitivamente no les gusta el sabor de los vegetales, frutas, cereales y leguminosas. Esto suena como una excusa infantil, pero puede ser un problema de crianza que va a requerir un esfuerzo extra y firmeza en la motivación. No sabría cómo ayudarles pero puedo decir que como les acostumbraron a disfrutar de comer unas cosas pueden acostumbrarse a disfrutar de comer otras, tener un poco de creatividad para sazonar, voluntad para explorar diferentes sabores y paciencia para permitir que sus papilas gustativas cambien.
 
-Yo no soy muy disciplinado pero me conformo con saber que estoy comiendo mucho mejor que cuando no era vegano hace cinco años. No tengo de que quejarme en cuanto a mi propia salud, y si por alguna razón llego a tener algún problema relacionado con mi alimentación, puedo asesorarme para encontrar una solución que no implique volver a patrocinar tres veces al día la violencia contra los animales. No encuentro ninguna lógica en la idea de que incluir cadáveres y secreciones en mi dieta va a mejorar mi salud. Todo lo contrario.
+Yo no soy muy disciplinado pero me conformo con saber que estoy comiendo mucho mejor que cuando no era vegano antes de octubre de 2015. No tengo de que quejarme en cuanto a mi propia salud, y si por alguna razón llego a tener algún problema relacionado con mi alimentación, puedo asesorarme para encontrar una solución que no implique volver a patrocinar tres veces al día la violencia contra los animales. No encuentro ninguna lógica en la idea de que incluir cadáveres y secreciones en mi dieta va a mejorar mi salud. Todo lo contrario.
 
 ### Referencias
 
