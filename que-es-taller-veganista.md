@@ -16,6 +16,6 @@ Es necesario visibilizar la situación de los animales en condición de explotac
 
 Publicamos lecciones sobre nutrición a base de plantas, las características de los animales víctimas de explotación, y las prácticas estándar que siguen quienes les explotan, además artículos y recetas veganas. También programamos eventos en Medellín, y eventualmente nos gustaría realizar acciones políticas para avanzar hacia un sistema de alimentación a base de plantas y la liberación animal.
 
-En este proyecto evitamos legitimar y promover el uso de plataformas de grandes conglomerados empresariales de _Silicon Valley,_ debido a que nos oponemos a sus modelos de negocio y prácticas inescrupulosas. No cambiamos tus derechos por nuestra conveniencia.
+En este proyecto evitamos legitimar y promover el uso de plataformas de grandes conglomerados empresariales de _Silicon Valley,_ debido a que nos oponemos a sus modelos de negocio y prácticas inescrupulosas. Tratamos de no cambiar derechos por conveniencia.
 
 Esperamos que el contenido sea útil y agradecemos la atención.
