@@ -6,14 +6,14 @@ tags:
 title: Veganismo
 category: lesson
 date: 2020-12-07
-excerpt: Qué es veganismo y cuál es el origen de esta ideología y práctica
+excerpt: Diferencias entre liberación animal y veganismo, qué es veganismo y cuál es el origen de esta ideología y práctica
 recipe-introduction: Revisa los ingredientes que necesitarás y las preparaciones previas
   antes de empezar las recetas. Hoy presentamos dos opciones para desayunos.
 author: Alejandro Narváez Isaza
 image: "/assets/images/lessons/leccion-01-veganismo-square.jpg"
 alt-image: Ternero descansando cómodamente, y retratos de fundadores y fundadoras de la Sociedad Vegana.
 permalink: "/leccion-veganismo/"
-description: 'Qué es veganismo y cuál es el origen de esta ideología y práctica'
+description: Diferencias entre liberación animal y veganismo, qué es veganismo y cuál es el origen de esta ideología y práctica
 
 ---
 Antes de leer este artículo, recomiendo leer [¿Por qué liberación animal?](/por-qué-liberación-animal/){:class="link"}
@@ -30,7 +30,7 @@ También hay que tener en cuenta que en la mayoría de los casos, la práctica d
 
 No se cuáles podrían ser las razones por las que tantas personas y organizaciones se dedican a la promoción del veganismo como base moral y única estrategia para alcanzar la liberación animal, pero creo que tiene que ver con que tanto el origen del concepto moderno de veganismo, como el de la mayoría de estas organizaciónes, está en Norteamérica y Europa, en países con culturas en donde el individualismo y la ideología capitalista están arraigados más profundamente que en la nuestra. Para alguien que cree en el capitalismo, la explotación y violencia sistemática contra animales no humanos únicamente se puede entender como un problema de oferta y demanda. A esta circunstancia se suma que es posible que una postura anticapitalista no sea muy amigable para empresas y personas adineradas que podrían ser una fuente de financiación para dichas organizaciones.
 
-Si pensamos en una transición hacia un sistema de alimentación y producción a base de plantas, y liberación animal, el objetivo parecería más plausible desde las acciones colectivas, y como parte de la agenda de un movimiento social fuerte con capacidad adquirir suficiente poder popular, mediático y político como para generar cambios estructurales. Sin embargo, solidarizarse con los animales desde los hábitos de vida es valioso en cuanto a que podemos demostrar con nuestras vidas que las cosas pueden ser diferentes, manifestamos con nuestras acciones que así las industrias de explotación animal cuenten con la mayoría, con nosotros no cuentan. También al respaldar nuestra ideología con nuestros hábitos de vida, en la mayoría de los casos nos interesamos más en cuestionar y profundizar en el conocimiento de las diferentes ideas que la componen y temas relacionados, mientras que una ideología que se asume sin comprometer las acciones cotidianas, puede terminar como un interés al que no se le otorga mucha relevancia.
+Si pensamos en una transición hacia un sistema de alimentación y producción a base de plantas, y liberación animal, el objetivo parecería más plausible desde las acciones colectivas, y como parte de la agenda de un movimiento social fuerte con capacidad para adquirir suficiente poder popular, mediático y político como para generar cambios estructurales. Sin embargo, solidarizarse con los animales desde los hábitos de vida es valioso en cuanto a que podemos demostrar con nuestras vidas que las cosas pueden ser diferentes, manifestamos con nuestras acciones que así las industrias de explotación animal cuenten con la mayoría, con nosotros no cuentan. También al respaldar nuestra ideología con nuestros hábitos de vida, en la mayoría de los casos nos interesamos más en cuestionar y profundizar en el conocimiento de las diferentes ideas que la componen y temas relacionados, mientras que una ideología que se asume sin comprometer las acciones cotidianas, puede terminar como un interés al que no se le otorga mucha relevancia.
 
 Debo reiterar que no estoy tratando de manipular emocionalmente a nadie para que practique el veganismo, porque considero que es una desición que cada cual debe tomar a partir del conocimiento, sin presiones, que no debería ser requisito para que alguien que quiera apoyar la causa de la liberación animal pueda hacerlo, y que lastimosamente no tiene consecuencias medibles. No quiero vender el veganismo como quien vende un carro viejo o un disco rayado, minimizando sus limitaciones y exagerando sus beneficios, pero sí debo recomendar que a quien le llame la atención le de una oportunidad. Es una de las pocas ocasiones en las que se pueden alinear los valores con los hábitos de vida, lo que resulta empoderador y forja el carácter. Además una dieta a base de plantas bien llevada, que en mi caso ha sido únicamente comer variado y bastante además de suplementarme de vitamina B12, ha sido beneficioso para mi salud, lo que ha mejorado considerablemente mi calidad de vida.
 
