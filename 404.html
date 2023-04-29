@@ -1,34 +1,10 @@
 ---
 permalink: /404.html
-layout: basic-structure
+layout: home-landing
+header-heading: Ahora somos Animales Libres
+header-button: animaleslibres.com
+description: Oponerse a la explotación es luchar por una sociedad justa. Acá está toda la información que necesitas para unirte a la lucha por la liberación colectiva, desde tus hábitos de vida y tu participación ciudadana.
 ---
-{% include header.html %}
 
-<!-- content -->
-<div class="four-zero-four" uk-scrollspy="cls: uk-animation-fade; delay: 100">
-  <!-- wrapper -->
-  <div class="wrapper container-fluid">
-    <!-- row -->
-    <div class="row center-xs">
-      <!-- col -->
-      <div class="col-xs-12 col-sm-8 col-lg-6">
-        <a href="/">
-          <figure>
-            <img src="{{ "/assets/images/404/pegasus-unicorn.png" | relative_url }}" alt="">
-          </figure>
-        </a>
-      </div>
-      <!-- col end -->
-      <!-- col -->
-      <div class="col-xs-12">
-        <h1>404</h1>
-        <p>Esta página no existe.</p>
-        <a class="button brand-background button-big button-wide-xs" href="/">Vuelve al inicio</a>
-      </div>
-      <!-- col end -->
-    </div>
-    <!-- row end -->
-  </div>
-  <!-- wrapper end -->
-</div>
-<!-- content-end -->
+{% include header-home-landing.html %}
+{% include smallchat.html %}

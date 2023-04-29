@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="4px" height="4px" viewBox="0 0 4 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/triangle-up</title>
-    <g id="icons/triangle-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="4" height="4"></rect>
-        <polygon id="triangle-up" fill="#000000" fill-rule="nonzero" points="0 3.25 4 3.25 2 1"></polygon>
-    </g>
-</svg>

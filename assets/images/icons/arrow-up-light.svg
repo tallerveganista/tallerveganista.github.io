@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/arrow-up-light</title>
-    <g id="icons/arrow-up-light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
-        <polygon id="up-light" fill="#000000" fill-rule="nonzero" points="15.719 0 4 13.183 4.747 13.847 15.22 2.067 15.22 31.952 16.219 31.952 16.219 2.067 26.691 13.847 27.438 13.183"></polygon>
-    </g>
-</svg>

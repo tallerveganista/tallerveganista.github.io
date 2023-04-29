@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/mail-round</title>
-    <g id="icons/mail-round" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
-        <path d="M2,26 L2,6.974 L14.603,16.215 C15.001,16.507 15.5,16.653 16,16.653 C16.5,16.653 17,16.507 17.398,16.215 L30,6.974 L30,26 L2,26 Z M27.945,6 L16.216,14.602 C16.123,14.67 15.877,14.67 15.785,14.602 L4.055,6 L27.945,6 Z M30,4 L2,4 C0.897,4 0,4.897 0,6 L0,26 C0,27.103 0.897,28 2,28 L30,28 C31.103,28 32,27.103 32,26 L32,6 C32,4.897 31.103,4 30,4 L30,4 Z" id="mail-round" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

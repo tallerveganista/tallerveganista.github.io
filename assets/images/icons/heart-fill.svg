@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/heart-fill</title>
-    <g id="icons/heart-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
-        <path d="M29.4083,4.5622 C27.7573,2.9102 25.6253,2.0002 23.4073,2.0002 C20.5173,2.0002 17.8073,3.5382 16.0003,6.1602 C14.1933,3.5382 11.4823,2.0002 8.5933,2.0002 C6.3743,2.0002 4.2423,2.9102 2.5903,4.5622 C1.4793,5.6742 -0.3297,8.1152 0.0523,11.9682 C0.4543,16.0272 3.4913,22.5702 15.6723,30.6902 C15.7713,30.7562 15.8853,30.7902 16.0003,30.7902 C16.1153,30.7902 16.2283,30.7582 16.3293,30.6902 C28.5113,22.5682 31.5463,16.0272 31.9483,11.9682 C32.3293,8.1152 30.5213,5.6742 29.4083,4.5622" id="Fill-1" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

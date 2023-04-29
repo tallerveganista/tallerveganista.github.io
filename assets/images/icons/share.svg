@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/share</title>
-    <g id="icons/share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
-        <path d="M30.011,18.937 L30.011,28.875 C30.011,29.426 29.563,29.875 29.011,29.875 L3,29.875 C2.449,29.875 2,29.426 2,28.875 L2,2.999 C2,2.448 2.449,2 3,2 L15.948,2 L15.948,0 L3,0 C1.346,0 0,1.345 0,2.999 L0,28.875 C0,30.529 1.346,31.875 3,31.875 L29.011,31.875 C30.665,31.875 32.011,30.529 32.011,28.875 L32.011,18.937 L30.011,18.937 Z" id="Fill-1" fill="#000000" fill-rule="nonzero"></path>
-        <path d="M24.625,6.919 C17.112,6.919 11,13.031 11,20.544 L13,20.544 C13,14.134 18.215,8.919 24.625,8.919 L26.694,8.919 L23.842,11.461 L25.172,12.954 L30.76,7.977 L25.172,3 L23.842,4.493 L26.564,6.919 L24.625,6.919 Z" id="Fill-4" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

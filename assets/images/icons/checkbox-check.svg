@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/checkbox-check</title>
-    <g id="icons/checkbox-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="8" height="8"></rect>
-        <polygon id="checkbox-check" fill="#000000" fill-rule="nonzero" points="5.98025999 2 3.38613385 4.59412614 2.0211844 3.23062109 1 4.25180549 3.38613385 6.63649494 7 3.01974001"></polygon>
-    </g>
-</svg>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/arrow-left</title>
-    <g id="icons/arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
-        <polygon id="arrow-left" fill="#000000" fill-rule="nonzero" points="13.113 4 0 15.657 13.113 27.314 14.442 25.819 4.135 16.657 31.505 16.657 31.505 14.657 4.135 14.657 14.442 5.495"></polygon>
-    </g>
-</svg>

@@ -1248,6 +1248,21 @@ footer{
   }
 }
 
+// landing
+
+.index-header-landing{
+  background-image: url(../images/animales-libres-landing-fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  & .content-box{
+    height: 100vh;
+    & h1{
+      margin-bottom: 1rem;
+    }
+  }
+}
+
 // Smallchat
 
 #Smallchat{

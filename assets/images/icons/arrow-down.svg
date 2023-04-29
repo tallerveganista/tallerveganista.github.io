@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icons/arrow-down</title>
-    <g id="icons/arrow-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
-        <polygon id="down" fill="#000000" fill-rule="nonzero" points="14.657 7.10542736e-15 14.657 27.37 5.495 17.063 4 18.392 15.657 31.505 27.314 18.392 25.819 17.063 16.657 27.37 16.657 7.10542736e-15"></polygon>
-    </g>
-</svg>
